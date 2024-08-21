@@ -1,50 +1,141 @@
-# COURSE PROJECT  - SW53
-<p align="center">
-    <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
-    <strong>Ingeniería de Software</strong><br>
-    <strong>Desarrollo de Aplicaciones Open Source - SW53</strong><br>
-    <strong>Profesor: Hugo Allan Mori Paiva</strong><br>
-    <br>INFORME
-</p>
-<p align="center">
-    <strong>Startup: StudentConnect</strong><br>
-    <strong>Producto: GoUni </strong>
-</p>
+# Capítulo IV: Product Design
+En este capítulo .
 
-<div>
-    <h3 align="center">Team Members:</h3>
-</div>
+## 4.1. Style Guidelines.
+En esta sección .
 
-<div align="center">
-     <table>
-        <tr>
-            <th style="text-align:center;">Member</th>
-            <th style="text-align:center;">Code</th>
-        </tr>
-        <tr>
-            <td>Anampa Lavado, Luis Angel</td>
-            <td>u202218664</td>
-        </tr>
-        <tr>
-            <td>David Polanco, Alessandro</td>
-            <td> u202122232</td>
-        </tr>
-        <tr>
-            <td>Mallma Espiritu , Franky Oswald	</td>
-            <td>u20211c250</td>
-        </tr>
-        <tr>
-            <td>Talizo Balbin, Joan Jefferson</td>
-            <td>u202223781</td>
-        </tr>
-        <tr>
-            <td>Valera Garcés, Samuel Ignacio</td>
-            <td>u202111952</td>
-        </tr>
-    </table>
-</div>
+### 4.1.1. General Style Guidelines.
+### Historia de la marca
+### Misión
+.
 
-<p align="center">
-    <strong>Agosto 2024</strong>
-</p>
+### Visión
+.
+
+### Brand Name
+.
+
+### Colores
+.
+
+
+### Tipografía
+.
+<
+
+
+
+### Espaciado
+.
+
+Tamaño de letra:
+
+Interlineado:
+.
+
+### 4.1.2. Web Style Guidelines.
+.
+
+## 4.2. Information Architecture.
+.
+<hr>
+
+### 4.2.1. Organization System.
+
+.
+
+### 4.2.2. Labeling System.
+
+.
+
+### Etiquetas:
+
+
+<br>
+
+
+
+### 4.2.3. SEO Tags and Meta Tags.
+
+.
+
+### Para la landing page.
+
+
+
+
+
+### 4.2.4. Searching Systems.
+
+.
+
+
+
+### 4.2.5. Navigation Systems.
+.
+
+## 4.3. Landing Page UI Design.
+<hr>
+
+### 4.3.1. Landing Page Wireframe.
+
+Versión Desktop:
+
+
+Versión Mobile:
+
+
+
+### 4.3.2. Landing Page Mockup.
+Enlace a la mockup de la Landing Page en Figma:
+
+Versión Mobile:
+
+
+
+## 4.4. Web Applications UX/UI Design
+.
+
+### 4.4.1. Web Applications Wireframes
+.
+
+### 4.4.2. Web Applications Wireflow Diagrams
+
+Enlace a traves de la herramienta LucidChart:
+
+.
+
+### 4.4.3. Web Applications Mock-ups
+.
+
+### Mock-ups versión Desktop:
+#### Mock-ups de la página principal
+
+
+Enlace a la mockup de la App Web en Figma:
+
+### 4.4.4 Web Applications User Flow Diagrams.
+
+Enlace de los User Flow Diagrams en LucidChart:
+
+
+
+
+## 4.5. Web Applications Prototyping.
+<hr>
+
+
+### 4.6.3. Software Architecture Component Diagram.
+
+
+
+## 4.7. Software Object-Oriented Design
+### 4.7.1. Class Diagrams
+
+### 4.7.2. Class Dictionary
+<hr>
+<br>
+
+## 4.8. Database Design
+
+### 4.8.1. Database Diagram
