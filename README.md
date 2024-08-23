@@ -219,6 +219,54 @@ Aspiramos a ser líderes en movilidad estudiantil, reconocidos por nuestro compr
 #### [**1.2.2.4. Lean UX Canvas.**](#lean-ux-canvas)
 ## [**1.3. Segmentos objetivo.**](#segmentos-objetivo)
 
+Por medio de nuestro enfoque de obtener una solución efectiva a las problemáticas de nuestros futuros usuarios, identificamos los siguientes segmentos para GoUni:
+
+**Segmento objetivo #1: Estudiantes Universitarios que necesiten movilizarse.**
+
+Aspectos demográficos:
+
+- Sexo: masculino y femenino
+
+- Edades: adultos entre 18 - 30 años
+
+- Nivel socioeconómico: Clases B, C, D (media-baja, baja)
+
+Aspectos geográficos:
+
+- Nacionalidad: Peruana
+
+- Zona geográfica en la que vive: Urbana
+
+- Departamento: Lima Metropolitana
+
+Aspectos psicográficos:
+
+- Abiertos a herramientas que les ayuden a simplificar y facilitar su viaje.
+
+- Son hábiles dentro del uso de dispositivos inteligentes.
+
+**Segmento objetivo #2: Estudiantes Universitarios propetarios de un vehiculo privado.**
+
+AAspectos demográficos:
+
+- Sexo: masculino y femenino
+
+- Edades: adultos entre 18 - 30 años
+
+- Nivel socioeconómico: clases A, C, C (alta, media-alta y media)
+
+Aspectos geográficos:
+
+- Nacionalidad: Peruana
+
+- Zona geográfica en la que vive: Urbana
+
+- Departamento: Lima Metropolitana
+
+Aspectos psicográficos:
+
+- Son hábiles dentro del uso de dispositivos inteligentes.
+
 # [**Capítulo II: Requirements Elicitation \& Analysis**](#capítulo-ii-requirements-elicitation--analysis)
 ## [**2.1. Competidores.**](#competidores)
 ### [**2.1.1. Análisis competitivo.**](#análisis-competitivo)
