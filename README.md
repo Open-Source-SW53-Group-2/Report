@@ -190,17 +190,17 @@ Aspiramos a ser líderes en movilidad estudiantil, reconocidos por nuestro compr
   
    <tr>
     <td><img src="/images/profile/talizo.png" width="100" height="100"></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td><img src="" width="100" height="100"></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td><img src="./assets/images/profiles/TalizoBalbin_Joan.png" width="140" height="140"></td>
     <td>Mi nombre es Joan Talizo Balbin.</td>
-  </tr>
-
-  <tr>
-    <td><img src="" width="100" height="100"></td>
-    <td></td>
-  </tr>
-
-  <tr>
-    <td><img src="" width="100" height="100"></td>
-    <td></td>
   </tr>
 
   <tr>
