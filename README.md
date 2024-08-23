@@ -310,6 +310,62 @@ Existe una brecha en el mercado de transporte compartido específico para estudi
 Crear una plataforma de carpooling diseñada específicamente para estudiantes universitarios que permita una conexión efectiva entre compañeros de viaje con horarios y rutas compatibles. La plataforma debe abordar el estrés y la inseguridad relacionados con el transporte, al mismo tiempo que ofrece una solución económica y eficiente para los estudiantes que desean compartir sus viajes y reducir costos.
 
 #### [**1.2.2.2. Lean UX Assumptions.**](#lean-ux-assumptions)
+
+
+Los supuestos, o "assumptions" en inglés, desempeñan un papel crucial en la identificación de los riesgos del proyecto y en estimular la expresión de opiniones y la participación activa del equipo de trabajo.
+
+User Assumptions:
+
+¿Quién es el usuario?
+
+- El usuario es cualquier estudiante universitario interesado en tener una forma de movilizarse de manera más rápida, segura y eficiente hacia su universidad.
+
+¿Dónde encaja nuestro producto en su trabajo o vida?
+
+- Nuestro producto encaja en la vida cotidiana de los usuarios, proporcionándoles una solución eficiente y accesible para su transporte diario hacia la universidad, ayudándoles a evitar el estrés, el riesgo de robos, la fatiga debido a autobuses abarrotados, y los costos elevados de transporte.
+
+¿Qué problemas tiene que resolver nuestro producto?
+
+- Nuestro producto debe resolver los problemas de ineficiencia en los desplazamientos, incompatibilidad de horarios entre compañeros de viaje, y baja ocupación de vehículos que limitan la efectividad del carpooling. Además, debe asegurar una reducción en los costos de transporte y mejorar la experiencia general de los estudiantes.
+
+¿Cuándo y cómo es nuestro producto usado?
+
+- El producto es utilizado diariamente por los estudiantes cuando necesitan trasladarse hacia y desde la universidad. Es usado para coordinar viajes compartidos, encontrando compañeros de viaje con rutas y horarios compatibles.
+
+¿Cómo debe verse nuestro producto y cómo comportarse?
+
+- El producto debe ser intuitivo y fácil de usar, con una interfaz que permita a los usuarios coordinar y planificar sus viajes de manera eficiente. Debe comportarse de manera fiable, asegurando que los estudiantes encuentren compañeros de viaje rápidamente y que puedan completar sus trayectos de forma segura y económica.
+
+#### User Assumptions:
+
+¿Quién es el usuario?
+
+@@ -328,9 +328,33 @@ User Assumptions:
+
+- El producto debe ser intuitivo y fácil de usar, con una interfaz que permita a los usuarios coordinar y planificar sus viajes de manera eficiente. Debe comportarse de manera fiable, asegurando que los estudiantes encuentren compañeros de viaje rápidamente y que puedan completar sus trayectos de forma segura y económica.
+
+#### Business Assumptions
+
+- Creemos que nuestros clientes necesitan una plataforma que les permita coordinar y compartir viajes hacia la universidad de manera segura, eficiente, y económica. Los estudiantes buscan reducir los costos y tiempos de viaje, además de minimizar el estrés asociado con el transporte diario.
+
+- Estas necesidades se pueden resolver con una aplicación móvil que conecte a estudiantes universitarios, permitiéndoles compartir viajes en auto, reducir gastos de transporte, y mejorar su experiencia diaria al desplazarse hacia y desde la universidad.
+
+**El valor #1 que mi cliente quiere de mi servicio**
+
+- **Para los estudiantes que ofrecen transporte:** Una plataforma que les permita llenar los asientos vacíos en sus vehículos, optimizando el costo y maximizando la eficiencia de sus viajes diarios.
+
+- **Para los estudiantes que buscan transporte:** Un medio seguro y económico para llegar a la universidad, reduciendo el tiempo de viaje y el estrés de utilizar transporte público abarrotado.
+
+- **Para las universidades:** Una solución que ayude a reducir la congestión vehicular y el impacto ambiental, promoviendo una forma más sostenible de transporte para sus estudiantes.
+
+El cliente también puede obtener beneficios adicionales como:
+
+- **Networking Estudiantil:** La oportunidad de conectar con otros estudiantes de su universidad, creando una red social y académica que podría enriquecer su experiencia universitaria.
+
+- **Incentivos y Recompensas:** Los usuarios frecuentes pueden acceder a descuentos, promociones especiales, o recompensas por su participación en el sistema de carpooling.
+
+- **Feedback y Mejora Continua:** Los usuarios pueden dar y recibir retroalimentación sobre los viajes, lo que ayuda a mejorar la calidad del servicio y asegurar una experiencia positiva para todos los involucrados.
+
 #### [**1.2.2.3. Lean UX Hypothesis Statements.**](#lean-ux-hypothesis-statements)
 #### [**1.2.2.4. Lean UX Canvas.**](#lean-ux-canvas)
 ## [**1.3. Segmentos objetivo.**](#segmentos-objetivo)
