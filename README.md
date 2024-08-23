@@ -177,6 +177,39 @@ Nuestra misión es facilitar el transporte universitario a través de una plataf
 Aspiramos a ser líderes en movilidad estudiantil, reconocidos por nuestro compromiso con la sostenibilidad, la eficiencia y la satisfacción de nuestros usuarios, proporcionando una experiencia de transporte innovadora y socialmente responsable para estudiantes del Perú.
 
 ### [**1.1.2.  Perfiles de los integrantes del equipo.**](#perfiles-de-los-integrantes-del-equipo)
+
+<table>
+  <tr>
+    <th>Miembros del equipo</th>
+    <th>Descripción</th>
+  </tr>
+  <tr>
+    <td><img src="/images/angel.jpg" alt="" width="100" height="100"></td>
+    <td>Mi nombre es Angel Anampa y tengo 19 años. Actualmente estoy cursando la carrera de Ingeniería de Software en la UPC. Elegí dicha carrera porque soy una persona que le interesa mucho los temas que tienen que ver con tecnología , me gustan los videojuegos. Me considero una persona atenta, responsable , optimista que sabe solucionar los problemas. Como integrante del equipo me comprometo a apoyar al grupo en este trabajo.</td>
+  </tr>
+
+   <tr>
+    <td><img src="" width="100" height="100"></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td><img src="" width="100" height="100"></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td><img src="" width="100" height="100"></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td><img src="" width="100" height="100"></td>
+    <td></td>
+  </tr>
+
+</table>
+
 ## [**1.2. Solution Profile.**](#solution-profile)
 ### [**1.2.1. Antecedentes y Problemática.**](#antecedentes-y-problemática)
 ### [**1.2.2. Lean UX Process.**](#lean-ux-process)
