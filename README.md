@@ -57,3 +57,19 @@
 |||||
 |||||
 |||||
+
+
+**Project Report Collaboration Insights**
+URL del repositorio de GitHub de la organización: https://github.com/Open-Source-SW53-Group-2
+
+_TB1_
+
+Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la siguiente forma
+
+|Integrante|Actvidades Asignadas|
+|----------|----------|
+| | |
+| | |
+| | |
+| | |
+| | |
