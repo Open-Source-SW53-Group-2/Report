@@ -367,6 +367,15 @@ El cliente también puede obtener beneficios adicionales como:
 - **Feedback y Mejora Continua:** Los usuarios pueden dar y recibir retroalimentación sobre los viajes, lo que ayuda a mejorar la calidad del servicio y asegurar una experiencia positiva para todos los involucrados.
 
 #### [**1.2.2.3. Lean UX Hypothesis Statements.**](#lean-ux-hypothesis-statements)
+
+**Creemos que** al simplificar el proceso de registro y la verificación de usuarios en nuestra plataforma, aumentaremos la tasa de conversión de nuevos estudiantes que se inscriben para usar el servicio de carpooling. Sabremos que hemos tenido éxito cuando observemos un aumento significativo en el número de cuentas activas en los primeros 7 días después del lanzamiento.
+
+**Creemos que** al ofrecer una sección destacada para los “Viajes Más Populares de la Semana”, aumentaremos la participación de los estudiantes en la plataforma. Sabremos que hemos tenido éxito cuando observemos un aumento en las visitas a esta sección y una mayor interacción con los viajes destacados.
+
+**Creemos que** al proporcionar métricas claras sobre la eficiencia de los viajes (como ahorro de tiempo y dinero), motivaremos a más estudiantes a utilizar nuestro servicio de manera regular. Sabremos que hemos tenido éxito cuando veamos un aumento en la frecuencia de uso del servicio y una mayor satisfacción de los usuarios.
+
+**Creemos que** al incorporar un sistema de recompensas para conductores y pasajeros frecuentes, aumentaremos la retención de usuarios y generaremos un uso más constante de la plataforma. Sabremos que hemos tenido éxito cuando observemos un aumento en la lealtad de los usuarios y una mayor participación activa en la plataforma.
+
 #### [**1.2.2.4. Lean UX Canvas.**](#lean-ux-canvas)
 ## [**1.3. Segmentos objetivo.**](#segmentos-objetivo)
 
