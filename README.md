@@ -377,6 +377,125 @@ El cliente también puede obtener beneficios adicionales como:
 **Creemos que** al incorporar un sistema de recompensas para conductores y pasajeros frecuentes, aumentaremos la retención de usuarios y generaremos un uso más constante de la plataforma. Sabremos que hemos tenido éxito cuando observemos un aumento en la lealtad de los usuarios y una mayor participación activa en la plataforma.
 
 #### [**1.2.2.4. Lean UX Canvas.**](#lean-ux-canvas)
+
+
+<table>
+	<TR>
+		<TD ROWSPAN=2>
+Lean UX Canvas
+
+</TD>
+	    	<TD ROWSPAN=2></TD> <TD>
+Fecha: 20/08/2024
+
+</TD> 
+	</TR>
+	<TR>
+		<TD>
+Iteración 1
+
+</TD> 
+	</TR>
+    <TR>
+		<TD ROWSPAN>
+1. Business Problem:
+
+- La falta de un sistema eficiente y confiable que conecte a los estudiantes universitarios que necesitan compartir transporte hacia la universidad. Aunque existen alternativas de transporte público y privado, los estudiantes enfrentan problemas como el tráfico, el costo elevado, la inseguridad y la pérdida de tiempo. Además, la falta de una solución que optimice el uso de vehículos privados entre estudiantes afecta la movilidad y la sostenibilidad.
+
+</TD>
+	    	<TD ROWSPAN=2>
+5. Solutions:
+
+- **Plataforma de Carpooling:** Sistema que permita a los estudiantes ofrecer y encontrar viajes compartidos hacia la universidad.
+- 
+- **Verificación de Usuarios:** Proceso de verificación para garantizar la seguridad y confianza entre los usuarios.
+- 
+- **Sistema de Recompensas:** Incentivos para conductores y pasajeros frecuentes.
+- 
+- **Funcionalidad de Chat:** Herramienta de comunicación directa entre conductores y pasajeros para coordinar detalles del viaje.
+
+- **Integración de Rutas:** Sincronización con aplicaciones de mapas para optimizar las rutas y tiempos de viaje.
+
+- **Notificaciones en Tiempo Real:** Alertas sobre cambios en la ruta o disponibilidad de viajes.
+
+</TD> <TD ROWSPAN=2>
+2. Business Outcomes:
+
+- Aumento en el número de usuarios activos y viajes compartidos realizados.
+- 
+- Reducción de costos de transporte para los estudiantes.
+
+- Mejora en la eficiencia y sostenibilidad del transporte universitario.
+
+- Reconocimiento y adopción de la plataforma como la opción preferida para el carpooling entre estudiantes universitarios.
+</TD> 
+	</TR>
+	<TR>
+		<TD >
+3. Users:
+
+- Los usuarios principales de la plataforma serán estudiantes universitarios que buscan una alternativa de transporte más económica, segura y conveniente para llegar a sus campus.
+
+- También incluye a los conductores que desean compartir sus vehículos para reducir costos y contribuir a una movilidad más sostenible. Además, las universidades podrían ser clientes interesados en promover el uso de la plataforma entre sus estudiantes.
+
+</TD> 
+	</TR>
+    <TR>
+		<TD ROWSPAN=2>
+6. Hypotheses:
+
+- Creemos que al simplificar el proceso de registro y la verificación de usuarios en nuestra plataforma, aumentaremos la tasa de conversión de nuevos estudiantes.
+Sabremos que hemos tenido éxito cuando observemos un aumento significativo en el número de cuentas activas en los primeros 7 días después del lanzamiento.*
+
+- Creemos que al implementar una función de mensajería entre conductores y pasajeros, mejoraremos la coordinación y la confianza en nuestra plataforma.
+Sabremos que hemos tenido éxito cuando veamos un aumento en la cantidad de viajes compartidos realizados y una mayor retención de usuarios activos.*
+
+- Creemos que al ofrecer una sección destacada para los “Viajes Más Populares de la Semana”, aumentaremos la participación de los estudiantes en la plataforma.
+Sabremos que hemos tenido éxito cuando observemos un aumento en las visitas a esta sección y una mayor interacción con los viajes destacados.*
+
+- Creemos que al proporcionar métricas claras sobre la eficiencia de los viajes, motivaremos a más estudiantes a utilizar nuestro servicio de manera regular.
+Sabremos que hemos tenido éxito cuando veamos un aumento en la frecuencia de uso del servicio y una mayor satisfacción de los usuarios.*
+
+- Creemos que al incorporar un sistema de recompensas para conductores y pasajeros frecuentes, aumentaremos la retención de usuarios y generaremos un uso más constante de la plataforma.Sabremos que hemos tenido éxito cuando observemos un aumento en la lealtad de los usuarios y una mayor participación activa en la plataforma.*
+
+</TD>
+<TD ROWSPAN=2>
+7. ¿What's the most important  thing we need to learn first?
+
+- Conocer a fondo las necesidades y comportamientos de los estudiantes en relación con sus hábitos de transporte y carpooling.
+
+- Evaluar la seguridad y confiabilidad del sistema de verificación de usuarios para fomentar la confianza en la plataforma.
+
+- Investigar las preferencias y expectativas de los usuarios potenciales en cuanto a funcionalidad, diseño y usabilidad de la plataforma.
+
+- Identificar las barreras que podrían impedir la adopción de la plataforma y cómo superarlas.
+
+- Comprender las mejores prácticas de carpooling y estudiar la competencia para encontrar puntos de diferenciación.
+
+</TD> 
+<TD>
+4. User Outcomes & Benefits:
+
+- **Estudiantes:** Ahorro de tiempo y dinero en sus desplazamientos diarios hacia la universidad, reducción del estrés asociado al transporte público y una mayor seguridad al viajar con compañeros de estudio.
+
+- **Conductores:** Reducción de costos operativos del vehículo mediante el compartir gastos con otros estudiantes y la posibilidad de contribuir a una movilidad más sostenible.
+
+- **Universidades:** Promoción de una solución de transporte más eficiente, segura y ecológica para sus estudiantes, lo que podría mejorar la calidad de vida en el campus.
+
+</TD> 
+	</TR>
+	<TR>
+		<TD>
+8. ¿What's the least amount of work we need  to do to learn the next most important thing?
+
+- Crear un prototipo funcional que permita a los estudiantes registrarse, verificar su identidad y comenzar a buscar o ofrecer viajes compartidos.
+Realizar pruebas con un grupo pequeño de usuarios para validar la usabilidad y efectividad del sistema de verificación de usuarios y la función de mensajería.
+Desarrollar un plan de marketing inicial para generar interés y adopción de la plataforma en una universidad piloto.
+Establecer un soporte básico al usuario para resolver consultas y problemas iniciales de manera rápida y efectiva.
+</TD> 
+	</TR>
+</table>
+
 ## [**1.3. Segmentos objetivo.**](#segmentos-objetivo)
 
 Por medio de nuestro enfoque de obtener una solución efectiva a las problemáticas de nuestros futuros usuarios, identificamos los siguientes segmentos para GoUni:
