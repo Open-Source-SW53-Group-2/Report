@@ -189,8 +189,14 @@ Aspiramos a ser líderes en movilidad estudiantil, reconocidos por nuestro compr
   </tr>
   
    <tr>
-    <td><img src="/images/profile/talizo.png" width="100" height="100"></td>
-    <td></td>
+    <td><img src="assets/images/profiles/AlessandroDavid.png" width="150" height="130"></td>
+    <td>Mi nombre es Alessandro David y tengo 21 años. Yo estoy cursando
+    la carrera de Ingenieria de Software en la UPC y ando en 7mo ciclo. Me gusto
+    demasiado mi eleccion referente a la carrera dado que me interesan mucho todos los temas
+    que tenga que ver con la tecnologia y las tendencias de este rubro. Me gusta leer libros de desarrollo
+    personal y tambien trenar y montar bicicleta. Me considero una persona empática, comprometida, y siempre atento 
+    a resolver cualquier problema que me concierna. Como integrante del grupo de Open Source me comprometo
+    a cooperar con todo lo asignado en el trabajo y apoyar a mis compañeros con cualquier duda que quieran absolver.</td>
   </tr>
 
   <tr>
