@@ -166,6 +166,15 @@ Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la sigui
 
 # [**Capítulo I: Introducción.**](#capítulo-i-introducción)
 ## [**1.1  Startup Profile.**](#startup-profile)
+
+GoUni es una startup fundada por un grupo de estudiantes universitarios con el objetivo de abordar las preocupaciones y desafíos que enfrentan los estudiantes universitarios al movilizarse. Ante las dificultades para acceder a un transporte cómodo y asequible, estamos desarrollando una plataforma innovadora que permite compartir viajes en vehículos particulares entre compañeros de universidad. Con UniGo, buscamos no solo ofrecer una alternativa económica y social al transporte público, sino también reducir la congestión vehicular y promover un uso más eficiente de los recursos. Nuestro equipo, apasionado por la tecnología y la sostenibilidad, está comprometido en brindar una solución de movilidad segura, conveniente y colaborativa para la comunidad estudiantil.
+
+### Misión: 
+Nuestra misión es facilitar el transporte universitario a través de una plataforma accesible y colaborativa que permita a los estudiantes compartir viajes de manera segura y económica, mejorando su experiencia de movilidad diaria.
+
+### Visión:
+Aspiramos a ser líderes en movilidad estudiantil, reconocidos por nuestro compromiso con la sostenibilidad, la eficiencia y la satisfacción de nuestros usuarios, proporcionando una experiencia de transporte innovadora y socialmente responsable para estudiantes del Perú.
+
 ### [**1.1.1. Descripción del startup.**](#descripción-del-startup)
 ### [**1.1.2.  Perfiles de los integrantes del equipo.**](#perfiles-de-los-integrantes-del-equipo)
 ## [**1.2. Solution Profile.**](#solution-profile)
