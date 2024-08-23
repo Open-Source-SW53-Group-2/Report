@@ -157,6 +157,12 @@ Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la sigui
       - [**5.2.1.7. Software Deployment Evidence for Sprint Review.**](#5217-software-deployment-evidence-for-sprint-review)
       - [**5.2.1.8. Team Collaboration Insights during Sprint.**](#5218-team-collaboration-insights-during-sprint)
 
+**Studen Outcome**
+
+|Criterio Especifico|Acciones Realizadas|Conclusiones|
+|-------------------|-------------------|------------|
+|Comunica oralmente sus <br>ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto eningeniería.|**Luis Anampa**<br>TB1:<br><br>**Alessandro David**<br>TB1:<br><br>**Franky Mallma**<br>TB1:<br><br>**Joan Talizo**<br>TB1:<br><br>**Samuel Valera**<br>TB1:<br>||
+|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del <br>desarrollo de un proyecto en ingeniería.|**Luis Anampa**<br>TB1:<br><br>**Alessandro David**<br>TB1:<br><br>**Franky Mallma**<br>TB1:<br><br>**Joan Talizo**<br>TB1:<br><br>**Samuel Valera**<br>TB1:<br>||
 
 # [**Capítulo I: Introducción.**](#capítulo-i-introducción)
 ## [**1.1  Startup Profile.**](#startup-profile)
