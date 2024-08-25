@@ -210,8 +210,10 @@ Aspiramos a ser líderes en movilidad estudiantil, reconocidos por nuestro compr
   </tr>
 
   <tr>
-    <td><img src="" width="100" height="100"></td>
-    <td></td>
+    <td><img src="./assets/images/profiles/FrankyMallma.png" width="140" height="140"></td>
+    <td>Estudiante universitario cursando la carrera de Ingeniería de Software. Soy una persona puntual y responsable 
+    en los trabajos de equipo. Poseo conocimientos en html , css y sql básico. Como parte del equipo mis capacidades resaltan más en la búsqueda de soluciones emergentes que se pueda dar a lo largo del proyecto.
+</td>
   </tr>
 
 </table>
