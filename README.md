@@ -23,20 +23,20 @@
         </div>
     <td colspan="1" valign="top" style="font-weight: bold;">
     BlaBlaCar
-    <div style="text-align: center; margin-top: 60px;">
-                <img src="Img" alt="Name1" width="60px">
+    <div style="text-align: center; margin-top: 20px;">
+                <img src="images/blablacar.png" alt="blablacar" width="100px">
         </div>
     </td>
     <td colspan="1" valign="top" style="font-weight: bold;">
       Urbvan
-      <div style="text-align: center; margin-top: 10px;">
-                <img src="Img2" alt="Name2" width="60px">
+      <div style="text-align: center; margin-top: 40px;">
+                <img src="images/urbvan.png" alt="urbvan" width="200px">
             </div>
       </td>
     <td colspan="1" valign="top" style="font-weight: bold;" >
       Yango
-      <div style="text-align: center; margin-top: 10px;">
-                <img src="Img3" alt="Tapas" width="60px">
+      <div style="text-align: center; margin-top: 20px;">
+                <img src="images/yango.png" alt="yango" width="610px">
             </div>
     </td>
   </tr>
@@ -151,14 +151,27 @@ precios competitivos y una plataforma fácil de usar.</td>
 </table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
-.
-- *Diferenciación de la plataforma:* .
 
-- *Comunidad activa:* .
-
-- *Marketing dirigido:* .
-
-- *Monetización creativa:* .
+- *Diferenciación de la plataforma:* GoUni se diferencia por ser una plataforma exclusiva para
+  estudiantes universitarios. El enfoque en la comunidad académica y
+  la seguridad brinda un entorno más cerrado y confiable en comparación con otras plataformas abiertas
+  al público general. Además, su misión de promover la sostenibilidad y la economía colaborativa
+  refuerza su atractivo para jóvenes conscientes del medio ambiente.
+####
+- *Comunidad activa:* Con GoUni queremos fomentar una comunidad de estudiantes comprometidos, creando
+  un entorno en el que los usuarios se sienten seguros viajando con personas de su misma universidad.
+  La cercanía entre los miembros de la comunidad facilita la interacción y genera confianza entre los
+  usuarios.
+####
+- *Marketing dirigido:* El marketing en GoUni quiere enfocarse en captar a estudiantes universitarios mediante
+  colaboraciones con universidades, eventos estudiantiles y promociones a través de redes sociales específicas
+  para jóvenes. Esta comunicación apela a la sostenibilidad, la seguridad y la economía colaborativa, factores
+  importantes para la comunidad estudiantil.
+####
+- *Monetización creativa:* La monetización de GoUni se basará en la compartición de costos entre estudiantes,
+  pero puede explorar modelos adicionales como suscripciones premium que pudean ofrecer beneficios exclusivos,
+  como rutas garantizadas o mayor seguridad. También podría implementar alianzas con marcas enfocadas en
+  estudiantes, generando ingresos adicionales a través de publicidad contextual o colaboraciones.
 
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
@@ -343,7 +356,7 @@ A continuación se pueden apreciar los User Task Matrix de los segmentos objetiv
     <tr>
         <td></td>
         <td colspan=2>
-            <b>Estudiantes Universitarios</b> </br>Segmento Objetivo: 
+            Segmento Objetivo: <br> <b>Estudiantes Universitarios</b> 
         </td>
     </tr>
     <tr>
@@ -359,57 +372,79 @@ A continuación se pueden apreciar los User Task Matrix de los segmentos objetiv
     </tr>
     <tr>
         <td>
-            .
+            Buscar compañeros disponibles en la app
         </td>
         <td>
-            High/ Medium / Low
+            High
         </td>
         <td>
-            High/ Medium / Low
-        </td>
-    </tr>
-    <tr>
-        <td>
-            .
-        </td>
-        <td>
-            .
-        </td>
-        <td>
-            .
+            High
         </td>
     </tr>
     <tr>
         <td>
-            .
+            Coordinar el punto de encuentro
         </td>
         <td>
-            .
+            Medium
         </td>
         <td>
-            .
-        </td>
-    </tr>
-    <tr>
-        <td>
-            .	
-        </td>
-        <td>
-            .
-        </td>
-        <td>
-            .
+            Medium
         </td>
     </tr>
     <tr>
         <td>
-            .
+            Realizar pagos a traves de la app
         </td>
         <td>
-            .
+            Medium
         </td>
         <td>
-            .
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Verificar la seguridad del conductor/compañeros	
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Calificar al conductor y el viaje
+        </td>
+        <td>
+            Low
+        </td>
+        <td>
+            Medium
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Planificar vaijes recurrentes
+        </td>
+        <td>
+            Medium
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Ser participe de promociones o descuentos
+        </td>
+        <td>
+            Low
+        </td>
+        <td>
+            Medium
         </td>
     </tr>
 </table>
@@ -426,7 +461,7 @@ A continuación se pueden apreciar los User Task Matrix de los segmentos objetiv
     <tr>
         <td></td>
         <td colspan=2>
-            <b>Propietarios de Vehiculos Privados</b> </br>Segmento Objetivo: 
+            Segmento Objetivo: <br> <b>Propietarios de Vehiculos Privados</b>  
         </td>
     </tr>
     <tr>
@@ -442,57 +477,79 @@ A continuación se pueden apreciar los User Task Matrix de los segmentos objetiv
     </tr>
     <tr>
         <td>
-            .
+            Publicar la disponibilidad del vehiculo
         </td>
         <td>
-            High/ Medium / Low
+            High
         </td>
         <td>
-            High/ Medium / Low
-        </td>
-    </tr>
-    <tr>
-        <td>
-            .
-        </td>
-        <td>
-            .
-        </td>
-        <td>
-            .
+            High
         </td>
     </tr>
     <tr>
         <td>
-            .
+            Aceptar solicitudes de pasajero
         </td>
         <td>
-            .
+            High
         </td>
         <td>
-            .
-        </td>
-    </tr>
-    <tr>
-        <td>
-            .	
-        </td>
-        <td>
-            .
-        </td>
-        <td>
-            .
+            High
         </td>
     </tr>
     <tr>
         <td>
-            .
+            Coordinar horarios y puntos de recogida
         </td>
         <td>
-            .
+            Medium
         </td>
         <td>
-            .
+            Medium
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Recibir pago de los pasajeros	
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Revisar la seguridad y confiabilidad del pasajero
+        </td>
+        <td>
+            Medium
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Calificar a los pasajero
+        </td>
+        <td>
+            Low
+        </td>
+        <td>
+            Medium
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Optimizar rutas para ahorrar tiempo y combustible
+        </td>
+        <td>
+            Medium
+        </td>
+        <td>
+            High
         </td>
     </tr>
 </table>
