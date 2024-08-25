@@ -19,7 +19,7 @@
         GoUni
         <br>
         <div style="text-align: center; margin-top: 10px;">
-                <img src="![logo_App.png](assets/images/logo_App.png)" alt="StartUp" width="60px">
+                <img src="images/gounilogo.jfif" alt="StartUp" width="100px">
         </div>
     <td colspan="1" valign="top" style="font-weight: bold;">
     BlaBlaCar
