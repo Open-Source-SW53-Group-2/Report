@@ -1,5 +1,22 @@
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
+### BlaBlaCar
+Es una plataforma global de ride-sharing que conecta conductores y pasajeros para 
+compartir viajes de media y larga distancia. Los usuarios pueden dividir los costos del viaje, 
+lo que hace que el transporte sea más económico y sostenible. BlaBlaCar fomenta la colaboración y 
+la optimización de recursos al reducir la cantidad de vehículos en la carretera.
+
+### Urbvan
+Es una plataforma de transporte privado en van que opera en rutas predefinidas, generalmente en áreas
+metropolitanas. Se enfoca en ofrecer una alternativa más eficiente y cómoda al transporte público, 
+brindando un servicio seguro y puntual a través de vehículos compartidos, pero con un enfoque de 
+calidad y confort para los usuarios.
+
+### Yango
+Es una aplicación internacional de ride-hailing que ofrece transporte bajo demanda con tarifas 
+competitivas y un enfoque en la facilidad de uso. Opera en diversas ciudades del mundo, brindando a 
+los usuarios una experiencia de transporte rápida, segura y accesible, con la opción de reservar y 
+pagar viajes directamente a través de la aplicación.
 
 ### 2.1.1. Análisis competitivo
 <table>
@@ -11,7 +28,8 @@
     <td colspan="5">Escriba en el recuadro la pregunta que busca responder o el objetivo de este análisis.</td>
   </tr>
   <tr>
-    <td colspan="5">.</td>
+    <td colspan="5">Este análisis se esta llevando a cabo para connotar las diferencias con las empresas competidoras y tomar sus amenazas
+    como nuevas oportunidades en nuestro producto para poder innovar.</td>
   </tr>
   <tr>
     <td colspan="3">(En la cabecera colocar por cada competidor nombre y logo)</td>
@@ -532,7 +550,7 @@ A continuación se pueden apreciar los User Task Matrix de los segmentos objetiv
     </tr>
     <tr>
         <td>
-            Calificar a los pasajero
+            Calificar a los pasajeros
         </td>
         <td>
             Low
@@ -561,6 +579,8 @@ A continuación se pueden apreciar los User Task Matrix de los segmentos objetiv
 A continuación se pueden apreciar los User Journey Mapping de los segmentos objetivos.
 
 *Estudiantes Universitarios*
+
+
 
 *Propietarios de Vehiculos Privados*
 
