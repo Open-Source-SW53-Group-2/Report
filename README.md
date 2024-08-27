@@ -200,8 +200,9 @@ Aspiramos a ser líderes en movilidad estudiantil, reconocidos por nuestro compr
   </tr>
 
   <tr>
-    <td><img src="" width="100" height="100"></td>
-    <td></td>
+    <td><img src="/assets/images/profiles/Valera_Samuel.png" width="100" height="100"></td>
+    <td>Hola, mi nombre es Samuel, estudiante de la carrera de Ingeniería de software. Me considero una persona responsable, empática y con adaptación rápida al trabajo en equipo. Cuento con conocimiento en C++, HTML, Git hub, Java, Python y SQL. Mi objetivo a futuro es utilizar la tecnología para el desarrollo de aplicaciones que necesite la sociedad en el día a 
+        día. En mis tiempos libres, me gusta practicar guitarra y leer.</td>
   </tr>
 
   <tr>
