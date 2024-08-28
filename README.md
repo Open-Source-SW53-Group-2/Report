@@ -238,7 +238,7 @@ realizar las preguntas a los diferentes segmntos objetivos
 
 ### 2.2.2 Registro de entrevistas.
 
-*Segmento 1:*
+*Segmento 1: Estudiantes Universitarios*
 
 *Entrevista 1:*
 
@@ -273,7 +273,7 @@ Resumen de la entrevista:
 
 <br>
 
-*Segmento 2:*
+*Segmento 2: Estudiantes universitarios propietarios de vehiculos privados*
 
 *Entrevista 1:*
 
@@ -322,11 +322,17 @@ Resumen de la entrevista:
 
 <TD align=center>
 
-*Segmento1*</TD>
+*Segmento1*
+<br>
+*Estudiantes universitarios*
+</TD>
 
 <TD align=center>
 
-*Segmento2*</TD>
+*Segmento2*
+<br>
+*Estudiantes universitarios propietarios de vehiculos privados*
+</TD>
 
    </TR>
 	<TR>
@@ -511,7 +517,7 @@ A continuación se pueden apreciar los User Task Matrix de los segmentos objetiv
     <tr>
         <td></td>
         <td colspan=2>
-            Segmento Objetivo: <br> <b>Propietarios de Vehiculos Privados</b>  
+            Segmento Objetivo: <br> <b>Estudiantes universitarios propietarios de vehiculos privados</b>  
         </td>
     </tr>
     <tr>
@@ -624,9 +630,12 @@ A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivo
 
 *Estudiantes Universitarios*
 
+<img src="images/empathy-mapping-1.png" width="900">
+
 
 *Estudiantes universitarios propietarios de vehiculos privados*
 
+<img src="images/empathy-mapping-2.png" width="900">
 
 ### 2.3.5. As-is Scenario Mapping
 
@@ -634,10 +643,12 @@ A continuación se pueden apreciar los As-Is Scenario de los segmentos objetivos
 
 *Estudiantes Universitarios*
 
+<img src="images/as-is-scenario-1.png" width="900">
 
 *Estudiantes universitarios propietarios de vehiculos privados*
 
+<img src="images/as-is-scenario-2.png" width="900">
 
-*Enlace de Miro:*
+*Enlace de Miro:* https://miro.com/app/board/uXjVKlGuWKk=/?share_link_id=612949293517
 
 ## 2.4. Ubiquitous Language
