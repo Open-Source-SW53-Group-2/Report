@@ -207,7 +207,7 @@ Aspiramos a ser líderes en movilidad estudiantil, reconocidos por nuestro compr
 
   <tr>
     <td><img src="./assets/images/profiles/TalizoBalbin_Joan.png" width="140" height="140"></td>
-    <td>Mi nombre es Joan Talizo Balbin.</td>
+    <td>Mi nombre es Joan Jefferson Talizo Balbin, soy estudiante de Ingeniería de Software. Mi curiosidad innata me impulsa leer, jugar videojuegos, y constantemente aprender cosas nuevas. Valoro la resilencia, empatía, el aprendizaje rápido y la perseverancia como mis principales fortalezas. Como parte del equipo, me comprome comprometo a colaborar estrechamente con mis compañeros y aportar mis conocimientos y habilidades al equipo.</td>
   </tr>
 
   <tr>
