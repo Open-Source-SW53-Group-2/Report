@@ -76,17 +76,65 @@ Interlineado:
 
 ## 4.3. Landing Page UI Design.
 <hr>
+<td align="center">
+En esta sección, presentamos el diseño de la interfaz de usuario
+de la landing page para GoUni. El diseño se ha desarrollado teniendo
+en cuenta la experiencia del usuario y la accesibilidad tanto en
+versiones de escritorio como móviles. El objetivo principal es
+proporcionar una navegación clara y atractiva. </td>
 
 ### 4.3.1. Landing Page Wireframe.
+<td align="center">
+A continuación, mostramos los wireframes de la landing page, 
+los cuales representan la estructura básica y el layout sin 
+elementos gráficos detallados. Estos sirven como una guía inicial
+para el diseño visual, asegurando que todos los elementos
+necesarios estén presentes y correctamente organizados.
+</td>
 
 Versión Desktop:
 
+Wireframe de la Landing Page en Figma:
+
+Wireframe de la sección Header:
+![Header_Wireframes_Desktop.png](assets/images/Desktop/Header_Wireframes_Desktop.png)
+
+Wireframe de la sección Hero:
+![HeroSection_Wireframes_Desktop.png](assets/images/Desktop/HeroSection_Wireframes_Desktop.png)
+
+Wireframe de la sección How It Works:
+![HowItWorks_Wireframes_Desktop.png](assets/images/Desktop/HowItWorks_Wireframes_Desktop.png)
+
+Wireframe de la sección Benefits of GoUni:
+![BenefitsofGoUni_Wireframes_Desktop.png](assets/images/Desktop/BenefitsofGoUni_Wireframes_Desktop.png)
+
+Wireframe de la sección Security:
+![Security_Wireframes_Desktop.png](assets/images/Desktop/Security_Wireframes_Desktop.png)
+
+Wireframe de la sección Plans:
+![Plans_Wireframes_Desktop.png](assets/images/Desktop/Plans_Wireframes_Desktop.png)
+
+Wireframe de la sección Our Apps and Portals:
+![OurAppsandPortals_Wireframes_Desktop.png](assets/images/Desktop/OurAppsandPortals_Wireframes_Desktop.png)
+
+Wireframe de la sección Contact Us:
+![ContactUs_Wireframes_Desktop.png](assets/images/Desktop/ContactUs_Wireframes_Desktop.png)
+
+Wireframe de la sección Footer:
+![Footer_Wireframes_Desktop.png](assets/images/Desktop/Footer_Wireframes_Desktop.png)
 
 Versión Mobile:
 
 
 
 ### 4.3.2. Landing Page Mockup.
+<td align="center">
+Esta sección presenta los mockups de la landing page,
+que ilustran el diseño final con detalles gráficos, tipografía,
+y color. Los mockups son fundamentales para visualizar cómo se
+verá la página final y para realizar ajustes antes del desarrollo.
+</td>
+
 Enlace a la mockup de la Landing Page en Figma:
 
 Versión Mobile:
