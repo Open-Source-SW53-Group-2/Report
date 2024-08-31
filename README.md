@@ -92,6 +92,11 @@ para el diseño visual, asegurando que todos los elementos
 necesarios estén presentes y correctamente organizados.
 </td>
 
+Enlace a los wireframes de la Landing Page en Figma:
+
+[Landing Page Wireframes](https://www.figma.com/design/wsF29U5csRMNSNzzX1BfIR/Landing-Page-Wireframe-GoUni?node-id=0-1&t=PrfjiFfYo27WAa3q-1)
+
+
 Versión Desktop:
 
 Wireframe de la Landing Page en Figma:
