@@ -96,10 +96,9 @@ Enlace a los wireframes de la Landing Page en Figma:
 
 [Landing Page Wireframes](https://www.figma.com/design/wsF29U5csRMNSNzzX1BfIR/Landing-Page-Wireframe-GoUni?node-id=0-1&t=PrfjiFfYo27WAa3q-1)
 
+#### Wireframe de la Landing Page en Figma:
 
-Versión Desktop:
-
-Wireframe de la Landing Page en Figma:
+##### Versión Desktop:
 
 Wireframe de la sección Header:
 ![Header_Wireframes_Desktop.png](assets/images/Desktop/Header_Wireframes_Desktop.png)
@@ -128,7 +127,7 @@ Wireframe de la sección Contact Us:
 Wireframe de la sección Footer:
 ![Footer_Wireframes_Desktop.png](assets/images/Desktop/Footer_Wireframes_Desktop.png)
 
-Versión Mobile:
+##### Versión Mobile:
 
 
 
@@ -142,7 +141,11 @@ verá la página final y para realizar ajustes antes del desarrollo.
 
 Enlace a la mockup de la Landing Page en Figma:
 
-Versión Mobile:
+#### Mockups de la Landing Page en Figma:
+
+##### Versión Desktop:
+
+##### Versión Mobile:
 
 
 
