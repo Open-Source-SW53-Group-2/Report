@@ -621,11 +621,11 @@ A continuación se pueden apreciar los User Journey Mapping de los segmentos obj
 
 *Estudiantes Universitarios*
 
-<img src="images/journey-map-1.png" width="900">
+<img src="images/journey-map-1.png" width="900px">
 
 *Estudiantes universitarios propietarios de vehiculos privados*
 
-<img src="images/journey-map-2.png" width="900">
+<img src="images/journey-map-2.png" width="900px">
 
 ### 2.3.4. Empathy Mapping
 
@@ -633,12 +633,12 @@ A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivo
 
 *Estudiantes Universitarios*
 
-<img src="images/empathy-mapping-1.png" width="900">
+<img src="images/empathy-mapping-1.png" width="900px">
 
 
 *Estudiantes universitarios propietarios de vehiculos privados*
 
-<img src="images/empathy-mapping-2.png" width="900">
+<img src="images/empathy-mapping-2.png" width="900px">
 
 ### 2.3.5. As-is Scenario Mapping
 
@@ -646,11 +646,11 @@ A continuación se pueden apreciar los As-Is Scenario de los segmentos objetivos
 
 *Estudiantes Universitarios*
 
-<img src="images/as-is-scenario-1.png" width="900">
+<img src="images/as-is-scenario-1.png" width="900px">
 
 *Estudiantes universitarios propietarios de vehiculos privados*
 
-<img src="images/as-is-scenario-2.png" width="900">
+<img src="images/as-is-scenario-2.png" width="900px">
 
 *Enlace de Miro:* https://miro.com/app/board/uXjVKlGuWKk=/?share_link_id=612949293517
 
