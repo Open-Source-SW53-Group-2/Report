@@ -242,19 +242,22 @@ realizar las preguntas a los diferentes segmntos objetivos
 
 *Entrevista 1:*
 
-Nombres:
+Nombres: Melina
 
-Apellidos:
+Apellidos: Rojas Sosa
 
-Edad:
+Edad: 19
 
-Lugar de residencia:
+Lugar de residencia: Ate, Lima
 
 Evidencia de la entrevista:
+<img src="images/EvidenciaEntrevista.png">
 
 Enlace de entrevista:
 
 Resumen de la entrevista:
+
+Melina es una estudiante universitaria que enfrenta dificultades diarias para llegar a sus clases debido a la congestión vehicular en Lima. Ella expresa que estaría encantada si existiera un servicio de carpooling que le permitiera llegar más rápido a la universidad. Además, destaca los beneficios adicionales que este tipo de servicio podría ofrecer, como la oportunidad de hacer networking con otros estudiantes de su misma universidad.
 
 *Entrevista 2:*
 
