@@ -1,15 +1,19 @@
 # Capítulo V: Product Implementation, Validation & Deployment
+
+<hr>
+
 ## 5.1. Software Configuration Management.
-.
+En la sección siguiente, se describirán las herramientas, convenciones, referencias y
+onfiguraciones utilizadas durante el desarrollo del proyecto, las cuales ayudaron a
+mantener la coherencia en el trabajo realizado.
 
 ### 5.1.1. Software Development Environment Configuration.
-.
+En esta parte, se mencionarán los distintos programas de software que el equipo de desarrollo utilizó para llevar a cabo las tareas relacionadas con la creación del proyecto.
 
 <br>
-.         
 
 ### 5.1.2. Source Code Management.
-.
+
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 
