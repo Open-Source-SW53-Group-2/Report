@@ -314,22 +314,25 @@ considera importante establecer reglas claras y un sistema de calificación para
 
 *Entrevista 2:*
 
-Nombre:
+Nombre: Ariana
 
-Apellido:
+Apellido: Martinez
 
-Edad:
+Edad: 24 años
 
-Lugar de residencia:
+Lugar de residencia: Santiago de Surco, Lima
 
-Entrevistador:
+Evidencia de la entrevista: <img src="images/interviewimage.png">
 
-Evidencia de la entrevista:
-
-Enlace de entrevista:
+Enlace de entrevista: [Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111952_upc_edu_pe/EZd3GcGkxvNDl_7tiJOaSZEBrANwpg_4jDmEdm1lr_EfXA?e=IZMgVf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 Resumen de la entrevista:
 
+Ariana es un estudiante universitario de la UPC, propietaria de un vehículo privado, que se desplaza frecuentemente desde su casa hasta
+la universidad. Ella considera que compartir su vehículo con otros estudiantes es una buena idea, para reducir los costos de transporte
+y hacer nuevas amistades. Sin embargo, tiene preocupaciones sobre la seguridad personal y verificacion de identidad, por lo que
+considera importante que una plataforma como la nuestra, rpesente medidas de segfuridad estrictas, que verifiquen la identidad de cada pasajero 
+y conductor.
 
 <br>
 
