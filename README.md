@@ -364,7 +364,7 @@ Enlace de Miro:
     </tr>
 
 <tr class="odd">
-        <td>E4-US02</td>
+        <td>E4-US04</td>
         <td>Cancelar suscripción o plan</td>
         <td>
             <p><strong>Como</strong>usuario que ha adquirido un plan,</p>
