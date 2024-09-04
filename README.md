@@ -37,24 +37,24 @@ pagar viajes directamente a través de la aplicación.
         GoUni
         <br>
         <div style="text-align: center; margin-top: 10px;">
-                <img src="images/gounilogo.jfif" alt="StartUp" width="100px">
+                <img src="images/logo/gounilogo.jfif" alt="StartUp" width="100px">
         </div>
     <td colspan="1" valign="top" style="font-weight: bold;">
     BlaBlaCar
     <div style="text-align: center; margin-top: 20px;">
-                <img src="images/blablacar.png" alt="blablacar" width="100px">
+                <img src="images/competitors logo/blablacar.png" alt="blablacar" width="100px">
         </div>
     </td>
     <td colspan="1" valign="top" style="font-weight: bold;">
       Urbvan
       <div style="text-align: center; margin-top: 40px;">
-                <img src="images/urbvan.png" alt="urbvan" width="200px">
+                <img src="images/competitors logo/urbvan.png" alt="urbvan" width="200px">
             </div>
       </td>
     <td colspan="1" valign="top" style="font-weight: bold;" >
       Yango
       <div style="text-align: center; margin-top: 20px;">
-                <img src="images/yango.png" alt="yango" width="610px">
+                <img src="images/competitors logo/yango.png" alt="yango" width="610px">
             </div>
     </td>
   </tr>
@@ -288,20 +288,29 @@ y es un metodo para movilizarte de manera mas rapida en casos de urgencia.
 
 *Entrevista 1:*
 
-Nombres:
+Nombres: Maykol
 
-Apellidos:
+Apellidos: Valencia
 
-Edad:
+Edad: 22 años
 
-Lugar de residencia:
+Lugar de residencia: Selva Alegre, Arequipa
 
 Evidencia de la entrevista:
 
+![entrevista02_UniversitarioPropietarioDeAuto.png](images/interviews/entrevista02_UniversitarioPropietarioDeAuto.png)
+
 Enlace de entrevista:
+
+[Link de entrevista02_UniversitarioPropietarioDeAuto_MaykolValencia](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223781_upc_edu_pe/EdLl2jwqxtdDq2Nyq49ek8AB6cLqcac0HNUCa4ySmXv7LQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=rswZ2B)
+
 
 Resumen de la entrevista:
 
+Maykol es un estudiante universitario propietario de un vehículo privado que se desplaza diariamente desde su casa hasta
+la universidad. Él menciona que le gustaría compartir su vehículo con otros estudiantes para reducir los costos de transporte
+y hacer nuevos amigos. Sin embargo, tiene preocupaciones sobre la seguridad y la comodidad de los pasajeros, por lo que
+considera importante establecer reglas claras y un sistema de calificación para garantizar una experiencia positiva para todos.
 
 *Entrevista 2:*
 
@@ -402,12 +411,12 @@ Resumen de la entrevista:
 *Estudiantes universitarios:*
 
 
-<img src="images/user-persona-1.png" width="800px">
+<img src="images/user-persona/user-persona-1.png" width="800px">
 
 *Estudiantes Universitarios propietarios de vehiculos privados:*
 
 
-<img src="images/user-persona-2.png" width="800px">
+<img src="images/user-persona/user-persona-2.png" width="800px">
 
 ### 2.3.2. User Task Matrix
 
@@ -629,11 +638,11 @@ A continuación se pueden apreciar los User Journey Mapping de los segmentos obj
 
 *Estudiantes Universitarios*
 
-<img src="images/journey-map-1.png" width="900px">
+<img src="images/user-journey-mapping/journey-map-1.png" width="900px">
 
 *Estudiantes universitarios propietarios de vehiculos privados*
 
-<img src="images/journey-map-2.png" width="900px">
+<img src="images/user-journey-mapping/journey-map-2.png" width="900px">
 
 ### 2.3.4. Empathy Mapping
 
@@ -641,12 +650,12 @@ A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivo
 
 *Estudiantes Universitarios*
 
-<img src="images/empathy-mapping-1.png" width="900px">
+<img src="images/empathy-mapping/empathy-mapping-1.png" width="900px">
 
 
 *Estudiantes universitarios propietarios de vehiculos privados*
 
-<img src="images/empathy-mapping-2.png" width="900px">
+<img src="images/empathy-mapping/empathy-mapping-2.png" width="900px">
 
 ### 2.3.5. As-is Scenario Mapping
 
@@ -654,11 +663,11 @@ A continuación se pueden apreciar los As-Is Scenario de los segmentos objetivos
 
 *Estudiantes Universitarios*
 
-<img src="images/as-is-scenario-1.png" width="900px">
+<img src="images/as-is-scenario-mapping/as-is-scenario-1.png" width="900px">
 
 *Estudiantes universitarios propietarios de vehiculos privados*
 
-<img src="images/as-is-scenario-2.png" width="900px">
+<img src="images/as-is-scenario-mapping/as-is-scenario-2.png" width="900px">
 
 *Enlace de Miro:* https://miro.com/app/board/uXjVKlGuWKk=/?share_link_id=612949293517
 
