@@ -152,6 +152,142 @@ Enlace de Miro:
 </td>
 <td>2</td>
 </tr>
+
+ <tr class="even">
+        <td>E3-US01</td>
+        <td>Registro de usuario</td>
+        <td>
+            <p><strong>Como</strong> Usuario,</p>
+            <p><strong>Quiero</strong> poder crear mi usuario</p>
+            <p><strong>Para</strong> acceder al servicio de carpooling</p>
+        </td>
+        <td>
+            <p>Escenario 1: Registro del usuario</p>
+            <p><strong>Dado</strong> que el usuario quiere unirse a la plataforma,</p>
+            <p><strong>Cuando</strong> complete el formulario de registro,</p>
+            <p><strong>Entonces</strong> recibirá un correo electrónico de confirmación después del registro.</p>
+        </td>
+        <td>3</td>
+    </tr>
+
+  <tr class="odd">
+        <td>E3-US02</td>
+        <td>Búsqueda de Viaje Disponibles</td>
+        <td>
+            <p><strong>Como</strong> Usuario,</p>
+            <p><strong>Quiero</strong> buscar viajes disponibles</p>
+            <p><strong>Para</strong> poder planificar mis desplazamientos</p>
+        </td>
+        <td>
+            <p>Escenario 1: Filtrado de viajes</p>
+            <p><strong>Dado</strong> que el usuario necesita un viaje,</p>
+            <p><strong>Cuando</strong> ingrese sus criterios de búsqueda,</p>
+            <p><strong>Entonces</strong> podrá ver una lista de viajes disponibles con información detallada.</p>
+        </td>
+        <td>3</td>
+    </tr>
+
+  <tr class="even">
+        <td>E3-US03</td>
+        <td>Reserva de Viaje</td>
+        <td>
+            <p><strong>Como</strong> Usuario,</p>
+            <p><strong>Quiero</strong> poder reservar un asiento en el viaje disponible</p>
+            <p><strong>Para</strong> garantizar mi lugar.</p>
+        </td>
+        <td>
+            <p>Escenario 1: Confirmación de reserva</p>
+            <p><strong>Dado</strong> que el usuario ha seleccionado un viaje,</p>
+            <p><strong>Cuando</strong> acceda a la página de detalles del viaje,</p>
+            <p><strong>Entonces</strong> podrá encontrar la opción para reservar un asiento y confirmar la reserva.</p>
+        </td>
+        <td>3</td>
+    </tr>
+
+  <tr class="odd">
+        <td>E3-US04</td>
+        <td>Comunicación con el Conductor</td>
+        <td>
+            <p><strong>Como</strong> Usuario,</p>
+            <p><strong>Quiero</strong> poder comunicarme con el conductor de mi viaje</p>
+            <p><strong>Para</strong> coordinar detalles y obtener información adicional.</p>
+        </td>
+        <td>
+            <p>Escenario 1: Mensajería dentro de la plataforma</p>
+            <p><strong>Dado</strong> que el usuario ha reservado un viaje,</p>
+            <p><strong>Cuando</strong> quiera comunicarse con el conductor,</p>
+            <p><strong>Entonces</strong> podrá hacerlo a través de la plataforma UniRider.</p>
+        </td>
+        <td>3</td>
+    </tr>
+
+  <tr class="even">
+        <td>E3-US05</td>
+        <td>Cancelación de Reserva</td>
+        <td>
+            <p><strong>Como</strong> Usuario,</p>
+            <p><strong>Quiero</strong> poder cancelar una reserva de viaje</p>
+            <p><strong>Para</strong> los casos de que surjan imprevistos</p>
+        </td>
+        <td>
+            <p>Escenario 1: Cancelación de reserva</p>
+            <p><strong>Dado</strong> que el usuario ha reservado un viaje,</p>
+            <p><strong>Cuando</strong> acceda a la página de detalles de su reserva,</p>
+            <p><strong>Entonces</strong> podrá encontrar la opción para cancelar su reserva y confirmar la cancelación.</p>
+        </td>
+        <td>3</td>
+    </tr>
+
+  <tr class="odd">
+        <td>E3-US06</td>
+        <td>Calificación y Comentario del Conductor</td>
+        <td>
+            <p><strong>Como</strong> Usuario,</p>
+            <p><strong>Quiero</strong> poder calificar y dejar comentarios sobre la experiencia de viaje con el conductor</p>
+            <p><strong>Para</strong> ayudar a otros usuarios en su elección</p>
+        </td>
+        <td>
+            <p>Escenario 1: Calificación del conductor</p>
+            <p><strong>Dado</strong> que el usuario ha completado un viaje,</p>
+            <p><strong>Cuando</strong> quiera dejar una opinión,</p>
+            <p><strong>Entonces</strong> podrá calificar al conductor con una puntuación y un comentario opcional.</p>
+        </td>
+        <td>3</td>
+    </tr>
+
+  <tr class="even">
+        <td>E3-US07</td>
+        <td>Publicación de disponibilidad de asientos</td>
+        <td>
+            <p><strong>Como</strong> Usuario con vehículo,</p>
+            <p><strong>Quiero</strong> publicar la disponibilidad de asientos</p>
+            <p><strong>Para</strong> que otros estudiantes puedan reservar</p>
+        </td>
+        <td>
+            <p>Escenario 1: Publicación de disponibilidad</p>
+            <p><strong>Dado</strong> que el usuario tiene un vehículo con lugares disponibles,</p>
+            <p><strong>Cuando</strong> acceda a la plataforma,</p>
+            <p><strong>Entonces</strong> podrá publicar su ruta y disponibilidad de asientos para que otros estudiantes puedan reservar.</p>
+        </td>
+        <td>3</td>
+    </tr>
+
+  <tr class="odd">
+        <td>E3-US08</td>
+        <td>Gestión de reservas</td>
+        <td>
+            <p><strong>Como</strong> Usuario con vehículo,</p>
+            <p><strong>Quiero</strong> gestionar las reservas de los pasajeros</p>
+            <p><strong>Para</strong> confirmar los pasajeros y horarios</p>
+        </td>
+        <td>
+            <p>Escenario 1: Gestión de reservas</p>
+            <p><strong>Dado</strong> que el usuario ha publicado su disponibilidad,</p>
+            <p><strong>Cuando</strong> los pasajeros reservan lugares en su vehículo,</p>
+            <p><strong>Entonces</strong> podrá ver y gestionar todas las reservas en su aplicación, confirmando los pasajeros y horarios.</p>
+        </td>
+        <td>3</td>
+    </tr>
 </tbody>
 </table>
 <hr>
