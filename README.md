@@ -273,7 +273,7 @@ Evidencia de la entrevista:
 
 <img src="images/EvidenciaEntrevistaAlessandro.png">
 
-Enlace de la entrevista: https://drive.google.com/file/d/1QTxIjgZX8f6iAa17Mzfa3eOA1YOFwCFl/view?usp=sharing
+Enlace de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202122232_upc_edu_pe/EdkBJ6BiIApNmPjECvCbqpYBZLdRyR5IUQ6hbW72k0wSNw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=yEaifN
 
 Resumen de la entrevista:
 
