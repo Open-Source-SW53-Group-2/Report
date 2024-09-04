@@ -261,18 +261,26 @@ Melina es una estudiante universitaria que enfrenta dificultades diarias para ll
 
 *Entrevista 2:*
 
-Nombres:
+Nombres: Maria Gracia
 
-Apellidos:
+Apellidos: Rojas Montenegro
 
-Edad:
-Lugar de residencia:
+Edad: 19
+
+Lugar de residencia: Lima, Peru
 
 Evidencia de la entrevista:
 
-Enlace de la entrevista:
+<img src="images/EvidenciaEntrevistaAlessandro.png">
+
+Enlace de la entrevista: https://drive.google.com/file/d/1QTxIjgZX8f6iAa17Mzfa3eOA1YOFwCFl/view?usp=sharing
 
 Resumen de la entrevista:
+
+Maria Gracia es un estudiante universitaria de la UPC que no tiene muchas dificultades al momento de transportarse
+desde su casa hacia la universidad. Ella comenta que le gustaria mucho una alternativa de transporte este servicio
+de car-pooling dado a que podria conocer nuevas personas de la misma universidad, asi como ahorrar dinero para transporte
+y es un metodo para movilizarte de manera mas rapida en casos de urgencia.
 
 <br>
 
