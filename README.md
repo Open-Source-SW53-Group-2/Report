@@ -288,6 +288,103 @@ Enlace de Miro:
         </td>
         <td>3</td>
     </tr>
+<tr class="even">
+        <td>E4-US01</td>
+        <td>Visualizar planes de servicio</td>
+        <td>
+            <p><strong>Como</strong> usuario que visita la plataforma del restaurante,</p>
+            <p><strong>Quiero</strong> visualizar los planes de servicio disponibles</p>
+            <p><strong>Para</strong> evaluar las opciones y elegir el que mejor se adapte a mis necesidades</p>
+        </td>
+        <td>
+            <p>Escenario 1: Visualización inicial de los planes de servicio</p>
+            <p><strong>Dado</strong> que el usuario ha accedido a la plataforma,</p>
+            <p><strong>Cuando</strong> el usuario navega a la sección de planes de servicio,</p>
+            <p><strong>Entonces</strong> se muestran todos los planes disponibles en una lista, incluyendo el nombre del plan, precio y beneficios principales.</p>
+        </td>
+        <td>
+            <p>Escenario 2: Ver detalles de un plan específico</p>
+            <p><strong>Dado</strong> que el usuario está visualizando los planes de servicio,</p>
+            <p><strong>Cuando</strong> el usuario selecciona un plan específico de la lista,</p>
+            <p><strong>Entonces</strong> se muestra con los detalles completos del plan, incluyendo una descripción más detallada de los beneficios y cualquier condición asociada.</p>
+        </td>
+        <td>3</td>
+    </tr>
+
+  <tr class="odd">
+        <td>E4-US02</td>
+        <td>Seleccionar un plan de servicio</td>
+        <td>
+            <p><strong>Como</strong>usuario registrado en la plataforma,</p>
+            <p><strong>Quiero</strong> seleccionar un plan de servicio</p>
+            <p><strong>Para</strong> adquirir los beneficios específicos que ofrece el plan</p>
+        </td>
+        <td>
+            <p>Escenario 1: Selección de un plan desde la lista</p>
+            <p><strong>Dado</strong> que el usuario ha visualizado los planes de servicio disponibles,</p>
+            <p><strong>Cuando</strong> el usuario selecciona un plan de la lista,</p>
+            <p><strong>Entonces</strong> se redirige al usuario a una página de confirmación, mostrando un resumen del plan seleccionado.</p>
+        </td>
+        <td>
+            <p>Escenario 2: Confirmación de selección del plan</p>
+            <p><strong>Dado</strong> que el usuario ha seleccionado un plan,</p>
+            <p><strong>Cuando</strong> el usuario revisa el resumen del plan en la página de confirmación,,</p>
+            <p><strong>Entonces</strong> tiene la opción de confirmar la selección o regresar a la lista de planes para elegir otro.</p>
+        </td>
+        <td>3</td>
+    </tr>
+    
+<tr class="even">
+        <td>E4-US03</td>
+        <td>Realizar el pago del plan seleccionado</td>
+        <td>
+            <p><strong>Como</strong> usuario que ha seleccionado un plan,</p>
+            <p><strong>Quiero</strong> realizar el pago del plan seleccionado</p>
+            <p><strong>Para</strong> activar los beneficios del plan y comenzar a utilizarlos</p>
+        </td>
+        <td>
+            <p>Escenario 1: Ingreso de detalles de pago</p>
+            <p><strong>Dado</strong>  que el usuario ha confirmado la selección de un plan y ha sido redirigido a la página de pago,
+            <p><strong>Cuando</strong> el usuario introduce los detalles de pago (tarjeta de crédito, PayPal, etc.),</p>
+            <p><strong>Entonces</strong> el sistema verifica la validez de los detalles ingresados y muestra un resumen de la transacción.</p>
+        </td>
+        <td>
+            <p>Escenario 2: Confirmación del pago</p>
+            <p><strong>Dado</strong> que el usuario ha ingresado detalles de pago válidos,</p>
+            <p><strong>Cuando</strong> el usuario confirma la transacción,</p>
+            <p><strong>Entonces</strong> el sistema procesa el pago y muestra una confirmación en pantalla, indicando que el plan ha sido activado con éxito.</p>
+        </td>
+        <td>
+            <p>Escenario 3: Notificación de pago exitoso</p>
+            <p><strong>Dado</strong> que el pago ha sido procesado con éxito,</p>
+            <p><strong>Cuando</strong> la transacción se completa,</p>
+            <p><strong>Entonces</strong> el usuario recibe una notificación de confirmación por correo electrónico, detallando el plan adquirido y los beneficios activados.</p>
+        </td>
+        <td>5</td>
+    </tr>
+
+<tr class="odd">
+        <td>E4-US02</td>
+        <td>Cancelar suscripción o plan</td>
+        <td>
+            <p><strong>Como</strong>usuario que ha adquirido un plan,</p>
+            <p><strong>Quiero</strong> cancelar mi suscripción o plan</p>
+            <p><strong>Para</strong> dejar de recibir los beneficios y evitar cargos futuros</p>
+        </td>
+        <td>
+            <p>Escenario 1: Acceso a la opción de cancelación</p>
+            <p><strong>Dado</strong> que el usuario tiene un plan activo en su cuenta,</p>
+            <p><strong>Cuando</strong> el usuario accede a la sección de “Mis planes” o “Mi cuenta”,</p>
+            <p><strong>Entonces</strong> se le muestra la opción de cancelar su suscripción o plan actual.</p>
+        </td>
+        <td>
+            <p>Escenario 2: Coonfirmación de la cancelación</p>
+            <p><strong>Dado</strong> que el usuario ha solicitado cancelar su plan,</p>
+            <p><strong>Cuando</strong> el usuario hace clic en “Cancelar plan” y se le solicita confirmar la acción,</p>
+            <p><strong>Entonces</strong> el sistema muestra un mensaje de confirmación que explica las consecuencias de la cancelación.</p>
+        </td>
+        <td>3</td>
+    </tr>
 </tbody>
 </table>
 <hr>
