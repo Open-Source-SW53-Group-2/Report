@@ -103,57 +103,57 @@ Enlace a los wireframes de la Landing Page en Figma:
 ##### Wireframe de la página principal:
 
 Wireframe de la sección Header:
-![Header_Wireframes_Desktop.png](assets/images/Desktop/home/Header_Wireframes_Desktop.png)
+![Header_Wireframes_Desktop.png](assets/images/wireframes/desktop/home/Header_Wireframes_Desktop.png)
 
 Wireframe de la sección Hero:
-![HeroSection_Wireframes_Desktop.png](assets/images/Desktop/home/HeroSection_Wireframes_Desktop.png)
+![HeroSection_Wireframes_Desktop.png](assets/images/wireframes/desktop/home/HeroSection_Wireframes_Desktop.png)
 
 Wireframe de la sección How It Works:
-![HowItWorks_Wireframes_Desktop.png](assets/images/Desktop/home/HowItWorks_Wireframes_Desktop.png)
+![HowItWorks_Wireframes_Desktop.png](assets/images/wireframes/desktop/home/HowItWorks_Wireframes_Desktop.png)
 
 Wireframe de la sección Benefits of GoUni:
-![BenefitsofGoUni_Wireframes_Desktop.png](assets/images/Desktop/home/BenefitsofGoUni_Wireframes_Desktop.png)
+![BenefitsofGoUni_Wireframes_Desktop.png](assets/images/wireframes/desktop/home/BenefitsofGoUni_Wireframes_Desktop.png)
 
 Wireframe de la sección Security:
-![Security_Wireframes_Desktop.png](assets/images/Desktop/home/Security_Wireframes_Desktop.png)
+![Security_Wireframes_Desktop.png](assets/images/wireframes/desktop/home/Security_Wireframes_Desktop.png)
 
 Wireframe de la sección Plans:
-![Plans_Wireframes_Desktop.png](assets/images/Desktop/home/Plans_Wireframes_Desktop.png)
+![Plans_Wireframes_Desktop.png](assets/images/wireframes/desktop/home/Plans_Wireframes_Desktop.png)
 
 Wireframe de la sección Our Apps and Portals:
-![OurAppsandPortals_Wireframes_Desktop.png](assets/images/Desktop/home/OurAppsandPortals_Wireframes_Desktop.png)
+![OurAppsandPortals_Wireframes_Desktop.png](assets/images/wireframes/desktop/home/OurAppsandPortals_Wireframes_Desktop.png)
 
 Wireframe de la sección Contact Us:
-![ContactUs_Wireframes_Desktop.png](assets/images/Desktop/home/ContactUs_Wireframes_Desktop.png)
+![ContactUs_Wireframes_Desktop.png](assets/images/wireframes/desktop/home/ContactUs_Wireframes_Desktop.png)
 
 Wireframe de la sección Footer:
-![Footer_Wireframes_Desktop.png](assets/images/Desktop/home/Footer_Wireframes_Desktop.png)
+![Footer_Wireframes_Desktop.png](assets/images/wireframes/desktop/home/Footer_Wireframes_Desktop.png)
 
 ##### Wireframe de la sección Sobre Nosotros:
 
 Wireframe de la sección Header:
 
-![headerAboutUs_Wireframes_Desktop.png](assets/images/Desktop/aboutUs/headerAboutUs_Wireframes_Desktop.png)
+![headerAboutUs_Wireframes_Desktop.png](assets/images/wireframes/desktop/aboutUs/headerAboutUs_Wireframes_Desktop.png)
 
 Wireframe de la sección Who We Are:
 
-![whoWeAre_Wireframes_Desktop.png](assets/images/Desktop/aboutUs/whoWeAre_Wireframes_Desktop.png)
+![whoWeAre_Wireframes_Desktop.png](assets/images/wireframes/desktop/aboutUs/whoWeAre_Wireframes_Desktop.png)
 
 Wireframe de la sección Our Sponsor:
 
-![ourSponsors_Wireframes_Desktop.png](assets/images/Desktop/aboutUs/ourSponsors_Wireframes_Desktop.png)
+![ourSponsors_Wireframes_Desktop.png](assets/images/wireframes/desktop/aboutUs/ourSponsors_Wireframes_Desktop.png)
 
 Wireframe de la sección whyGoUni?:
 
-![whyGoUni?_Wireframes_Desktop.png](assets/images/Desktop/aboutUs/whyGoUni_Wireframes_Desktop.png)
+![whyGoUni?_Wireframes_Desktop.png](assets/images/wireframes/desktop/aboutUs/whyGoUni_Wireframes_Desktop.png)
 
 Wireframe de la sección Our Team:
 
-![ourTeam_Wireframes_Desktop.png](assets/images/Desktop/aboutUs/ourTeam_Wireframes_Desktop.png)
+![ourTeam_Wireframes_Desktop.png](assets/images/wireframes/desktop/aboutUs/ourTeam_Wireframes_Desktop.png)
 
 Wireframe de la sección Footer:
 
-![footerAboutUs_Wireframes_Desktop.png](assets/images/Desktop/aboutUs/footerAboutUs_Wireframes_Desktop.png)
+![footerAboutUs_Wireframes_Desktop.png](assets/images/wireframes/desktop/aboutUs/footerAboutUs_Wireframes_Desktop.png)
 
 ##### Versión Mobile:
 
@@ -175,8 +175,53 @@ Enlace a la mockup de la Landing Page en Figma:
 
 #### Mockups de la página principal
 
-##### Mockups de la sesion Sobre Nosotros:
+Mockup de la sección Header:
 
+![homeHome_Mockup_Desktop.png](assets/images/mockups/desktop/home/homeHome_Mockup_Desktop.png)
+
+Mockup de la sección Hero:
+![heroHowItWorks_Mockup_Desktop.png](assets/images/mockups/desktop/home/heroHowItWorks_Mockup_Desktop.png)
+
+Mockup de la sección How It Works:
+![howItWorks_Mockup_Desktop.png](assets/images/mockups/desktop/home/howItWorks_Mockup_Desktop.png)
+
+Mockup de la sección Benefits of GoUni:
+![benefitsOfGoUni_Mockup_Desktop.png](assets/images/mockups/desktop/home/benefitsOfGoUni_Mockup_Desktop.png)
+
+Mockup de la sección Security:
+![security_Mockup_Desktop.png](assets/images/mockups/desktop/home/security_Mockup_Desktop.png)
+
+Mockup de la sección Plans:
+![plans_Mockup_Desktop.png](assets/images/mockups/desktop/home/plans_Mockup_Desktop.png)
+
+Mockup de la sección Our Apps and Portals:
+![ourAppsAndPortals_Mockup_Desktop.png](assets/images/mockups/desktop/home/ourAppsAndPortals_Mockup_Desktop.png)
+
+Mockup de la sección Contact Us:
+![contactUs_Mockup_Desktop.png](assets/images/mockups/desktop/home/contactUs_Mockup_Desktop.png)
+
+Mockup de la sección Footer:
+![footerHome_Mockup_Desktop.png](assets/images/mockups/desktop/home/footerHome_Mockup_Desktop.png)
+
+#### Mockups de la sesion Sobre Nosotros:
+
+Mockup de la sección Header:
+![headerAboutUs_Mockup_Desktop.png](assets/images/mockups/desktop/aboutUs/headerAboutUs_Mockup_Desktop.png)
+
+Mockup de la sección Who We Are:
+![whoWeAre_Mockup_Desktop.png](assets/images/mockups/desktop/aboutUs/whoWeAre_Mockup_Desktop.png)
+
+Mockup de la sección Why GoUni?:
+![whyGoUni_Mockup_Desktop.png](assets/images/mockups/desktop/aboutUs/whyGoUni_Mockup_Desktop.png)
+
+Mockup de la sección Our Sponsors:
+![ourSponsors_Mockup_Desktop.png](assets/images/mockups/desktop/aboutUs/ourSponsors_Mockup_Desktop.png)
+
+Mockup de la sección Our Team:
+![ourTeam_Mockup_Desktop.png](assets/images/mockups/desktop/aboutUs/ourTeam_Mockup_Desktop.png)
+
+Mockup de la sección Footer:
+![footerAboutUs_Mockup_Desktop.png](assets/images/mockups/desktop/aboutUs/footerAboutUs_Mockup_Desktop.png)
 
 ##### Versión Mobile:
 
