@@ -479,6 +479,133 @@ Enlace de Miro:
 </td>
 <td>5</td>
 </tr>
+
+<tr class="odd">
+  <td>E1-US01</td>
+  <td>Agendar notificaciones de recordatorio de viajes</td>
+  <td>
+    <p><strong>Como</strong> pasajero,</p>
+    <p><strong>Quiero</strong> recibir notificaciones de recordatorio antes del inicio de mi viaje</p>
+    <p><strong>Para</strong> asegurarme de estar listo a tiempo</p>
+  </td>
+  <td>
+    <p>Escenario 1: Recordatorio antes del viaje</p>
+    <p><strong>Dado</strong> que el usuario ha reservado un viaje,</p>
+    <p><strong>Cuando</strong> queden 30 minutos para que comience el viaje,</p>
+    <p><strong>Entonces</strong> recibirá una notificación recordándole el inicio próximo del viaje</p>
+    <p>Escenario 2: Ubicación del conductor</p>
+    <p><strong>Dado</strong> que el usuario ha recibido la notificación de recordatorio,</p>
+    <p><strong>Cuando</strong> abra la aplicación,</p>
+    <p><strong>Entonces</strong> podrá ver la ubicación y el tiempo estimado de llegada del conductor</p>
+  </td>
+  <td>1</td>
+</tr>
+
+<tr class="odd">
+  <td>E1-US02</td>
+  <td>Filtrar viajes por tipos de vehículos</td>
+  <td>
+    <p><strong>Como</strong> pasajero,</p>
+    <p><strong>Quiero</strong> poder filtrar los viajes según el tipo de vehículo</p>
+    <p><strong>Para</strong> seleccionar el que más se ajuste a mis necesidades</p>
+  </td>
+  <td>
+    <p>Escenario 1: Aplicar filtros</p>
+    <p><strong>Dado</strong> que el usuario está buscando un viaje,</p>
+    <p><strong>Cuando</strong> acceda a los filtros,</p>
+    <p><strong>Entonces</strong> podrá seleccionar el tipo de vehículo, como sedan, SUV, o camioneta</p>
+    <p>Escenario 2: Búsqueda de vehículos filtrados</p>
+    <p><strong>Dado</strong> que el usuario ha aplicado el filtro,</p>
+    <p><strong>Cuando</strong> seleccione "Buscar",</p>
+    <p><strong>Entonces</strong> verá solo los viajes disponibles con el tipo de vehículo seleccionado</p>
+  </td>
+  <td>1</td>
+</tr>
+
+<tr class="odd">
+  <td>E1-US03</td>
+  <td>Establecer destinos secundarios</td>
+  <td>
+    <p><strong>Como</strong> conductor,</p>
+    <p><strong>Quiero</strong> poder establecer destinos secundarios durante mi ruta</p>
+    <p><strong>Para</strong> recoger a más estudiantes en puntos intermedios</p>
+  </td>
+  <td>
+    <p>Escenario 1: Añadir destinos secundarios</p>
+    <p><strong>Dado</strong> que el usuario ha publicado un viaje,</p>
+    <p><strong>Cuando</strong> esté configurando su ruta,</p>
+    <p><strong>Entonces</strong> podrá agregar puntos de parada adicionales en el trayecto</p>
+    <p>Escenario 2: Verificación de paradas</p>
+    <p><strong>Dado</strong> que el conductor ha agregado un destino secundario,</p>
+    <p><strong>Cuando</strong> un pasajero busque viajes,</p>
+    <p><strong>Entonces</strong> podrá ver si hay paradas adicionales en la ruta del conductor</p>
+  </td>
+  <td>1</td>
+</tr>
+
+<tr class="odd">
+  <td>E1-US04</td>
+  <td>Opciones de seguridad adicionales para conductores</td>
+  <td>
+    <p><strong>Como</strong> conductor,</p>
+    <p><strong>Quiero</strong> poder acceder a opciones adicionales de seguridad, como compartir mi ubicación en tiempo real</p>
+    <p><strong>Para</strong> garantizar un viaje seguro</p>
+  </td>
+  <td>
+    <p>Escenario 1: Activar seguimiento de ubicación</p>
+    <p><strong>Dado</strong> que el conductor ha iniciado un viaje,</p>
+    <p><strong>Cuando</strong> comience el recorrido,</p>
+    <p><strong>Entonces</strong> podrá activar la opción de compartir su ubicación en tiempo real con un contacto de confianza</p>
+    <p>Escenario 2: Desactivar el seguimiento</p>
+    <p><strong>Dado</strong> que el conductor ha compartido su ubicación,</p>
+    <p><strong>Cuando</strong> termine el viaje,</p>
+    <p><strong>Entonces</strong> podrá desactivar el seguimiento de la ubicación</p>
+  </td>
+  <td>1</td>
+</tr>
+
+<tr class="odd">
+  <td>E1-US05</td>
+  <td>Identificación de usuarios frecuentes</td>
+  <td>
+    <p><strong>Como</strong> pasajero frecuente,</p>
+    <p><strong>Quiero</strong> poder marcar ciertos conductores como favoritos</p>
+    <p><strong>Para</strong> facilitar la reserva de futuros viajes con ellos</p>
+  </td>
+  <td>
+    <p>Escenario 1: Marcar un conductor como favorito</p>
+    <p><strong>Dado</strong> que el pasajero ha completado varios viajes con un conductor,</p>
+    <p><strong>Cuando</strong> acceda a su perfil,</p>
+    <p><strong>Entonces</strong> podrá marcarlo como "Favorito" para futuros viajes</p>
+    <p>Escenario 2: Recibir notificaciones de conductores favoritos</p>
+    <p><strong>Dado</strong> que el pasajero ha marcado a un conductor como favorito,</p>
+    <p><strong>Cuando</strong> busque viajes,</p>
+    <p><strong>Entonces</strong> recibirá notificaciones cuando ese conductor tenga disponibilidad</p>
+  </td>
+  <td>1</td>
+</tr>
+
+<tr class="odd">
+  <td>E1-US06</td>
+  <td>Programar viajes recurrentes</td>
+  <td>
+    <p><strong>Como</strong> usuario,</p>
+    <p><strong>Quiero</strong> poder programar viajes recurrentes</p>
+    <p><strong>Para</strong> no tener que hacer reservas diarias cada vez que necesite transporte</p>
+  </td>
+  <td>
+    <p>Escenario 1: Programar viaje recurrente</p>
+    <p><strong>Dado</strong> que el usuario necesita transporte diario,</p>
+    <p><strong>Cuando</strong> acceda a la opción de "Viajes recurrentes",</p>
+    <p><strong>Entonces</strong> podrá establecer un horario y ruta fijos para repetir el viaje automáticamente</p>
+    <p>Escenario 2: Confirmación de viajes recurrentes</p>
+    <p><strong>Dado</strong> que el usuario ha programado un viaje recurrente,</p>
+    <p><strong>Cuando</strong> se aproxime la fecha del viaje,</p>
+    <p><strong>Entonces</strong> recibirá una confirmación automática del viaje y detalles del conductor</p>
+  </td>
+  <td>1</td>
+</tr>
+
 </tbody>
 </table>
 <hr>
