@@ -385,6 +385,100 @@ Enlace de Miro:
         </td>
         <td>3</td>
     </tr>
+<tr class="even">
+<td>E5-US01</td>
+<td>Barra de navegación en la landing page</td>
+<td>
+<p><strong>Como</strong> cliente o conductor,</p>
+<p><strong>Quiero</strong> una barra de navegación en la landing page,</p>
+<p><strong>Para</strong> tener acceso directo a la aplicación.</p>
+</td>
+<td>
+<p>Escenario 1: El cliente o conducto se encuentra en el navbar de navegación</p>
+<p><strong>Dado</strong> que el usuario se encuentra en la landing page,</p>
+<p><strong>Cuando</strong> se encuentre en la sección del navbar,</p>
+<p><strong>Entonces</strong> visualiza enlaces de las secciones, botón de idiomas y el botón para redirigir a la aplicación.</p>
+</td>
+<td>1</td>
+</tr>
+
+<tr class="odd">
+<td>E5-US02</td>
+<td>Dirigirse a la aplicación mediante la landing page</td>
+<td>
+<p><strong>Como</strong> cliente o conductor,</p>
+<p><strong>Quiero</strong> dirigirme a la aplicación mediante el botón “Open App”,</p>
+<p><strong>Para</strong> poder usarla.</p>
+</td>
+<td>
+<p>Escenario 1: Enlace directo a la aplicación a través de un botón</p>
+<p><strong>Dado</strong> que el cliente o conductor se encuentra en la landing page,</p>
+<p><strong>Y</strong> este se dirige al navbar,</p>
+<p><strong>Cuando</strong> presione el botón “Open app”,</p>
+<p><strong>Entonces</strong> es dirigido a la aplicación donde se podrá loguear.</p>
+</td>
+<td>2</td>
+</tr>
+
+<tr class="even">
+<td>E5-US03</td>
+<td>Sección hero del landing page</td>
+<td>
+<p><strong>Como</strong> cliente o conductor,</p>
+<p><strong>Quiero</strong> observar la sección hero de la landing,</p>
+<p><strong>Para</strong> poder tener información de lo que es y ofrece la aplicación.</p>
+</td>
+<td>
+<p>Escenario 1: El cliente o conductor se encuentra en la sección de hero</p>
+<p><strong>Dado</strong> que el cliente o conductor se encuentra en la landing page,</p>
+<p><strong>Cuando</strong> se encuentra en la sección hero,</p>
+<p><strong>Entonces</strong> observa una presentación de la aplicación.</p>
+<p>Escenario 2: El cliente o conductor accede a la aplicación por el botón de Sign Up</p>
+<p><strong>Dado</strong> que el cliente o conductor se encuentra en la landing page,</p>
+<p><strong>Y</strong> presiona el botón “Sign up”,</p>
+<p><strong>Entonces</strong> es redirigido al formulario de registro de cuentas.</p>
+</td>
+<td>3</td>
+</tr>
+
+<tr class="odd">
+<td>E5-US04</td>
+<td>Versión en español de la landing page</td>
+<td>
+<p><strong>Como</strong> cliente o conductor,</p>
+<p><strong>Quiero</strong> tener al alcance una versión en español del landing page,</p>
+<p><strong>Para</strong> tener accesibilidad en cuanto a opciones de idioma.</p>
+</td>
+<td>
+<p>Escenario 1: El cliente entra a la landing page</p>
+<p><strong>Dado</strong> que el usuario se encuentra en el landing page,</p>
+<p><strong>Cuando</strong> sea su primera vez,</p>
+<p><strong>Entonces</strong> el idioma predeterminado de la landing page será inglés.</p>
+<p>Escenario 2: El cliente quiere cambiar de idioma</p>
+<p><strong>Dado</strong> que el usuario se encuentra en la landing page,</p>
+<p><strong>Y</strong> desea cambiar de idioma a español,</p>
+<p><strong>Cuando</strong> presiona el botón para cambiar de inglés a español,</p>
+<p><strong>Entonces</strong> la landing page se muestra en el idioma de preferencia seleccionado.</p>
+</td>
+<td>4</td>
+</tr>
+
+<tr class="even">
+<td>E5-US05</td>
+<td>Sección about the product y about the team</td>
+<td>
+<p><strong>Como</strong> cliente o staff,</p>
+<p><strong>Quiero</strong> ver la sección del about the product y about the team,</p>
+<p><strong>Para</strong> conocer las características de la aplicación y del grupo de desarrolladores.</p>
+</td>
+<td>
+<p>Escenario 1: Enlace directo a la sección about the product y the team</p>
+<p><strong>Dado</strong> que el cliente o conductor se encuentra en la landing page,</p>
+<p><strong>Y</strong> este se dirige al navbar,</p>
+<p><strong>Entonces</strong> puede acceder directamente a la sección correspondiente.</p>
+</td>
+<td>5</td>
+</tr>
 </tbody>
 </table>
 <hr>
