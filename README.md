@@ -94,38 +94,66 @@ necesarios estén presentes y correctamente organizados.
 
 Enlace a los wireframes de la Landing Page en Figma:
 
-[Landing Page Wireframes](https://www.figma.com/design/wsF29U5csRMNSNzzX1BfIR/Landing-Page-Wireframe-GoUni?node-id=0-1&t=PrfjiFfYo27WAa3q-1)
+[Landing Page Wireframes Link](https://www.figma.com/design/wsF29U5csRMNSNzzX1BfIR/Landing-Page-Wireframe-GoUni?node-id=0-1&t=PrfjiFfYo27WAa3q-1)
 
 #### Wireframe de la Landing Page en Figma:
 
-##### Versión Desktop:
+#### Versión Desktop:
+
+##### Wireframe de la página principal:
 
 Wireframe de la sección Header:
-![Header_Wireframes_Desktop.png](assets/images/Desktop/Header_Wireframes_Desktop.png)
+![Header_Wireframes_Desktop.png](assets/images/Desktop/home/Header_Wireframes_Desktop.png)
 
 Wireframe de la sección Hero:
-![HeroSection_Wireframes_Desktop.png](assets/images/Desktop/HeroSection_Wireframes_Desktop.png)
+![HeroSection_Wireframes_Desktop.png](assets/images/Desktop/home/HeroSection_Wireframes_Desktop.png)
 
 Wireframe de la sección How It Works:
-![HowItWorks_Wireframes_Desktop.png](assets/images/Desktop/HowItWorks_Wireframes_Desktop.png)
+![HowItWorks_Wireframes_Desktop.png](assets/images/Desktop/home/HowItWorks_Wireframes_Desktop.png)
 
 Wireframe de la sección Benefits of GoUni:
-![BenefitsofGoUni_Wireframes_Desktop.png](assets/images/Desktop/BenefitsofGoUni_Wireframes_Desktop.png)
+![BenefitsofGoUni_Wireframes_Desktop.png](assets/images/Desktop/home/BenefitsofGoUni_Wireframes_Desktop.png)
 
 Wireframe de la sección Security:
-![Security_Wireframes_Desktop.png](assets/images/Desktop/Security_Wireframes_Desktop.png)
+![Security_Wireframes_Desktop.png](assets/images/Desktop/home/Security_Wireframes_Desktop.png)
 
 Wireframe de la sección Plans:
-![Plans_Wireframes_Desktop.png](assets/images/Desktop/Plans_Wireframes_Desktop.png)
+![Plans_Wireframes_Desktop.png](assets/images/Desktop/home/Plans_Wireframes_Desktop.png)
 
 Wireframe de la sección Our Apps and Portals:
-![OurAppsandPortals_Wireframes_Desktop.png](assets/images/Desktop/OurAppsandPortals_Wireframes_Desktop.png)
+![OurAppsandPortals_Wireframes_Desktop.png](assets/images/Desktop/home/OurAppsandPortals_Wireframes_Desktop.png)
 
 Wireframe de la sección Contact Us:
-![ContactUs_Wireframes_Desktop.png](assets/images/Desktop/ContactUs_Wireframes_Desktop.png)
+![ContactUs_Wireframes_Desktop.png](assets/images/Desktop/home/ContactUs_Wireframes_Desktop.png)
 
 Wireframe de la sección Footer:
-![Footer_Wireframes_Desktop.png](assets/images/Desktop/Footer_Wireframes_Desktop.png)
+![Footer_Wireframes_Desktop.png](assets/images/Desktop/home/Footer_Wireframes_Desktop.png)
+
+##### Wireframe de la sección Sobre Nosotros:
+
+Wireframe de la sección Header:
+
+![headerAboutUs_Wireframes_Desktop.png](assets/images/Desktop/aboutUs/headerAboutUs_Wireframes_Desktop.png)
+
+Wireframe de la sección Who We Are:
+
+![whoWeAre_Wireframes_Desktop.png](assets/images/Desktop/aboutUs/whoWeAre_Wireframes_Desktop.png)
+
+Wireframe de la sección Our Sponsor:
+
+![ourSponsors_Wireframes_Desktop.png](assets/images/Desktop/aboutUs/ourSponsors_Wireframes_Desktop.png)
+
+Wireframe de la sección whyGoUni?:
+
+![whyGoUni?_Wireframes_Desktop.png](assets/images/Desktop/aboutUs/whyGoUni_Wireframes_Desktop.png)
+
+Wireframe de la sección Our Team:
+
+![ourTeam_Wireframes_Desktop.png](assets/images/Desktop/aboutUs/ourTeam_Wireframes_Desktop.png)
+
+Wireframe de la sección Footer:
+
+![footerAboutUs_Wireframes_Desktop.png](assets/images/Desktop/aboutUs/footerAboutUs_Wireframes_Desktop.png)
 
 ##### Versión Mobile:
 
@@ -144,6 +172,11 @@ Enlace a la mockup de la Landing Page en Figma:
 #### Mockups de la Landing Page en Figma:
 
 ##### Versión Desktop:
+
+#### Mockups de la página principal
+
+##### Mockups de la sesion Sobre Nosotros:
+
 
 ##### Versión Mobile:
 
