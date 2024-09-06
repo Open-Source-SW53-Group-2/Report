@@ -275,3 +275,7 @@ Enlace de los User Flow Diagrams en LucidChart:
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagram
+
+A continuación se detalla el modelo físico realizado para esta entrega, donde se consideró los requerimientos necesarios para el negocio.
+
+![Diagrama de la Base de Datos](assets/images/databasediagram.png)
