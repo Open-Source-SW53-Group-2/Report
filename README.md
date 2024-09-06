@@ -487,19 +487,32 @@ En esta sección, presentamos los prototipos interactivos de las aplicaciones we
 Link Web Applications Prototyping:
 [Link Web Applications Prototyping](https://www.figma.com/proto/S0hrTzLLDq3a8tOxTfWqJx/Web-Applications-UX%2FUI-Design?page-id=0%3A1&node-id=1-50&node-type=FRAME&viewport=1434%2C1917%2C0.23&t=s9nxfg2WlkRXlbt2-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=7%3A894)
 
+## 4.6 Domain-Driven Software Architecture.
 
-### 4.6.3. Software Architecture Component Diagram.
 
+### 4.6.1. Software Architecture Context Diagram.
 
+![Diagrama de clase](assets/images/diagramcontext.png)
+
+### 4.6.2. Software Architecture Container s.
+
+![Diagrama de clase](assets/images/diagramcontainer.png)
+
+### 4.6.3 Software Architecture Components Diagrams.
+
+![Diagrama de clase](assets/images/diagramcomponent.png)
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 
+![Diagrama de clase](assets/images/Diagrama_clase.png)
+
 ### 4.7.2. Class Dictionary
 <hr>
-# **Usuario**
+Usuario:
 La clase Usuario representa a un usuario dentro de la plataforma, ya sea un conductor o pasajero.
-## **Atributos:**
+
+Atributos:
 
 |Atributo|Descripción|
 | :- | :- |
@@ -620,6 +633,8 @@ La clase Notificación gestiona el envío de mensajes a los usuarios en relació
 <br>
 
 ## 4.8. Database Design
+
+![Diagrama de clase](assets/images/Diagrama_clase.png)
 
 ### 4.8.1. Database Diagram
 
