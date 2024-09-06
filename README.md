@@ -143,57 +143,57 @@ Enlace a los wireframes de la Landing Page en Figma:
 ##### Wireframe de la página principal:
 
 Wireframe de la sección Header:
-![Header_Wireframes_Desktop.png](assets/images/wireframes/desktop/home/Header_Wireframes_Desktop.png)
+![Header_Wireframes_Desktop.png](assets/images/landingPage/wireframes/desktop/home/Header_Wireframes_Desktop.png)
 
 Wireframe de la sección Hero:
-![HeroSection_Wireframes_Desktop.png](assets/images/wireframes/desktop/home/HeroSection_Wireframes_Desktop.png)
+![HeroSection_Wireframes_Desktop.png](assets/images/landingPage/wireframes/desktop/home/HeroSection_Wireframes_Desktop.png)
 
 Wireframe de la sección How It Works:
-![HowItWorks_Wireframes_Desktop.png](assets/images/wireframes/desktop/home/HowItWorks_Wireframes_Desktop.png)
+![HowItWorks_Wireframes_Desktop.png](assets/images/landingPage/wireframes/desktop/home/HowItWorks_Wireframes_Desktop.png)
 
 Wireframe de la sección Benefits of GoUni:
-![BenefitsofGoUni_Wireframes_Desktop.png](assets/images/wireframes/desktop/home/BenefitsofGoUni_Wireframes_Desktop.png)
+![BenefitsofGoUni_Wireframes_Desktop.png](assets/images/landingPage/wireframes/desktop/home/BenefitsofGoUni_Wireframes_Desktop.png)
 
 Wireframe de la sección Security:
-![Security_Wireframes_Desktop.png](assets/images/wireframes/desktop/home/Security_Wireframes_Desktop.png)
+![Security_Wireframes_Desktop.png](assets/images/landingPage/wireframes/desktop/home/Security_Wireframes_Desktop.png)
 
 Wireframe de la sección Plans:
-![Plans_Wireframes_Desktop.png](assets/images/wireframes/desktop/home/Plans_Wireframes_Desktop.png)
+![Plans_Wireframes_Desktop.png](assets/images/landingPage/wireframes/desktop/home/Plans_Wireframes_Desktop.png)
 
 Wireframe de la sección Our Apps and Portals:
-![OurAppsandPortals_Wireframes_Desktop.png](assets/images/wireframes/desktop/home/OurAppsandPortals_Wireframes_Desktop.png)
+![OurAppsandPortals_Wireframes_Desktop.png](assets/images/landingPage/wireframes/desktop/home/OurAppsandPortals_Wireframes_Desktop.png)
 
 Wireframe de la sección Contact Us:
-![ContactUs_Wireframes_Desktop.png](assets/images/wireframes/desktop/home/ContactUs_Wireframes_Desktop.png)
+![ContactUs_Wireframes_Desktop.png](assets/images/landingPage/wireframes/desktop/home/ContactUs_Wireframes_Desktop.png)
 
 Wireframe de la sección Footer:
-![Footer_Wireframes_Desktop.png](assets/images/wireframes/desktop/home/Footer_Wireframes_Desktop.png)
+![Footer_Wireframes_Desktop.png](assets/images/landingPage/wireframes/desktop/home/Footer_Wireframes_Desktop.png)
 
 ##### Wireframe de la sección Sobre Nosotros:
 
 Wireframe de la sección Header:
 
-![headerAboutUs_Wireframes_Desktop.png](assets/images/wireframes/desktop/aboutUs/headerAboutUs_Wireframes_Desktop.png)
+![headerAboutUs_Wireframes_Desktop.png](assets/images/landingPage/wireframes/desktop/aboutUs/headerAboutUs_Wireframes_Desktop.png)
 
 Wireframe de la sección Who We Are:
 
-![whoWeAre_Wireframes_Desktop.png](assets/images/wireframes/desktop/aboutUs/whoWeAre_Wireframes_Desktop.png)
+![whoWeAre_Wireframes_Desktop.png](assets/images/landingPage/wireframes/desktop/aboutUs/whoWeAre_Wireframes_Desktop.png)
 
 Wireframe de la sección Our Sponsor:
 
-![ourSponsors_Wireframes_Desktop.png](assets/images/wireframes/desktop/aboutUs/ourSponsors_Wireframes_Desktop.png)
+![ourSponsors_Wireframes_Desktop.png](assets/images/landingPage/wireframes/desktop/aboutUs/ourSponsors_Wireframes_Desktop.png)
 
 Wireframe de la sección whyGoUni?:
 
-![whyGoUni?_Wireframes_Desktop.png](assets/images/wireframes/desktop/aboutUs/whyGoUni_Wireframes_Desktop.png)
+![whyGoUni?_Wireframes_Desktop.png](assets/images/landingPage/wireframes/desktop/aboutUs/whyGoUni_Wireframes_Desktop.png)
 
 Wireframe de la sección Our Team:
 
-![ourTeam_Wireframes_Desktop.png](assets/images/wireframes/desktop/aboutUs/ourTeam_Wireframes_Desktop.png)
+![ourTeam_Wireframes_Desktop.png](assets/images/landingPage/wireframes/desktop/aboutUs/ourTeam_Wireframes_Desktop.png)
 
 Wireframe de la sección Footer:
 
-![footerAboutUs_Wireframes_Desktop.png](assets/images/wireframes/desktop/aboutUs/footerAboutUs_Wireframes_Desktop.png)
+![footerAboutUs_Wireframes_Desktop.png](assets/images/landingPage/wireframes/desktop/aboutUs/footerAboutUs_Wireframes_Desktop.png)
 
 ##### Versión Mobile:
 
@@ -201,57 +201,57 @@ Wireframe de la sección Footer:
 
 Wireframe de la sección Header:
 
-![homeHome_Wireframe_Mobiles.png](assets/images/wireframes/mobiles/home/homeHome_Wireframe_Mobiles.png)
+![homeHome_Wireframe_Mobiles.png](assets/images/landingPage/wireframes/mobiles/home/homeHome_Wireframe_Mobiles.png)
 
 Wireframe de la sección How It Works:
 
-![howItWorks_Wireframe_Mobiles.png](assets/images/wireframes/mobiles/home/howItWorks_Wireframe_Mobiles.png)
+![howItWorks_Wireframe_Mobiles.png](assets/images/landingPage/wireframes/mobiles/home/howItWorks_Wireframe_Mobiles.png)
 
 Wireframe de la sección Benefits of GoUni:
 
-![benefitsOfGoUni_Wireframe_Mobiles.png](assets/images/wireframes/mobiles/home/benefitsOfGoUni_Wireframe_Mobiles.png)
+![benefitsOfGoUni_Wireframe_Mobiles.png](assets/images/landingPage/wireframes/mobiles/home/benefitsOfGoUni_Wireframe_Mobiles.png)
 
 Wireframe de la sección Security:
 
-![security_Wireframe_Mobiles.png](assets/images/wireframes/mobiles/home/security_Wireframe_Mobiles.png)
+![security_Wireframe_Mobiles.png](assets/images/landingPage/wireframes/mobiles/home/security_Wireframe_Mobiles.png)
 
 Wireframe de la sección Plans:
 
-![plans_Wireframe_Mobiles.png](assets/images/wireframes/mobiles/home/plans_Wireframe_Mobiles.png)
+![plans_Wireframe_Mobiles.png](assets/images/landingPage/wireframes/mobiles/home/plans_Wireframe_Mobiles.png)
 
 Wireframe de la sección Our Apps and Portals:
 
-![ourAppsAndPortals_Wireframe_Mobiles.png](assets/images/wireframes/mobiles/home/ourAppsAndPortals_Wireframe_Mobiles.png)
+![ourAppsAndPortals_Wireframe_Mobiles.png](assets/images/landingPage/wireframes/mobiles/home/ourAppsAndPortals_Wireframe_Mobiles.png)
 
 Wireframe de la sección Contact Us:
 
-![contactUs_Wireframe_Mobiles.png](assets/images/wireframes/mobiles/home/contactUs_Wireframe_Mobiles.png)
+![contactUs_Wireframe_Mobiles.png](assets/images/landingPage/wireframes/mobiles/home/contactUs_Wireframe_Mobiles.png)
 
 Wireframe de la sección Footer:
 
-![footerHome_Wireframe_Mobiles.png](assets/images/wireframes/mobiles/home/footerHome_Wireframe_Mobiles.png)
+![footerHome_Wireframe_Mobiles.png](assets/images/landingPage/wireframes/mobiles/home/footerHome_Wireframe_Mobiles.png)
 
 ##### Wireframe de la sección Sobre Nosotros:
 
 Wireframe de la sección Header:
 
-![headerAboutUs_Wireframes_Mobiles.png](assets/images/wireframes/mobiles/aboutUs/headerAboutUs_Wireframes_Mobiles.png)
+![headerAboutUs_Wireframes_Mobiles.png](assets/images/landingPage/wireframes/mobiles/aboutUs/headerAboutUs_Wireframes_Mobiles.png)
 
 Wireframe de la sección Why GoUni?:
 
-![whyGoUni_Wireframes_Mobiles.png](assets/images/wireframes/mobiles/aboutUs/whyGoUni_Wireframes_Mobiles.png)
+![whyGoUni_Wireframes_Mobiles.png](assets/images/landingPage/wireframes/mobiles/aboutUs/whyGoUni_Wireframes_Mobiles.png)
 
 Wireframe de la sección Our Sponsors:
 
-![ourSponsors_Wireframes_Mobiles.png](assets/images/wireframes/mobiles/aboutUs/ourSponsors_Wireframes_Mobiles.png)
+![ourSponsors_Wireframes_Mobiles.png](assets/images/landingPage/wireframes/mobiles/aboutUs/ourSponsors_Wireframes_Mobiles.png)
 
 Wireframe de la sección Our Team:
 
-![ourTeam_Wireframes_Mobiles.png](assets/images/wireframes/mobiles/aboutUs/ourTeam_Wireframes_Mobiles.png)
+![ourTeam_Wireframes_Mobiles.png](assets/images/landingPage/wireframes/mobiles/aboutUs/ourTeam_Wireframes_Mobiles.png)
 
 Wireframe de la sección Footer:
 
-![footerAboutUs_Wireframes_Mobiles.png](assets/images/wireframes/mobiles/aboutUs/footerAboutUs_Wireframes_Mobiles.png)
+![footerAboutUs_Wireframes_Mobiles.png](assets/images/landingPage/wireframes/mobiles/aboutUs/footerAboutUs_Wireframes_Mobiles.png)
 
 
 
@@ -273,51 +273,51 @@ Enlace a la mockup de la Landing Page en Figma:
 
 Mockup de la sección Header:
 
-![homeHome_Mockup_Desktop.png](assets/images/mockups/desktop/home/homeHome_Mockup_Desktop.png)
+![homeHome_Mockup_Desktop.png](assets/images/landingPage/mockups/desktop/home/homeHome_Mockup_Desktop.png)
 
 Mockup de la sección Hero:
-![heroHowItWorks_Mockup_Desktop.png](assets/images/mockups/desktop/home/heroHowItWorks_Mockup_Desktop.png)
+![heroHowItWorks_Mockup_Desktop.png](assets/images/landingPage/mockups/desktop/home/heroHowItWorks_Mockup_Desktop.png)
 
 Mockup de la sección How It Works:
-![howItWorks_Mockup_Desktop.png](assets/images/mockups/desktop/home/howItWorks_Mockup_Desktop.png)
+![howItWorks_Mockup_Desktop.png](assets/images/landingPage/mockups/desktop/home/howItWorks_Mockup_Desktop.png)
 
 Mockup de la sección Benefits of GoUni:
-![benefitsOfGoUni_Mockup_Desktop.png](assets/images/mockups/desktop/home/benefitsOfGoUni_Mockup_Desktop.png)
+![benefitsOfGoUni_Mockup_Desktop.png](assets/images/landingPage/mockups/desktop/home/benefitsOfGoUni_Mockup_Desktop.png)
 
 Mockup de la sección Security:
-![security_Mockup_Desktop.png](assets/images/mockups/desktop/home/security_Mockup_Desktop.png)
+![security_Mockup_Desktop.png](assets/images/landingPage/mockups/desktop/home/security_Mockup_Desktop.png)
 
 Mockup de la sección Plans:
-![plans_Mockup_Desktop.png](assets/images/mockups/desktop/home/plans_Mockup_Desktop.png)
+![plans_Mockup_Desktop.png](assets/images/landingPage/mockups/desktop/home/plans_Mockup_Desktop.png)
 
 Mockup de la sección Our Apps and Portals:
-![ourAppsAndPortals_Mockup_Desktop.png](assets/images/mockups/desktop/home/ourAppsAndPortals_Mockup_Desktop.png)
+![ourAppsAndPortals_Mockup_Desktop.png](assets/images/landingPage/mockups/desktop/home/ourAppsAndPortals_Mockup_Desktop.png)
 
 Mockup de la sección Contact Us:
-![contactUs_Mockup_Desktop.png](assets/images/mockups/desktop/home/contactUs_Mockup_Desktop.png)
+![contactUs_Mockup_Desktop.png](assets/images/landingPage/mockups/desktop/home/contactUs_Mockup_Desktop.png)
 
 Mockup de la sección Footer:
-![footerHome_Mockup_Desktop.png](assets/images/mockups/desktop/home/footerHome_Mockup_Desktop.png)
+![footerHome_Mockup_Desktop.png](assets/images/landingPage/mockups/desktop/home/footerHome_Mockup_Desktop.png)
 
 #### Mockups de la sesion Sobre Nosotros:
 
 Mockup de la sección Header:
-![headerAboutUs_Mockup_Desktop.png](assets/images/mockups/desktop/aboutUs/headerAboutUs_Mockup_Desktop.png)
+![headerAboutUs_Mockup_Desktop.png](assets/images/landingPage/mockups/desktop/aboutUs/headerAboutUs_Mockup_Desktop.png)
 
 Mockup de la sección Who We Are:
-![whoWeAre_Mockup_Desktop.png](assets/images/mockups/desktop/aboutUs/whoWeAre_Mockup_Desktop.png)
+![whoWeAre_Mockup_Desktop.png](assets/images/landingPage/mockups/desktop/aboutUs/whoWeAre_Mockup_Desktop.png)
 
 Mockup de la sección Why GoUni?:
-![whyGoUni_Mockup_Desktop.png](assets/images/mockups/desktop/aboutUs/whyGoUni_Mockup_Desktop.png)
+![whyGoUni_Mockup_Desktop.png](assets/images/landingPage/mockups/desktop/aboutUs/whyGoUni_Mockup_Desktop.png)
 
 Mockup de la sección Our Sponsors:
-![ourSponsors_Mockup_Desktop.png](assets/images/mockups/desktop/aboutUs/ourSponsors_Mockup_Desktop.png)
+![ourSponsors_Mockup_Desktop.png](assets/images/landingPage/mockups/desktop/aboutUs/ourSponsors_Mockup_Desktop.png)
 
 Mockup de la sección Our Team:
-![ourTeam_Mockup_Desktop.png](assets/images/mockups/desktop/aboutUs/ourTeam_Mockup_Desktop.png)
+![ourTeam_Mockup_Desktop.png](assets/images/landingPage/mockups/desktop/aboutUs/ourTeam_Mockup_Desktop.png)
 
 Mockup de la sección Footer:
-![footerAboutUs_Mockup_Desktop.png](assets/images/mockups/desktop/aboutUs/footerAboutUs_Mockup_Desktop.png)
+![footerAboutUs_Mockup_Desktop.png](assets/images/landingPage/mockups/desktop/aboutUs/footerAboutUs_Mockup_Desktop.png)
 
 ##### Versión Mobile:
 
@@ -325,57 +325,57 @@ Mockup de la sección Footer:
 
 Mockup de la sección Header:
 
-![homeHome_Mockup_Mobile.png](assets/images/mockups/mobile/home/homeHome_Mockup_Mobile.png)
+![homeHome_Mockup_Mobile.png](assets/images/landingPage/mockups/mobile/home/homeHome_Mockup_Mobile.png)
 
 Mockup de la sección How It Works:
 
-![howItWorks_Mockuo_Mobile.png](assets/images/mockups/mobile/home/howItWorks_Mockup_Mobile.png)
+![howItWorks_Mockuo_Mobile.png](assets/images/landingPage/mockups/mobile/home/howItWorks_Mockup_Mobile.png)
 
 Mockup de la sección Benefits of GoUni:
 
-![benefitsOfGoUni_Mockup_Mobile.png](assets/images/mockups/mobile/home/benefitsOfGoUni_Mockup_Mobile.png)
+![benefitsOfGoUni_Mockup_Mobile.png](assets/images/landingPage/mockups/mobile/home/benefitsOfGoUni_Mockup_Mobile.png)
 
 Mockup de la sección Security:
 
-![security_Mockup_Mobile.png](assets/images/mockups/mobile/home/security_Mockup_Mobile.png)
+![security_Mockup_Mobile.png](assets/images/landingPage/mockups/mobile/home/security_Mockup_Mobile.png)
 
 Mockup de la sección Plans:
 
-![plans_Mockup_Mobile.png](assets/images/mockups/mobile/home/plans_Mockup_Mobile.png)
+![plans_Mockup_Mobile.png](assets/images/landingPage/mockups/mobile/home/plans_Mockup_Mobile.png)
 
 Mockup de la sección Our Apps and Portals:
 
-![ourAppsAndPortals_Mockup_Mobile.png](assets/images/mockups/mobile/home/ourAppsAndPortals_Mockup_Mobile.png)
+![ourAppsAndPortals_Mockup_Mobile.png](assets/images/landingPage/mockups/mobile/home/ourAppsAndPortals_Mockup_Mobile.png)
 
 Mockup de la sección Contact Us:
 
-![contactUs_Mockup_Mobile.png](assets/images/mockups/mobile/home/contactUs_Mockup_Mobile.png)
+![contactUs_Mockup_Mobile.png](assets/images/landingPage/mockups/mobile/home/contactUs_Mockup_Mobile.png)
 
 Mockup de la sección Footer:
-![footerHome_Mockup_Mobile.png](assets/images/mockups/mobile/home/footerHome_Mockup_Mobile.png)
+![footerHome_Mockup_Mobile.png](assets/images/landingPage/mockups/mobile/home/footerHome_Mockup_Mobile.png)
 
 
 ##### Mockups de la sesion Sobre Nosotros:
 
 Mockup de la sección Header:
 
-![headerAboutUs_Mockup_Mobile.png](assets/images/mockups/mobile/aboutUs/headerAboutUs_Mockup_Mobile.png)
+![headerAboutUs_Mockup_Mobile.png](assets/images/landingPage/mockups/mobile/aboutUs/headerAboutUs_Mockup_Mobile.png)
 
 Mockup de la sección Why GoUni?:
 
-![whyGoUni_Mockup_Mobile.png](assets/images/mockups/mobile/aboutUs/whyGoUni_Mockup_Mobile.png)
+![whyGoUni_Mockup_Mobile.png](assets/images/landingPage/mockups/mobile/aboutUs/whyGoUni_Mockup_Mobile.png)
 
 Mockup de la sección Our Sponsors:
 
-![ourSponsors_Mockup_Mobile.png](assets/images/mockups/mobile/aboutUs/ourSponsors_Mockup_Mobile.png)
+![ourSponsors_Mockup_Mobile.png](assets/images/landingPage/mockups/mobile/aboutUs/ourSponsors_Mockup_Mobile.png)
 
 Mockup de la sección Our Team:
 
-![ourTeam_Mockup_Mobile.png](assets/images/mockups/mobile/aboutUs/ourTeam_Mockup_Mobile.png)
+![ourTeam_Mockup_Mobile.png](assets/images/landingPage/mockups/mobile/aboutUs/ourTeam_Mockup_Mobile.png)
 
 Mockup de la sección Footer:
 
-![footerAboutUs_Mockup_Mobiles.png](assets/images/mockups/mobile/aboutUs/footerAboutUs_Mockup_Mobiles.png)
+![footerAboutUs_Mockup_Mobiles.png](assets/images/landingPage/mockups/mobile/aboutUs/footerAboutUs_Mockup_Mobiles.png)
 
 
 ## 4.4. Web Applications UX/UI Design
@@ -391,13 +391,76 @@ Enlace a traves de la herramienta LucidChart:
 .
 
 ### 4.4.3. Web Applications Mock-ups
-.
 
-### Mock-ups versión Desktop:
-#### Mock-ups de la página principal
+En esta sección, presentamos los mockups de la aplicación web de GoUni, que ilustran el diseño final con detalles gráficos, tipografía y color. Los mockups son fundamentales para visualizar cómo se verá la aplicación final y para realizar ajustes antes del desarrollo.
 
+Inicio de sesión:
+
+![iniciarSesion_WebApplications.png](assets/images/webApplication/mockups/iniciarSesion_WebApplications.png)
+
+Creación de cuenta:
+
+![crearCuenta_WebApplication.png](assets/images/webApplication/mockups/crearCuenta_WebApplication.png)
+
+Elegir entre ser conductor o pasajero:
+
+![opcionEorC_WebApplications.png](assets/images/webApplication/mockups/opcionEorC_WebApplications.png)
+
+Registro de estudiante:
+
+![registroEstudiante_WebApplications.png](assets/images/webApplication/mockups/registroEstudiante_WebApplications.png)
+
+Registro de conductor:
+
+![registroConductor_WebApplications.png](assets/images/webApplication/mockups/registroConductor_WebApplications.png)
+
+Inicio de la Web Applications:
+
+![inicio_WebApplications.png](assets/images/webApplication/mockups/inicio_WebApplications.png)
+
+Servicios de la Web Applications:
+
+![servicio_WebApplications.png](assets/images/webApplication/mockups/servicio_WebApplications.png)
+
+
+Planes de la Web Applications:
+![planes_WebApplications.png](assets/images/webApplication/mockups/planes_WebApplications.png)
+
+Pagos del plan de la Web Applications:
+
+![pagos_WebApplications.png](assets/images/webApplication/mockups/pagos_WebApplications.png)
+
+Mapa de la Web Applications:
+
+![mapa_WebApplications.png](assets/images/webApplication/mockups/mapa_WebApplications.png)
+
+Reservas de la Web Applications:
+
+![reserva_WebApplications.png](assets/images/webApplication/mockups/reserva_WebApplications.png)
+
+Reserva descripción de la Web Applications:
+
+![reservaDescripcion_WebApplications.png](assets/images/webApplication/mockups/reservaDescripcion_WebApplications.png)
+
+Confirmación de reserva de la Web Applications:
+
+![confirmacionReserva_WebApplications.png](assets/images/webApplication/mockups/confirmacionReserva_WebApplications.png)
+
+Tus reservas de la Web Applications:
+
+![tusReservas_WebApplications.png](assets/images/webApplication/mockups/tusReservas_WebApplications.png)
+
+Chat de la Web Applications:
+
+![chat_WebApplications.png](assets/images/webApplication/mockups/chat_WebApplications.png)
+
+Calificación de la Web Applications:
+
+![puntaje_WebApplications.png](assets/images/webApplication/mockups/puntaje_WebApplications.png)
 
 Enlace a la mockup de la App Web en Figma:
+[Link Web Applications Mockups](https://www.figma.com/design/S0hrTzLLDq3a8tOxTfWqJx/Web-Applications-UX%2FUI-Design?node-id=0-1&t=mGQ1yGMxL5NhHeba-1)
+
 
 ### 4.4.4 Web Applications User Flow Diagrams.
 
@@ -410,7 +473,7 @@ Enlace de los User Flow Diagrams en LucidChart:
 <hr>
 En esta sección, presentamos los prototipos interactivos de las aplicaciones web de GoUni. Los prototipos permiten a los usuarios navegar por las diferentes pantallas y funcionalidades, simulando la experiencia de uso de la aplicación antes de su desarrollo.
 
-![WebApplicationsPrototyping.png](assets/images/WebApplicationProtoyping/WebApplicationsPrototyping.png)
+![WebApplicationsPrototyping.png](assets/images/webApplication/WebApplicationProtoyping/WebApplicationsPrototyping.png)
 
 Link Web Applications Prototyping:
 [Link Web Applications Prototyping](https://www.figma.com/proto/S0hrTzLLDq3a8tOxTfWqJx/Web-Applications-UX%2FUI-Design?page-id=0%3A1&node-id=1-50&node-type=FRAME&viewport=1434%2C1917%2C0.23&t=s9nxfg2WlkRXlbt2-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=7%3A894)
