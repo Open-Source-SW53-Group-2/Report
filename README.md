@@ -159,6 +159,62 @@ Wireframe de la sección Footer:
 
 ##### Versión Mobile:
 
+##### Wireframe de la página principal:
+
+Wireframe de la sección Header:
+
+![homeHome_Wireframe_Mobiles.png](assets/images/wireframes/mobiles/home/homeHome_Wireframe_Mobiles.png)
+
+Wireframe de la sección How It Works:
+
+![howItWorks_Wireframe_Mobiles.png](assets/images/wireframes/mobiles/home/howItWorks_Wireframe_Mobiles.png)
+
+Wireframe de la sección Benefits of GoUni:
+
+![benefitsOfGoUni_Wireframe_Mobiles.png](assets/images/wireframes/mobiles/home/benefitsOfGoUni_Wireframe_Mobiles.png)
+
+Wireframe de la sección Security:
+
+![security_Wireframe_Mobiles.png](assets/images/wireframes/mobiles/home/security_Wireframe_Mobiles.png)
+
+Wireframe de la sección Plans:
+
+![plans_Wireframe_Mobiles.png](assets/images/wireframes/mobiles/home/plans_Wireframe_Mobiles.png)
+
+Wireframe de la sección Our Apps and Portals:
+
+![ourAppsAndPortals_Wireframe_Mobiles.png](assets/images/wireframes/mobiles/home/ourAppsAndPortals_Wireframe_Mobiles.png)
+
+Wireframe de la sección Contact Us:
+
+![contactUs_Wireframe_Mobiles.png](assets/images/wireframes/mobiles/home/contactUs_Wireframe_Mobiles.png)
+
+Wireframe de la sección Footer:
+
+![footerHome_Wireframe_Mobiles.png](assets/images/wireframes/mobiles/home/footerHome_Wireframe_Mobiles.png)
+
+##### Wireframe de la sección Sobre Nosotros:
+
+Wireframe de la sección Header:
+
+![headerAboutUs_Wireframes_Mobiles.png](assets/images/wireframes/mobiles/aboutUs/headerAboutUs_Wireframes_Mobiles.png)
+
+Wireframe de la sección Why GoUni?:
+
+![whyGoUni_Wireframes_Mobiles.png](assets/images/wireframes/mobiles/aboutUs/whyGoUni_Wireframes_Mobiles.png)
+
+Wireframe de la sección Our Sponsors:
+
+![ourSponsors_Wireframes_Mobiles.png](assets/images/wireframes/mobiles/aboutUs/ourSponsors_Wireframes_Mobiles.png)
+
+Wireframe de la sección Our Team:
+
+![ourTeam_Wireframes_Mobiles.png](assets/images/wireframes/mobiles/aboutUs/ourTeam_Wireframes_Mobiles.png)
+
+Wireframe de la sección Footer:
+
+![footerAboutUs_Wireframes_Mobiles.png](assets/images/wireframes/mobiles/aboutUs/footerAboutUs_Wireframes_Mobiles.png)
+
 
 
 ### 4.3.2. Landing Page Mockup.
@@ -227,7 +283,61 @@ Mockup de la sección Footer:
 
 ##### Versión Mobile:
 
+#### Mockups de la página principal
 
+Mockup de la sección Header:
+
+![homeHome_Mockup_Mobile.png](assets/images/mockups/mobile/home/homeHome_Mockup_Mobile.png)
+
+Mockup de la sección How It Works:
+
+![howItWorks_Mockuo_Mobile.png](assets/images/mockups/mobile/home/howItWorks_Mockup_Mobile.png)
+
+Mockup de la sección Benefits of GoUni:
+
+![benefitsOfGoUni_Mockup_Mobile.png](assets/images/mockups/mobile/home/benefitsOfGoUni_Mockup_Mobile.png)
+
+Mockup de la sección Security:
+
+![security_Mockup_Mobile.png](assets/images/mockups/mobile/home/security_Mockup_Mobile.png)
+
+Mockup de la sección Plans:
+
+![plans_Mockup_Mobile.png](assets/images/mockups/mobile/home/plans_Mockup_Mobile.png)
+
+Mockup de la sección Our Apps and Portals:
+
+![ourAppsAndPortals_Mockup_Mobile.png](assets/images/mockups/mobile/home/ourAppsAndPortals_Mockup_Mobile.png)
+
+Mockup de la sección Contact Us:
+
+![contactUs_Mockup_Mobile.png](assets/images/mockups/mobile/home/contactUs_Mockup_Mobile.png)
+
+Mockup de la sección Footer:
+![footerHome_Mockup_Mobile.png](assets/images/mockups/mobile/home/footerHome_Mockup_Mobile.png)
+
+
+##### Mockups de la sesion Sobre Nosotros:
+
+Mockup de la sección Header:
+
+![headerAboutUs_Mockup_Mobile.png](assets/images/mockups/mobile/aboutUs/headerAboutUs_Mockup_Mobile.png)
+
+Mockup de la sección Why GoUni?:
+
+![whyGoUni_Mockup_Mobile.png](assets/images/mockups/mobile/aboutUs/whyGoUni_Mockup_Mobile.png)
+
+Mockup de la sección Our Sponsors:
+
+![ourSponsors_Mockup_Mobile.png](assets/images/mockups/mobile/aboutUs/ourSponsors_Mockup_Mobile.png)
+
+Mockup de la sección Our Team:
+
+![ourTeam_Mockup_Mobile.png](assets/images/mockups/mobile/aboutUs/ourTeam_Mockup_Mobile.png)
+
+Mockup de la sección Footer:
+
+![footerAboutUs_Mockup_Mobiles.png](assets/images/mockups/mobile/aboutUs/footerAboutUs_Mockup_Mobiles.png)
 
 ## 4.4. Web Applications UX/UI Design
 .
@@ -259,7 +369,6 @@ Enlace de los User Flow Diagrams en LucidChart:
 
 ## 4.5. Web Applications Prototyping.
 <hr>
-
 
 ### 4.6.3. Software Architecture Component Diagram.
 
