@@ -268,6 +268,126 @@ Enlace de los User Flow Diagrams en LucidChart:
 
 ### 4.7.2. Class Dictionary
 <hr>
+# **Usuario**
+La clase Usuario representa a un usuario dentro de la plataforma, ya sea un conductor o pasajero.
+## **Atributos:**
+
+|Atributo|Descripción|
+| :- | :- |
+|nombre: String|Almacena el nombre del usuario.|
+|email: String|Almacena la dirección de correo electrónico del usuario.|
+|contraseña: String|Almacena la contraseña del usuario.|
+|rol: Rol|Define el rol del usuario en la plataforma (conductor o pasajero).|
+|verificado: Boolean|Indica si el usuario ha verificado su identidad.|
+## **Métodos:**
+
+|Método|Descripción|
+| :- | :- |
+|registrarse(): void|Método para registrar a un nuevo usuario en la plataforma.|
+|iniciarSesion(): void|Método para que el usuario inicie sesión en la plataforma.|
+|verificarIdentidad(): void|Verifica la identidad del usuario a través de documentos o información adicional.|
+# **Evaluación**
+La clase Evaluación permite a los usuarios calificar y dejar comentarios sobre sus experiencias de viaje.
+## **Atributos:**
+
+|Atributo|Descripción|
+| :- | :- |
+|calificación: int|Almacena la calificación numérica del viaje (por ejemplo, de 1 a 5).|
+|comentario: String|Almacena los comentarios opcionales sobre el viaje.|
+|evaluador: Usuario|Almacena la información del usuario que realiza la evaluación.|
+|viaje: Viaje|Almacena la información del viaje evaluado.|
+## **Métodos:**
+
+|Método|Descripción|
+| :- | :- |
+|calificar(): void|Permite al usuario dejar una calificación sobre el viaje.|
+|dejarComentario(): void|Permite al usuario dejar un comentario opcional sobre el viaje.|
+# **Pasajero**
+La clase Pasajero es una extensión de Usuario y representa a los usuarios que buscan y reservan viajes.
+## **Métodos:**
+
+|Método|Descripción|
+| :- | :- |
+|buscarViaje(): void|Permite al pasajero buscar viajes disponibles en la plataforma.|
+|reservarViaje(): void|Permite al pasajero reservar un asiento en un vehículo disponible.|
+# **Vehículo**
+La clase Vehículo representa a los vehículos registrados por los conductores para ofrecer sus viajes.
+## **Atributos:**
+
+|Atributo|Descripción|
+| :- | :- |
+|tipo: String|Almacena el tipo de vehículo (sedán, SUV, camioneta, etc.).|
+|matrícula: String|Almacena la matrícula del vehículo.|
+|capacidad: int|Almacena la capacidad de pasajeros del vehículo.|
+## **Métodos:**
+
+|Método|Descripción|
+| :- | :- |
+|registrarVehiculo(): void|Permite al conductor registrar su vehículo en la plataforma.|
+|actualizarDetallesVehiculo(): void|Permite actualizar la información del vehículo.|
+# **Viaje**
+La clase Viaje representa un viaje específico que un conductor ofrece a los pasajeros.
+## **Atributos:**
+
+|Atributo|Descripción|
+| :- | :- |
+|origen: String|Almacena el lugar de origen del viaje.|
+|destino: String|Almacena el destino del viaje.|
+|horario: Date|Almacena la hora de salida del viaje.|
+|conductor: Conductor|Almacena la información del conductor que ofrece el viaje.|
+|estado: String|Almacena el estado del viaje (disponible, completado, cancelado).|
+## **Métodos:**
+
+|Método|Descripción|
+| :- | :- |
+|publicarViaje(): void|Permite al conductor publicar un viaje en la plataforma.|
+|reservarAsiento(): void|Permite reservar un asiento en el vehículo para un pasajero.|
+|actualizarEstado(): void|Actualiza el estado del viaje (por ejemplo, lleno, en curso).|
+# **Reserva**
+La clase Reserva representa la acción de un pasajero que reserva un asiento en un viaje.
+## **Atributos:**
+
+|Atributo|Descripción|
+| :- | :- |
+|pasajero: Pasajero|Almacena la información del pasajero que realizó la reserva.|
+|viaje: Viaje|Almacena la información del viaje reservado.|
+|asientoReservado: String|Almacena el asiento reservado en el vehículo.|
+|estado: String|Almacena el estado de la reserva (confirmada, cancelada).|
+## **Métodos:**
+
+|Método|Descripción|
+| :- | :- |
+|confirmarReserva(): void|Confirma la reserva realizada por el pasajero.|
+|cancelarReserva(): void|Permite cancelar una reserva antes del inicio del viaje.|
+# **Pago**
+La clase Pago representa la transacción realizada por un pasajero al reservar un viaje.
+## **Atributos:**
+
+|Atributo|Descripción|
+| :- | :- |
+|monto: float|Almacena el monto del pago por el viaje.|
+|metodoDePago: String|Almacena el método de pago utilizado (tarjeta, billetera digital, etc.).|
+|estado: String|Almacena el estado del pago (completado, pendiente).|
+## **Métodos:**
+
+|Método|Descripción|
+| :- | :- |
+|realizarPago(): void|Realiza el pago del viaje reservado.|
+|confirmarPago(): void|Confirma que el pago ha sido realizado con éxito.|
+# **Notificación**
+La clase Notificación gestiona el envío de mensajes a los usuarios en relación con sus viajes y reservas.
+## **Atributos:**
+
+|Atributo|Descripción|
+| :- | :- |
+|mensaje: String|Almacena el contenido de la notificación.|
+|tipo: String|Almacena el tipo de notificación (recordatorio, cambio de ruta, etc.).|
+|tiempo: Date|Almacena la fecha y hora de envío de la notificación.|
+## **Métodos:**
+
+|Método|Descripción|
+| :- | :- |
+|enviarNotificacion(): void|Envía la notificación al usuario correspondiente.|
 <br>
 
 ## 4.8. Database Design
