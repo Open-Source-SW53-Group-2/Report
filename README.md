@@ -408,6 +408,13 @@ Enlace de los User Flow Diagrams en LucidChart:
 
 ## 4.5. Web Applications Prototyping.
 <hr>
+En esta sección, presentamos los prototipos interactivos de las aplicaciones web de GoUni. Los prototipos permiten a los usuarios navegar por las diferentes pantallas y funcionalidades, simulando la experiencia de uso de la aplicación antes de su desarrollo.
+
+![WebApplicationsPrototyping.png](assets/images/WebApplicationProtoyping/WebApplicationsPrototyping.png)
+
+Link Web Applications Prototyping:
+[Link Web Applications Prototyping](https://www.figma.com/proto/S0hrTzLLDq3a8tOxTfWqJx/Web-Applications-UX%2FUI-Design?page-id=0%3A1&node-id=1-50&node-type=FRAME&viewport=1434%2C1917%2C0.23&t=s9nxfg2WlkRXlbt2-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=7%3A894)
+
 
 ### 4.6.3. Software Architecture Component Diagram.
 
