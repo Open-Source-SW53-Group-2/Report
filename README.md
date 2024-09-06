@@ -284,6 +284,28 @@ desde su casa hacia la universidad. Ella comenta que le gustaria mucho una alter
 de car-pooling dado a que podria conocer nuevas personas de la misma universidad, asi como ahorrar dinero para transporte
 y es un metodo para movilizarte de manera mas rapida en casos de urgencia.
 
+*Entrevista 3:*
+
+Nombres: Luis
+
+Apellidos: Suares Ayquipa
+
+Edad: 18
+
+Lugar de residencia: Lima, Peru
+
+Evidencia de la entrevista:
+
+<img src="images/interviews/entrevista03_luis.png">
+
+Enlace de la entrevista:
+
+[Link de entrevista03_EstudianteUniversitario_LuisSuarez](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c250_upc_edu_pe/EXdQE3rWyAZNsbO1QS9oiMkB_984UXL8rCbGILEDXa90fQ?e=4Wa9C4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+Resumen de la entrevista:
+
+Luis Suárez, de 18 años y residente en Santa Anita, Lima, usa el transporte público diariamente para ir a la universidad, enfrentando problemas como el tráfico, la inseguridad y la incomodidad de los buses llenos. Estaría dispuesto a compartir su trayecto con otros estudiantes por razones de seguridad y ahorro. Le gustaría que los conductores estuvieran verificados y monitoreados para mayor tranquilidad. Además, cree que un servicio de ride-sharing mejoraría su experiencia al reducir tiempos y hacer el viaje más cómodo.
+
 <br>
 
 *Segmento 2: Estudiantes universitarios propietarios de vehiculos privados*
