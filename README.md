@@ -464,10 +464,19 @@ Enlace a la mockup de la App Web en Figma:
 
 ### 4.4.4 Web Applications User Flow Diagrams.
 
+Los User Flow Diagrams son diagramas que representan la secuencia de pasos que un usuario sigue al interactuar con la aplicación web. Estos diagramas muestran cómo los usuarios navegan por la plataforma, desde el inicio de sesión hasta la reserva de un viaje.
+
 Enlace de los User Flow Diagrams en LucidChart:
+[Link de los User Flow Diagrams](https://lucid.app/lucidspark/7a90b2a6-17d1-4722-836a-0c5cea806e6c/edit?viewport_loc=-242%2C-2574%2C12846%2C6844%2C0_0&invitationId=inv_976795c2-e182-45e2-a40d-3b91afa9fea9)
 
+Inicio de sesión y creación de cuenta:
+![iniciarSesion.png](assets/images/webApplication/userFlowDiagrams/iniciarSesion.png)
 
+Plan de pago:
+![plan.png](assets/images/webApplication/userFlowDiagrams/plan.png)
 
+Realizar reserva:
+![reservarViaje.png](assets/images/webApplication/userFlowDiagrams/reservarViaje.png)
 
 ## 4.5. Web Applications Prototyping.
 <hr>
