@@ -377,6 +377,7 @@ Mockup de la sección Footer:
 
 ![footerAboutUs_Mockup_Mobiles.png](assets/images/mockups/mobile/aboutUs/footerAboutUs_Mockup_Mobiles.png)
 
+
 ## 4.4. Web Applications UX/UI Design
 .
 
