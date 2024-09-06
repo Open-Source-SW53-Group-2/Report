@@ -1,40 +1,42 @@
 # Capítulo IV: Product Design
-En este capítulo .
+En este capítulo describimos las directrices de diseño y estilo para el producto, asegurando una experiencia visual coherente y atractiva para el usuario.
 
 ## 4.1. Style Guidelines.
-En esta sección .
+En esta sección se describen las pautas generales de estilo que guían la apariencia visual del producto, incluyendo el uso de colores, tipografía y espaciado.
 
 ### 4.1.1. General Style Guidelines.
-### Historia de la marca
-### Misión
-.
+Las directrices generales aseguran una estética que refuerza la marca y proporciona claridad visual para los usuarios.
 
-### Visión
-.
+#### Historia de la marca
+La marca busca transmitir modernidad y profesionalismo, reflejando estos valores en cada elemento visual del diseño.
 
-### Brand Name
-.
+#### Misión
+Proporcionar a los usuarios una experiencia fluida y atractiva, con interfaces claras y consistentes.
 
-### Colores
-.
+#### Visión
+Ser reconocidos como una marca que combina funcionalidad y estilo en el diseño de productos digitales.
 
+#### Brand Name
+El nombre de la marca es un elemento clave de nuestra identidad, representando los valores fundamentales de la empresa.
 
-### Tipografía
-.
-<
+#### Colores
+La paleta de colores está diseñada para proporcionar un equilibrio visual. Utilizamos una combinación de tonos brillantes y neutros para transmitir profesionalismo y modernidad.
 
+![Paleta de Colores](assets/images/colors.png)
 
+#### Tipografía
+Usamos la tipografía **Roboto** en diferentes pesos para establecer jerarquía visual y garantizar una legibilidad óptima. El color de la letra principal es `#404040`.
 
-### Espaciado
-.
+![Guía de Tipografía](assets/images/guidelines.png)
 
-Tamaño de letra:
+#### Espaciado
+El espaciado entre elementos visuales asegura una estructura clara y organizada, ayudando a los usuarios a navegar por el contenido de forma fluida.
 
-Interlineado:
-.
+- **Tamaño de letra**: Las fuentes varían desde 12px hasta 98px según la jerarquía del texto.
+- **Interlineado**: Mantenemos un interlineado proporcional para mejorar la legibilidad.
 
 ### 4.1.2. Web Style Guidelines.
-.
+Las pautas de estilo para la web están diseñadas para asegurar que el diseño sea funcional y atractivo tanto en dispositivos móviles como en pantallas grandes. Incluir consistencia en colores, tipografías y espaciado es clave para mantener la identidad visual en todas las plataformas.
 
 ## 4.2. Information Architecture.
 .
