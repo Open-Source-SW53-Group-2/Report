@@ -452,9 +452,23 @@ Wireframe de la página de calificacion:
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
+Los Wireflow Diagrams son diagramas que representan la secuencia de pasos que un usuario sigue al interactuar con la aplicación web. Estos diagramas muestran cómo los usuarios navegan por la plataforma, desde el inicio de sesión hasta la reserva de un viaje.
+
 Enlace a traves de la herramienta LucidChart:
-[Link Web Applications Wireflow Diagrams](https://lucid.app/lucidspark/7a90b2a6-17d1-4722-836a-0c5cea806e6c/edit?viewport_loc=-5206%2C-1878%2C10303%2C5495%2C0_0&invitationId=inv_976795c2-e182-45e2-a40d-3b91afa9fea9)
-.
+[Link Web Applications Wireflow Diagrams](https://lucid.app/lucidspark/7a90b2a6-17d1-4722-836a-0c5cea806e6c/edit?viewport_loc=538%2C-1750%2C11250%2C6000%2C0_0&invitationId=inv_976795c2-e182-45e2-a40d-3b91afa9fea9)
+
+#### Wireflow Diagrams de las Aplicaciones Web en LucidChart Iniciar Sesion:
+
+![iniciarSesion.png](assets/images/userFlowDiagramsMockup/iniciarSesion.png)
+
+Wireflow Diagrams de las Aplicaciones Web en LucidChart Plan:
+
+![plan.png](assets/images/userFlowDiagramsMockup/plan.png)
+
+Wireflow Diagrams de las Aplicaciones Web en LucidChart Reservar Viaje:
+
+![reservarViaje.png](assets/images/userFlowDiagramsMockup/reservarViaje.png)
+
 
 ### 4.4.3. Web Applications Mock-ups
 
