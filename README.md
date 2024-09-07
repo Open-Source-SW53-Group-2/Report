@@ -159,10 +159,13 @@ Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la sigui
 
 **Studen Outcome**
 
-|Criterio Especifico|Acciones Realizadas|Conclusiones|
-|-------------------|-------------------|------------|
-|Comunica oralmente sus <br>ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto eningeniería.|**Luis Anampa**<br>TB1:<br><br>**Alessandro David**<br>TB1:<br><br>**Franky Mallma**<br>TB1:<br><br>**Joan Talizo**<br>TB1:<br><br>**Samuel Valera**<br>TB1:<br>||
-|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del <br>desarrollo de un proyecto en ingeniería.|**Luis Anampa**<br>TB1:<br><br>**Alessandro David**<br>TB1:<br><br>**Franky Mallma**<br>TB1:<br><br>**Joan Talizo**<br>TB1:<br><br>**Samuel Valera**<br>TB1:<br>||
+**Student Outcome**
+
+| Criterio Específico                                                                                                         | Acciones Realizadas                                                                                                                                                                                                                   | Conclusiones |
+|----------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | **Luis Anampa**<br>TB1:<br><br>**Alessandro David**<br>TB1:<br><br>**Franky Mallma**<br>TB1:<br><br>**Joan Talizo**<br>TB1:<br><br>**Samuel Valera**<br>Coordinamos el desarrollo de las entrevistas, así como las fechas de entrega de nuestras partes individuales, a lo que nos reunimos acto seguido para explicar nuestro desarrollo |              |
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | **Luis Anampa**<br>TB1:<br><br>**Alessandro David**<br>TB1:<br><br>**Franky Mallma**<br>TB1:<br><br>**Joan Talizo**<br>TB1:<br><br>**Samuel Valera**<br>Desarrollo de parte del capítulo 4, codificación de la Landing Page, entrevista, conclusiones y anexo |              |
+
 
 # [**Capítulo I: Introducción.**](#capítulo-i-introducción)
 ## [**1.1  Startup Profile.**](#startup-profile)
