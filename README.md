@@ -1,14 +1,16 @@
 # Capítulo III: Requirements Specification
 
 ## 3.1. To-Be Scenario Mapping.
-.
 
-**(Nombre Seg01):**
+En esta sección se resume la información recopilada, se realiza dos tablas con la situación a mejorar del segmento objetivo, analizando que pasos que se realizaran y como se siente.
 
-**(Nombre Seg02)**
+*Segmento Estudiantes Universitarios que necesiten movilizarse*
 
+![SMobjetivo1](images/ScenarioMapO1.jpg)
 
-Enlace de Miro:
+*Segmento Estudiantes Universitarios propetarios de vehiculo privado*
+
+![SMobjetivo2](images/ScenarioMapO2.jpg)
 
 ## 3.2. User Stories
 <table>
