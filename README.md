@@ -637,23 +637,292 @@ Enlace de Miro:
 <tr class="odd">
 <td>1</td>
 <td>US01</td>
-<td>.</td>
-<td><p><strong>Como</strong> .</p>
-<p><strong>quiero</strong> .</p>
-<p><strong>para</strong> .</p></td>
+<td>Compartir viajes con compañeros de universidad</td>
+<td><p><strong>Como</strong> estudiante universitario sin vehículo,</p>
+<p><strong>quiero</strong> compartir viajes con compañeros que se dirijan a la universidad</p>
+<p><strong>para</strong> reducir costos y llegar de manera más eficiente</p></td>
 <td>Alta</td>
-<td>.</td>
+<td>8</td>
 </tr>
 <tr class="even">
 <td>2</td>
 <td>US02</td>
-<td>.</td>
-<td><p><strong>Como</strong> .</p>
-<p><strong>quiero</strong> .</p>
-<p><strong>para</strong> .</p></td>
-<td>Baja</td>
-<td>1</td>
+<td>Generar ingresos compartiendo mi vehículo</td>
+<td><p><strong>Como</strong> estudiante universitario con vehículo propio,</p>
+<p><strong>quiero</strong> ofrecer lugares en mi auto a otros estudiantes que van hacia la universidad</p>
+<p><strong>para</strong> reducir mis gastos de transporte y generar ingresos adicionales</p></td>
+<td>Alta</td>
+<td>8</td>
 </tr>
-
+<tr class="odd">
+<td>3</td>
+<td>US03</td>
+<td>Evaluar la seguridad del viaje</td>
+<td><p><strong>Como</strong> estudiante,</p>
+<p><strong>quiero</strong> evaluar a los conductores y recibir calificaciones de otros usuarios</p>
+<p><strong>para</strong> asegurarme de que el viaje sea seguro y confiable</p></td>
+<td>Alta</td>
+<td>5</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>US04</td>
+<td>Recibir notificaciones en tiempo real</td>
+<td><p><strong>Como</strong> estudiante pasajero,</p>
+<p><strong>quiero</strong> recibir notificaciones en tiempo real sobre mi viaje</p>
+<p><strong>para</strong> estar al tanto de cualquier cambio en la ruta o el horario</p></td>
+<td>Media</td>
+<td>5</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>US05</td>
+<td>Verificación de identidades</td>
+<td><p><strong>Como</strong> usuario de la plataforma,</p>
+<p><strong>quiero</strong> que tanto los conductores como los pasajeros verifiquen sus identidades</p>
+<p><strong>para</strong> asegurarme de que mi viaje será con personas confiables</p></td>
+<td>Alta</td>
+<td>8</td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>US06</td>
+<td>Realizar pagos de manera segura</td>
+<td><p><strong>Como</strong> pasajero,</p>
+<p><strong>quiero</strong> realizar el pago del viaje a través de la plataforma de forma segura</p>
+<p><strong>para</strong> no tener que manejar efectivo durante el trayecto</p></td>
+<td>Alta</td>
+<td>8</td>
+</tr>
+<tr class="odd">
+<td>7</td>
+<td>US07</td>
+<td>Registro de usuario</td>
+<td><p><strong>Como</strong> Usuario,</p>
+<p><strong>quiero</strong> poder crear mi usuario</p>
+<p><strong>para</strong> acceder al servicio de carpooling</p></td>
+<td>Alta</td>
+<td>3</td>
+</tr>
+<tr class="even">
+<td>8</td>
+<td>US08</td>
+<td>Búsqueda de viajes disponibles</td>
+<td><p><strong>Como</strong> Usuario,</p>
+<p><strong>quiero</strong> buscar viajes disponibles</p>
+<p><strong>para</strong> poder planificar mis desplazamientos</p></td>
+<td>Alta</td>
+<td>5</td>
+</tr>
+<tr class="odd">
+<td>9</td>
+<td>US09</td>
+<td>Reserva de viaje</td>
+<td><p><strong>Como</strong> Usuario,</p>
+<p><strong>quiero</strong> poder reservar un asiento en el viaje disponible</p>
+<p><strong>para</strong> garantizar mi lugar</p></td>
+<td>Alta</td>
+<td>5</td>
+</tr>
+<tr class="even">
+<td>10</td>
+<td>US10</td>
+<td>Comunicación con el conductor</td>
+<td><p><strong>Como</strong> Usuario,</p>
+<p><strong>quiero</strong> poder comunicarme con el conductor de mi viaje</p>
+<p><strong>para</strong> coordinar detalles y obtener información adicional</p></td>
+<td>Media</td>
+<td>3</td>
+</tr>
+<tr class="odd">
+<td>11</td>
+<td>US11</td>
+<td>Cancelación de reserva</td>
+<td><p><strong>Como</strong> Usuario,</p>
+<p><strong>quiero</strong> poder cancelar una reserva de viaje</p>
+<p><strong>para</strong> los casos de que surjan imprevistos</p></td>
+<td>Media</td>
+<td>3</td>
+</tr>
+<tr class="even">
+<td>12</td>
+<td>US12</td>
+<td>Calificación y comentario del conductor</td>
+<td><p><strong>Como</strong> Usuario,</p>
+<p><strong>quiero</strong> poder calificar y dejar comentarios sobre la experiencia de viaje con el conductor</p>
+<p><strong>para</strong> ayudar a otros usuarios en su elección</p></td>
+<td>Alta</td>
+<td>3</td>
+</tr>
+<tr class="odd">
+<td>13</td>
+<td>US13</td>
+<td>Publicación de disponibilidad de asientos</td>
+<td><p><strong>Como</strong> Usuario con vehículo,</p>
+<p><strong>quiero</strong> publicar la disponibilidad de asientos</p>
+<p><strong>para</strong> que otros estudiantes puedan reservar</p></td>
+<td>Alta</td>
+<td>5</td>
+</tr>
+<tr class="even">
+<td>14</td>
+<td>US14</td>
+<td>Gestión de reservas</td>
+<td><p><strong>Como</strong> Usuario con vehículo,</p>
+<p><strong>quiero</strong> gestionar las reservas de los pasajeros</p>
+<p><strong>para</strong> confirmar los pasajeros y horarios</p></td>
+<td>Alta</td>
+<td>5</td>
+</tr>
+<tr class="odd">
+<td>15</td>
+<td>US15</td>
+<td>Visualizar planes de servicio</td>
+<td><p><strong>Como</strong> usuario que visita la plataforma del restaurante,</p>
+<p><strong>quiero</strong> visualizar los planes de servicio disponibles</p>
+<p><strong>para</strong> evaluar las opciones y elegir el que mejor se adapte a mis necesidades</p></td>
+<td>Media</td>
+<td>5</td>
+</tr>
+<tr class="even">
+<td>16</td>
+<td>US16</td>
+<td>Seleccionar un plan de servicio</td>
+<td><p><strong>Como</strong> usuario registrado en la plataforma,</p>
+<p><strong>quiero</strong> seleccionar un plan de servicio</p>
+<p><strong>para</strong> adquirir los beneficios específicos que ofrece el plan</p></td>
+<td>Media</td>
+<td>5</td>
+</tr>
+<tr class="odd">
+<td>17</td>
+<td>US17</td>
+<td>Realizar el pago del plan seleccionado</td>
+<td><p><strong>Como</strong> usuario que ha seleccionado un plan,</p>
+<p><strong>quiero</strong> realizar el pago del plan seleccionado</p>
+<p><strong>para</strong> activar los beneficios del plan y comenzar a utilizarlos</p></td>
+<td>Alta</td>
+<td>8</td>
+</tr>
+<tr class="even">
+<td>18</td>
+<td>US18</td>
+<td>Cancelar suscripción o plan</td>
+<td><p><strong>Como</strong> usuario que ha adquirido un plan,</p>
+<p><strong>quiero</strong> cancelar mi suscripción o plan</p>
+<p><strong>para</strong> dejar de recibir los beneficios y evitar cargos futuros</p></td>
+<td>Media</td>
+<td>3</td>
+</tr>
+<tr class="odd">
+<td>19</td>
+<td>US19</td>
+<td>Barra de navegación en la landing page</td>
+<td><p><strong>Como</strong> cliente o conductor,</p>
+<p><strong>quiero</strong> una barra de navegación en la landing page,</p>
+<p><strong>para</strong> tener acceso directo a la aplicación</p></td>
+<td>Media</td>
+<td>3</td>
+</tr>
+<tr class="even">
+<td>20</td>
+<td>US20</td>
+<td>Dirigirse a la aplicación mediante la landing page</td>
+<td><p><strong>Como</strong> cliente o conductor,</p>
+<p><strong>quiero</strong> dirigirme a la aplicación mediante el botón “Open App”,</p>
+<p><strong>para</strong> poder usarla</p></td>
+<td>Media</td>
+<td>3</td>
+</tr>
+<tr class="odd">
+<td>21</td>
+<td>US21</td>
+<td>Sección hero del landing page</td>
+<td><p><strong>Como</strong> cliente o conductor,</p>
+<p><strong>quiero</strong> observar la sección hero de la landing,</p>
+<p><strong>para</strong> poder tener información de lo que es y ofrece la aplicación</p></td>
+<td>Media</td>
+<td>5</td>
+</tr>
+<tr class="even">
+<td>22</td>
+<td>US22</td>
+<td>Versión en español de la landing page</td>
+<td><p><strong>Como</strong> cliente o conductor,</p>
+<p><strong>quiero</strong> tener al alcance una versión en español del landing page,</p>
+<p><strong>para</strong> tener accesibilidad en cuanto a opciones de idioma</p></td>
+<td>Media</td>
+<td>5</td>
+</tr>
+<tr class="odd">
+<td>23</td>
+<td>US23</td>
+<td>Sección about the product y about the team</td>
+<td><p><strong>Como</strong> cliente o staff,</p>
+<p><strong>quiero</strong> ver la sección del about the product y about the team,</p>
+<p><strong>para</strong> conocer las características de la aplicación y del grupo de desarrolladores</p></td>
+<td>Media</td>
+<td>5</td>
+</tr>
+<tr class="even">
+<td>24</td>
+<td>US24</td>
+<td>Agendar notificaciones de recordatorio de viajes</td>
+<td><p><strong>Como</strong> pasajero,</p>
+<p><strong>quiero</strong> recibir notificaciones de recordatorio antes del inicio de mi viaje,</p>
+<p><strong>para</strong> asegurarme de estar listo a tiempo</p></td>
+<td>Alta</td>
+<td>5</td>
+</tr>
+<tr class="odd">
+<td>25</td>
+<td>US25</td>
+<td>Filtrar viajes por tipos de vehículos</td>
+<td><p><strong>Como</strong> pasajero,</p>
+<p><strong>quiero</strong> poder filtrar los viajes según el tipo de vehículo,</p>
+<p><strong>para</strong> seleccionar el que más se ajuste a mis necesidades</p></td>
+<td>Alta</td>
+<td>5</td>
+</tr>
+<tr class="even">
+<td>26</td>
+<td>US26</td>
+<td>Establecer destinos secundarios</td>
+<td><p><strong>Como</strong> conductor,</p>
+<p><strong>quiero</strong> poder establecer destinos secundarios durante mi ruta,</p>
+<p><strong>para</strong> recoger a más estudiantes en puntos intermedios</p></td>
+<td>Alta</td>
+<td>5</td>
+</tr>
+<tr class="odd">
+<td>27</td>
+<td>US27</td>
+<td>Opciones de seguridad adicionales para conductores</td>
+<td><p><strong>Como</strong> conductor,</p>
+<p><strong>quiero</strong> poder acceder a opciones adicionales de seguridad, como compartir mi ubicación en tiempo real,</p>
+<p><strong>para</strong> garantizar un viaje seguro</p></td>
+<td>Alta</td>
+<td>5</td>
+</tr>
+<tr class="even">
+<td>28</td>
+<td>US28</td>
+<td>Identificación de usuarios frecuentes</td>
+<td><p><strong>Como</strong> pasajero frecuente,</p>
+<p><strong>quiero</strong> poder marcar ciertos conductores como favoritos,</p>
+<p><strong>para</strong> facilitar la reserva de futuros viajes con ellos</p></td>
+<td>Media</td>
+<td>3</td>
+</tr>
+<tr class="odd">
+<td>29</td>
+<td>US29</td>
+<td>Programar viajes recurrentes</td>
+<td><p><strong>Como</strong> usuario,</p>
+<p><strong>quiero</strong> poder programar viajes recurrentes,</p>
+<p><strong>para</strong> no tener que hacer reservas diarias cada vez que necesite transporte</p></td>
+<td>Alta</td>
+<td>8</td>
+</tr>
 </tbody>
 </table>
