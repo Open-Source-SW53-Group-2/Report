@@ -387,24 +387,24 @@ y conductor.
 
 *Objetivas*
 </TD>
-<TD>.</TD>
-<TD>.</TD>
-<TD>.</TD>
+<TD>Tráfico</TD>
+<TD>Costos</TD>
+<TD>Seguridad</TD>
 </TR>
 <TR>
-<TD>.</TD>
-<TD>.</TD>
-<TD>.</TD>
+<TD>Problemas con el tráfico diario</TD>
+<TD>Potencial de ahorro en transporte </TD>
+<TD>Preocupación por la seguridad en transporte público</TD>
 </TR>
 <TR>
-<TD>.</TD>
-<TD>.</TD>
-<TD>.</TD>
+<TD>Menos relevante, pero buscan reducir tiempo y costo</TD>
+<TD>Reducir costos de transporte es clave </TD>
+<TD>Seguridad personal y verificación de identidad son cruciales</TD>
 </TR>
 <TR>
-<TD >.</TD>
-<TD>.</TD>
-<TD>.</TD>
+<TD >Mejoraría tiempos de viaje y eficiencia</TD>
+<TD>N/A<</TD>
+<TD>Reducir tiempos también es valorado</TD>
 </TR>
 
    <TR>
@@ -412,23 +412,21 @@ y conductor.
 
 *Subjetivas*
 </TD>
-<TD>.</TD>
-<TD>.</TD>
-<TD>.</TD>
+<TD>Conexiones sociales</TD>
+<TD>Comodidad</TD>
+<TD>Reglas claras</TD>
 <TR>
-<TD>.</TD>
-<TD>.</TD>
-<TD>.</TD>
+<TD>Oportunidad de hacer networking con otros estudiantes</TD>
+<TD>Preferirían más comodidad que en transporte público</TD>
+<TD>N/A</TD>
 </TR>
 <TR>
-<TD>.</TD>
-<TD>.</TD>
-<TD>.</TD>
+<TD>Hacer nuevas amistades mientras reducen costos</TD>
+<TD>Preocupación por la comodidad de los pasajeros</TD>
+<TD>Necesidad de reglas claras y sistemas de calificación</TD>
 </TR>
 <TR>
-<TD>.</TD>
-<TD>.</TD>
-<TD>.</TD>
+
 </TR>
 </TABLE>
 
