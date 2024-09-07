@@ -86,9 +86,9 @@ Plataforma empleada tanto como para la creación de la documentación y de la La
 
 La administración y estructuración de las múltiples modificaciones se realizaron mediante la creación de un repositorio en GitHub para el proyecto. Nuestra organización se estructuró de la siguiente manera:
 
-Organización: <https://github.com/upc-pre-202401-si729-sw51-the-coders> 
+Organización: <https://github.com/Open-Source-SW53-Group-2> 
 
-   Repositorio de la Landing page: <https://github.com/upc-pre-202401-si729-sw51-the-coders/upc-pre-202401-si729-sw51-the-coders-landing-page> 
+   Repositorio de la Landing page: <https://github.com/Open-Source-SW53-Group-2/Landing-Page>
 
    Además, con el objetivo de mejorar el control sobre la creación de ramas y la implementación de cambios en el código fuente, se procedió a utilizar Gitflow. De esta forma, se establecieron 2 ramas principales: main y develop.
 
@@ -104,7 +104,7 @@ Rama “release”: La rama “release” se emplea para la preparación del lan
 
    Rama “feature”: En las ramas “feature” se desarrollan las características generales que se integrarán en la rama “develop”. Estas características son aquellas funcionalidades solicitadas por los usuarios tanto en la página de inicio como en la aplicación web. Por ejemplo, la rama feature/navbar.
 
-Rama “hotfix”: Esta rama se utiliza para corregir urgentemente errores en la última versión de la rama “main” que no pueden esperar hasta el próximo lanzamiento para ser solucionados.
+Rama “develop”: Esta rama se utiliza para corregir urgentemente errores en la última versión de la rama “main” que no pueden esperar hasta el próximo lanzamiento para ser solucionados.
 
 
 
@@ -145,7 +145,7 @@ Para la gestión de versiones, seguimos el estándar “Semantic Versioning 2.0.
 - Z: Refleja parches y correcciones de errores menores, integrando commits realizados en la “rama de corrección” y fusionados con la rama principal.
 4. **Software Deployment Configuration.**
 
-   Entrar a Netlify y presionar la opción de “Import an existing project”
+   Entrar a Vercel y presionar la opción de “Import an existing project”
 
    ![](images/Aspose.Words.83a09d9a-818b-4b03-949e-520e588e84ba.001.png)
 
@@ -157,13 +157,11 @@ Para la gestión de versiones, seguimos el estándar “Semantic Versioning 2.0.
 
    Para finalmente agregar la data necesaria para el despliegue
 
-   ![](images/Aspose.Words.83a09d9a-818b-4b03-949e-520e588e84ba.003.png)
 
    Y final solo presionar el botón con el nombre de proyecto a desplegar
 
-![](images/Aspose.Words.83a09d9a-818b-4b03-949e-520e588e84ba.004.png)
 
-- Link de la Landing page:[ ](https://echero11.github.io/OpenSource_GasYa_LandingPage/)[**https://upc-pre-202401-si729-sw51-cartunn.netlify.app**](https://upc-pre-202401-si729-sw51-cartunn.netlify.app)
+- Link de la Landing page:[ ](https://echero11.github.io/OpenSource_GasYa_LandingPage/)[**https://landing-page-three-zeta-24.vercel.app/**](https://landing-page-three-zeta-24.vercel.app/)
 
 2. **Product Implementation & Deployment**
   1. **Sprint 1**
@@ -293,17 +291,17 @@ En este sprint planning 1 se presenta la evidencia de la planificación e implem
 
    **Pasos para este sprint:**
 
-1. Creación de cuenta en netlify
+1. Creación de cuenta en vercel
 
-![](images/Aspose.Words.83a09d9a-818b-4b03-949e-520e588e84ba.007.png)
+![](images/WhatsApp%20Image%202024-09-07%20at%2011.32.00%20AM.jpeg)
 
 2. Selección de  la opción de “add new website” para elegir el proyecto que queremos deplegar
 
-   ![](images/Aspose.Words.83a09d9a-818b-4b03-949e-520e588e84ba.008.png)
+   ![](images/WhatsApp%20Image%202024-09-07%20at%2011.18.27%20AM.jpeg)
 
 3. Finalmente, elegimos nuestra rama a desplegar y hacemos click en “Desploy”
 
-   ![](images/Aspose.Words.83a09d9a-818b-4b03-949e-520e588e84ba.009.png)
+   ![](images/WhatsApp%20Image%202024-09-07%20at%2011.22.02%20AM.jpeg)
 
 8. **Team Collaboration Insights during Sprint**
 
@@ -336,7 +334,18 @@ En este sprint planning 1 se presenta la evidencia de la planificación e implem
 
    Durante este sprint para proteger la rama “main” creamos una rama “develop” de la que cada integrante de nuestro grupo creó su propia sub-rama “feature“ para subir un capítulo del reporte siguiendo las convenciones antes señaladas(conventional commit y git flow).
 
-   **Github analytics de nuestro primer sprint:** 
+   **Github analytics de nuestro primer sprint:**
+
+![](images/commits.png)
+
+**Conclusiones**
+
+
+
+**Anexos**
+
+
+
 
 
 
