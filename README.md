@@ -379,15 +379,81 @@ Mockup de la sección Footer:
 
 
 ## 4.4. Web Applications UX/UI Design
-.
+En esta sección, presentamos el diseño de la interfaz de usuario de las aplicaciones web de GoUni, que incluyen el inicio de sesión, la creación de cuenta, la búsqueda de viajes, la reserva de asientos y la calificación de conductores. El diseño se ha desarrollado teniendo en cuenta la experiencia del usuario y la accesibilidad en diferentes dispositivos.
 
 ### 4.4.1. Web Applications Wireframes
-.
+
+Enlace a los wireframes de las aplicaciones web en Figma:
+[Link Web Applications Wireframes](https://www.figma.com/design/tZ5rICQthPLiCqfgP01GU0/Web-Applications-UX%2FUI-Design-Wireframe?node-id=0-1&t=HjBTAU6Vvysv7zEy-1)
+
+#### Wireframes de las Aplicaciones Web en Figma:
+
+Wireframe de la página de inicio de sesión:
+
+![Iniciar de sesion.png](assets/images/webApplicationsWireframe/Iniciar%20de%20sesion.png)
+
+Wireframe de la página de creación de cuenta:
+![creacionDeCuenta.png](assets/images/webApplicationsWireframe/creacionDeCuenta.png)
+
+Wireframe de la página de creación de cuenta elija una opcion:
+
+![elijaOpcionEC.png](assets/images/webApplicationsWireframe/elijaOpcionEC.png)
+
+Wireframe de la página de creación de cuenta conductor:
+![confirmacionConductor.png](assets/images/webApplicationsWireframe/confirmacionConductor.png)
+
+Wireframe de la página de creación de cuenta estudiante:
+![creacionEstudiante.png](assets/images/webApplicationsWireframe/creacionEstudiante.png)
+
+Wireframe de la página de inicio:
+
+![inicio.png](assets/images/webApplicationsWireframe/inicio.png)
+
+Wireframe de la página de servicios:
+
+![servicio.png](assets/images/webApplicationsWireframe/servicio.png)
+
+Wireframe de la página de planes de suscripcion:
+
+![planesSubs.png](assets/images/webApplicationsWireframe/planesSubs.png)
+
+Wireframe de la página de pagos:
+
+![pagos.png](assets/images/webApplicationsWireframe/pagos.png)
+
+Wireframe de maps:
+
+![maps.png](assets/images/webApplicationsWireframe/maps.png)
+
+Wireframe de la página de reservas:
+
+![reserva.png](assets/images/webApplicationsWireframe/reserva.png)
+
+Wireframe de la página de reserva descripcion:
+
+![reservaDescripcion.png](assets/images/webApplicationsWireframe/reservaDescripcion.png)
+
+Wireframe de la página de confirmacion:
+![confirmacion.png](assets/images/webApplicationsWireframe/confirmacion.png)
+
+Wireframe de la página de tus reservas:
+
+![tuReserva.png](assets/images/webApplicationsWireframe/tuReserva.png)
+
+Wireframe de la página de chat:
+
+![chat.png](assets/images/webApplicationsWireframe/chat.png)
+
+Wireframe de la página de calificacion:
+![puntaje.png](assets/images/webApplicationsWireframe/puntaje.png)
+
+
+
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
 Enlace a traves de la herramienta LucidChart:
-
+[Link Web Applications Wireflow Diagrams](https://lucid.app/lucidspark/7a90b2a6-17d1-4722-836a-0c5cea806e6c/edit?viewport_loc=-5206%2C-1878%2C10303%2C5495%2C0_0&invitationId=inv_976795c2-e182-45e2-a40d-3b91afa9fea9)
 .
 
 ### 4.4.3. Web Applications Mock-ups
@@ -484,8 +550,13 @@ En esta sección, presentamos los prototipos interactivos de las aplicaciones we
 
 ![WebApplicationsPrototyping.png](assets/images/webApplication/WebApplicationProtoyping/WebApplicationsPrototyping.png)
 
+Además, se adjunta el enlace al video completo de la presentación del prototipo:
+[Link Web Applications Prototyping](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223781_upc_edu_pe/ETLKK76SNXVJikhwsDJGTSkBZAvEbGNU4ak4g69Tj3FgIw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=IVuicG)
+
 Link Web Applications Prototyping:
 [Link Web Applications Prototyping](https://www.figma.com/proto/S0hrTzLLDq3a8tOxTfWqJx/Web-Applications-UX%2FUI-Design?page-id=0%3A1&node-id=1-50&node-type=FRAME&viewport=1434%2C1917%2C0.23&t=s9nxfg2WlkRXlbt2-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=7%3A894)
+
+
 
 ## 4.6 Domain-Driven Software Architecture.
 
