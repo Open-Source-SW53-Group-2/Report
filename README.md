@@ -359,10 +359,38 @@ La plataforma utiliza tecnología móvil avanzada y un enfoque innovador para cr
 
 **Anexos**
 
-- [Documento de Google Docs](https://docs.google.com/document/d/1MR4d_6dCnZb6PJ74bZ6Rg-pjeWDB9NFtaLWF7PmEjiM/edit)
-- [Repositorio en GitHub - Open Source Group](https://github.com/Open-Source-SW54-Group-3-ArtCollab)
-- [Tablero en Trello - Student Connect](https://trello.com/w/studentconnect4)
-- [Diseño en Canva](https://www.canva.com/design/DAGP59c-OCE/2gUMjrxDfo90txCvbW0Cmg/edit)
+<table border="1">
+    <tr>
+        <th>Description</th>
+        <th>Link</th>
+    </tr>
+    <tr>
+        <td>Repositorio General de Unigo</td>
+        <td><a href="https://github.com/Open-Source-SW53-Group-2">Repositories GoUni</a></td>
+    </tr>
+    <tr>
+        <td>Repositorio Reporte</td>
+        <td><a href="https://github.com/Open-Source-SW53-Group-2/Report">Project-Report-GoUni</a></td>
+    </tr>
+
+   <tr>
+        <td>Repositorio Landingpage</td>
+        <td><a href="https://github.com/Open-Source-SW53-Group-2/Landing-Page">LandingPage-GoUni</a></td>
+    </tr>
+
+   <tr>
+        <td>Exposicion TB1</td>
+        <td><a href="">TB1</a></td>
+    </tr>
+
+<tr>
+        <td>Link landing page</td>
+        <td><a href="https://landing-page-three-zeta-24.vercel.app/">Landing Page</a></td>
+    </tr>
+ <tr>
+
+    
+</table>
 
 
 
