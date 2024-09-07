@@ -51,12 +51,7 @@
 
 </div>
 
-**Registro de Versiones del Informe**
-| Versión | Fecha       | Autor | Descripción de modificación            |
-|---------|-------------|-------|----------------------------------------|
-|||||
-|||||
-|||||
+
 
 
 **Project Report Collaboration Insights**
@@ -67,13 +62,18 @@ _TB1_
 
 Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la siguiente forma
 
-|Integrante|Actvidades Asignadas|
-|----------|----------|
-| | |
-| | |
-| | |
-| | |
-| | |
+| Versión      | Fecha      | Autor                               | Descripción                                                |
+|--------------|------------|-------------------------------------|------------------------------------------------------------|
+| #01 - TB1    | 05/09/24   | Anampa Lavado, Luis Angel      | Competidores, Análisis competitivo, Estrategias frente a competidores, Product backlog, Style guidelines, Web style guidelines, Information architecture, Landing page UI design, Landing page mockup, Web applications mockup, Database diagram, Software deployment configuration, Development Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review |
+|              |            |                                     |                                                            |
+|              | 05/09/24   | David Polanco, Alessandro    | Startup Profile, Descripción de la startup, Antecedentes y problemática, Lean UX Problem Statements, Lean UX Assumptions, Segmentos objetivo, Organization Systems, Labeling Systems, SEO Tags and Meta Tags, Searching Systems, Navigation Systems, Landing Page Wireframe, Web Applications Wireframes, Class Diagrams, Class Dictionary |
+|              |            |                                     |                                                            |
+|              | 05/09/24   | Talizo Balbin, Joan Jefferson           | Registro de entrevistas, Software deployment configuration, Development Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review |
+|              |            |                                     |                                                            |
+|              | 05/09/24   | Valera Garcés, Samuel Ignacio     | Lean UX Hypothesis Statements, Lean UX Canvas, Diseño de entrevistas, User Personas, Empathy Mapping, Impact Mapping, Domain-Driven Software Architecture, Software Development Environment Configuration, Source Code Management, Source Code Style Guide & Conventions |
+|              |            |                                     |                                                            |
+|              | 05/09/24   | Mallma Espiritu Franky Oswald       | User Task matrix, Journey map, as-is scenario map, to-be scenario map, parte de user stories, parte de diseño de entrevistas, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams |
+
 
 
 
