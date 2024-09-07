@@ -340,11 +340,29 @@ En este sprint planning 1 se presenta la evidencia de la planificación e implem
 
 **Conclusiones**
 
+# Conclusiones sobre GoUni
 
+#### 1. GoUni responde a las necesidades de movilidad estudiantil
+La startup aborda la problemática de transporte en zonas urbanas como Lima, donde el transporte público es ineficiente y el uso de vehículos privados es costoso, proporcionando una plataforma de carpooling accesible y económica.
+
+#### 2. Contribución a la sostenibilidad
+GoUni fomenta el uso compartido de vehículos, lo que ayuda a reducir la congestión vehicular, disminuye las emisiones de CO2 y promueve un uso más eficiente de los recursos entre los estudiantes universitarios.
+
+#### 3. Enfoque colaborativo y seguro
+La plataforma no solo facilita el ahorro económico a través de viajes compartidos, sino que también implementa medidas de seguridad como la verificación de identidad y las calificaciones de usuarios para garantizar un entorno confiable.
+
+#### 4. Impacto social y económico
+GoUni no solo mejora la movilidad diaria de los estudiantes, sino que también permite a aquellos con vehículo propio generar ingresos adicionales, ofreciendo una solución que beneficia tanto a pasajeros como a conductores.
+
+#### 5. Innovación y tecnología como pilares
+La plataforma utiliza tecnología móvil avanzada y un enfoque innovador para crear una experiencia de movilidad eficiente y socialmente responsable, adaptada a las necesidades de los estudiantes en un contexto de creciente demanda por soluciones digitales.
 
 **Anexos**
 
-
+- [Documento de Google Docs](https://docs.google.com/document/d/1MR4d_6dCnZb6PJ74bZ6Rg-pjeWDB9NFtaLWF7PmEjiM/edit)
+- [Repositorio en GitHub - Open Source Group](https://github.com/Open-Source-SW54-Group-3-ArtCollab)
+- [Tablero en Trello - Student Connect](https://trello.com/w/studentconnect4)
+- [Diseño en Canva](https://www.canva.com/design/DAGP59c-OCE/2gUMjrxDfo90txCvbW0Cmg/edit)
 
 
 
