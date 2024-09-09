@@ -595,24 +595,24 @@ pagar viajes directamente a través de la aplicación.
         GoUni
         <br>
         <div style="text-align: center; margin-top: 10px;">
-                <img src="images/logo/gounilogo.jfif" alt="StartUp" width="100px">
+                <img src="assets/images/logo/gounilogo.jfif" alt="StartUp" width="100px">
         </div>
     <td colspan="1" valign="top" style="font-weight: bold;">
     BlaBlaCar
     <div style="text-align: center; margin-top: 20px;">
-                <img src="images/competitors logo/blablacar.png" alt="blablacar" width="100px">
-        </div>
+                <img src="assets/images/competitorsLogo/blablacar.png" alt="blablacar" width="100px">
+        </div
     </td>
     <td colspan="1" valign="top" style="font-weight: bold;">
       Urbvan
       <div style="text-align: center; margin-top: 40px;">
-                <img src="images/competitors logo/urbvan.png" alt="urbvan" width="200px">
+                <img src="assets/images/competitorsLogo/urbvan.png" alt="urbvan" width="200px">
             </div>
       </td>
     <td colspan="1" valign="top" style="font-weight: bold;" >
       Yango
       <div style="text-align: center; margin-top: 20px;">
-                <img src="images/competitors logo/yango.png" alt="yango" width="610px">
+                <img src="assets/images/competitorsLogo/yango.png" alt="yango" width="610px">
             </div>
     </td>
   </tr>
@@ -809,7 +809,7 @@ Edad: 19
 Lugar de residencia: Ate, Lima
 
 Evidencia de la entrevista:
-<img src="images/EvidenciaEntrevista.png">
+<img src="assets/images/interviews/EvidenciaEntrevista.png">
 
 Enlace de entrevista: [Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EX7er1YUSwFDuVEixTyS9icBROnS8zoGjs_OYnidNOSFxg?e=aP2d71&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
@@ -829,7 +829,7 @@ Lugar de residencia: Lima, Peru
 
 Evidencia de la entrevista:
 
-<img src="images/EvidenciaEntrevistaAlessandro.png">
+<img src="assets/images/interviews/EvidenciaEntrevistaAlessandro.png">
 
 Enlace de la entrevista: 
 
@@ -854,7 +854,7 @@ Lugar de residencia: Lima, Peru
 
 Evidencia de la entrevista:
 
-<img src="images/interviews/entrevista03_luis.png">
+<img src="assets/images/interviews/entrevista03_luis.png">
 
 Enlace de la entrevista:
 
@@ -880,7 +880,7 @@ Lugar de residencia: Selva Alegre, Arequipa
 
 Evidencia de la entrevista:
 
-![entrevista02_UniversitarioPropietarioDeAuto.png](images/interviews/entrevista02_UniversitarioPropietarioDeAuto.png)
+![entrevista02_UniversitarioPropietarioDeAuto.png](assets/images/interviews/entrevista02_UniversitarioPropietarioDeAuto.png)
 
 Enlace de entrevista:
 
@@ -904,7 +904,7 @@ Edad: 24 años
 
 Lugar de residencia: Santiago de Surco, Lima
 
-Evidencia de la entrevista: <img src="images/interviewimage.png">
+Evidencia de la entrevista: <img src="assets/images/interviews//interviewimage.png">
 
 Enlace de entrevista: [Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111952_upc_edu_pe/EZd3GcGkxvNDl_7tiJOaSZEBrANwpg_4jDmEdm1lr_EfXA?e=IZMgVf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
@@ -994,12 +994,12 @@ y conductor.
 *Estudiantes universitarios:*
 
 
-<img src="images/user-persona/user-persona-1.png" width="800px">
+<img src="assets/images/user-persona/user-persona-1.png" width="800px">
 
 *Estudiantes Universitarios propietarios de vehiculos privados:*
 
 
-<img src="images/user-persona/user-persona-2.png" width="800px">
+<img src="assets/images/user-persona/user-persona-2.png" width="800px">
 
 ### 2.3.2. User Task Matrix
 
@@ -1221,11 +1221,11 @@ A continuación se pueden apreciar los User Journey Mapping de los segmentos obj
 
 *Estudiantes Universitarios*
 
-<img src="images/user-journey-mapping/journey-map-1.png" width="900px">
+<img src="assets/images/user-journey-mapping/journey-map-1.png" width="900px">
 
 *Estudiantes universitarios propietarios de vehiculos privados*
 
-<img src="images/user-journey-mapping/journey-map-2.png" width="900px">
+<img src="assets/images/user-journey-mapping/journey-map-2.png" width="900px">
 
 ### 2.3.4. Empathy Mapping
 
@@ -1233,12 +1233,12 @@ A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivo
 
 *Estudiantes Universitarios*
 
-<img src="images/empathy-mapping/empathy-mapping-1.png" width="900px">
+<img src="assets/images/empathy-mapping/empathy-mapping-1.png" width="900px">
 
 
 *Estudiantes universitarios propietarios de vehiculos privados*
 
-<img src="images/empathy-mapping/empathy-mapping-2.png" width="900px">
+<img src="assets/images/empathy-mapping/empathy-mapping-2.png" width="900px">
 
 ### 2.3.5. As-is Scenario Mapping
 
@@ -1246,11 +1246,11 @@ A continuación se pueden apreciar los As-Is Scenario de los segmentos objetivos
 
 *Estudiantes Universitarios*
 
-<img src="images/as-is-scenario-mapping/as-is-scenario-1.png" width="900px">
+<img src="assets/images/as-is-scenario-mapping/as-is-scenario-1.png" width="900px">
 
 *Estudiantes universitarios propietarios de vehiculos privados*
 
-<img src="images/as-is-scenario-mapping/as-is-scenario-2.png" width="900px">
+<img src="assets/images/as-is-scenario-mapping/as-is-scenario-2.png" width="900px">
 
 *Enlace de Miro:* https://miro.com/app/board/uXjVKlGuWKk=/?share_link_id=612949293517
 
@@ -1290,11 +1290,12 @@ En esta sección se resume la información recopilada, se realiza dos tablas con
 
 *Segmento Estudiantes Universitarios que necesiten movilizarse*
 
-![SMobjetivo1](images/ScenarioMapO1.jpg)
+![ScenarioMapO1.jpg](assets/images/toBeScenarioMapping/ScenarioMapO1.jpg)
+
 
 *Segmento Estudiantes Universitarios propetarios de vehiculo privado*
 
-![SMobjetivo2](images/ScenarioMapO2.jpg)
+![ScenarioMapO2.jpg](assets/images/toBeScenarioMapping/ScenarioMapO2.jpg)
 
 ## 3.2. User Stories
 <table>
@@ -2238,12 +2239,12 @@ El nombre de la marca es un elemento clave de nuestra identidad, representando l
 #### Colores
 La paleta de colores está diseñada para proporcionar un equilibrio visual. Utilizamos una combinación de tonos brillantes y neutros para transmitir profesionalismo y modernidad.
 
-![Paleta de Colores](assets/images/colors.png)
+![Paleta de Colores](assets/images/styleGuidelines/colors.png)
 
 #### Tipografía
 Usamos la tipografía **Roboto** en diferentes pesos para establecer jerarquía visual y garantizar una legibilidad óptima. El color de la letra principal es `#404040`.
 
-![Guía de Tipografía](assets/images/guidelines.png)
+![Guía de Tipografía](assets/images/styleGuidelines/guidelines.png)
 
 #### Espaciado
 El espaciado entre elementos visuales asegura una estructura clara y organizada, ayudando a los usuarios a navegar por el contenido de forma fluida.
@@ -2316,7 +2317,7 @@ Búsqueda por Universidad: Los estudiantes podrán buscar viajes que conecten co
 Filtros de Búsqueda: Los usuarios podrán filtrar los resultados por tipo de vehículo, horario de salida, calificación del conductor y disponibilidad de plazas.
 Organización de Resultados: Los resultados se podrán ordenar de manera alfabética, por hora de salida o por la proximidad del conductor al punto de recogida.
 
-![Searching.png](assets/images/search.png)
+![Searching.png](assets/images/styleGuidelines/search.png)
 
 <br>
 
@@ -2326,7 +2327,8 @@ El sistema de navegación de GoUni estará diseñado para que los usuarios pueda
 Navegación Principal: El menú superior incluirá accesos rápidos a las funciones clave: "Buscar Viaje", "Publicar Viaje", "Reservas Actuales" y "Perfil".
 Navegación Móvil: En la versión móvil, el menú será desplegable para ahorrar espacio y mostrar solo las opciones más importantes de manera compacta. Los usuarios podrán regresar a la página de inicio pulsando el logo de GoUni.
 Navegación Secundaria: En secciones como el perfil, habrá opciones adicionales para gestionar la cuenta, verificar la identidad o ajustar preferencias de notificaciones.
-![Navigation.png](assets/images/navigation.png)
+
+![Navigation.png](assets/images/styleGuidelines/navigation.png)
 
 <br>
 
@@ -2793,20 +2795,20 @@ Link Web Applications Prototyping:
 
 ### 4.6.1. Software Architecture Context Diagram.
 
-![Diagrama de clase](assets/images/diagramcontext.png)
+![Diagrama de clase](assets/images/databaseDesign/diagramcontext.png)
 
 ### 4.6.2. Software Architecture Container s.
 
-![Diagrama de clase](assets/images/diagramcontainer.png)
+![Diagrama de clase](assets/images/databaseDesign/diagramcontainer.png)
 
 ### 4.6.3 Software Architecture Components Diagrams.
 
-![Diagrama de clase](assets/images/diagramcomponent.png)
+![Diagrama de clase](assets/images/databaseDesign/diagramcomponent.png)
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 
-![Diagrama de clase](assets/images/Diagrama_clase.png)
+![Diagrama de clase](assets/images/databaseDesign/Diagrama_clase.png)
 
 ### 4.7.2. Class Dictionary
 <hr>
@@ -2935,13 +2937,13 @@ La clase Notificación gestiona el envío de mensajes a los usuarios en relació
 
 ## 4.8. Database Design
 
-![Diagrama de clase](assets/images/Diagrama_clase.png)
+![Diagrama de clase](assets/images/databaseDesign/Diagrama_clase.png)
 
 ### 4.8.1. Database Diagram
 
 A continuación se detalla el modelo físico realizado para esta entrega, donde se consideró los requerimientos necesarios para el negocio.
 
-![Diagrama de la Base de Datos](assets/images/databasediagram.png)
+![Diagrama de la Base de Datos](assets/images/databaseDesign/databasediagram.png)
 
 
 # Capítulo V: Product Implementation, Validation & Deployment
@@ -3093,18 +3095,17 @@ Para la gestión de versiones, seguimos el estándar “Semantic Versioning 2.0.
 
    Entrar a Vercel y presionar la opción de “Import an existing project”
 
-   ![](images/Aspose.Words.83a09d9a-818b-4b03-949e-520e588e84ba.001.png)
+![importAnExistingProject.001.png](assets/images/softwareDeploymentConfiguration/importAnExistingProject.001.png)
+   
+Después seleccionar la opcion de “Deploy con github”
 
-   Después seleccionar la opcion de “Deploy con github”
+![deployGithub.002.png](assets/images/softwareDeploymentConfiguration/deployGithub.002.png)
+   
+Tras haber hecho eso tenemos que seleccionar nuestra organización y dentro de ella buscar el repositorio del proyecto que deseamos subir a producción
 
-   ![](images/Aspose.Words.83a09d9a-818b-4b03-949e-520e588e84ba.002.png)
+Para finalmente agregar la data necesaria para el despliegue
 
-   Tras haber hecho eso tenemos que seleccionar nuestra organización y dentro de ella buscar el repositorio del proyecto que deseamos subir a producción
-
-   Para finalmente agregar la data necesaria para el despliegue
-
-
-   Y final solo presionar el botón con el nombre de proyecto a desplegar
+Y final solo presionar el botón con el nombre de proyecto a desplegar
 
 
 - Link de la Landing page:[ ](https://echero11.github.io/OpenSource_GasYa_LandingPage/)[**https://landing-page-three-zeta-24.vercel.app/**](https://landing-page-three-zeta-24.vercel.app/)
@@ -3144,8 +3145,7 @@ En este sprint planning 1 se presenta la evidencia de la planificación e implem
 
    Vista del Sprint Backlog en Trello
 
-   ![](images/Aspose.Words.83a09d9a-818b-4b03-949e-520e588e84ba.005.png)
-
+![trelloSprint1.png](assets/images/sprint1/trelloSprint1.png)
 
 
 
@@ -3218,10 +3218,7 @@ En este sprint planning 1 se presenta la evidencia de la planificación e implem
 
    En este sprint logramos como primera fase de nuestro producto final  desarrollar nuestra landing page usando HTML y CSS, teniendo en cuenta también el desarrollo responsive para dispositivos tanto android como IOS y su respectivo despliegue en el Netlify. 
 
-
-   ![](images/Aspose.Words.83a09d9a-818b-4b03-949e-520e588e84ba.006.png)
-
-
+![executionEvidence.png](assets/images/sprint1/executionEvidence.png)
 
 6. **Services Documentation Evidence for Sprint Review**
 
@@ -3238,16 +3235,16 @@ En este sprint planning 1 se presenta la evidencia de la planificación e implem
    **Pasos para este sprint:**
 
 1. Creación de cuenta en vercel
-
-![](images/WhatsApp%20Image%202024-09-07%20at%2011.32.00%20AM.jpeg)
+2. 
+![executionEvidence.png](assets/images/sprint1/executionEvidence.png)
 
 2. Selección de  la opción de “add new website” para elegir el proyecto que queremos deplegar
 
-   ![](images/WhatsApp%20Image%202024-09-07%20at%2011.18.27%20AM.jpeg)
+![addNewWebsite.jpeg](assets/images/sprint1/addNewWebsite.jpeg)
 
 3. Finalmente, elegimos nuestra rama a desplegar y hacemos click en “Desploy”
 
-   ![](images/WhatsApp%20Image%202024-09-07%20at%2011.22.02%20AM.jpeg)
+![deploy.jpeg](assets/images/sprint1/deploy.jpeg)
 
 8. **Team Collaboration Insights during Sprint**
 
@@ -3261,28 +3258,26 @@ En este sprint planning 1 se presenta la evidencia de la planificación e implem
 
    Para el desarrollo del informe en este sprint optamos por dividir el repositorio del informe por capítulos y cada integrante realizó los siguientes aportes representados en la siguiente tabla y la siguiente captura:
 
+![mainDistribution.png](assets/images/sprint1/mainDistribution.png)
 
-
-   ![](images/Aspose.Words.83a09d9a-818b-4b03-949e-520e588e84ba.010.png)
-
-
-   |Integrante| Aporte en el informe                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-      | :- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-   |Joan| <p>Startup Profile,Descripción de la Startup,Solution Profile, Antecedentes y problemática, Lean UX Process, Lean UX Problem Statements, Lean UX Assumptions, Segmentos objetivo, User Stories, Organization Systems, Labeling Systems, SEO Tags and Meta Tags, Searching Systems, Navigation Systems ,Landing Page Wireframe, Web Applications Wireframes,Software Architecture Context Diagram, Software Architecture Container Diagrams</p><p>Software Architecture Components Diagrams, Class Diagrams, Class Dictionary, Database Diagram, Development Evidence for Sprint Review.</p><p>![](images/Aspose.Words.83a09d9a-818b-4b03-949e-520e588e84ba.011.png)</p> |
-   |Franky| Competidores, Análisis competitivo, Estrategias frente a competidores, Product backlog, Style guidelines, Web style guidelines, Information architecture, Landing page ui design, Landing page mockup, Web applications mockup, Software deployment configuration, Development Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review ![](images/Aspose.Words.83a09d9a-818b-4b03-949e-520e588e84ba.012.png)                                                                                                                                                |
-   |Angel| <p>User task matrix, User journey Mapping, As-is scenario mapping,To-be scenario mapping,Wireflow diagrams,Diseño de entrevistas, Análisis de entrevistas,DDD architecture</p><p></p><p>![](images/Aspose.Words.83a09d9a-818b-4b03-949e-520e588e84ba.013.png)</p>                                                                                                                                                                                                                                                                                                                                                                                                       |
-   |Samuel| <p>Registro de entrevistas,Analisis de entrevistas, Software deployment configuration, Development Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review</p><p>![](images/Aspose.Words.83a09d9a-818b-4b03-949e-520e588e84ba.014.png)</p>                                                                                                                                                                                                                                                                                                                  |
-   |Alessandro| <p>Lean UX Hypothesis Statements, Lean UX Canvas, Diseño de entrevistas, User Personas, Empathy Mapping, Impact Mapping, Domain-Driven Software Architecture, Software Development Environment Configuration, Source Code Management, Source Code Style Guide & Conventions</p><p>![](images/Aspose.Words.83a09d9a-818b-4b03-949e-520e588e84ba.015.png)</p>                                                                                                                                                                                                                                                                                                             |
+   |Integrante| Aporte en el informe                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+      | :- |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+   |Joan| <p>Startup Profile,Descripción de la Startup,Solution Profile, Antecedentes y problemática, Lean UX Process, Lean UX Problem Statements, Lean UX Assumptions, Segmentos objetivo, User Stories, Organization Systems, Labeling Systems, SEO Tags and Meta Tags, Searching Systems, Navigation Systems ,Landing Page Wireframe, Web Applications Wireframes,Software Architecture Context Diagram, Software Architecture Container Diagrams</p><p>Software Architecture Components Diagrams, Class Diagrams, Class Dictionary, Database Diagram, Development Evidence for Sprint Review.</p><p>![chapter1.png](assets/images/sprint1/chapter1.png) </p>                                                                                                                                  |
+   |Franky| Competidores, Análisis competitivo, Estrategias frente a competidores, Product backlog, Style guidelines, Web style guidelines, Information architecture, Landing page ui design, Landing page mockup, Web applications mockup, Software deployment configuration, Development Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review   ![chapter2.png](assets/images/sprint1/chapter2.png)                                                                                                                                                                                                                                                                                |
+   |Angel| <p>User task matrix, User journey Mapping, As-is scenario mapping,To-be scenario mapping,Wireflow diagrams,Diseño de entrevistas, Análisis de entrevistas,DDD architecture</p><p></p><p>![userTaskMatrix.png](assets/images/sprint1/userTaskMatrix.png)</p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+   |Samuel| <p>Registro de entrevistas,Analisis de entrevistas, Software deployment configuration, Development Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review</p><p>![ubiquitusLanguage.png](assets/images/sprint1/ubiquitusLanguage.png)</p>                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+   |Alessandro| <p>Lean UX Hypothesis Statements, Lean UX Canvas, Diseño de entrevistas, User Personas, Empathy Mapping, Impact Mapping, Domain-Driven Software Architecture, Software Development Environment Configuration, Source Code Management, Source Code Style Guide & Conventions</p><p>![hypothesisStatements.png](assets/images/sprint1/hypothesisStatements.png)</p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 
    **Evidencia de los commit:**
 
-   ![](images/Aspose.Words.83a09d9a-818b-4b03-949e-520e588e84ba.016.png)
+![commitEvidence.png](assets/images/sprint1/commitEvidence.png)
 
    Durante este sprint para proteger la rama “main” creamos una rama “develop” de la que cada integrante de nuestro grupo creó su propia sub-rama “feature“ para subir un capítulo del reporte siguiendo las convenciones antes señaladas(conventional commit y git flow).
 
-   **Github analytics de nuestro primer sprint:**
 
-![](images/commits.png)
+**Github analytics de nuestro primer sprint:**
+
+![githubAnalyticsSprint.png](assets/images/sprint1/githubAnalyticsSprint.png)
 
 **Conclusiones**
 
