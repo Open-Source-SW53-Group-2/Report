@@ -22,12 +22,12 @@ El nombre de la marca es un elemento clave de nuestra identidad, representando l
 #### Colores
 La paleta de colores está diseñada para proporcionar un equilibrio visual. Utilizamos una combinación de tonos brillantes y neutros para transmitir profesionalismo y modernidad.
 
-![Paleta de Colores](assets/images/colors.png)
+![Paleta de Colores](assets/images/styleGuidelines/colors.png)
 
 #### Tipografía
 Usamos la tipografía **Roboto** en diferentes pesos para establecer jerarquía visual y garantizar una legibilidad óptima. El color de la letra principal es `#404040`.
 
-![Guía de Tipografía](assets/images/guidelines.png)
+![Guía de Tipografía](assets/images/styleGuidelines/guidelines.png)
 
 #### Espaciado
 El espaciado entre elementos visuales asegura una estructura clara y organizada, ayudando a los usuarios a navegar por el contenido de forma fluida.
@@ -100,7 +100,7 @@ Búsqueda por Universidad: Los estudiantes podrán buscar viajes que conecten co
 Filtros de Búsqueda: Los usuarios podrán filtrar los resultados por tipo de vehículo, horario de salida, calificación del conductor y disponibilidad de plazas.
 Organización de Resultados: Los resultados se podrán ordenar de manera alfabética, por hora de salida o por la proximidad del conductor al punto de recogida.
 
-![Searching.png](assets/images/search.png)
+![Searching.png](assets/images/styleGuidelines/search.png)
 
 <br>
 
@@ -110,7 +110,7 @@ El sistema de navegación de GoUni estará diseñado para que los usuarios pueda
 Navegación Principal: El menú superior incluirá accesos rápidos a las funciones clave: "Buscar Viaje", "Publicar Viaje", "Reservas Actuales" y "Perfil".
 Navegación Móvil: En la versión móvil, el menú será desplegable para ahorrar espacio y mostrar solo las opciones más importantes de manera compacta. Los usuarios podrán regresar a la página de inicio pulsando el logo de GoUni.
 Navegación Secundaria: En secciones como el perfil, habrá opciones adicionales para gestionar la cuenta, verificar la identidad o ajustar preferencias de notificaciones.
-![Navigation.png](assets/images/navigation.png)
+![Navigation.png](assets/images/styleGuidelines/navigation.png)
 
 <br>
 
@@ -577,20 +577,20 @@ Link Web Applications Prototyping:
 
 ### 4.6.1. Software Architecture Context Diagram.
 
-![Diagrama de clase](assets/images/diagramcontext.png)
+![Diagrama de clase](assets/images/databaseDesign/diagramcontext.png)
 
 ### 4.6.2. Software Architecture Container s.
 
-![Diagrama de clase](assets/images/diagramcontainer.png)
+![Diagrama de clase](assets/images/databaseDesign/diagramcontainer.png)
 
 ### 4.6.3 Software Architecture Components Diagrams.
 
-![Diagrama de clase](assets/images/diagramcomponent.png)
+![Diagrama de clase](assets/images/databaseDesign/diagramcomponent.png)
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 
-![Diagrama de clase](assets/images/Diagrama_clase.png)
+![Diagrama de clase](assets/images/databaseDesign/Diagrama_clase.png)
 
 ### 4.7.2. Class Dictionary
 <hr>
@@ -719,10 +719,10 @@ La clase Notificación gestiona el envío de mensajes a los usuarios en relació
 
 ## 4.8. Database Design
 
-![Diagrama de clase](assets/images/Diagrama_clase.png)
+![Diagrama de clase](assets/images/databaseDesign/Diagrama_clase.png)
 
 ### 4.8.1. Database Diagram
 
 A continuación se detalla el modelo físico realizado para esta entrega, donde se consideró los requerimientos necesarios para el negocio.
 
-![Diagrama de la Base de Datos](assets/images/databasediagram.png)
+![Diagrama de la Base de Datos](assets/images/databaseDesign/databasediagram.png)
