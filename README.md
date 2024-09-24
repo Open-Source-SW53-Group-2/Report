@@ -37,24 +37,24 @@ pagar viajes directamente a través de la aplicación.
         GoUni
         <br>
         <div style="text-align: center; margin-top: 10px;">
-                <img src="images/logo/gounilogo.jfif" alt="StartUp" width="100px">
+                <img src="assets/images/logo/gounilogo.jfif" alt="StartUp" width="100px">
         </div>
     <td colspan="1" valign="top" style="font-weight: bold;">
     BlaBlaCar
     <div style="text-align: center; margin-top: 20px;">
-                <img src="images/competitors logo/blablacar.png" alt="blablacar" width="100px">
+                <img src="assets/images/competitorsLogo/blablacar.png" alt="blablacar" width="100px">
         </div>
     </td>
     <td colspan="1" valign="top" style="font-weight: bold;">
       Urbvan
       <div style="text-align: center; margin-top: 40px;">
-                <img src="images/competitors logo/urbvan.png" alt="urbvan" width="200px">
+                <img src="assets/images/competitorsLogo/urbvan.png" alt="urbvan" width="200px">
             </div>
       </td>
     <td colspan="1" valign="top" style="font-weight: bold;" >
       Yango
       <div style="text-align: center; margin-top: 20px;">
-                <img src="images/competitors logo/yango.png" alt="yango" width="610px">
+                <img src="assets/images/competitorsLogo/yango.png" alt="yango" width="610px">
             </div>
     </td>
   </tr>
@@ -251,7 +251,8 @@ Edad: 19
 Lugar de residencia: Ate, Lima
 
 Evidencia de la entrevista:
-<img src="images/EvidenciaEntrevista.png">
+
+<img src="assets/images/interviews/EvidenciaEntrevista.png">
 
 Enlace de entrevista: [Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EX7er1YUSwFDuVEixTyS9icBROnS8zoGjs_OYnidNOSFxg?e=aP2d71&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
@@ -271,7 +272,7 @@ Lugar de residencia: Lima, Peru
 
 Evidencia de la entrevista:
 
-<img src="images/EvidenciaEntrevistaAlessandro.png">
+<img src="assets/images/interviews/EvidenciaEntrevistaAlessandro.png">
 
 Enlace de la entrevista: 
 
@@ -296,7 +297,7 @@ Lugar de residencia: Lima, Peru
 
 Evidencia de la entrevista:
 
-<img src="images/interviews/entrevista03_luis.png">
+<img src="assets/images/interviews/entrevista03_luis.png">
 
 Enlace de la entrevista:
 
@@ -322,11 +323,11 @@ Lugar de residencia: Selva Alegre, Arequipa
 
 Evidencia de la entrevista:
 
-![entrevista02_UniversitarioPropietarioDeAuto.png](images/interviews/entrevista02_UniversitarioPropietarioDeAuto.png)
+<img src="assets/images/interviews/entrevista02_UniversitarioPropietarioDeAuto.png">
 
 Enlace de entrevista:
 
-[Link de entrevista02_UniversitarioPropietarioDeAuto_MaykolValencia](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223781_upc_edu_pe/EdLl2jwqxtdDq2Nyq49ek8AB6cLqcac0HNUCa4ySmXv7LQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=rswZ2B)
+[Link de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223781_upc_edu_pe/EdLl2jwqxtdDq2Nyq49ek8AB6cLqcac0HNUCa4ySmXv7LQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=rswZ2B)
 
 
 Resumen de la entrevista:
@@ -346,7 +347,10 @@ Edad: 24 años
 
 Lugar de residencia: Santiago de Surco, Lima
 
-Evidencia de la entrevista: <img src="images/interviewimage.png">
+Evidencia de la entrevista: 
+
+<img src="assets/images/interviews/interviewimage.png">
+
 
 Enlace de entrevista: [Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111952_upc_edu_pe/EZd3GcGkxvNDl_7tiJOaSZEBrANwpg_4jDmEdm1lr_EfXA?e=IZMgVf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
@@ -436,12 +440,12 @@ y conductor.
 *Estudiantes universitarios:*
 
 
-<img src="images/user-persona/user-persona-1.png" width="800px">
+<img src="assets/images/user-persona/user-persona-1.png" width="800px">
 
 *Estudiantes Universitarios propietarios de vehiculos privados:*
 
 
-<img src="images/user-persona/user-persona-2.png" width="800px">
+<img src="assets/images/user-persona/user-persona-2.png" width="800px">
 
 ### 2.3.2. User Task Matrix
 
@@ -663,11 +667,11 @@ A continuación se pueden apreciar los User Journey Mapping de los segmentos obj
 
 *Estudiantes Universitarios*
 
-<img src="images/user-journey-mapping/journey-map-1.png" width="900px">
+<img src="assets/images/user-journey-mapping/journey-map-1.png" width="900px">
 
 *Estudiantes universitarios propietarios de vehiculos privados*
 
-<img src="images/user-journey-mapping/journey-map-2.png" width="900px">
+<img src="assets/images/user-journey-mapping/journey-map-2.png" width="900px">
 
 ### 2.3.4. Empathy Mapping
 
@@ -675,12 +679,12 @@ A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivo
 
 *Estudiantes Universitarios*
 
-<img src="images/empathy-mapping/empathy-mapping-1.png" width="900px">
+<img src="assets/images/empathy-mapping/empathy-mapping-1.png" width="900px">
 
 
 *Estudiantes universitarios propietarios de vehiculos privados*
 
-<img src="images/empathy-mapping/empathy-mapping-2.png" width="900px">
+<img src="assets/images/empathy-mapping/empathy-mapping-2.png" width="900px">
 
 ### 2.3.5. As-is Scenario Mapping
 
@@ -688,11 +692,11 @@ A continuación se pueden apreciar los As-Is Scenario de los segmentos objetivos
 
 *Estudiantes Universitarios*
 
-<img src="images/as-is-scenario-mapping/as-is-scenario-1.png" width="900px">
+<img src="assets/images/as-is-scenario-mapping/as-is-scenario-1.png" width="900px">
 
 *Estudiantes universitarios propietarios de vehiculos privados*
 
-<img src="images/as-is-scenario-mapping/as-is-scenario-2.png" width="900px">
+<img src="assets/images/as-is-scenario-mapping/as-is-scenario-2.png" width="900px">
 
 *Enlace de Miro:* https://miro.com/app/board/uXjVKlGuWKk=/?share_link_id=612949293517
 
