@@ -147,11 +147,11 @@ Para la gestión de versiones, seguimos el estándar “Semantic Versioning 2.0.
 
    Entrar a Vercel y presionar la opción de “Import an existing project”
 
-   ![](images/Aspose.Words.83a09d9a-818b-4b03-949e-520e588e84ba.001.png)
+   ![importAnExistingProject.001.png](assets/images/softwareDeploymentConfiguration/importAnExistingProject.001.png)
 
    Después seleccionar la opcion de “Deploy con github”
 
-   ![](images/Aspose.Words.83a09d9a-818b-4b03-949e-520e588e84ba.002.png)
+   ![deployGithub.002.png](assets/images/softwareDeploymentConfiguration/deployGithub.002.png)
 
    Tras haber hecho eso tenemos que seleccionar nuestra organización y dentro de ella buscar el repositorio del proyecto que deseamos subir a producción
 
@@ -198,9 +198,7 @@ En este sprint planning 1 se presenta la evidencia de la planificación e implem
 
    Vista del Sprint Backlog en Trello
 
-   ![](images/Aspose.Words.83a09d9a-818b-4b03-949e-520e588e84ba.005.png)
-
-
+   ![trelloSprint1.png](assets/images/sprint1/trelloSprint1.png)
 
 
    |**Sprint #**|**Sprint 1**|||||||
@@ -272,9 +270,7 @@ En este sprint planning 1 se presenta la evidencia de la planificación e implem
 
    En este sprint logramos como primera fase de nuestro producto final  desarrollar nuestra landing page usando HTML y CSS, teniendo en cuenta también el desarrollo responsive para dispositivos tanto android como IOS y su respectivo despliegue en el Netlify. 
 
-
-   ![](images/Aspose.Words.83a09d9a-818b-4b03-949e-520e588e84ba.006.png)
-
+   ![executionEvidence.png](assets/images/sprint1/executionEvidence.png)
 
 
 6. **Services Documentation Evidence for Sprint Review**
@@ -293,17 +289,17 @@ En este sprint planning 1 se presenta la evidencia de la planificación e implem
 
 1. Creación de cuenta en vercel
 
-![](images/WhatsApp%20Image%202024-09-07%20at%2011.32.00%20AM.jpeg)
+   ![creationVercel.jpeg](assets/images/sprint1/creationVercel.jpeg)
 
 2. Selección de  la opción de “add new website” para elegir el proyecto que queremos deplegar
 
-   ![](images/WhatsApp%20Image%202024-09-07%20at%2011.18.27%20AM.jpeg)
+   ![addNewWebsite.jpeg](assets/images/sprint1/addNewWebsite.jpeg)
 
 3. Finalmente, elegimos nuestra rama a desplegar y hacemos click en “Desploy”
+   
+   ![deploy.jpeg](assets/images/sprint1/deploy.jpeg)
 
-   ![](images/WhatsApp%20Image%202024-09-07%20at%2011.22.02%20AM.jpeg)
-
-8. **Team Collaboration Insights during Sprint**
+4. **Team Collaboration Insights during Sprint**
 
    `		`**Distribución de aportes en el informe:**
 
@@ -315,28 +311,27 @@ En este sprint planning 1 se presenta la evidencia de la planificación e implem
 
    Para el desarrollo del informe en este sprint optamos por dividir el repositorio del informe por capítulos y cada integrante realizó los siguientes aportes representados en la siguiente tabla y la siguiente captura:
 
+   ![mainDistribution.png](assets/images/sprint1/mainDistribution.png)
 
 
-   ![](images/Aspose.Words.83a09d9a-818b-4b03-949e-520e588e84ba.010.png)
 
-
-   |Integrante| Aporte en el informe                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-      | :- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-   |Joan| <p>Startup Profile,Descripción de la Startup,Solution Profile, Antecedentes y problemática, Lean UX Process, Lean UX Problem Statements, Lean UX Assumptions, Segmentos objetivo, User Stories, Organization Systems, Labeling Systems, SEO Tags and Meta Tags, Searching Systems, Navigation Systems ,Landing Page Wireframe, Web Applications Wireframes,Software Architecture Context Diagram, Software Architecture Container Diagrams</p><p>Software Architecture Components Diagrams, Class Diagrams, Class Dictionary, Database Diagram, Development Evidence for Sprint Review.</p><p>![](images/Aspose.Words.83a09d9a-818b-4b03-949e-520e588e84ba.011.png)</p> |
-   |Franky| Competidores, Análisis competitivo, Estrategias frente a competidores, Product backlog, Style guidelines, Web style guidelines, Information architecture, Landing page ui design, Landing page mockup, Web applications mockup, Software deployment configuration, Development Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review ![](images/Aspose.Words.83a09d9a-818b-4b03-949e-520e588e84ba.012.png)                                                                                                                                                |
-   |Angel| <p>User task matrix, User journey Mapping, As-is scenario mapping,To-be scenario mapping,Wireflow diagrams,Diseño de entrevistas, Análisis de entrevistas,DDD architecture</p><p></p><p>![](images/Aspose.Words.83a09d9a-818b-4b03-949e-520e588e84ba.013.png)</p>                                                                                                                                                                                                                                                                                                                                                                                                       |
-   |Samuel| <p>Registro de entrevistas,Analisis de entrevistas, Software deployment configuration, Development Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review</p><p>![](images/Aspose.Words.83a09d9a-818b-4b03-949e-520e588e84ba.014.png)</p>                                                                                                                                                                                                                                                                                                                  |
-   |Alessandro| <p>Lean UX Hypothesis Statements, Lean UX Canvas, Diseño de entrevistas, User Personas, Empathy Mapping, Impact Mapping, Domain-Driven Software Architecture, Software Development Environment Configuration, Source Code Management, Source Code Style Guide & Conventions</p><p>![](images/Aspose.Words.83a09d9a-818b-4b03-949e-520e588e84ba.015.png)</p>                                                                                                                                                                                                                                                                                                             |
+   |Integrante| Aporte en el informe                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+      | :- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+   |Joan| <p>Startup Profile,Descripción de la Startup,Solution Profile, Antecedentes y problemática, Lean UX Process, Lean UX Problem Statements, Lean UX Assumptions, Segmentos objetivo, User Stories, Organization Systems, Labeling Systems, SEO Tags and Meta Tags, Searching Systems, Navigation Systems ,Landing Page Wireframe, Web Applications Wireframes,Software Architecture Context Diagram, Software Architecture Container Diagrams</p><p>Software Architecture Components Diagrams, Class Diagrams, Class Dictionary, Database Diagram, Development Evidence for Sprint Review.</p><p>![chapter1.png](assets/images/sprint1/chapter1.png)</p> |
+   |Franky| <p> Competidores, Análisis competitivo, Estrategias frente a competidores, Product backlog, Style guidelines, Web style guidelines, Information architecture, Landing page ui design, Landing page mockup, Web applications mockup, Software deployment configuration, Development Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review</p> <p>![chapter2.png](assets/images/sprint1/chapter2.png)</p>                                                                                                                                 |
+   |Angel| <p>User task matrix, User journey Mapping, As-is scenario mapping,To-be scenario mapping,Wireflow diagrams,Diseño de entrevistas, Análisis de entrevistas,DDD architecture</p><p></p><p>![userTaskMatrix.png](assets/images/sprint1/userTaskMatrix.png)</p>                                                                                                                                                                                                                                                                                                                                                                              |
+   |Samuel| <p>Registro de entrevistas,Analisis de entrevistas, Software deployment configuration, Development Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review</p><p>![ubiquitusLanguage.png](assets/images/sprint1/ubiquitusLanguage.png)</p>                                                                                                                                                                                                                                                                                         |
+   |Alessandro| <p>Lean UX Hypothesis Statements, Lean UX Canvas, Diseño de entrevistas, User Personas, Empathy Mapping, Impact Mapping, Domain-Driven Software Architecture, Software Development Environment Configuration, Source Code Management, Source Code Style Guide & Conventions</p><p>![hypothesisStatements.png](assets/images/sprint1/hypothesisStatements.png)</p>                                                                                                                                                                                                                                                                                    |
 
    **Evidencia de los commit:**
 
-   ![](images/Aspose.Words.83a09d9a-818b-4b03-949e-520e588e84ba.016.png)
+   ![commitEvidence.png](assets/images/sprint1/commitEvidence.png)
 
    Durante este sprint para proteger la rama “main” creamos una rama “develop” de la que cada integrante de nuestro grupo creó su propia sub-rama “feature“ para subir un capítulo del reporte siguiendo las convenciones antes señaladas(conventional commit y git flow).
 
    **Github analytics de nuestro primer sprint:**
 
-![](images/commits.png)
+   ![githubAnalyticsSprint.png](assets/images/sprint1/githubAnalyticsSprint.png)
 
 **Conclusiones**
 
