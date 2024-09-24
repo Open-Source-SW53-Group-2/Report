@@ -6,11 +6,11 @@ En esta sección se resume la información recopilada, se realiza dos tablas con
 
 *Segmento Estudiantes Universitarios que necesiten movilizarse*
 
-![SMobjetivo1](images/ScenarioMapO1.jpg)
+![SMobjetivo1](assets/images/ScenarioMapO1.jpg)
 
 *Segmento Estudiantes Universitarios propetarios de vehiculo privado*
 
-![SMobjetivo2](images/ScenarioMapO2.jpg)
+![SMobjetivo2](assets/images/ScenarioMapO2.jpg)
 
 ## 3.2. User Stories
 <table>
