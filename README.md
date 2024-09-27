@@ -76,6 +76,22 @@ Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la sigui
 
 
 
+_TP_
+
+Para el desarrollo de la entrega TP, se opto por dividir el trabajo de la siguiente forma
+
+| Versión      | Fecha      | Autor                               | Descripción                                                |
+|--------------|------------|-------------------------------------|------------------------------------------------------------|
+| #02 - TP    | 27/09/24   | Anampa Lavado, Luis Angel      | Correciones TB1 , Web Aplication, Landing Page|
+|              |            |                                     |                                                            |
+|              |  27/09/24   | David Polanco, Alessandro    | Correciones TB1 , Web Aplication, Landing Page|
+|              |            |                                     |                                                            |
+|              |  27/09/24   | Talizo Balbin, Joan Jefferson           | Correciones TB1 , Web Aplication, Landing Page |
+|              |            |                                     |                                                            |
+|              |  27/09/24   | Valera Garcés, Samuel Ignacio     | Correciones TB1 , Web Aplication, Landing Page |
+|              |            |                                     |                                                            |
+|              | 27/09/24  | Mallma Espiritu Franky Oswald       | Correciones TB1 , Web Aplication, Landing Page |
+
 
 # Contenido
 
