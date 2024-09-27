@@ -3279,6 +3279,209 @@ En este sprint planning 1 se presenta la evidencia de la planificación e implem
 
 ![githubAnalyticsSprint.png](assets/images/sprint1/githubAnalyticsSprint.png)
 
+En esta sección se registra y explica el avance en términos de producto y trabajo colaborativo para el Sprint 2, enfocado en el desarrollo de la aplicación web. Se detalla el progreso tangible y funcional de la aplicación, incluyendo su diseño, desarrollo y funcionalidades implementadas, así como la colaboración del equipo, los métodos de comunicación utilizados y las herramientas empleadas para garantizar una cooperación efectiva. Incluye secciones sobre la planificación del sprint, el backlog de tareas, evidencia del desarrollo y ejecución, documentación de servicios utilizados y reflexiones sobre la colaboración del equipo, proporcionando una visión completa del progreso alcanzado.
+
+1. **Sprint Planning 2.**
+
+En este sprint planning 2 se presenta la evidencia de la planificación y desarrollo de la aplicación web. Además, se evidenciaron los avances del proyecto e insights de colaboración en el equipo a través de GitHub.
+
+|**Sprint #**|Sprint 2|
+| :- | :- |
+|**Sprint Planning Background**||
+|**Date**|21 de septiembre de 2024|
+|**Time**|22:00 horas (GMT-5)|
+|**Location**|Modalidad remota|
+|**Prepared By**|StudentConnect|
+|**Attendees (to planning meeting)**|Todos los miembros de StudentConnect|
+|**Sprint 2 Review Summary**|<p>Corregir: </p><p>- Problem Statement</p><p>- Product Backlog </p><p>- Sprint Backlog 1</p><p>- Student outcome</p><p>- Landing Page (Angular)</p>|
+|**Sprint 2 Retrospective Summary**|En este Sprint se planea desarrollar la aplicación web con Angular y Angular Material. Previamente a su respectivo diseñó en Figma. El grupo discutió que mockups haría de la landing para crear su respectiva rama que después se uniría al main branch. Al finalizar este sprint, la  landing page y la aplicación web estará desplegada y entonces cualquier usuario podrá acceder a través de su dominio.|
+|**Sprint Goal & User Stories**||
+|**Sprint Goal 2**|El goal de este sprint se basa en el desarrollo y despliegue de la aplicación frontend.|
+|**Sprint Velocity 2**|5|
+|**Sum of Story Points**|36|
+
+
+1. **Sprint Backlog 2.**
+
+En esta parte mostramos las tareas que se realizaron en este sprint.
+
+Link del Trello: <https://trello.com/b/sGfIxRuD/studentconnect-sprint-2>
+
+Vista del Sprint Backlog 2 en Trello:
+
+![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.001.png)
+
+
+|**Sprint #**|**Sprint 2**|||||||
+| :- | :- | :- | :- | :- | :- | :- | :- |
+|**User Story**|**Work-item / Task**|||||||
+|ID|Title|Id|Title|Description|Estimation(hours)|Assigned To|Status (To-do/in-Process/To-Review/Done)|
+|**E3-US01**|<p></p><p>Registro de usuario</p><p></p>|<p>T1</p><p></p>|Interfaz de usuario del inicio de registro de cuentas|Implementar interfaz de los formularios para el registro de cuentas |5|Samuel|Done|
+|**E2-US02**|Inicio de sesión|T2|Interfaz de usuario de inicio de sesión|Implementar interfaz de formularios para el inicio de sesión de las cuentas de ambos segmentos como cliente y staff|2|Joan|Done|
+|**E3-US02**|Búsqueda de Viaje Disponible|T3|Interfaz de usuario de búsqueda de viajes|Implementar interfaz para buscar sede de viaje|1|Angel|Done|
+|**E3-US01**|Reserva de Viaje|T4|Interfaz de reserva |Implementar la vista de reserva y pago de viaje|2|Alessandro|Done|
+|**E3-US04**|Comunicación con el Conductor|T5|Interfaz de usuario para hablar con el conductor|Implementar interfaz para comunicación mediante chat |8|Franky Mallma|Done|
+|**E3-U06**|Calificación y Comentario del Conductor|T6|Interfaz de usuario para calificar viaje|Implementar interfaz para comentar y calificar mediante estrellas el viaje realizado|3|Alessandro|Done|
+|<p></p><p>**E3-U06**</p><p></p>|<p></p><p>Gestión de reservas</p><p></p>|T7|Interfaz del usuario principal para poder ver todas las reservas|Implementar interfaz para la sección de reservas mostrando cada una en una lista|4|Joan|Done|
+|E4-01|Visualizar planes de servicio|T8|Interfaz para ver los planes|Implementar interfaz para la variedad de planes del servicio|1|Samuel|Done|
+|<p>E4-US03</p><p></p><p></p>|Realizar el pago del plan seleccionado|T9|Interfaz de pago|Implementar la interfaz para el ingreso de detalles de pago|5|Samuel|Done|
+|E5-US01|Barra de navegación en la landing page|T10|Interfaz de landing page|Implementar la barra de navegación con enlaces y botones en el navbar|1|Franky|Done|
+|E5-US02|Dirigirse a la aplicación mediante la landing page|T11|Interfaz de la aplicacion|Implementar botón “Open app” que redirija a la aplicación|2|Joan|Done|
+|E5-US03|Sección hero del landing page|t12|Section hero en landing page|Implementar la sección hero de la landing con presentación de la app|3|Angel|Done|
+|<p>E5-US04</p><p></p>|Versión en español de la landing page|T 12|Boton ingles a español en landing|Implementar la opción para cambiar el idioma a español en la landing page|4|Alessandro|Done|
+|E5-US05|Sección about the product y about the team|<p>T</p><p>13</p>|Interfaz de seccion about product y team|Implementar sección about the product y about the team con acceso desde el navbar|5|Franky|Done|
+
+
+## 2. **Development Evidence for Sprint Review.**
+
+En esta sección, se presentan los commits realizados en el repositorio de la landing page en GitHub. Estos commits reflejan el progreso y las mejoras implementadas durante el sprint 2, proporcionando una visión detallada de las actividades de desarrollo y las contribuciones del equipo: [GitHub Repository](https://github.com/upc-pre-202401-si729-sw51-the-coders/cartunn-frontend)
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+| [https://github.com/Open-Source-SW53-Group-2/frontend](https://github.com/Open-Source-SW53-Group-2/frontend) | main | 68d1bab16daa527212f0c68647ef3a786a1f4bcf | [feat: add ngx-translate and json-server setup](https://github.com/Open-Source-SW53-Group-2/frontend/commit/be23d864e0d71829fd1f86d3796b5a5e2c898169) | - | Sep 21, 2024 |
+| [https://github.com/Open-Source-SW53-Group-2/frontend](https://github.com/Open-Source-SW53-Group-2/frontend) | main | 26f76f6efce5f075919009adf09b06de78d39d35 | [feat: chat design added](https://github.com/Open-Source-SW53-Group-2/frontend/commit/26f76f6efce5f075919009adf09b06de78d39d35) | - | Sep 19, 2024 |
+| [https://github.com/Open-Source-SW53-Group-2/frontend](https://github.com/Open-Source-SW53-Group-2/frontend) | main | 8f3e5884b1b5fb85f68681e3ccd60a74e8f0d9fc | [feat: add the booking page](https://github.com/Open-Source-SW53-Group-2/frontend/commit/8f3e5884b1b5fb85f68681e3ccd60a74e8f0d9fc) | - | Sep 21, 2024 |
+| [https://github.com/Open-Source-SW53-Group-2/frontend](https://github.com/Open-Source-SW53-Group-2/frontend) | main | a99f47b10ec390c67c3b6fdcdf59cffbdd802ca1 | [feat: add the confirmation of reservations view](https://github.com/Open-Source-SW53-Group-2/frontend/commit/a99f47b10ec390c67c3b6fdcdf59cffbdd802ca1) | - | Sep 21, 2024 |
+| [https://github.com/Open-Source-SW53-Group-2/frontend](https://github.com/Open-Source-SW53-Group-2/frontend) | main | fcac0fb1cea64c6fb811f80b926b39a3a95a31ab | [feat: added home](https://github.com/Open-Source-SW53-Group-2/frontend/commit/fcac0fb1cea64c6fb811f80b926b39a3a95a31ab) | - | Sep 21, 2024 |
+| [https://github.com/Open-Source-SW53-Group-2/frontend](https://github.com/Open-Source-SW53-Group-2/frontend) | main | 90c3523b69cc0ceac99758bf6314d955b398b2a1 | [feat: updated added section plans](https://github.com/Open-Source-SW53-Group-2/frontend/commit/90c3523b69cc0ceac99758bf6314d955b398b2a1) | - | Sep 21, 2024 |
+| [https://github.com/Open-Source-SW53-Group-2/frontend](https://github.com/Open-Source-SW53-Group-2/frontend) | main | 96b276d86b0f28ba580cee87708a36cc1310b6b9 | [feat: Add destination cards, adjust layout and pagination, improve button styles](https://github.com/Open-Source-SW53-Group-2/frontend/commit/96b276d86b0f28ba580cee87708a36cc1310b6b9) | - | Sep 20, 2024 |
+| [https://github.com/Open-Source-SW53-Group-2/frontend](https://github.com/Open-Source-SW53-Group-2/frontend) | main | 5d2191b97f74fccbb08bb1714541ea98afc48bfd | [feat: added routes and components for maps](https://github.com/Open-Source-SW53-Group-2/frontend/commit/5d2191b97f74fccbb08bb1714541ea98afc48bfd) | - | Sep 23, 2024 |
+| [https://github.com/Open-Source-SW53-Group-2/frontend](https://github.com/Open-Source-SW53-Group-2/frontend) | main | 109595daf03c55364c2be18433f1d0776ef59b6d | [feat: login&register design added](https://github.com/Open-Source-SW53-Group-2/frontend/commit/109595daf03c55364c2be18433f1d0776ef59b6d) | - | Apr 28, 2024 |
+
+
+3. **Testing Suite Evidence for Sprint Review.**
+
+   En el alcance del sprint 2 se ha desarrollado el frontend de la aplicación web por lo que no se evidencia testing.
+
+   |**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commit Message Body**|**Commited on (Date)**|
+      | :- | :- | :- | :- | :- | :- |
+   |||||||
+
+
+
+4. **Execution Evidence for Sprint Review.**
+
+   En este sprint logramos como primera fase de nuestro producto final, desarrollar nuestra aplicación web usando Angular y Angular Material, en conjunto con una API hecha con JSON server. 
+
+   Muestra de todas  vistas programadas en Angular para este sprint: 
+
+- Pantallas de Landing Page en Angular:
+
+![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.002.png)
+
+![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.003.png)
+
+![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.004.png)
+
+![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.005.png)
+
+![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.006.png)
+
+![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.007.png)
+
+![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.008.png)
+
+![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.009.png)
+
+![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.010.png)
+
+![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.011.png)
+
+![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.012.png)
+
+Pantallas en mockup:
+
+- Muestra de la respuesta de nuestra API hecha con JSON server: 
+
+
+
+
+
+5. **Services Documentation Evidence for Sprint Review.**
+Para este sprint utilizamos los servicios básicos Http en conjunto con Json server que facilitó la construcción de nuestra fake api.
+Nuestras variable de entorno serverBasePath que apuntará al puerto 3000:
+
+![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.013.png)
+
+Nuestra clase BaseService
+
+![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.014.png)
+
+Un ejemplo usando un endpoint:
+
+![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.015.png)
+
+6. **Software Deployment Evidence for Sprint Review.**
+
+   En este sprint 2, continuamos utilizando el servicio de auto despliegue de Vercel para garantizar una implementación continua y eficiente de la aplicación web. El proceso de despliegue se mantiene consistente con los pasos previamente establecidos, asegurando una integración fluida y sin interrupciones en el flujo de trabajo. Esto permite que las actualizaciones y mejoras se reflejen de inmediato en la aplicación web, ofreciendo una experiencia optimizada para los usuarios finales:
+
+
+Entrar a Vercel :
+
+![](Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.016.png)
+
+Después seleccionar la opcion de “Deploy con github”
+
+![](Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.017.png)
+
+Tras haber hecho eso tenemos que seleccionar nuestra organización y dentro de ella buscar el repositorio del proyecto “**cartunn-frontend**” que deseamos subir a producción
+
+Para finalmente agregar la data necesaria para el despliegue
+
+![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.018.png)
+
+Y final solo presionar el botón con el nombre de proyecto a desplegar
+
+-       Link de la Landing page: [https://landing-page-with-angular-olive.vercel.app/header ](https://landing-page-with-angular-olive.vercel.app/header)
+
+
+
+
+1. **Team Collaboration Insights for Sprint Review**
+
+A continuación, se presenta una descripción detallada de cómo el equipo ha trabajado de manera colaborativa durante este sprint. Esta sección destaca las herramientas y métodos utilizados para fomentar una comunicación efectiva, la coordinación de tareas y la resolución de problemas, asegurando que todos los miembros del equipo estuvieran alineados y comprometidos con los objetivos del sprint.
+
+`		`**Distribución de aportes en el informe:**
+
+**URL del repositorio para el Project Report en la organización de GitHub del equipo:**
+
+` `<https://github.com/Open-Source-SW53-Group-2/Report>
+
+**¿Cómo se han desarrollado las actividades de elaboración del informe?**
+
+Para el desarrollo del informe en este sprint optamos por dividir el repositorio del informe por capítulos y cada integrante realizó los siguientes aportes representados en la siguiente tabla y la siguiente captura:
+
+![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.019.png)
+
+
+| Integrante  | Aporte en el informe  |
+| :- | :- |
+| **Joan** | <p>Mejora continua del Problem Statement, Mejora continua del Diagrama de Clases por bounded context, Mejora continua de user stories, Mejora continua de Class Dictionary</p><p>![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.020.png)</p> |
+| **Samuel** | <p>Mejora continua de user stories, Mejora continua del product backlog, Mejora continua de Software deployment configuration, Mejora continua de Development Evidence for Sprint Review, Mejora continua de Execution Evidence for Sprint Review, Mejora continua Services Documentation Evidence for Sprint Review, Mejora continua Software Deployment Evidence for Sprint Review.</p><p>![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.021.png)</p> |
+| **Franky** | <p>Mejora continua de user task matrix, Mejora continua de scenario as-is y to-be, Mejora continua en User Journey Mapping, Mejora continua en wireframe mockup.</p> |
+| **Angel** | <p>Mejora continua de user stories, Mejora continua del análisis de entrevistas, Mejora del Software deployment configuration, Mejora del Development Evidence for Sprint Review, Mejora del Execution Evidence for Sprint Review, Mejora del Services Documentation Evidence for Sprint Review, Mejora del Software Deployment Evidence for Sprint Review</p><p>![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.022.png)</p> |
+| **Alessandro** | <p>Mejora continua de Lean UX Hypotheses Statement, Mejora continua de user stories, Mejora continua de empathy map, Mejora continua Software Architecture Context Diagram, Mejora continua Software Architecture Container Diagrams, Mejora continua Software Architecture Components Diagrams, Mejora continua de Software Configuration Management</p><p>![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.023.png)</p> |
+
+**Evidencia de los commit:![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.024.png)**
+
+Durante este sprint, al igual que para el desarrollo de la landing page, para proteger la rama “main” creamos una rama “develop” de la que cada integrante de nuestro grupo creó su propia sub-rama “feature“ para subir un capítulo del reporte siguiendo las convenciones antes señaladas(conventional commit y git flow).
+
+**Github analytics de nuestro segundo sprint:** 
+
+![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.025.png)
+
+![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.026.png)
+
+
+
+
+
+
+
+
+
+
+
 **Conclusiones**
 
 # Conclusiones sobre GoUni
