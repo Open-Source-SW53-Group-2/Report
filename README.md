@@ -3526,26 +3526,30 @@ La plataforma utiliza tecnología móvil avanzada y un enfoque innovador para cr
     </tr>
     <tr>
         <td>Repositorio General de Unigo</td>
-        <td><a href="https://github.com/Open-Source-SW53-Group-2">Repositories GoUni</a></td>
+        <td><a href="https://github.com/Open-Source-SW53-Group-2">https://github.com/Open-Source-SW53-Group-2</a></td>
     </tr>
     <tr>
         <td>Repositorio Reporte</td>
-        <td><a href="https://github.com/Open-Source-SW53-Group-2/Report">Project-Report-GoUni</a></td>
+        <td><a href="https://github.com/Open-Source-SW53-Group-2/Report">https://github.com/Open-Source-SW53-Group-2/Report</a></td>
     </tr>
 
    <tr>
         <td>Repositorio Landingpage</td>
-        <td><a href="https://github.com/Open-Source-SW53-Group-2/Landing-Page">LandingPage-GoUni</a></td>
+        <td><a href="https://github.com/Open-Source-SW53-Group-2/Landing-Page-With-Angular">https://github.com/Open-Source-SW53-Group-2/Landing-Page-With-Angular</a></td>
     </tr>
 
    <tr>
         <td>Exposicion TB1</td>
-        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c250_upc_edu_pe/EWYOUjf_ox9Or5EfrLQCcyAB6flXr1z6TocIu4NZOeEdNw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=qYotQB ">TB1</a></td>
+        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c250_upc_edu_pe/EWYOUjf_ox9Or5EfrLQCcyAB6flXr1z6TocIu4NZOeEdNw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=qYotQB ">https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c250_upc_edu_pe/EWYOUjf_ox9Or5EfrLQCcyAB6flXr1z6TocIu4NZOeEdNw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=qYotQB </a></td>
     </tr>
 
 <tr>
         <td>Link landing page</td>
-        <td><a href="https://landing-page-three-zeta-24.vercel.app/">Landing Page</a></td>
+        <td><a href="https://landing-page-with-angular-sigma.vercel.app/home">https://landing-page-with-angular-sigma.vercel.app/home</a></td>
+    </tr>
+    <tr>
+        <td>Link Web Aplication</td>
+        <td><a href="https://frontend-five-wheat-92.vercel.app/login">https://frontend-five-wheat-92.vercel.app/login</a></td>
     </tr>
  <tr>
 
