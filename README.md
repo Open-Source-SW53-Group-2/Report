@@ -3165,27 +3165,28 @@ En este sprint planning 1 se presenta la evidencia de la planificación e implem
 
 
 
-   |**Sprint #**|**Sprint 1**|||||||
-      | :- | :- | :- | :- | :- | :- | :- | :- |
-   |**User Story**|**Work-item / Task**|||||||
-   |ID|Title|Id|Title|Description|Estimation(hours)|Assigned To|Status (To-do/in-Process/To-Review/Done)|
-   |E5-US01|Barra de navegación en la landing page|T1|Navbar section|<p>Implementar navbar</p><p>con botón (redirige a la aplicación) y responsive design, </p>|1h|Joan Talizo|Done|
-   |E5-US02|Dirigirse a la aplicación mediante el landing page|T2|Button Call to Action|<p></p><p>Implementar el button Call to Action del navbar</p>|0\.1h|Joan Talizo|Done|
-   |E5-US03|Sección hero del landing page|T3|Navbar section responsive|Aplicar diseño responsive a las opciones del navbar|1h|Joan Talizo|Done|
-   |E5-US03|Sección hero del landing page|T4|hero section|Implementar un hero seccion|1h|Angel Anampa|Done|
-   |E5-US03|Sección hero del landing page|T5|<p>responsive</p><p>design</p><p>hero</p><p>section</p>|aplicar design responsive al hero section|x|Angel Anampa|Done|
-   |E5-US03|Sección hero del landing page|T6|<p>Product section</p><p>and items</p>|Implementar Product section y los ítems característicos en orden grid|1h|Alessandro David|Done|
-   |E5-US03|Sección hero del landing page|T7|<p>responsive</p><p>design</p><p>Product section</p><p></p>|Implementar design responsive a Product section|1h|Alessandro David|Done|
-   |E5-US03|Sección hero del landing page|T8|<p>Customers section</p><p>and items</p>|Implementar Customers section y los ítems característicos en orden grid y aplicar animaciones|1\.5h|Joan Talizo|Done|
-   |E5-US03|Sección hero del landing page|T9|<p>responsive</p><p>design</p><p>Customers section</p><p></p>|Implementar diseño responsive a Costumers section|1h|Joan Talizo|Done|
-   |E5-US03|Sección hero del landing page|T10|Pricing section|Implementar Pricing section y los ítems característicos en orden grid |1h|Samuel Valera|Done|
-   |E5-US03|Sección hero del landing page|T11|<p>responsive</p><p>design</p><p>Pricing section</p><p></p>|Implementar diseño responsive a Pricing section|1h|Samuel Valera|Done|
-   |E5-US03|Sección hero del landing page|T12|Contact section|Implementar Contact section y los ítems característicos en orden grid |1h|Samuel Valera|Done|
-   |E5-US03|Sección hero del landing page|T13|<p>responsive</p><p>design</p><p>Contact section</p><p></p>|Implementar diseño responsive a Contact section|1h|Samuel Valera|Done|
-   |E5-US03|Sección hero del landing page|T14|footer section|Implementar footer section|1h|Alessandro David|Done|
-   |E5-US03|Sección hero del landing page|T15|Social media section|implementar icons para las redes sociales y tambien links|0\.5h|Alessandro david|Done|
-   |E5-US03|Sección hero del landing page|T16|<p>Responsive</p><p>design</p><p>footer section</p><p></p>|Aplicar diseño responsive|1h|Angel Anampa|Done|
-   |E5-US04|Versión en español de landing page|T17|Switch que activa I18n|Button de tipo switch que permite cambiar de idioma  a la landing|0\.5h|Angel Anampa|Done|
+| **Sprint #** | **Sprint 1** |  |  |  |  |  |  |
+| :- | :- | :- | :- | :- | :- | :- | :- |
+| **User Story** | **Work-item / Task** |  |  |  |  |  |  |
+| ID | Title | Id | Title | Description | Estimation (hours) | Assigned To | Status (To-do / In-Process / To-Review / Done) |
+| E5-US01 | Barra de navegación en la landing page | T1 | Navbar section | Implementar navbar con botón (redirige a la aplicación) y responsive design | 1h | Joan Talizo | Done |
+| E5-US02 | Dirigirse a la aplicación mediante el landing page | T2 | Button Call to Action | Implementar el button Call to Action del navbar | 0.1h | Joan Talizo | Done |
+| E5-US03 | Sección hero del landing page | T3 | Navbar section responsive | Aplicar diseño responsive a las opciones del navbar | 1h | Joan Talizo | Done |
+| E5-US03 | Sección hero del landing page | T4 | Hero section | Implementar un hero section | 1h | Angel Anampa | Done |
+| E5-US03 | Sección hero del landing page | T5 | Responsive design hero section | Aplicar design responsive al hero section | 1h | Angel Anampa | Done |
+| E5-US03 | Sección hero del landing page | T6 | Product section and items | Implementar Product section y los ítems característicos en orden grid | 1h | Alessandro David | Done |
+| E5-US03 | Sección hero del landing page | T7 | Responsive design Product section | Implementar diseño responsive a Product section | 1h | Alessandro David | Done |
+| E5-US03 | Sección hero del landing page | T8 | Customers section and items | Implementar Customers section y los ítems característicos en orden grid y aplicar animaciones | 1.5h | Joan Talizo | Done |
+| E5-US03 | Sección hero del landing page | T9 | Responsive design Customers section | Implementar diseño responsive a Customers section | 1h | Joan Talizo | Done |
+| E5-US03 | Sección hero del landing page | T10 | Pricing section | Implementar Pricing section y los ítems característicos en orden grid | 1h | Samuel Valera | Done |
+| E5-US03 | Sección hero del landing page | T11 | Responsive design Pricing section | Implementar diseño responsive a Pricing section | 1h | Samuel Valera | Done |
+| E5-US03 | Sección hero del landing page | T12 | Contact section | Implementar Contact section y los ítems característicos en orden grid | 1h | Samuel Valera | Done |
+| E5-US03 | Sección hero del landing page | T13 | Responsive design Contact section | Implementar diseño responsive a Contact section | 1h | Samuel Valera | Done |
+| E5-US03 | Sección hero del landing page | T14 | Footer section | Implementar footer section | 1h | Alessandro David | Done |
+| E5-US03 | Sección hero del landing page | T15 | Social media section | Implementar icons para las redes sociales y también links | 0.5h | Alessandro David | Done |
+| E5-US03 | Sección hero del landing page | T16 | Responsive design footer section | Aplicar diseño responsive | 1h | Angel Anampa | Done |
+| E5-US04 | Versión en español de landing page | T17 | Switch que activa I18n | Button de tipo switch que permite cambiar de idioma a la landing | 0.5h | Angel Anampa | Done |
+
 
 
 
