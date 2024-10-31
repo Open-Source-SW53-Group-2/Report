@@ -92,6 +92,7 @@ Para el desarrollo de la entrega TP, se opto por dividir el trabajo de la siguie
 |              |            |                                     |                                                            |
 |              | 27/09/24  | Mallma Espiritu Franky Oswald       | Correciones TB1 , Web Aplication, Landing Page |
 
+=======
 
 # Contenido
 
@@ -179,6 +180,11 @@ Para el desarrollo de la entrega TP, se opto por dividir el trabajo de la siguie
 |----------------------------------------------------------------------------| --- | --- |
 | **Comunica oralmente con efectividad a diferentes rangos de audiencia.**   | **Anampa Lavado Luis Angel**, <br>**TB1**: Como integrante del equipo, he promovido un ambiente colaborativo en este proyecto, asegurando que mis aportes sean comunicados de manera efectiva. Durante nuestras reuniones, hemos interactuado de manera activa para evaluar el progreso y resolver dudas o consultas que puedan surgir, fomentando así un espíritu de cooperación y aprendizaje mutuo.<br> **TP1**:  A través de la reunión realizada para distribuir las tareas relacionadas con la aplicación web, pudimos participar activamente como grupo, aportando nuestras ideas para la elaboración de la página. Este intercambio ha enriquecido el proceso creativo y nos ha permitido definir una dirección clara para el desarrollo del proyecto.<br>**David Polanco Alessandro, TB1**: Comunicó ideas y resultados de manera objetiva a audiencias variadas, compartiendo el progreso y los desafíos del proyecto.<br>**Talizo Balbin Joan Jefferson, TB1**: Entrevistó usuarios y realizó sprints backlog, contribuyendo al desarrollo de la landing page.**TP1** Como integrante del equipo, hemos realizado la distribución de las tareas para realizarlo en la aplicación web con Angular. Asimimsmo, se trabajo en equipo, aportandooslas ideas de cada integantes. Aprendimos en escuchar a cada uno e intercambio de ideas que nos ha permitido colaborar de manera satisfactoria en el desarrollo del proyecto.<br>**Valera Garcés Samuel Ignacio, <br/>TB1**: Informó sobre el progreso y los obstáculos del proyecto a públicos especializados. <br/>**TP**: Implementó la funcionalidad del login en Angular CLI, realizando todo el proceso satisfactoriamente.<br>**Mallma Espiritu Franky, TB1**: Compartió ideas de solución de manera objetiva durante el desarrollo del proyecto. | **General**: La comunicación clara y precisa fue crucial para el éxito del proyecto, facilitando la cooperación y comprensión entre los equipos. La capacidad de comunicar de manera objetiva y profesional coordinó esfuerzos y mejoró la ejecución del proyecto. |
 | **Comunica por escrito con efectividad a diferentes rangos de audiencia.** | **Anampa Lavado Luis Angel**, **TB1**: Como miembro del equipo, cumplí con mis responsabilidades de manera oportuna, asumiendo la tarea de realizar entrevistas, redactar la introducción y el planteamiento del problema, así como contribuir en la elaboración de la landing page en conjunto con mis compañeros. Esta experiencia ha fortalecido nuestras dinámicas de trabajo y ha permitido un desarrollo cohesivo del proyecto.<br> **TP1**: En esta fase del trabajo, me corresponde apoyar en el Sprint 2, donde me enfocaré en la implementación de la aplicación web. Estoy comprometido en colaborar estrechamente con el equipo para asegurar que cumplamos con nuestros objetivos de manera efectiva.<br>**David Polanco Alessandro, TB1**: Usó el Lean UX Canvas e intervino en el diseño de la Information Architecture y la estructura de la base de datos.<br>**Mallma Espiritu Franky Oswald, TB1**: Entrevistó usuarios y participó en el desarrollo de la landing page.<br>**Talizo Balbin Joan Jefferson, TB1**: Contribuyó en diversas etapas del desarrollo, creando user personas y empathy maps.**TB1**: En esta fase del trabajo parcial, me corresponde en colaborar en el Sprint2, donde me enfoquele en la implementación de mockups del Figma a Angular. Asimismo, estoy comprometido en colaborar con el equipo para asegurar que cumplanos con nuestros objetivos de forma colaborativa, efectiva y trabajo en equipo.<br>**Valera Garcés, Samuel Ignacio <br/>TB1**: Ayudó en la documentación y diseño de journey mappings y diagram flows para el proyecto.<br>**TP**: Documentó la implementación del login en Angular CLI, asegurando que los procesos fueran claramente entendidos por todos los miembros del equipo. | **General**: La documentación clara y detallada fue fundamental para el desarrollo del proyecto, asegurando que toda la información fuera comprensible para los diversos públicos. La escritura objetiva y profesional facilitó la colaboración y el éxito en cada fase del desarrollo. |
+=======
+| Criterio Específico | Acciones realizadas | Conclusiones |
+| --- | --- | --- |
+| **Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos en el marco del desarrollo de un proyecto en ingeniería.** | **Anampa Lavado Luis Angel, TB1**: Transmitió pensamientos y hallazgos de manera directa, informando sobre el progreso y los obstáculos del proyecto.<br>**David Polanco Alessandro, TB1**: Comunicó ideas y resultados de manera objetiva a audiencias variadas, compartiendo el progreso y los desafíos del proyecto.<br>**Talizo Balbin Joan Jefferson, TB1**: Entrevistó usuarios y realizó sprints backlog, contribuyendo al desarrollo de la landing page.<br>**Valera Garcés Samuel Ignacio, TB1**: Informó sobre el progreso y los obstáculos del proyecto a públicos especializados.<br>**Mallma Espiritu Franky, TB1**: Compartió ideas de solución de manera objetiva durante el desarrollo del proyecto. | **General**: La comunicación clara y precisa fue crucial para el éxito del proyecto, facilitando la cooperación y comprensión entre los equipos. La capacidad de comunicar de manera objetiva y profesional coordinó esfuerzos y mejoró la ejecución del proyecto. |
+| **Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos en el marco del desarrollo de un proyecto en ingeniería.** | **Anampa Lavado Luis Angel, TB1**: Realizó análisis competitivo y contribuyó al product backlog, diseñando la arquitectura de la información y los mockups de la aplicación.<br>**David Polanco Alessandro, TB1**: Usó el Lean UX Canvas e intervino en el diseño de la Information Architecture y la estructura de la base de datos.<br>**Mallma Espiritu Franky Oswald, TB1**: Entrevistó usuarios y participó en el desarrollo de la landing page.<br>**Talizo Balbin Joan Jefferson, TB1**: Contribuyó en diversas etapas del desarrollo, creando user personas y empathy maps.<br>**Valera Garcés Samuel Ignacio, TB1**: Ayudó en la documentación y diseño de journey mappings y diagram flows para el proyecto. | **General**: La documentación clara y detallada fue fundamental para el desarrollo del proyecto, asegurando que toda la información fuera comprensible para los diversos públicos. La escritura objetiva y profesional facilitó la colaboración y el éxito en cada fase del desarrollo. |
 
 # [**Capítulo I: Introducción.**](#capítulo-i-introducción)
 ## [**1.1  Startup Profile.**](#startup-profile)
@@ -612,23 +618,32 @@ pagar viajes directamente a través de la aplicación.
         <br>
         <div style="text-align: center; margin-top: 10px;">
                 <img src="assets/images/logo/gounilogo.jfif" alt="StartUp" width="100px">
+=======
+                <img src="images/logo/gounilogo.jfif" alt="StartUp" width="100px">
         </div>
     <td colspan="1" valign="top" style="font-weight: bold;">
     BlaBlaCar
     <div style="text-align: center; margin-top: 20px;">
                 <img src="assets/images/competitorsLogo/blablacar.png" alt="blablacar" width="100px">
         </div
+=======
+                <img src="images/competitors logo/blablacar.png" alt="blablacar" width="100px">
+        </div>
     </td>
     <td colspan="1" valign="top" style="font-weight: bold;">
       Urbvan
       <div style="text-align: center; margin-top: 40px;">
                 <img src="assets/images/competitorsLogo/urbvan.png" alt="urbvan" width="200px">
+=======
+                <img src="images/competitors logo/urbvan.png" alt="urbvan" width="200px">
             </div>
       </td>
     <td colspan="1" valign="top" style="font-weight: bold;" >
       Yango
       <div style="text-align: center; margin-top: 20px;">
                 <img src="assets/images/competitorsLogo/yango.png" alt="yango" width="610px">
+=======
+                <img src="images/competitors logo/yango.png" alt="yango" width="610px">
             </div>
     </td>
   </tr>
@@ -826,6 +841,8 @@ Lugar de residencia: Ate, Lima
 
 Evidencia de la entrevista:
 <img src="assets/images/interviews/EvidenciaEntrevista.png">
+=======
+<img src="images/EvidenciaEntrevista.png">
 
 Enlace de entrevista: [Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EX7er1YUSwFDuVEixTyS9icBROnS8zoGjs_OYnidNOSFxg?e=aP2d71&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
@@ -846,6 +863,8 @@ Lugar de residencia: Lima, Peru
 Evidencia de la entrevista:
 
 <img src="assets/images/interviews/EvidenciaEntrevistaAlessandro.png">
+=======
+<img src="images/EvidenciaEntrevistaAlessandro.png">
 
 Enlace de la entrevista: 
 
@@ -871,6 +890,8 @@ Lugar de residencia: Lima, Peru
 Evidencia de la entrevista:
 
 <img src="assets/images/interviews/entrevista03_luis.png">
+=======
+<img src="images/interviews/entrevista03_luis.png">
 
 Enlace de la entrevista:
 
@@ -897,6 +918,8 @@ Lugar de residencia: Selva Alegre, Arequipa
 Evidencia de la entrevista:
 
 ![entrevista02_UniversitarioPropietarioDeAuto.png](assets/images/interviews/entrevista02_UniversitarioPropietarioDeAuto.png)
+=======
+![entrevista02_UniversitarioPropietarioDeAuto.png](images/interviews/entrevista02_UniversitarioPropietarioDeAuto.png)
 
 Enlace de entrevista:
 
@@ -921,6 +944,8 @@ Edad: 24 años
 Lugar de residencia: Santiago de Surco, Lima
 
 Evidencia de la entrevista: <img src="assets/images/interviews//interviewimage.png">
+=======
+Evidencia de la entrevista: <img src="images/interviewimage.png">
 
 Enlace de entrevista: [Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111952_upc_edu_pe/EZd3GcGkxvNDl_7tiJOaSZEBrANwpg_4jDmEdm1lr_EfXA?e=IZMgVf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
@@ -1011,11 +1036,15 @@ y conductor.
 
 
 <img src="assets/images/user-persona/user-persona-1.png" width="800px">
+=======
+<img src="images/user-persona/user-persona-1.png" width="800px">
 
 *Estudiantes Universitarios propietarios de vehiculos privados:*
 
 
 <img src="assets/images/user-persona/user-persona-2.png" width="800px">
+=======
+<img src="images/user-persona/user-persona-2.png" width="800px">
 
 ### 2.3.2. User Task Matrix
 
@@ -1242,6 +1271,12 @@ A continuación se pueden apreciar los User Journey Mapping de los segmentos obj
 *Estudiantes universitarios propietarios de vehiculos privados*
 
 <img src="assets/images/user-journey-mapping/journey-map-2.png" width="900px">
+=======
+<img src="images/user-journey-mapping/journey-map-1.png" width="900px">
+
+*Estudiantes universitarios propietarios de vehiculos privados*
+
+<img src="images/user-journey-mapping/journey-map-2.png" width="900px">
 
 ### 2.3.4. Empathy Mapping
 
@@ -1250,11 +1285,15 @@ A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivo
 *Estudiantes Universitarios*
 
 <img src="assets/images/empathy-mapping/empathy-mapping-1.png" width="900px">
+=======
+<img src="images/empathy-mapping/empathy-mapping-1.png" width="900px">
 
 
 *Estudiantes universitarios propietarios de vehiculos privados*
 
 <img src="assets/images/empathy-mapping/empathy-mapping-2.png" width="900px">
+=======
+<img src="images/empathy-mapping/empathy-mapping-2.png" width="900px">
 
 ### 2.3.5. As-is Scenario Mapping
 
@@ -1267,6 +1306,12 @@ A continuación se pueden apreciar los As-Is Scenario de los segmentos objetivos
 *Estudiantes universitarios propietarios de vehiculos privados*
 
 <img src="assets/images/as-is-scenario-mapping/as-is-scenario-2.png" width="900px">
+=======
+<img src="images/as-is-scenario-mapping/as-is-scenario-1.png" width="900px">
+
+*Estudiantes universitarios propietarios de vehiculos privados*
+
+<img src="images/as-is-scenario-mapping/as-is-scenario-2.png" width="900px">
 
 *Enlace de Miro:* https://miro.com/app/board/uXjVKlGuWKk=/?share_link_id=612949293517
 
@@ -1312,6 +1357,12 @@ En esta sección se resume la información recopilada, se realiza dos tablas con
 *Segmento Estudiantes Universitarios propetarios de vehiculo privado*
 
 ![ScenarioMapO2.jpg](assets/images/toBeScenarioMapping/ScenarioMapO2.jpg)
+=======
+![SMobjetivo1](images/ScenarioMapO1.jpg)
+
+*Segmento Estudiantes Universitarios propetarios de vehiculo privado*
+
+![SMobjetivo2](images/ScenarioMapO2.jpg)
 
 ## 3.2. User Stories
 <table>
@@ -2256,11 +2307,15 @@ El nombre de la marca es un elemento clave de nuestra identidad, representando l
 La paleta de colores está diseñada para proporcionar un equilibrio visual. Utilizamos una combinación de tonos brillantes y neutros para transmitir profesionalismo y modernidad.
 
 ![Paleta de Colores](assets/images/styleGuidelines/colors.png)
+=======
+![Paleta de Colores](assets/images/colors.png)
 
 #### Tipografía
 Usamos la tipografía **Roboto** en diferentes pesos para establecer jerarquía visual y garantizar una legibilidad óptima. El color de la letra principal es `#404040`.
 
 ![Guía de Tipografía](assets/images/styleGuidelines/guidelines.png)
+=======
+![Guía de Tipografía](assets/images/guidelines.png)
 
 #### Espaciado
 El espaciado entre elementos visuales asegura una estructura clara y organizada, ayudando a los usuarios a navegar por el contenido de forma fluida.
@@ -2334,6 +2389,8 @@ Filtros de Búsqueda: Los usuarios podrán filtrar los resultados por tipo de ve
 Organización de Resultados: Los resultados se podrán ordenar de manera alfabética, por hora de salida o por la proximidad del conductor al punto de recogida.
 
 ![Searching.png](assets/images/styleGuidelines/search.png)
+=======
+![Searching.png](assets/images/search.png)
 
 <br>
 
@@ -2345,6 +2402,8 @@ Navegación Móvil: En la versión móvil, el menú será desplegable para ahorr
 Navegación Secundaria: En secciones como el perfil, habrá opciones adicionales para gestionar la cuenta, verificar la identidad o ajustar preferencias de notificaciones.
 
 ![Navigation.png](assets/images/styleGuidelines/navigation.png)
+=======
+![Navigation.png](assets/images/navigation.png)
 
 <br>
 
@@ -2820,11 +2879,23 @@ Link Web Applications Prototyping:
 ### 4.6.3 Software Architecture Components Diagrams.
 
 ![Diagrama de clase](assets/images/databaseDesign/diagramcomponent.png)
+=======
+![Diagrama de clase](assets/images/diagramcontext.png)
+
+### 4.6.2. Software Architecture Container s.
+
+![Diagrama de clase](assets/images/diagramcontainer.png)
+
+### 4.6.3 Software Architecture Components Diagrams.
+
+![Diagrama de clase](assets/images/diagramcomponent.png)
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 
 ![Diagrama de clase](assets/images/databaseDesign/Diagrama_clase.png)
+=======
+![Diagrama de clase](assets/images/Diagrama_clase.png)
 
 ### 4.7.2. Class Dictionary
 <hr>
@@ -2954,12 +3025,16 @@ La clase Notificación gestiona el envío de mensajes a los usuarios en relació
 ## 4.8. Database Design
 
 ![Diagrama de clase](assets/images/databaseDesign/Diagrama_clase.png)
+=======
+![Diagrama de clase](assets/images/Diagrama_clase.png)
 
 ### 4.8.1. Database Diagram
 
 A continuación se detalla el modelo físico realizado para esta entrega, donde se consideró los requerimientos necesarios para el negocio.
 
 ![Diagrama de la Base de Datos](assets/images/databaseDesign/databasediagram.png)
+=======
+![Diagrama de la Base de Datos](assets/images/databasediagram.png)
 
 
 # Capítulo V: Product Implementation, Validation & Deployment
@@ -3122,6 +3197,19 @@ Tras haber hecho eso tenemos que seleccionar nuestra organización y dentro de e
 Para finalmente agregar la data necesaria para el despliegue
 
 Y final solo presionar el botón con el nombre de proyecto a desplegar
+=======
+   ![](images/Aspose.Words.83a09d9a-818b-4b03-949e-520e588e84ba.001.png)
+
+   Después seleccionar la opcion de “Deploy con github”
+
+   ![](images/Aspose.Words.83a09d9a-818b-4b03-949e-520e588e84ba.002.png)
+
+   Tras haber hecho eso tenemos que seleccionar nuestra organización y dentro de ella buscar el repositorio del proyecto que deseamos subir a producción
+
+   Para finalmente agregar la data necesaria para el despliegue
+
+
+   Y final solo presionar el botón con el nombre de proyecto a desplegar
 
 
 - Link de la Landing page:[ ](https://echero11.github.io/OpenSource_GasYa_LandingPage/)[**https://landing-page-three-zeta-24.vercel.app/**](https://landing-page-three-zeta-24.vercel.app/)
@@ -3187,6 +3275,33 @@ En este sprint planning 1 se presenta la evidencia de la planificación e implem
 | E5-US03 | Sección hero del landing page | T16 | Responsive design footer section | Aplicar diseño responsive | 1h | Angel Anampa | Done |
 | E5-US04 | Versión en español de landing page | T17 | Switch que activa I18n | Button de tipo switch que permite cambiar de idioma a la landing | 0.5h | Angel Anampa | Done |
 
+=======
+   ![](images/Aspose.Words.83a09d9a-818b-4b03-949e-520e588e84ba.005.png)
+
+
+
+
+   |**Sprint #**|**Sprint 1**|||||||
+      | :- | :- | :- | :- | :- | :- | :- | :- |
+   |**User Story**|**Work-item / Task**|||||||
+   |ID|Title|Id|Title|Description|Estimation(hours)|Assigned To|Status (To-do/in-Process/To-Review/Done)|
+   |E5-US01|Barra de navegación en la landing page|T1|Navbar section|<p>Implementar navbar</p><p>con botón (redirige a la aplicación) y responsive design, </p>|1h|Joan Talizo|Done|
+   |E5-US02|Dirigirse a la aplicación mediante el landing page|T2|Button Call to Action|<p></p><p>Implementar el button Call to Action del navbar</p>|0\.1h|Joan Talizo|Done|
+   |E5-US03|Sección hero del landing page|T3|Navbar section responsive|Aplicar diseño responsive a las opciones del navbar|1h|Joan Talizo|Done|
+   |E5-US03|Sección hero del landing page|T4|hero section|Implementar un hero seccion|1h|Angel Anampa|Done|
+   |E5-US03|Sección hero del landing page|T5|<p>responsive</p><p>design</p><p>hero</p><p>section</p>|aplicar design responsive al hero section|x|Angel Anampa|Done|
+   |E5-US03|Sección hero del landing page|T6|<p>Product section</p><p>and items</p>|Implementar Product section y los ítems característicos en orden grid|1h|Alessandro David|Done|
+   |E5-US03|Sección hero del landing page|T7|<p>responsive</p><p>design</p><p>Product section</p><p></p>|Implementar design responsive a Product section|1h|Alessandro David|Done|
+   |E5-US03|Sección hero del landing page|T8|<p>Customers section</p><p>and items</p>|Implementar Customers section y los ítems característicos en orden grid y aplicar animaciones|1\.5h|Joan Talizo|Done|
+   |E5-US03|Sección hero del landing page|T9|<p>responsive</p><p>design</p><p>Customers section</p><p></p>|Implementar diseño responsive a Costumers section|1h|Joan Talizo|Done|
+   |E5-US03|Sección hero del landing page|T10|Pricing section|Implementar Pricing section y los ítems característicos en orden grid |1h|Samuel Valera|Done|
+   |E5-US03|Sección hero del landing page|T11|<p>responsive</p><p>design</p><p>Pricing section</p><p></p>|Implementar diseño responsive a Pricing section|1h|Samuel Valera|Done|
+   |E5-US03|Sección hero del landing page|T12|Contact section|Implementar Contact section y los ítems característicos en orden grid |1h|Samuel Valera|Done|
+   |E5-US03|Sección hero del landing page|T13|<p>responsive</p><p>design</p><p>Contact section</p><p></p>|Implementar diseño responsive a Contact section|1h|Samuel Valera|Done|
+   |E5-US03|Sección hero del landing page|T14|footer section|Implementar footer section|1h|Alessandro David|Done|
+   |E5-US03|Sección hero del landing page|T15|Social media section|implementar icons para las redes sociales y tambien links|0\.5h|Alessandro david|Done|
+   |E5-US03|Sección hero del landing page|T16|<p>Responsive</p><p>design</p><p>footer section</p><p></p>|Aplicar diseño responsive|1h|Angel Anampa|Done|
+   |E5-US04|Versión en español de landing page|T17|Switch que activa I18n|Button de tipo switch que permite cambiar de idioma  a la landing|0\.5h|Angel Anampa|Done|
 
 
 
@@ -3236,6 +3351,11 @@ En este sprint planning 1 se presenta la evidencia de la planificación e implem
    En este sprint logramos como primera fase de nuestro producto final  desarrollar nuestra landing page usando HTML y CSS, teniendo en cuenta también el desarrollo responsive para dispositivos tanto android como IOS y su respectivo despliegue en el Netlify. 
 
 ![executionEvidence.png](assets/images/sprint1/executionEvidence.png)
+=======
+
+   ![](images/Aspose.Words.83a09d9a-818b-4b03-949e-520e588e84ba.006.png)
+
+
 
 6. **Services Documentation Evidence for Sprint Review**
 
@@ -3262,6 +3382,17 @@ En este sprint planning 1 se presenta la evidencia de la planificación e implem
 3. Finalmente, elegimos nuestra rama a desplegar y hacemos click en “Desploy”
 
 ![deploy.jpeg](assets/images/sprint1/deploy.jpeg)
+=======
+
+![](images/WhatsApp%20Image%202024-09-07%20at%2011.32.00%20AM.jpeg)
+
+2. Selección de  la opción de “add new website” para elegir el proyecto que queremos deplegar
+
+   ![](images/WhatsApp%20Image%202024-09-07%20at%2011.18.27%20AM.jpeg)
+
+3. Finalmente, elegimos nuestra rama a desplegar y hacemos click en “Desploy”
+
+   ![](images/WhatsApp%20Image%202024-09-07%20at%2011.22.02%20AM.jpeg)
 
 8. **Team Collaboration Insights during Sprint**
 
@@ -3500,6 +3631,28 @@ Durante este sprint, al igual que para el desarrollo de la landing page, para pr
 
 
 
+
+   ![](images/Aspose.Words.83a09d9a-818b-4b03-949e-520e588e84ba.010.png)
+
+
+   |Integrante| Aporte en el informe                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+      | :- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+   |Joan| <p>Startup Profile,Descripción de la Startup,Solution Profile, Antecedentes y problemática, Lean UX Process, Lean UX Problem Statements, Lean UX Assumptions, Segmentos objetivo, User Stories, Organization Systems, Labeling Systems, SEO Tags and Meta Tags, Searching Systems, Navigation Systems ,Landing Page Wireframe, Web Applications Wireframes,Software Architecture Context Diagram, Software Architecture Container Diagrams</p><p>Software Architecture Components Diagrams, Class Diagrams, Class Dictionary, Database Diagram, Development Evidence for Sprint Review.</p><p>![](images/Aspose.Words.83a09d9a-818b-4b03-949e-520e588e84ba.011.png)</p> |
+   |Franky| Competidores, Análisis competitivo, Estrategias frente a competidores, Product backlog, Style guidelines, Web style guidelines, Information architecture, Landing page ui design, Landing page mockup, Web applications mockup, Software deployment configuration, Development Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review ![](images/Aspose.Words.83a09d9a-818b-4b03-949e-520e588e84ba.012.png)                                                                                                                                                |
+   |Angel| <p>User task matrix, User journey Mapping, As-is scenario mapping,To-be scenario mapping,Wireflow diagrams,Diseño de entrevistas, Análisis de entrevistas,DDD architecture</p><p></p><p>![](images/Aspose.Words.83a09d9a-818b-4b03-949e-520e588e84ba.013.png)</p>                                                                                                                                                                                                                                                                                                                                                                                                       |
+   |Samuel| <p>Registro de entrevistas,Analisis de entrevistas, Software deployment configuration, Development Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review</p><p>![](images/Aspose.Words.83a09d9a-818b-4b03-949e-520e588e84ba.014.png)</p>                                                                                                                                                                                                                                                                                                                  |
+   |Alessandro| <p>Lean UX Hypothesis Statements, Lean UX Canvas, Diseño de entrevistas, User Personas, Empathy Mapping, Impact Mapping, Domain-Driven Software Architecture, Software Development Environment Configuration, Source Code Management, Source Code Style Guide & Conventions</p><p>![](images/Aspose.Words.83a09d9a-818b-4b03-949e-520e588e84ba.015.png)</p>                                                                                                                                                                                                                                                                                                             |
+
+   **Evidencia de los commit:**
+
+   ![](images/Aspose.Words.83a09d9a-818b-4b03-949e-520e588e84ba.016.png)
+
+   Durante este sprint para proteger la rama “main” creamos una rama “develop” de la que cada integrante de nuestro grupo creó su propia sub-rama “feature“ para subir un capítulo del reporte siguiendo las convenciones antes señaladas(conventional commit y git flow).
+
+   **Github analytics de nuestro primer sprint:**
+
+![](images/commits.png)
+
 **Conclusiones**
 
 # Conclusiones sobre GoUni
@@ -3533,11 +3686,17 @@ La plataforma utiliza tecnología móvil avanzada y un enfoque innovador para cr
     <tr>
         <td>Repositorio Reporte</td>
         <td><a href="https://github.com/Open-Source-SW53-Group-2/Report">https://github.com/Open-Source-SW53-Group-2/Report</a></td>
+        <td><a href="https://github.com/Open-Source-SW53-Group-2">Repositories GoUni</a></td>
+    </tr>
+    <tr>
+        <td>Repositorio Reporte</td>
+        <td><a href="https://github.com/Open-Source-SW53-Group-2/Report">Project-Report-GoUni</a></td>
     </tr>
 
    <tr>
         <td>Repositorio Landingpage</td>
         <td><a href="https://github.com/Open-Source-SW53-Group-2/Landing-Page-With-Angular">https://github.com/Open-Source-SW53-Group-2/Landing-Page-With-Angular</a></td>
+        <td><a href="https://github.com/Open-Source-SW53-Group-2/Landing-Page">LandingPage-GoUni</a></td>
     </tr>
 
    <tr>
@@ -3558,11 +3717,15 @@ La plataforma utiliza tecnología móvil avanzada y un enfoque innovador para cr
     <tr>
         <td>Link Web Aplication</td>
         <td><a href="https://frontend-five-wheat-92.vercel.app/login">https://frontend-five-wheat-92.vercel.app/login</a></td>
+        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c250_upc_edu_pe/EWYOUjf_ox9Or5EfrLQCcyAB6flXr1z6TocIu4NZOeEdNw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=qYotQB ">TB1</a></td>
+    </tr>
+
+<tr>
+        <td>Link landing page</td>
+        <td><a href="https://landing-page-three-zeta-24.vercel.app/">Landing Page</a></td>
     </tr>
  <tr>
 
     
 </table>
-
-
 
