@@ -3407,12 +3407,68 @@ En esta sección, se presentan los commits realizados en el repositorio de la la
 
 ![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.012.png)
 
-Pantallas en mockup:
+- Pantallas de Frontend en Angular:
+  
+  ![AppWebLogin.png](assets/images/sprint2/Frontend/AppWebLogin.png)
+
+  ![AppWebRegister.png](assets/images/sprint2/Frontend/AppWebRegister.png)
+  
+  ![AppWebRegisterNotification.png](assets/images/sprint2/Frontend/AppWebRegisterNotification.png)
+  
+  ![AppWebLoginEmailAndPassword.png](assets/images/sprint2/Frontend/AppWebLoginEmailAndPassword.png)
+
+  ![AppWebHome.png](assets/images/sprint2/Frontend/AppWebHome.png)
+
+  ![AppWebService.png](assets/images/sprint2/Frontend/AppWebService.png)
+
+  ![AppWebPlans.png](assets/images/sprint2/Frontend/AppWebPlans.png)
+
+  ![AppWebStudentPlan.png](assets/images/sprint2/Frontend/AppWebStudentPlan.png)
+  
+  ![AppWebCardPayment.png](assets/images/sprint2/Frontend/AppWebCardPayment.png)
+
+  ![AppWebSuccessfulPayment.png](assets/images/sprint2/Frontend/AppWebSuccessfulPayment.png)
+
+  ![AppWebMaps.png](assets/images/sprint2/Frontend/AppWebMaps.png)
+
+  ![AppWebSeeMoreOfTheMap.png](assets/images/sprint2/Frontend/AppWebSeeMoreOfTheMap.png)
+
+  ![AppWebMapsZoomRange.png](assets/images/sprint2/Frontend/AppWebMapsZoomRange.png)
+
+  ![AppWebMapsMarkers.png](assets/images/sprint2/Frontend/AppWebMapsMarkers.png)
+
+  ![AppWebMapsUniversity.png](assets/images/sprint2/Frontend/AppWebMapsUniversity.png)
+
+  ![AppWebListOfUniversities.png](assets/images/sprint2/Frontend/AppWebListOfUniversities.png)
+
+  ![AppWebBookYourTrip.png](assets/images/sprint2/Frontend/AppWebBookYourTrip.png)
+
+  ![AppWebChooseTheSchedule.png](assets/images/sprint2/Frontend/AppWebChooseTheSchedule.png)
+
+  ![AppWebApplyDiscount.png](assets/images/sprint2/Frontend/AppWebApplyDiscount.png)
+  
+  ![AppWebDiscountApplied.png](assets/images/sprint2/Frontend/AppWebDiscountApplied.png)
+
+  ![AppWebReservationConfirmed.png](assets/images/sprint2/Frontend/AppWebReservationConfirmed.png)
+
+  ![AppWebYourReservations.png](assets/images/sprint2/Frontend/AppWebYourReservations.png)
+ 
+  ![AppWebReschedule.png](assets/images/sprint2/Frontend/AppWebReschedule.png)
+
+  ![AppWebRescheduleTrip.png](assets/images/sprint2/Frontend/AppWebRescheduleTrip.png)
+
+  ![AppWebConfirmationOfRescheduledTrip.png](assets/images/sprint2/Frontend/AppWebConfirmationOfRescheduledTrip.png)
+
+  ![AppWebYourTripsUpdated.png](assets/images/sprint2/Frontend/AppWebYourTripsUpdated.png)
+
+  ![AppWebDeleteTrip.png](assets/images/sprint2/Frontend/AppWebDeleteTrip.png)
+
+  ![AppWebConfirmationOfDeletingTrip.png](assets/images/sprint2/Frontend/AppWebConfirmationOfDeletingTrip.png)
+ 
+  ![AppWebUpdatedReservationList.png](assets/images/sprint2/Frontend/AppWebUpdatedReservationList.png)
+
 
 - Muestra de la respuesta de nuestra API hecha con JSON server: 
-
-
-
 
 
 5. **Services Documentation Evidence for Sprint Review.**
@@ -3450,7 +3506,7 @@ Para finalmente agregar la data necesaria para el despliegue
 
 Y final solo presionar el botón con el nombre de proyecto a desplegar
 
--       Link de la Landing page: [https://landing-page-with-angular-olive.vercel.app/header ](https://landing-page-with-angular-olive.vercel.app/header)
+-  Link de la Landing page: [https://landing-page-with-angular-olive.vercel.app/header ](https://landing-page-with-angular-olive.vercel.app/header)
 
 
 
@@ -3459,28 +3515,28 @@ Y final solo presionar el botón con el nombre de proyecto a desplegar
 
 A continuación, se presenta una descripción detallada de cómo el equipo ha trabajado de manera colaborativa durante este sprint. Esta sección destaca las herramientas y métodos utilizados para fomentar una comunicación efectiva, la coordinación de tareas y la resolución de problemas, asegurando que todos los miembros del equipo estuvieran alineados y comprometidos con los objetivos del sprint.
 
-`		`**Distribución de aportes en el informe:**
+**Distribución de aportes en el informe:**
 
 **URL del repositorio para el Project Report en la organización de GitHub del equipo:**
 
-` `<https://github.com/Open-Source-SW53-Group-2/Report>
+<https://github.com/Open-Source-SW53-Group-2/Report>
 
 **¿Cómo se han desarrollado las actividades de elaboración del informe?**
 
 Para el desarrollo del informe en este sprint optamos por dividir el repositorio del informe por capítulos y cada integrante realizó los siguientes aportes representados en la siguiente tabla y la siguiente captura:
 
-![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.019.png)
+![Sprint2Activity](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.019.png)
 
 
-| Integrante  | Aporte en el informe  |
-| :- | :- |
-| **Joan** | <p>Mejora continua del Problem Statement, Mejora continua del Diagrama de Clases por bounded context, Mejora continua de user stories, Mejora continua de Class Dictionary</p><p>![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.020.png)</p> |
-| **Samuel** | <p>Mejora continua de user stories, Mejora continua del product backlog, Mejora continua de Software deployment configuration, Mejora continua de Development Evidence for Sprint Review, Mejora continua de Execution Evidence for Sprint Review, Mejora continua Services Documentation Evidence for Sprint Review, Mejora continua Software Deployment Evidence for Sprint Review.</p><p>![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.021.png)</p> |
-| **Franky** | <p>Mejora continua de user task matrix, Mejora continua de scenario as-is y to-be, Mejora continua en User Journey Mapping, Mejora continua en wireframe mockup.</p> |
-| **Angel** | <p>Mejora continua de user stories, Mejora continua del análisis de entrevistas, Mejora del Software deployment configuration, Mejora del Development Evidence for Sprint Review, Mejora del Execution Evidence for Sprint Review, Mejora del Services Documentation Evidence for Sprint Review, Mejora del Software Deployment Evidence for Sprint Review</p><p>![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.022.png)</p> |
-| **Alessandro** | <p>Mejora continua de Lean UX Hypotheses Statement, Mejora continua de user stories, Mejora continua de empathy map, Mejora continua Software Architecture Context Diagram, Mejora continua Software Architecture Container Diagrams, Mejora continua Software Architecture Components Diagrams, Mejora continua de Software Configuration Management</p><p>![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.023.png)</p> |
+| Integrante  | Aporte en el informe                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| :- |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Joan** | <p> Mejora continua del Problem Statement, Mejora continua del Diagrama de Clases por bounded context, Mejora continua de user stories, Mejora continua de Class Dictionary</p> <p>![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.020.png)</p>                                                                                                                                                                                                           |
+| **Samuel** | <p> Mejora continua de user stories, Mejora continua del product backlog, Mejora continua de Software deployment configuration, Mejora continua de Development Evidence for Sprint Review, Mejora continua de Execution Evidence for Sprint Review, Mejora continua Services Documentation Evidence for Sprint Review, Mejora continua Software Deployment Evidence for Sprint Review.</p><p>![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.021.png)</p> |
+| **Franky** | <p> Mejora continua de user task matrix, Mejora continua de scenario as-is y to-be, Mejora continua en User Journey Mapping, Mejora continua en wireframe mockup.</p>                                                                                                                                                                                                                                                                                                                 |
+| **Angel** | <p> Mejora continua de user stories, Mejora continua del análisis de entrevistas, Mejora del Software deployment configuration, Mejora del Development Evidence for Sprint Review, Mejora del Execution Evidence for Sprint Review, Mejora del Services Documentation Evidence for Sprint Review, Mejora del Software Deployment Evidence for Sprint Review</p><p>![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.022.png)</p>                            |
+| **Alessandro** | <p> Mejora continua de Lean UX Hypotheses Statement, Mejora continua de user stories, Mejora continua de empathy map, Mejora continua Software Architecture Context Diagram, Mejora continua Software Architecture Container Diagrams, Mejora continua Software Architecture Components Diagrams, Mejora continua de Software Configuration Management</p><p>![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.023.png)</p>                                 |
 
-**Evidencia de los commit:![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.024.png)**
+**Evidencia de los commit:![Evidence of commit](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.024.png)**
 
 Durante este sprint, al igual que para el desarrollo de la landing page, para proteger la rama “main” creamos una rama “develop” de la que cada integrante de nuestro grupo creó su propia sub-rama “feature“ para subir un capítulo del reporte siguiendo las convenciones antes señaladas(conventional commit y git flow).
 
@@ -3491,16 +3547,6 @@ Durante este sprint, al igual que para el desarrollo de la landing page, para pr
 ![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.026.png)
 
 
-
-
-
-
-
-
-
-
-
-**Conclusiones**
 
 # Conclusiones sobre GoUni
 
@@ -3540,13 +3586,23 @@ La plataforma utiliza tecnología móvil avanzada y un enfoque innovador para cr
         <td><a href="https://github.com/Open-Source-SW53-Group-2/Landing-Page-With-Angular">https://github.com/Open-Source-SW53-Group-2/Landing-Page-With-Angular</a></td>
     </tr>
 
-   <tr>
-        <td>Exposicion TB1</td>
-        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c250_upc_edu_pe/EWYOUjf_ox9Or5EfrLQCcyAB6flXr1z6TocIu4NZOeEdNw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=qYotQB ">https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c250_upc_edu_pe/EWYOUjf_ox9Or5EfrLQCcyAB6flXr1z6TocIu4NZOeEdNw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=qYotQB </a></td>
-    </tr>
+  <tr>
+        <td>Repositorio FrontEnd</td>
+        <td><a href="https://github.com/Open-Source-SW53-Group-2/frontend.git">https://github.com/Open-Source-SW53-Group-2/frontend.git </a></td>
+  </tr>
+
+  <tr>
+        <td>Repositorio Backend</td>
+        <td><a href="https://github.com/Open-Source-SW53-Group-2/back-end.git">https://github.com/Open-Source-SW53-Group-2/back-end.git</a></td>
+  </tr>
 
   <tr>
         <td>Exposicion TB1</td>
+        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c250_upc_edu_pe/EWYOUjf_ox9Or5EfrLQCcyAB6flXr1z6TocIu4NZOeEdNw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=qYotQB ">https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c250_upc_edu_pe/EWYOUjf_ox9Or5EfrLQCcyAB6flXr1z6TocIu4NZOeEdNw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=qYotQB </a></td>
+  </tr>
+
+  <tr>
+        <td>Exposicion TP1</td>
         <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223781_upc_edu_pe/ETUX6a3BdsRPg6mcJP3twrIBBAg1-Wj-MmeMDvZsRDTaVw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=7SQFTR">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223781_upc_edu_pe/ETUX6a3BdsRPg6mcJP3twrIBBAg1-Wj-MmeMDvZsRDTaVw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=7SQFTR</a></td>
     </tr>
 
