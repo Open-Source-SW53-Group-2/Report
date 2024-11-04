@@ -99,7 +99,7 @@ Para el desarrollo de la entrega TP, se opto por dividir el trabajo de la siguie
 
 | Versión      | Fecha      | Autor                               | Descripción                                                |
 |--------------|------------|-------------------------------------|------------------------------------------------------------|
-| #02 - TP    | 4/11/24   | Anampa Lavado, Luis Angel      | Correciones TP , Web Aplication, Backend, entrevistas|
+| #03 - TB2    | 4/11/24   | Anampa Lavado, Luis Angel      | Correciones TP , Web Aplication, Backend, entrevistas|
 |              |            |                                     |                                                            |
 |              | 4/11/24   | David Polanco, Alessandro    | Correciones TP , Web Aplication, Backend, entrevistas|
 |              |            |                                     |                                                            |
