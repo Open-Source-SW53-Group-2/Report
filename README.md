@@ -172,24 +172,24 @@ Para el desarrollo de la entrega TP, se opto por dividir el trabajo de la siguie
       - [**5.2.1.6. Services Documentation Evidence for Sprint Review.**](#5216-services-documentation-evidence-for-sprint-review)
       - [**5.2.1.7. Software Deployment Evidence for Sprint Review.**](#5217-software-deployment-evidence-for-sprint-review)
       - [**5.2.1.8. Team Collaboration Insights during Sprint.**](#5218-team-collaboration-insights-during-sprint)
-    - [**5.3.1. Sprint 2.**](#521-sprint-2)
-      - [**5.3.1.1. Sprint Planning 2.**](#5211-sprint-planning-2)
-      - [**5.3.1.2. Sprint Backlog 2.**](#5212-sprint-backlog-2)
-      - [**5.3.1.3. Development Evidence for Sprint Review.**](#5213-development-evidence-for-sprint-review)
-      - [**5.3.1.4. Testing Suite Evidence for Sprint Review.**](#5214-testing-suite-evidence-for-sprint-review)
-      - [**5.3.1.5. Execution Evidence for Sprint Review.**](#5215-execution-evidence-for-sprint-review)
-      - [**5.3.1.6. Services Documentation Evidence for Sprint Review.**](#5216-services-documentation-evidence-for-sprint-review)
-      - [**5.3.1.7. Software Deployment Evidence for Sprint Review.**](#5217-software-deployment-evidence-for-sprint-review)
-      - [**5.3.1.8. Team Collaboration Insights during Sprint.**](#5218-team-collaboration-insights-during-sprint)
-    - [**5.4.3. Sprint 3.**](#521-sprint-3)
-      - [**5.4.3.1. Sprint Planning 3.**](#5211-sprint-planning-3)
-      - [**5.4.3.2. Sprint Backlog 3.**](#5212-sprint-backlog-3)
-      - [**5.4.3.3. Development Evidence for Sprint Review.**](#5213-development-evidence-for-sprint-review)
-      - [**5.4.3.4. Testing Suite Evidence for Sprint Review.**](#5214-testing-suite-evidence-for-sprint-review)
-      - [**5.4.3.5. Execution Evidence for Sprint Review.**](#5215-execution-evidence-for-sprint-review)
-      - [**5.4.3.6. Services Documentation Evidence for Sprint Review.**](#5216-services-documentation-evidence-for-sprint-review)
-      - [**5.4.3.7. Software Deployment Evidence for Sprint Review.**](#5217-software-deployment-evidence-for-sprint-review)
-      - [**5.4.3.8. Team Collaboration Insights during Sprint.**](#5218-team-collaboration-insights-during-sprint)
+    - [**5.2.2. Sprint 2.**](#521-sprint-2)
+      - [**5.2.2.1. Sprint Planning 2.**](#5211-sprint-planning-2)
+      - [**5.2.2.2. Sprint Backlog 2.**](#5212-sprint-backlog-2)
+      - [**5.2.2.3. Development Evidence for Sprint Review.**](#5213-development-evidence-for-sprint-review)
+      - [**5.2.2.4. Testing Suite Evidence for Sprint Review.**](#5214-testing-suite-evidence-for-sprint-review)
+      - [**5.2.2.5. Execution Evidence for Sprint Review.**](#5215-execution-evidence-for-sprint-review)
+      - [**5.2.2.6. Services Documentation Evidence for Sprint Review.**](#5216-services-documentation-evidence-for-sprint-review)
+      - [**5.2.2.7. Software Deployment Evidence for Sprint Review.**](#5217-software-deployment-evidence-for-sprint-review)
+      - [**5.2.2.8. Team Collaboration Insights during Sprint.**](#5218-team-collaboration-insights-during-sprint)
+    - [**5.2.3. Sprint 3.**](#521-sprint-3)
+      - [**5.2.3.1. Sprint Planning 3.**](#5211-sprint-planning-3)
+      - [**5.2.3.2. Sprint Backlog 3.**](#5212-sprint-backlog-3)
+      - [**5.2.3.3. Development Evidence for Sprint Review.**](#5213-development-evidence-for-sprint-review)
+      - [**5.2.3.4. Testing Suite Evidence for Sprint Review.**](#5214-testing-suite-evidence-for-sprint-review)
+      - [**5.2.3.5. Execution Evidence for Sprint Review.**](#5215-execution-evidence-for-sprint-review)
+      - [**5.2.3.6. Services Documentation Evidence for Sprint Review.**](#5216-services-documentation-evidence-for-sprint-review)
+      - [**5.2.3.7. Software Deployment Evidence for Sprint Review.**](#5217-software-deployment-evidence-for-sprint-review)
+      - [**5.2.3.8. Team Collaboration Insights during Sprint.**](#5218-team-collaboration-insights-during-sprint)
     - [**5.3. Validation Interviews.**](#52-Validation-Interviews.)
       - [**5.3.1. Diseño de Entrevistas.**](#521-Interview-Design.)
       - [**5.3.2.  Registro de Entrevistas.**](#5211-Interview-Record.)
@@ -3573,7 +3573,8 @@ Durante este sprint, al igual que para el desarrollo de la landing page, para pr
 ![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.026.png)
 
 
-## 5.2.3. **Sprint Planning 3.**
+### [**5.2.3. Sprint 3.**](#sprint-3)
+#### [**5.2.3.1 Sprint Planning 3.**](#sprint-planning-3)
 
 En este sprint planning 3 se presenta la evidencia de la planificación y desarrollo de la RESTful Web Services (backend). Además, se evidenciaron los avances del proyecto e insights de colaboración en el equipo a través de  GitHub.
 
@@ -3592,7 +3593,7 @@ En este sprint planning 3 se presenta la evidencia de la planificación y desarr
 |**Sprint Velocity 3**|5|
 |**Sum of Story Points**|40|
 
-5.2.3.1. **Sprint Backlog 3.**
+#### [**5.2.3.2. Sprint Backlog 3.**](#5212-sprint-backlog-3)
 
 En esta parte mostramos las tareas que se realizaron en este sprint.
 
@@ -3615,7 +3616,7 @@ Vista del Sprint Backlog 3 en Trello
 |E6-US03|Información de perfil|T1|API Endpoint para el manejo y demostración de información de perfil de usuario|Implementar el bounded context Profile donde aparecen las la información de usuario|7|Angel Anampa|Done|
 |E6-US06|Chat |T1|Api Endpoint para el ingresar información de chat|Implementar el bounded context de Chat para conversación|6|Franky Mallma|Done|
 
-1. **Development Evidence for Sprint Review.**
+#### [**5.2.3.3. Development Evidence for Sprint Review.**](#development-evidence-for-sprint-review)
 
 En esta sección, se presentan los commits realizados en el repositorio de la landing page en GitHub. Estos commits reflejan el progreso y las mejoras implementadas durante el sprint 2 con respecto a los avances tanto del frontend como backend, proporcionando una visión detallada de las actividades de desarrollo y las contribuciones del equipo:
 
@@ -3634,7 +3635,7 @@ En esta sección, se presentan los commits realizados en el repositorio de la la
 <tr><td valign="top"></td><td valign="top"></td><td valign="top"><a name="_qk2la7z519hs"></a><b>-</b></td><td valign="top"><h3></h3></td></tr>
 </table>
 
-1. <a name="_4f6ps6xe4a27"></a>**Testing Suite Evidence for Sprint Review.**
+#### [**5.2.3.4. Testing Suite Evidence for Sprint Review.**](#5214-testing-suite-evidence-for-sprint-review)
 
 En el alcance del sprint 3 se ha desarrollado el backend de la aplicación web por lo que haremos algunas pruebas de aceptación con respecto al alcance:
 
@@ -3652,7 +3653,7 @@ En el alcance del sprint 3 se ha desarrollado el backend de la aplicación web p
 
 
 
-1. **Execution Evidence for Sprint Review.**
+#### [5.2.3.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
 
 En este sprint logramos como tercera fase de nuestro producto final, desarrollar la API hecha con Java en Spring Boot.
 
@@ -3669,7 +3670,7 @@ Video que ilustra y explica la visualización y navegación logrados en este Spr
 Link del video: <https://upcedupe-my.sharepoint.com/personal/u202218664_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218664%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202402%2Dsi729%2Dsw53%2Dstudentconnect%2Dabout%2Dthe%2Dteam%2Dsprint%2D3%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Efde647a7%2De12a%2D41c7%2D8787%2Dd129b7019024>
 
 
-1. **Services Documentation Evidence for Sprint Review.**
+#### [5.2.3.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
 
 Para este sprint utilizamos los servicios de la API que nosotros mismos hicimos con Java en Spring Boot. A continuación, mostramos todos los endpoints realizados por nuestro equipo por cada Bounded Context correctamente documentados en Swagger.
 
@@ -3716,7 +3717,7 @@ Repositorio del backend en github: <https://github.com/Open-Source-SW53-Group-2/
 |**Entity**|**Endpoint URL**|**Swagger**|
 |Users|api/v1/users|![](assets/images/sprint3/Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.012.png)|
 
-1. **Software Deployment Evidence for Sprint Review.**
+#### [5.2.3.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
 
 ![deploy1.png](assets/images/sprint3/deploy/deploy1.png)
 
@@ -3742,7 +3743,7 @@ Repositorio del backend en github: <https://github.com/Open-Source-SW53-Group-2/
 
 ![deploy12.png](assets/images/sprint3/deploy/deploy12.png)
 
-## Team Collaboration Insights during Sprint.
+#### [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
 
 **Distribución de aportes en el informe:**
 
@@ -3778,13 +3779,13 @@ Durante este sprint, al igual que para el desarrollo de la landing page, para pr
 
 
 
-## Validation Interviews.
+## [**5.3. Validation Interviews.**](#52-Validation-Interviews.)
 
 Después de avanzar en el desarrollo de la landing page, la aplicación web (frontend) y la API RESTful (backend) del producto GoUni , realizamos entrevistas de validación. Estas entrevistas permitieron a los usuarios de ambos segmentos objetivos obtener una primera impresión del software.
 
-1. **Diseño de Entrevistas.**
+### [**5.3.1. Diseño de Entrevistas.**](#521-Interview-Design.)
 
-   Para realizar los componentes elaboramos las preguntas para obtener información de nuestros segmentos objetivos mediante las entrevistas.
+Para realizar los componentes elaboramos las preguntas para obtener información de nuestros segmentos objetivos mediante las entrevistas.
 
 ***Preguntas principales:***
 
@@ -3967,25 +3968,27 @@ Durante la entrevista con Maykol Valencia, un universitario propietario de auto,
 
 
 
-## Evaluaciones según heurísticas.
+### [**5.3.3.  Evaluaciones según heurísticas.**](#5211-Evaluations-according-to-heuristics.)
 
 **UX Heuristics & Principles Evaluation**
 
 Usability – Inclusive Design – Information Architecture
 
-**CARRERA :** Ingeniería de Software
+**- CARRERA :** Ingeniería de Software
 
-**CURSO :** Desarrollo de Aplicaciones Open Source
+**- CURSO :** Desarrollo de Aplicaciones Open Source
 
-**SECCIÓN :** SW53
+**- SECCIÓN :** SW53
 
-**PROFESORES :** Hugo Alan Mori
+**- PROFESORES :** Hugo Alan Mori
 
-**AUDITOR :** PropioConnect
+**- AUDITOR :** PropioConnect
 
-**CLIENTE(S) :** StudentConnect
+**- CLIENTE(S) :** StudentConnect
 
-**SITE o APP A EVALUAR:** GoUni
+**- SITE o APP A EVALUAR:** GoUni
+
+____________________________________________________________________________________
 
 **TAREAS A EVALUAR:**
 
@@ -3993,45 +3996,49 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 
 **Desktop landing page**
 
-Información y descripción de la aplicación y sus funcionalidad
+1. Información y descripción de la aplicación y sus funcionalidad
 
-Información y breve descripción sobre el equipo de trabajo
+2. Información y breve descripción sobre el equipo de trabajo
 
-Visualización de testimonios
+3. Visualización de testimonios
 
-Header y footer funcionales
+4. Header y footer funcionales
+
+__________________________________________________________________________________
 
 **Desktop Web Applications**
 
-Registro de nuevo usuario
+1. Registro de nuevo usuario
 
-Inicio de sesión de usuario existente
+2. Inicio de sesión de usuario existente
 
-Header y footer funcionales
+3. Header y footer funcionales
 
-Pestañas de navegación dentro de la aplicación
+4 .Pestañas de navegación dentro de la aplicación
 
-Botones interactivos y de uso intuitivo
+5. Botones interactivos y de uso intuitivo
 
-Reservas
+6. Reservas
+
+__________________________________________________________________________________
+
 
 **No están incluidas en esta versión de la evaluación las siguientes tareas:**
 
 **Desktop landing page**
 
-Política de privacidad y condiciones de uso
+1. Política de privacidad y condiciones de uso
 
 **Desktop Web Applications**
 
-Visualización de Perfil de usuario
+1. Visualización de Perfil de usuario
 
-Dark Mode
+2. Dark Mode
 
-Política de privacidad y condiciones de uso
+3. Política de privacidad y condiciones de uso
 
-ESCALA DE SEVERIDAD:
-
-Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+#### ESCALA DE SEVERIDAD:
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 
 |Nivel|Descripción|
 | :- | :- |
@@ -4041,7 +4048,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 |4|Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.|
 
 
-**TABLA RESUMEN:**
+#### TABLA RESUMEN (Problemas):
 
 
 |#|Problema|Escala de severidad|Heurística/Principio violado|
@@ -4053,7 +4060,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
 
 
-**PROBLEMA #1: Los botones del footer de la landing page no presentan ninguna funcionalidad**
+#### **PROBLEMA #1:** Los botones del footer de la landing page no presentan ninguna funcionalidad**
 
 **Severidad:** 1
 
@@ -4062,8 +4069,9 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 **Descripción:** Los botones ubicados en el footer de la página de inicio no realizan ninguna acción al ser seleccionados, lo cual genera confusión en el usuario.
 
 **Recomendación:** Asignar funcionalidades claras a los botones en el footer, como enlaces a otras secciones de la página o información adicional relevante, para que el usuario perciba un propósito definido en cada elemento interactivo.
-
-**PROBLEMA #2: El toolbar no sigue la normativa responsive**
+__________________________________________________________________________________
+#### PROBLEMA #2:
+El toolbar no sigue la normativa responsive**
 
 **Severidad**: 1
 
@@ -4072,8 +4080,9 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 **Descripción:** La barra de herramientas no se adapta adecuadamente en dispositivos móviles, dificultando el acceso a las opciones en pantallas más pequeñas.
 
 **Recomendación:** Implementar estilos responsive en el toolbar para que se ajuste correctamente a dispositivos móviles. Utilizar técnicas de diseño adaptativo como media queries para garantizar que los elementos sean accesibles en cualquier tamaño de pantalla.
-
-**PROBLEMA #3: En la webApp el ícono de perfil de usuario no presenta ninguna vista**
+__________________________________________________________________________________
+#### **PROBLEMA #3:**
+En la webApp el ícono de perfil de usuario no presenta ninguna vista**
 
 **Severidad:** 1
 
@@ -4082,9 +4091,10 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 **Descripción**: Al hacer clic en el ícono de perfil, no se muestra ninguna vista relacionada con la cuenta del usuario, lo cual genera una experiencia inconsistente.
 
 **Recomendación:** Vincular el ícono de perfil a una página o vista que permita al usuario acceder a sus detalles de cuenta, configuración de perfil o historial, ofreciendo una experiencia consistente con lo que el usuario espera encontrar al hacer clic en su perfil.
+__________________________________________________________________________________
 
-
-**PROBLEMA #4: Se presenta el sistema de chat de forma incompleta**
+#### PROBLEMA #4:
+Se presenta el sistema de chat de forma incompleta
 
 **Severidad:** 2
 
@@ -4094,11 +4104,11 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
 **Recomendación:** Asegurarse de que el sistema de chat esté completamente operativo antes de ser presentado a los usuarios. Esto incluye verificar la interfaz, la capacidad de enviar mensajes y la funcionalidad de respuestas automáticas si las hay.
 
----
 
-## Video About-the-Product.
 
----
+## [**5.4. Video About-the-Product.**](#52-Video-About-the-Product. )
+
+
 
    En esta sección, introducimos y describimos el contenido del Video About-the-Product, el cual está dirigido a los visitantes de la Landing Page que desean conocer un poco más acerca de GoUni.
 
@@ -4133,7 +4143,8 @@ Link de entrevista juntado: <https://upcedupe-my.sharepoint.com/personal/u202218
 [ref9]: assets/images/sprint3/Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.026.png
 
 
-# Conclusiones sobre GoUni
+# [**Capítulo VI: Conclusion.**](#capítulo-vi-conclusion)
+## [**6.1. Conclusiones y Recomendaciones.**](#52-conclusiones-y-recomendaciones. )
 
 #### 1. GoUni responde a las necesidades de movilidad estudiantil
 La startup aborda la problemática de transporte en zonas urbanas como Lima, donde el transporte público es ineficiente y el uso de vehículos privados es costoso, proporcionando una plataforma de carpooling accesible y económica.
