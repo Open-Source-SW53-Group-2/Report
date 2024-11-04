@@ -3299,7 +3299,7 @@ En este sprint planning 1 se presenta la evidencia de la planificación e implem
 
 En esta sección se registra y explica el avance en términos de producto y trabajo colaborativo para el Sprint 2, enfocado en el desarrollo de la aplicación web. Se detalla el progreso tangible y funcional de la aplicación, incluyendo su diseño, desarrollo y funcionalidades implementadas, así como la colaboración del equipo, los métodos de comunicación utilizados y las herramientas empleadas para garantizar una cooperación efectiva. Incluye secciones sobre la planificación del sprint, el backlog de tareas, evidencia del desarrollo y ejecución, documentación de servicios utilizados y reflexiones sobre la colaboración del equipo, proporcionando una visión completa del progreso alcanzado.
 
-1. **Sprint Planning 2.**
+## 5.2.2. **Sprint Planning 2.**
 
 En este sprint planning 2 se presenta la evidencia de la planificación y desarrollo de la aplicación web. Además, se evidenciaron los avances del proyecto e insights de colaboración en el equipo a través de GitHub.
 
@@ -3319,7 +3319,7 @@ En este sprint planning 2 se presenta la evidencia de la planificación y desarr
 |**Sum of Story Points**|36|
 
 
-1. **Sprint Backlog 2.**
+### 5.2.2.1 **Sprint Backlog 2.**
 
 En esta parte mostramos las tareas que se realizaron en este sprint.
 
@@ -3547,7 +3547,7 @@ Durante este sprint, al igual que para el desarrollo de la landing page, para pr
 ![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.026.png)
 
 
-5. **Sprint Planning 3.**
+## 5.2.3. **Sprint Planning 3.**
 
 En este sprint planning 3 se presenta la evidencia de la planificación y desarrollo de la RESTful Web Services (backend). Además, se evidenciaron los avances del proyecto e insights de colaboración en el equipo a través de  GitHub.
 
@@ -3566,7 +3566,7 @@ En este sprint planning 3 se presenta la evidencia de la planificación y desarr
 |**Sprint Velocity 3**|5|
 |**Sum of Story Points**|40|
 
-1. **Sprint Backlog 3.**
+5.2.3.1. **Sprint Backlog 3.**
 
 En esta parte mostramos las tareas que se realizaron en este sprint.
 
@@ -3594,7 +3594,7 @@ Vista del Sprint Backlog 3 en Trello
 En esta sección, se presentan los commits realizados en el repositorio de la landing page en GitHub. Estos commits reflejan el progreso y las mejoras implementadas durante el sprint 2 con respecto a los avances tanto del frontend como backend, proporcionando una visión detallada de las actividades de desarrollo y las contribuciones del equipo:
 
 <https://github.com/Open-Source-SW53-Group-2/frontend>  <https://github.com/Open-Source-SW53-Group-2/back-end>   
-**
+
 
 
 <table><tr><th valign="top"><b>Repository</b></th><th valign="top"><b>Branch</b></th><th valign="top"><b>Commit Id</b></th><th valign="top"><b>Commit Message</b></th><th valign="top"><b>Commit Message Body</b></th><th valign="top"><b>Committed on (Date)</b></th></tr>
@@ -3623,7 +3623,7 @@ En el alcance del sprint 3 se ha desarrollado el backend de la aplicación web p
 <tr><td valign="top"><b>22e45675c99b2ff7d0b6708cb603cee7eec414a9</b></td><td valign="top"><b>chore: add AT09.feature file</b></td><td valign="top"><b>-</b></td><td valign="top"><p><b>Oct 24,</b></p><p><b>2024</b></p></td></tr>
 <tr><td valign="top"><b>c1dc95fb7d8c554fcc741483943f7751d8e9f0c4</b></td><td valign="top"><b>chore: add AT10.feature file</b></td><td valign="top"><b>-</b></td><td valign="top"><p><b>Oct 24,</b></p><p><b>2024</b></p></td></tr>
 </table>
-**
+
 
 
 1. **Execution Evidence for Sprint Review.**
@@ -3636,7 +3636,7 @@ En este sprint logramos como tercera fase de nuestro producto final, desarrollar
 
 ![](assets/images/sprint3/Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.004.png)
 
-video que ilustra y explica la visualización y navegación logrados en este Sprint
+Video que ilustra y explica la visualización y navegación logrados en este Sprint
 
 ![](assets/images/sprint3/Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.005.png)
 
@@ -3661,13 +3661,11 @@ Repositorio del backend en github: <https://github.com/Open-Source-SW53-Group-2/
 |Profiles|api/v1/profiles|![ref2]|
 
 
-
-
-
 |**Bounded Context**|Drivers||
 | :- | :- | :- |
 |**Entity**|**Endpoint URL**|**Swagger**|
 |Drivers|api/v1/drivers|![ref3]|
+
 
 |**Bounded Context**|Roles||
 | :- | :- | :- |
@@ -3694,27 +3692,31 @@ Repositorio del backend en github: <https://github.com/Open-Source-SW53-Group-2/
 
 1. **Software Deployment Evidence for Sprint Review.**
 
-![](assets/images/sprint3/Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.013.png)
+![deploy1.png](assets/images/sprint3/deploy/deploy1.png)
 
-![](assets/images/sprint3/Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.014.png)
+![deploy2.png](assets/images/sprint3/deploy/deploy2.png)
 
-![](assets/images/sprint3/Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.015.png)
+![deploy3.png](assets/images/sprint3/deploy/deploy3.png)
 
-![](assets/images/sprint3/Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.016.png)
+![deploy4.png](assets/images/sprint3/deploy/deploy4.png)
 
-![](assets/images/sprint3/Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.017.png)
+![deploy5.png](assets/images/sprint3/deploy/deploy5.png)
 
-![](assets/images/sprint3/Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.018.png)
+![deploy6.png](assets/images/sprint3/deploy/deploy6.png)
 
-![](assets/images/sprint3/Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.019.png)
+![deploy7.png](assets/images/sprint3/deploy/deploy7.png)
 
-![](assets/images/sprint3/Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.020.png)
+![deploy8.png](assets/images/sprint3/deploy/deploy8.png)
 
-![](assets/images/sprint3/Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.021.png)
+![deploy9.png](assets/images/sprint3/deploy/deploy9.png)
 
-![](assets/images/sprint3/Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.022.png)
+![deploy10.png](assets/images/sprint3/deploy/deploy10.png)
 
-1. **Team Collaboration Insights during Sprint.**
+![deploy11.png](assets/images/sprint3/deploy/deploy11.png)
+
+![deploy12.png](assets/images/sprint3/deploy/deploy12.png)
+
+## Team Collaboration Insights during Sprint.
 
 **Distribución de aportes en el informe:**
 
@@ -3750,7 +3752,7 @@ Durante este sprint, al igual que para el desarrollo de la landing page, para pr
 
 
 
-1. **Validation Interviews.**
+## Validation Interviews.
 
 Después de avanzar en el desarrollo de la landing page, la aplicación web (frontend) y la API RESTful (backend) del producto GoUni , realizamos entrevistas de validación. Estas entrevistas permitieron a los usuarios de ambos segmentos objetivos obtener una primera impresión del software.
 
@@ -3764,9 +3766,9 @@ Después de avanzar en el desarrollo de la landing page, la aplicación web (fro
 1. ¿Qué edad tienes?
 1. ¿Dónde vives?
 
-`          `**Segmento objetivo:** Estudiantes universitarios
+### Segmento objetivo: Estudiantes universitarios
 
-`          `***Preguntas sobre preferencias y personalidad [en caso de ser un nuevo entrevistado que no participó en la anterior entrevista]:***
+***Preguntas sobre preferencias y personalidad [en caso de ser un nuevo entrevistado que no participó en la anterior entrevista]:***
 
 1. ¿Con qué frecuencia utilizas transporte para llegar a la universidad?
 1. ¿Cuáles son las mayores dificultades que enfrentan al desplazarse a la universidad?
@@ -3793,11 +3795,11 @@ Después de avanzar en el desarrollo de la landing page, la aplicación web (fro
 1. ¿Cuál fue el navegador que utilizaste en esta ocasión para visualizar el contenido?
 1. ¿Hubo algún aspecto visual como el posicionamiento de los elementos que no te terminó de agradar?
 
-\***
 
-**Segmento objetivo:** Estudiantes universitarios propietarios de vehículos privados
 
-` `***Preguntas sobre preferencias y personalidad [en caso de ser un nuevo entrevistado que no participó en la anterior entrevista]:***
+### Segmento objetivo: Estudiantes universitarios propietarios de vehículos privados
+
+***Preguntas sobre preferencias y personalidad [en caso de ser un nuevo entrevistado que no participó en la anterior entrevista]:***
 
 1. ¿Con qué frecuencia conduces hacia tu universidad o trabajo?
 1. ¿Te gustaría compartir tu vehículo con otros estudiantes en tus trayectos?
@@ -3829,7 +3831,7 @@ Después de avanzar en el desarrollo de la landing page, la aplicación web (fro
 
 En esta sección se registran detalladamente las entrevistas de validación realizadas a los dos segmentos objetivos. Se adjunta el link del video completo:
 
-**Segmento 1: Estudiantes**
+## Segmento 1: Estudiantes
 
 **Entrevista 1:**
 
@@ -3852,11 +3854,6 @@ En esta sección se registran detalladamente las entrevistas de validación real
 Se entrevistó a Alex Martinez sobre la aplicación web y nos dio su opinión, según dice le gusto lo ordenado que se veía y que la funcionalidad de gps es una buena opción a la hora de reservar en tiempo real un viaje. Además, dijo que los planes tenían excelentes precios y que si se animaría a contratar el servicio.
 
 
-
-
-
-
-
 **Entrevista 2:**
 
 ![](assets/images/sprint3/Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.031.png)
@@ -3877,11 +3874,11 @@ Se entrevistó a Alex Martinez sobre la aplicación web y nos dio su opinión, s
 
 
 
-**Segmento 2: Estudiantes con vehículos**
+## Segmento 2: Estudiantes con vehículos
 
 **Entrevista 1:**
 
-**Nombre Completo del entrevistado: Alex Martines Guzman**
+**Nombre Completo del entrevistado: Alex Martines Guzman**
 
 **Edad: 25**
 
@@ -3897,7 +3894,7 @@ Se entrevistó a Alex Martinez sobre la aplicación web y nos dio su opinión, s
 
 **Entrevista 2:**
 
-**Nombre Completo del entrevistado: Dayana Rojas Sosa**
+**Nombre Completo del entrevistado: Dayana Rojas Sosa**
 
 **Edad: 19**
 
@@ -3932,7 +3929,6 @@ Se entrevistó a Alex Martinez sobre la aplicación web y nos dio su opinión, s
 Durante la entrevista con Maykol Valencia, un universitario propietario de auto, se evaluó la usabilidad de la aplicación **GO uni**. Maykol destacó la interfaz intuitiva y atractiva, mencionando que el diseño le motiva a registrarse y utilizar el servicio. Apreció la funcionalidad de reseñas de conductores, que considera esencial para la seguridad, y sugirió la incorporación de seguimiento en tiempo real mediante GPS para mayor tranquilidad, además de la opción de compartir la ubicación. Como mejora visual, recomendó aumentar el espaciado entre los íconos de universidades. En conclusión, la retroalimentación fue positiva, destacando la utilidad de la aplicación y brindando sugerencias que podrían mejorar aún más la experiencia del usuario.
 
 
-
 **Entrevista:**
 
 **URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EaA1ySLWCUJNk9eKMXToLdIBiJpvFl43-Y5fwgIa9evBvA?e=ZtjOuJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EaA1ySLWCUJNk9eKMXToLdIBiJpvFl43-Y5fwgIa9evBvA?e=ZtjOuJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)**
@@ -3945,8 +3941,7 @@ Durante la entrevista con Maykol Valencia, un universitario propietario de auto,
 
 
 
-
-1. **Evaluaciones según heurísticas.**
+## Evaluaciones según heurísticas.
 
 **UX Heuristics & Principles Evaluation**
 
@@ -4031,6 +4026,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 |4|Se presenta el sistema de chat de forma incompleta|2|Usability - Consistency and standards|
 
 
+
 **PROBLEMA #1: Los botones del footer de la landing page no presentan ninguna funcionalidad**
 
 **Severidad:** 1
@@ -4072,8 +4068,11 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
 **Recomendación:** Asegurarse de que el sistema de chat esté completamente operativo antes de ser presentado a los usuarios. Esto incluye verificar la interfaz, la capacidad de enviar mensajes y la funcionalidad de respuestas automáticas si las hay.
 
+---
 
-1. **Video About-the-Product.**
+## Video About-the-Product.
+
+---
 
    En esta sección, introducimos y describimos el contenido del Video About-the-Product, el cual está dirigido a los visitantes de la Landing Page que desean conocer un poco más acerca de GoUni.
 
@@ -4092,13 +4091,14 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 Link de entrevista juntado: <https://upcedupe-my.sharepoint.com/personal/u202218664_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218664%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202401%2Dsi729%2DSW53%2Dstudentconnect%2Dvalidation%2Dsprint%2D3%20%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb7d0caae%2D2678%2D41fc%2Db1fc%2Dad2f3b3601a6>
 
 
-Link del back desplegado:
 
-<https://gounibackend.azurewebsites.net/>
 
 [ref1]: assets/images/sprint3/Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.006.png
+
 [ref2]: assets/images/sprint3/Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.007.png
+
 [ref3]: assets/images/sprint3/Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.008.png
+
 [ref4]: assets/images/sprint3/Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.010.png
 [ref5]: assets/images/sprint3/Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.011.png
 [ref6]: assets/images/sprint3/Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.023.png
@@ -4127,23 +4127,26 @@ La plataforma utiliza tecnología móvil avanzada y un enfoque innovador para cr
 **Anexos**
 
 <table border="1">
-    <tr>
+
+  <tr>
         <th>Description</th>
         <th>Link</th>
-    </tr>
-    <tr>
+  </tr>
+
+  <tr>
         <td>Repositorio General de Unigo</td>
         <td><a href="https://github.com/Open-Source-SW53-Group-2">https://github.com/Open-Source-SW53-Group-2</a></td>
-    </tr>
-    <tr>
+  </tr>
+
+  <tr>
         <td>Repositorio Reporte</td>
         <td><a href="https://github.com/Open-Source-SW53-Group-2/Report">https://github.com/Open-Source-SW53-Group-2/Report</a></td>
-    </tr>
+  </tr>
 
-   <tr>
+  <tr>
         <td>Repositorio Landingpage</td>
         <td><a href="https://github.com/Open-Source-SW53-Group-2/Landing-Page-With-Angular">https://github.com/Open-Source-SW53-Group-2/Landing-Page-With-Angular</a></td>
-    </tr>
+  </tr>
 
   <tr>
         <td>Repositorio FrontEnd</td>
@@ -4163,18 +4166,30 @@ La plataforma utiliza tecnología móvil avanzada y un enfoque innovador para cr
   <tr>
         <td>Exposicion TP1</td>
         <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223781_upc_edu_pe/ETUX6a3BdsRPg6mcJP3twrIBBAg1-Wj-MmeMDvZsRDTaVw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=7SQFTR">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223781_upc_edu_pe/ETUX6a3BdsRPg6mcJP3twrIBBAg1-Wj-MmeMDvZsRDTaVw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=7SQFTR</a></td>
-    </tr>
+  </tr>
 
 
-<tr>
+  <tr>
         <td>Link landing page</td>
         <td><a href="https://landing-page-with-angular-sigma.vercel.app/home">https://landing-page-with-angular-sigma.vercel.app/home</a></td>
-    </tr>
-    <tr>
+  </tr>
+
+  <tr>
         <td>Link Web Aplication</td>
         <td><a href="https://frontend-five-wheat-92.vercel.app/login">https://frontend-five-wheat-92.vercel.app/login</a></td>
-    </tr>
- <tr>
+  </tr>
+    
+  <tr>
+        <td>Link de backend</td>
+        <td><a href="https://gounibackend-production.up.railway.app/swagger-ui/index.html#">https://gounibackend-production.up.railway.app/swagger-ui/index.html#</a></td>
+  </tr>
+
+  <tr>
+        <td>Link de Video About-the-Product</td>
+        <td><a href="https://youtu.be/ckce6tCAqUA">https://youtu.be/ckce6tCAqUA</a></td>
+  </tr>
+
+<tr>
 
     
 </table>
