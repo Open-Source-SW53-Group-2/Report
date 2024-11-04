@@ -2257,13 +2257,14 @@ En esta sección se resume la información recopilada, se realiza dos tablas con
 </table>
 
 
-# Capítulo IV: Product Design
+# [**Capítulo IV: Product Design.**](#capítulo-iv-product-design)
+
 En este capítulo describimos las directrices de diseño y estilo para el producto, asegurando una experiencia visual coherente y atractiva para el usuario.
 
-## 4.1. Style Guidelines.
+## [**4.1. Style Guidelines.**](#style-guidelines)
 En esta sección se describen las pautas generales de estilo que guían la apariencia visual del producto, incluyendo el uso de colores, tipografía y espaciado.
 
-### 4.1.1. General Style Guidelines.
+### [**4.1.1. General Style Guidelines.**](#general-style-guidelines)
 Las directrices generales aseguran una estética que refuerza la marca y proporciona claridad visual para los usuarios.
 
 #### Historia de la marca
@@ -2294,15 +2295,15 @@ El espaciado entre elementos visuales asegura una estructura clara y organizada,
 - **Tamaño de letra**: Las fuentes varían desde 12px hasta 98px según la jerarquía del texto.
 - **Interlineado**: Mantenemos un interlineado proporcional para mejorar la legibilidad.
 
-### 4.1.2. Web Style Guidelines.
+### [**4.1.2. Web Style Guidelines.**](#web-style-guidelines)
 Las pautas de estilo para la web están diseñadas para asegurar que el diseño sea funcional y atractivo tanto en dispositivos móviles como en pantallas grandes. Incluir consistencia en colores, tipografías y espaciado es clave para mantener la identidad visual en todas las plataformas.
 
-## 4.2. Information Architecture.
+## [**4.2. Information Architecture.**](#information-architecture)
 En esta sección, se describe cómo se organizará el contenido en la plataforma **GoUni**, tanto en la web como en las aplicaciones móviles. Se busca que la estructura sea intuitiva para los estudiantes universitarios, permitiendo una navegación fluida y el acceso rápido a las principales funcionalidades de la plataforma.
 
 <hr>
 
-### 4.2.1. Organization System.
+### [**4.2.1. Organization Systems.**](#organization-systems)
 El Sistema de Organización de **GoUni** está diseñado para facilitar la interacción entre el usuario y la plataforma, asegurando que los estudiantes puedan encontrar y utilizar los servicios clave, como la búsqueda de viajes o la oferta de plazas en vehículos.
 
 - **Jerarquía Visual**: La página principal destacará las acciones más importantes para el usuario, como “Buscar viaje” y “Publicar viaje”, con énfasis en botones de llamada a la acción que lleven a estas secciones.
@@ -2312,7 +2313,7 @@ El Sistema de Organización de **GoUni** está diseñado para facilitar la inter
 
 <br>
 
-### 4.2.2. Labeling System.
+### [**4.2.2. Labeling Systems.**](#labeling-systems)
 En **GoUni**, las etiquetas se diseñarán para ser claras, directas y comprensibles para los estudiantes, priorizando una navegación simple y una experiencia de usuario intuitiva.
 
 ### Etiquetas:
@@ -2328,7 +2329,7 @@ Una vez que los usuarios se registren y accedan a su cuenta, aparecerán nuevas 
 
 <br>
 
-### 4.2.3. SEO Tags and Meta Tags.
+### [**4.2.3. SEO Tags and Meta Tags.**](#seo-tags-and-meta-tags)
 Los SEO Tags y Meta Tags son esenciales para mejorar la visibilidad de **GoUni** en los motores de búsqueda.
 
 ### Para la Landing Page:
@@ -2352,7 +2353,7 @@ Los SEO Tags y Meta Tags son esenciales para mejorar la visibilidad de **GoUni**
 
 <br>
 
-### 4.2.4. Searching Systems.
+### [**4.2.4. Searching Systems.**](#searching-systems)
 El sistema de búsqueda en GoUni facilitará a los usuarios encontrar viajes disponibles de forma rápida y efectiva. La funcionalidad de búsqueda incluirá:
 
 Búsqueda por Universidad: Los estudiantes podrán buscar viajes que conecten con su universidad específica.
@@ -2363,7 +2364,7 @@ Organización de Resultados: Los resultados se podrán ordenar de manera alfabé
 
 <br>
 
-### 4.2.5. Navigation Systems.
+### [**4.2.5. Navigation Systems.**](#navigation-systems)
 El sistema de navegación de GoUni estará diseñado para que los usuarios puedan encontrar la información y realizar las acciones deseadas con el mínimo esfuerzo.
 
 Navegación Principal: El menú superior incluirá accesos rápidos a las funciones clave: "Buscar Viaje", "Publicar Viaje", "Reservas Actuales" y "Perfil".
@@ -2374,7 +2375,7 @@ Navegación Secundaria: En secciones como el perfil, habrá opciones adicionales
 
 <br>
 
-## 4.3. Landing Page UI Design.
+## [**4.3. Landing Page UI Design**](#landing-page-ui-design)
 <hr>
 <td align="center">
 En esta sección, presentamos el diseño de la interfaz de usuario
@@ -2383,7 +2384,7 @@ en cuenta la experiencia del usuario y la accesibilidad tanto en
 versiones de escritorio como móviles. El objetivo principal es
 proporcionar una navegación clara y atractiva. </td>
 
-### 4.3.1. Landing Page Wireframe.
+### [**4.3.1. Landing Page Wireframe.**](#landing-page-wireframe)
 <td align="center">
 A continuación, mostramos los wireframes de la landing page, 
 los cuales representan la estructura básica y el layout sin 
@@ -2515,7 +2516,7 @@ Wireframe de la sección Footer:
 
 
 
-### 4.3.2. Landing Page Mockup.
+### [**4.3.2. Landing Page Mock-up.**](#landing-page-mock-up)
 <td align="center">
 Esta sección presenta los mockups de la landing page,
 que ilustran el diseño final con detalles gráficos, tipografía,
@@ -2638,11 +2639,10 @@ Mockup de la sección Footer:
 ![footerAboutUs_Mockup_Mobiles.png](assets/images/landingPage/mockups/mobile/aboutUs/footerAboutUs_Mockup_Mobiles.png)
 
 
-## 4.4. Web Applications UX/UI Design
+## [**4.4. Web Applications UX/UI Design.**](#web-applications-uxui-design)
 En esta sección, presentamos el diseño de la interfaz de usuario de las aplicaciones web de GoUni, que incluyen el inicio de sesión, la creación de cuenta, la búsqueda de viajes, la reserva de asientos y la calificación de conductores. El diseño se ha desarrollado teniendo en cuenta la experiencia del usuario y la accesibilidad en diferentes dispositivos.
 
-### 4.4.1. Web Applications Wireframes
-
+### [**4.4.1. Web Applications Wireframes.**](#web-applications-wireframes)
 Enlace a los wireframes de las aplicaciones web en Figma:
 [Link Web Applications Wireframes](https://www.figma.com/design/tZ5rICQthPLiCqfgP01GU0/Web-Applications-UX%2FUI-Design-Wireframe?node-id=0-1&t=HjBTAU6Vvysv7zEy-1)
 
@@ -2710,7 +2710,7 @@ Wireframe de la página de calificacion:
 
 
 
-### 4.4.2. Web Applications Wireflow Diagrams
+### [**4.4.2. Web Applications Wireflow Diagrams.**](#web-applications-wireflow-diagrams)
 
 Los Wireflow Diagrams son diagramas que representan la secuencia de pasos que un usuario sigue al interactuar con la aplicación web. Estos diagramas muestran cómo los usuarios navegan por la plataforma, desde el inicio de sesión hasta la reserva de un viaje.
 
@@ -2730,7 +2730,7 @@ Wireflow Diagrams de las Aplicaciones Web en LucidChart Reservar Viaje:
 ![reservarViaje.png](assets/images/userFlowDiagramsMockup/reservarViaje.png)
 
 
-### 4.4.3. Web Applications Mock-ups
+### [**4.4.3. Web Applications Mock-ups.**](#web-applications-mock-ups)
 
 En esta sección, presentamos los mockups de la aplicación web de GoUni, que ilustran el diseño final con detalles gráficos, tipografía y color. Los mockups son fundamentales para visualizar cómo se verá la aplicación final y para realizar ajustes antes del desarrollo.
 
@@ -2802,7 +2802,7 @@ Enlace a la mockup de la App Web en Figma:
 [Link Web Applications Mockups](https://www.figma.com/design/S0hrTzLLDq3a8tOxTfWqJx/Web-Applications-UX%2FUI-Design?node-id=0-1&t=mGQ1yGMxL5NhHeba-1)
 
 
-### 4.4.4 Web Applications User Flow Diagrams.
+### [**4.4.4. Web Applications User Flow Diagrams.**](#web-applications-user-flow-diagrams)
 
 Los User Flow Diagrams son diagramas que representan la secuencia de pasos que un usuario sigue al interactuar con la aplicación web. Estos diagramas muestran cómo los usuarios navegan por la plataforma, desde el inicio de sesión hasta la reserva de un viaje.
 
@@ -2818,7 +2818,7 @@ Plan de pago:
 Realizar reserva:
 ![reservarViaje.png](assets/images/webApplication/userFlowDiagrams/reservarViaje.png)
 
-## 4.5. Web Applications Prototyping.
+## [**4.5. Web Applications Prototyping.**](#web-applications-prototyping)
 <hr>
 En esta sección, presentamos los prototipos interactivos de las aplicaciones web de GoUni. Los prototipos permiten a los usuarios navegar por las diferentes pantallas y funcionalidades, simulando la experiencia de uso de la aplicación antes de su desarrollo.
 
@@ -2832,27 +2832,25 @@ Link Web Applications Prototyping:
 
 
 
-## 4.6 Domain-Driven Software Architecture.
-
-
-### 4.6.1. Software Architecture Context Diagram.
+## [**4.6. Domain-Driven Software Architecture**](#domain-driven-software-architecture)
+### [**4.6.1. Software Architecture Context Diagram.**](#software-architecture-context-diagram)
 
 ![Diagrama de clase](assets/images/databaseDesign/diagramcontext.png)
 
-### 4.6.2. Software Architecture Container s.
+### [**4.6.2. Software Architecture Container Diagrams.**](#software-architecture-container-diagrams)
 
 ![Diagrama de clase](assets/images/databaseDesign/diagramcontainer.png)
 
-### 4.6.3 Software Architecture Components Diagrams.
+### [**4.6.3. Software Architecture Components Diagrams.**](#software-architecture-components-diagrams)
 
 ![Diagrama de clase](assets/images/databaseDesign/diagramcomponent.png)
 
-## 4.7. Software Object-Oriented Design
-### 4.7.1. Class Diagrams
+## [**4.7. Software Object-Oriented Design.**](#software-object-oriented-design)
+### [**4.7.1. Class Diagrams.**](#class-diagrams)
 
 ![Diagrama de clase](assets/images/databaseDesign/Diagrama_clase.png)
 
-### 4.7.2. Class Dictionary
+### [**4.7.2. Class Dictionary.**](#class-dictionary)
 <hr>
 Usuario:
 La clase Usuario representa a un usuario dentro de la plataforma, ya sea un conductor o pasajero.
@@ -2977,27 +2975,26 @@ La clase Notificación gestiona el envío de mensajes a los usuarios en relació
 |enviarNotificacion(): void|Envía la notificación al usuario correspondiente.|
 <br>
 
-## 4.8. Database Design
+## [**4.8. Database Design.**](#database-design)
 
 ![Diagrama de clase](assets/images/databaseDesign/Diagrama_clase.png)
 
-### 4.8.1. Database Diagram
+### [**4.8.1. Database Diagram.**](#database-diagram)
 
 A continuación se detalla el modelo físico realizado para esta entrega, donde se consideró los requerimientos necesarios para el negocio.
 
 ![Diagrama de la Base de Datos](assets/images/databaseDesign/databasediagram.png)
 
 
-# Capítulo V: Product Implementation, Validation & Deployment
+# [**Capítulo V: Product Implementation, Validation \& Deployment.**](#capítulo-v-product-implementation-validation--deployment)
+## [**5.1. Software Configuration Management.**](#software-configuration-management)
 
-<hr>
-
-## 5.1. Software Configuration Management.
 En la sección siguiente, se describirán las herramientas, convenciones, referencias y
 onfiguraciones utilizadas durante el desarrollo del proyecto, las cuales ayudaron a
 mantener la coherencia en el trabajo realizado.
 
-### 5.1.1. Software Development Environment Configuration.
+### [**5.1.1. Software Development Environment Configuration.**](#software-development-environment-configuration)
+
 En esta parte, se mencionarán los distintos programas de software que el equipo de desarrollo utilizó para llevar a cabo las tareas relacionadas con la creación del proyecto.
 
 <br>
@@ -3072,7 +3069,7 @@ Herramienta utilizada para la creación de diagramas C4 (diagrama de contexto, d
 
 Plataforma empleada tanto como para la creación de la documentación y de la Landing page. Nuestro eligió esta plataforma debido a que nos permite trabajar de manera colaborativa. 
 
-2. **Source Code Management**
+### [**5.1.2. Source Code Management.**](#source-code-management)
 
 La administración y estructuración de las múltiples modificaciones se realizaron mediante la creación de un repositorio en GitHub para el proyecto. Nuestra organización se estructuró de la siguiente manera:
 
@@ -3100,7 +3097,7 @@ Rama “develop”: Esta rama se utiliza para corregir urgentemente errores en l
 
 
 
-3. **Source Code Style Guide & Conventions**
+### [**5.1.3. Source Code Style Guide \& Conventions.**](#source-code-style-guide--conventions)
 
    ●Utilizaremos el lenguaje de etiquetas HTML para el desarrollo principal de nuestra Landing page.
 
@@ -3133,7 +3130,7 @@ Para la gestión de versiones, seguimos el estándar “Semantic Versioning 2.0.
 - X: Indica una versión principal que incorpora cambios incompatibles con versiones anteriores. Iniciamos en 0 durante la etapa de desarrollo inicial y transicionamos a 1 cuando la versión esté lista para su lanzamiento público. Por convención, Y y Z se reinician a 0 cuando X aumenta.
 - Y: Representa una versión secundaria, que abarca cambios compatibles con versiones anteriores. Además, esta incluye los commits provenientes de las “release branches” cada vez que se agregan nuevas funcionalidades. Convencionalmente, Z se reinicia a 0 cuando Y aumenta.
 - Z: Refleja parches y correcciones de errores menores, integrando commits realizados en la “rama de corrección” y fusionados con la rama principal.
-4. **Software Deployment Configuration.**
+### [**5.1.4. Software Deployment Configuration.**](#software-deployment-configuration)    
 
    Entrar a Vercel y presionar la opción de “Import an existing project”
 
@@ -3152,12 +3149,12 @@ Y final solo presionar el botón con el nombre de proyecto a desplegar
 
 - Link de la Landing page:[ ](https://echero11.github.io/OpenSource_GasYa_LandingPage/)[**https://landing-page-three-zeta-24.vercel.app/**](https://landing-page-three-zeta-24.vercel.app/)
 
-2. **Product Implementation & Deployment**
-  1. **Sprint 1**
+## [**5.2. Landing Page, Services \& Applications Implementation.**](#landing-page-services--applications-implementation)
+### [**5.2.1. Sprint 1.**](#sprint-1)
 
 En esta sección se registra y explica el avance en términos de producto y trabajo colaborativo para el Sprint 1, enfocado en el desarrollo de la landing page. Se detalla el progreso tangible y funcional de la landing page, incluyendo su diseño, desarrollo y funcionalidades implementadas, así como la colaboración del equipo, los métodos de comunicación utilizados y las herramientas empleadas para garantizar una cooperación efectiva. Incluye secciones sobre la planificación del sprint, el backlog de tareas, evidencia del desarrollo y ejecución, documentación de servicios utilizados y reflexiones sobre la colaboración del equipo, proporcionando una visión completa del progreso alcanzado.
 
-1. **Sprint planning 1**
+#### [**5.2.1.1. Sprint Planning 1.**](#sprint-planning-1)
 
 En este sprint planning 1 se presenta la evidencia de la planificación e implementación de la landing page. Además, se evidenciaron los avances del proyecto e insights de colaboración en el equipo a través de GitHub.
 
@@ -3179,7 +3176,7 @@ En este sprint planning 1 se presenta la evidencia de la planificación e implem
 
 
 
-2. **Sprint Backlog 1**
+#### [**5.2.1.2. Sprint Backlog 1.**](#sprint-backlog-1)
 
    En esta parte mostramos las tareas que se realizaron en este sprint.
 
@@ -3217,7 +3214,7 @@ En este sprint planning 1 se presenta la evidencia de la planificación e implem
 
 
 
-3. **Development Evidence for Sprint Review**
+#### [**5.2.1.3. Development Evidence for Sprint Review.**](#development-evidence-for-sprint-review)
 
    En esta sección, se presentan los commits realizados en el repositorio de la landing page en GitHub.Estos commits reflejan el progreso y las mejoras implementadas durante el sprint 1, proporcionando una visión detallada de las actividades de desarrollo y las contribuciones del equipo : <https://github.com/upc-pre-202401-si729-sw51-the-coders/cartunn-landing-page> 
 
@@ -3238,7 +3235,7 @@ En este sprint planning 1 se presenta la evidencia de la planificación e implem
 
 
 
-4. **Testing Suite Evidence for Sprint Review**
+#### [**5.2.1.4. Testing Suite Evidence for Sprint Review.**](#testing-suite-evidence-for-sprint-review)
 
    En este sprint, se han incorporado pruebas de aceptación escritas en Gherkin, asegurando que los requisitos del usuario se validen de manera efectiva. A continuación, se proporciona el enlace al repositorio de las pruebas de aceptación, donde se puede encontrar una descripción detallada de los escenarios de prueba y su implementación:
 
@@ -3257,20 +3254,20 @@ En este sprint planning 1 se presenta la evidencia de la planificación e implem
 
 
 
-5. **Execution Evidence for Sprint Review**
+#### [**5.2.1.5. Execution Evidence for Sprint Review.**](#execution-evidence-for-sprint-review)
 
    En este sprint logramos como primera fase de nuestro producto final  desarrollar nuestra landing page usando HTML y CSS, teniendo en cuenta también el desarrollo responsive para dispositivos tanto android como IOS y su respectivo despliegue en el Netlify. 
 
 ![executionEvidence.png](assets/images/sprint1/executionEvidence.png)
 
-6. **Services Documentation Evidence for Sprint Review**
+#### [**5.2.1.6. Services Documentation Evidence for Sprint Review.**](#services-documentation-evidence-for-sprint-review)
 
    En el alcance del sprint 1 se logró desarrollar la landing page, por lo que no se evidencia el empleo de web services.
 
 
 
 
-7. **Software Deployment Evidence for Sprint Review**
+#### [**5.2.1.7. Software Deployment Evidence for Sprint Review.**](#software-deployment-evidence-for-sprint-review)
 
    Durante el primer sprint, desarrollamos la landing page del proyecto. El despliegue de esta página lo llevó a cabo uno de nuestros integrantes(Abraham), ya que el proceso no tomaba más de 5 minutos. Utilizamos la plataforma de Netlify para el despliegue, lo cual implicó crear una cuenta e iniciar sesión en dicha plataforma. Antes de proceder con el despliegue, realizamos varias pruebas en la rama "develop" para asegurarnos de que no surgieran problemas al desplegar la rama "main".
 
@@ -3289,7 +3286,7 @@ En este sprint planning 1 se presenta la evidencia de la planificación e implem
 
 ![deploy.jpeg](assets/images/sprint1/deploy.jpeg)
 
-8. **Team Collaboration Insights during Sprint**
+#### [**5.2.1.8. Team Collaboration Insights during Sprint.**](#team-collaboration-insights-during-sprint)
 
    `		`**Distribución de aportes en el informe:**
 
@@ -3325,8 +3322,8 @@ En este sprint planning 1 se presenta la evidencia de la planificación e implem
 
 En esta sección se registra y explica el avance en términos de producto y trabajo colaborativo para el Sprint 2, enfocado en el desarrollo de la aplicación web. Se detalla el progreso tangible y funcional de la aplicación, incluyendo su diseño, desarrollo y funcionalidades implementadas, así como la colaboración del equipo, los métodos de comunicación utilizados y las herramientas empleadas para garantizar una cooperación efectiva. Incluye secciones sobre la planificación del sprint, el backlog de tareas, evidencia del desarrollo y ejecución, documentación de servicios utilizados y reflexiones sobre la colaboración del equipo, proporcionando una visión completa del progreso alcanzado.
 
-## 5.2.2. **Sprint Planning 2.**
-
+### [5.2.2. Sprint 2](#524-sprint-2)
+#### [5.2.2.1. Sprint Planning 2](#5241-sprint-planning-2)
 En este sprint planning 2 se presenta la evidencia de la planificación y desarrollo de la aplicación web. Además, se evidenciaron los avances del proyecto e insights de colaboración en el equipo a través de GitHub.
 
 |**Sprint #**|Sprint 2|
@@ -3345,7 +3342,7 @@ En este sprint planning 2 se presenta la evidencia de la planificación y desarr
 |**Sum of Story Points**|36|
 
 
-### 5.2.2.1 **Sprint Backlog 2.**
+#### [5.2.2.2. Sprint Backlog 4](#5242-sprint-backlog-2)
 
 En esta parte mostramos las tareas que se realizaron en este sprint.
 
@@ -3376,7 +3373,7 @@ Vista del Sprint Backlog 2 en Trello:
 |E5-US05|Sección about the product y about the team|<p>T</p><p>13</p>|Interfaz de seccion about product y team|Implementar sección about the product y about the team con acceso desde el navbar|5|Franky|Done|
 
 
-## 2. **Development Evidence for Sprint Review.**
+#### [5.2.2.3. Development Evidence for Sprint Review](#5243-development-evidence-for-sprint-review)
 
 En esta sección, se presentan los commits realizados en el repositorio de la landing page en GitHub. Estos commits reflejan el progreso y las mejoras implementadas durante el sprint 2, proporcionando una visión detallada de las actividades de desarrollo y las contribuciones del equipo: [GitHub Repository](https://github.com/upc-pre-202401-si729-sw51-the-coders/cartunn-frontend)
 
@@ -3393,7 +3390,7 @@ En esta sección, se presentan los commits realizados en el repositorio de la la
 | [https://github.com/Open-Source-SW53-Group-2/frontend](https://github.com/Open-Source-SW53-Group-2/frontend) | main | 109595daf03c55364c2be18433f1d0776ef59b6d | [feat: login&register design added](https://github.com/Open-Source-SW53-Group-2/frontend/commit/109595daf03c55364c2be18433f1d0776ef59b6d) | - | Apr 28, 2024 |
 
 
-3. **Testing Suite Evidence for Sprint Review.**
+#### [5.2.2.4. Testing Suite Evidence for Sprint Review](#5244-testing-suite-evidence-for-sprint-review)
 
    En el alcance del sprint 2 se ha desarrollado el frontend de la aplicación web por lo que no se evidencia testing.
 
@@ -3403,7 +3400,7 @@ En esta sección, se presentan los commits realizados en el repositorio de la la
 
 
 
-4. **Execution Evidence for Sprint Review.**
+#### [5.2.2.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
 
    En este sprint logramos como primera fase de nuestro producto final, desarrollar nuestra aplicación web usando Angular y Angular Material, en conjunto con una API hecha con JSON server. 
 
@@ -3497,7 +3494,7 @@ En esta sección, se presentan los commits realizados en el repositorio de la la
 - Muestra de la respuesta de nuestra API hecha con JSON server: 
 
 
-5. **Services Documentation Evidence for Sprint Review.**
+#### [5.2.2.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
 Para este sprint utilizamos los servicios básicos Http en conjunto con Json server que facilitó la construcción de nuestra fake api.
 Nuestras variable de entorno serverBasePath que apuntará al puerto 3000:
 
@@ -3511,7 +3508,7 @@ Un ejemplo usando un endpoint:
 
 ![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.015.png)
 
-6. **Software Deployment Evidence for Sprint Review.**
+#### [5.2.2.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
 
    En este sprint 2, continuamos utilizando el servicio de auto despliegue de Vercel para garantizar una implementación continua y eficiente de la aplicación web. El proceso de despliegue se mantiene consistente con los pasos previamente establecidos, asegurando una integración fluida y sin interrupciones en el flujo de trabajo. Esto permite que las actualizaciones y mejoras se reflejen de inmediato en la aplicación web, ofreciendo una experiencia optimizada para los usuarios finales:
 
@@ -3537,7 +3534,7 @@ Y final solo presionar el botón con el nombre de proyecto a desplegar
 
 
 
-1. **Team Collaboration Insights for Sprint Review**
+#### [5.2.2.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
 
 A continuación, se presenta una descripción detallada de cómo el equipo ha trabajado de manera colaborativa durante este sprint. Esta sección destaca las herramientas y métodos utilizados para fomentar una comunicación efectiva, la coordinación de tareas y la resolución de problemas, asegurando que todos los miembros del equipo estuvieran alineados y comprometidos con los objetivos del sprint.
 
