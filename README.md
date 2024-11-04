@@ -4150,7 +4150,55 @@ GoUni no solo mejora la movilidad diaria de los estudiantes, sino que también p
 #### 5. Innovación y tecnología como pilares
 La plataforma utiliza tecnología móvil avanzada y un enfoque innovador para crear una experiencia de movilidad eficiente y socialmente responsable, adaptada a las necesidades de los estudiantes en un contexto de creciente demanda por soluciones digitales.
 
-**Anexos**
+# [**Capítulo VII: Bibliografia.**](#capítulo-vii-bibliografia)
+
+1. NEI. (2021). *Encuesta Nacional de Hogares: Módulo de Victimización*. Lima, Perú: INEI.
+
+2. Traverso, J. L. (2020). *Impacto del crimen en la calidad de vida de los habitantes de Lima Metropolitana*. *Revista Peruana de Criminología*, 3(1), 45-58.
+
+3. Municipalidad Metropolitana de Lima. (2023). *Informe anual sobre el estado del transporte público en Lima*. Lima, Perú: Autor.
+
+4. Flores Martos, C. Y., & Gonzales Otiniano, J. E. (2018). Efecto de la implementación del aplicativo Carpooling, bajo la norma ISO 9126, en la economía de estudiantes universitarios de Cajamarca.
+
+5. Amaro Meza, R. D. (2019). Aplicación carpooling para el transporte de personas que trabajan en el Centro Empresarial de San Isidro.]
+
+6. Flores Martos, C. Y., & Gonzales Otiniano, J. E. (2018). Efecto de la implementación del aplicativo Carpooling, bajo la norma ISO 9126, en la economía de estudiantes universitarios de Cajamarca.
+
+7. Valdez Fabian, I. K. (2023). Gestión de comunicación del proyecto de responsabilidad social Facilito de Osinergmin en Lima Metropolitana.
+
+8. Jáuregui Mena, G. M. ¿ La culpa es solo del conductor?: Un análisis de la responsabilidad de las plataformas digitales frente al consumidor de taxi por aplicativo en el Perú.
+
+9. Hofer, S., & Schwentner, H. (2021). Domain Storytelling: A Collaborative, Visual, and Agile Way to Build Domain-Driven Software. Addison-Wesley Professional.
+
+10. Vural, H., & Koyuncu, M. (2021). Does domain-driven design lead to finding the optimal modularity of a microservice?. IEEE Access, 9, 32721-32733.
+
+11. Tramullas Ortiz, C. (2023). Diseño y aplicación de autómatas programables basados en open source.
+
+12. Casado, P. E. F. (2020). Domine JavaScript 4ª Edición. Ra-Ma Editorial.
+
+13. Casado, P. E. F. (2023). Creación de componentes en JavaScript Curso practico. Ra-Ma Editorial.
+
+14. FERNÁNDEZ, P. (2023). Construcción y diseño de páginas web con html, css y javascript. Ediciones de la U.
+
+15. García-Holgado, A., & García-Peñalvo, F. J. (2014). Patrón arquitectónico para la definición de ecosistemas de eLearning basados en desarrollos open source.
+
+16. Molina Araque, F. A., & Espitia Pineda, A. A. (2016). Propuesta de diseño e implementación de una aplicación móvil (App) como plataforma para compartir el uso del carro particular (carpooling) entre empleados de las sucursales en Bogotá de la empresa Claro Colombia sa, para teléfonos inteligentes cuyo sistema operativo sea Android 5.1.
+
+17. Villena Romero, C. L. (2023). Estudio de prefactibilidad para la instalación de una empresa de transporte compartido (carpooling) en una universidad privada de la ciudad de Lima.
+
+18. Miranda de La Espriella, D., & Ramón García, N. (2016). Fuímonos-Carpooling estudio y análisis para el desarrollo de la estrategia de mercadeo: plataforma web y móvil monografía de investigación.
+
+19. Díaz Domínguez, G. M. (2015). Carpooling GT, aplicación para compartir vehículo (Doctoral dissertation, Universidad de San Carlos de Guatemala).
+
+20. Melo Domínguez, A. I. (2018). Mejoramiento del problema de la congestión vehicular para la comunidad universitaria UDEC hacia una solución TI para carpooling.
+
+21. Mendizábal, E. L. (2015). Los nuevos sistemas de utilización compartida de vehículos de transporte (" carpooling" y" car sharing"): entre la economia colaborativa y la competencia desleal. Revista de derecho mercantil, (296), 283-334.
+
+22. Cárdenas Peralta, N. F., Navarrete Cruzate, E. A., Jiménez Valdivia, K. M., & Arias Chilet, P. M. CampusRoad.
+
+23. Murillo Paredes, A. (2021). Diseño de software aplicando el patrón Domain-Driven Design.
+   
+# [**Anexos**](#anexos)
 
 <table border="1">
 
@@ -4219,6 +4267,8 @@ La plataforma utiliza tecnología móvil avanzada y un enfoque innovador para cr
 
     
 </table>
+
+
 
 
 
