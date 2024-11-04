@@ -93,6 +93,24 @@ Para el desarrollo de la entrega TP, se opto por dividir el trabajo de la siguie
 |              | 27/09/24  | Mallma Espiritu Franky Oswald       | Correciones TB1 , Web Aplication, Landing Page |
 
 
+_TB2_
+
+Para el desarrollo de la entrega TP, se opto por dividir el trabajo de la siguiente forma
+
+| Versión      | Fecha      | Autor                               | Descripción                                                |
+|--------------|------------|-------------------------------------|------------------------------------------------------------|
+| #02 - TP    | 4/11/24   | Anampa Lavado, Luis Angel      | Correciones TP , Web Aplication, Backend, entrevistas|
+|              |            |                                     |                                                            |
+|              | 4/11/24   | David Polanco, Alessandro    | Correciones TP , Web Aplication, Backend, entrevistas|
+|              |            |                                     |                                                            |
+|              |  4/11/24   | Talizo Balbin, Joan Jefferson           | Correciones TP , Web Aplication,  Backend, entrevistas|
+|              |            |                                     |                                                            |
+|              |  4/11/24   | Valera Garcés, Samuel Ignacio     | Correciones TP , Web Aplication, Backend, entrevistas |
+|              |            |                                     |                                                            |
+|              | 4/11/24  | Mallma Espiritu Franky Oswald       | Correciones TP , Web Aplication,  Backend, entrevistas |
+
+
+
 # Contenido
 
 - [Contenido](#contenido)
@@ -3716,6 +3734,8 @@ Repositorio del backend en github: <https://github.com/Open-Source-SW53-Group-2/
 
 #### [5.2.3.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
 
+Link del despliegue: https://gounibackend-production.up.railway.app/swagger-ui/index.html#
+
 ![deploy1.png](assets/images/sprint3/deploy/deploy1.png)
 
 ![deploy2.png](assets/images/sprint3/deploy/deploy2.png)
@@ -3739,6 +3759,8 @@ Repositorio del backend en github: <https://github.com/Open-Source-SW53-Group-2/
 ![deploy11.png](assets/images/sprint3/deploy/deploy11.png)
 
 ![deploy12.png](assets/images/sprint3/deploy/deploy12.png)
+
+
 
 #### [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
 
@@ -4240,6 +4262,16 @@ La plataforma utiliza tecnología móvil avanzada y un enfoque innovador para cr
         <td><a href="https://github.com/Open-Source-SW53-Group-2/back-end.git">https://github.com/Open-Source-SW53-Group-2/back-end.git</a></td>
   </tr>
 
+  
+  <tr>
+        <td>About the product</td>
+        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223781_upc_edu_pe/EVKPpO0nmSVBrjFaokoVCyMBzyMU_MezQUuVxdivIbTUzA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=2cn5WB">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223781_upc_edu_pe/EVKPpO0nmSVBrjFaokoVCyMBzyMU_MezQUuVxdivIbTUzA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=2cn5WB </a></td>
+  </tr>
+  <tr>
+        <td>About the team</td>
+        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EQAiuVsXTOxIiiEg8FCnsmEBhW6nVRzItBxmnFknmCYa-w?e=Ugng5S&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EQAiuVsXTOxIiiEg8FCnsmEBhW6nVRzItBxmnFknmCYa-w?e=Ugng5S&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a></td>
+  </tr>
+  
   <tr>
         <td>Exposicion TB1</td>
         <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c250_upc_edu_pe/EWYOUjf_ox9Or5EfrLQCcyAB6flXr1z6TocIu4NZOeEdNw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=qYotQB ">https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c250_upc_edu_pe/EWYOUjf_ox9Or5EfrLQCcyAB6flXr1z6TocIu4NZOeEdNw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=qYotQB </a></td>
