@@ -3547,6 +3547,565 @@ Durante este sprint, al igual que para el desarrollo de la landing page, para pr
 ![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.026.png)
 
 
+5. **Sprint Planning 3.**
+
+En este sprint planning 3 se presenta la evidencia de la planificación y desarrollo de la RESTful Web Services (backend). Además, se evidenciaron los avances del proyecto e insights de colaboración en el equipo a través de  GitHub.
+
+|**Sprint #**|Sprint 3|
+| :- | :- |
+|**Sprint Planning Background**||
+|**Date**|22 de octubre de 2024|
+|**Time**|22:00 horas (GMT-5)|
+|**Location**|Modalidad remota|
+|**Prepared By**|StudentConnect|
+|**Attendees (to planning meeting)**|Todos los miembros de StudentConnect|
+|**Sprint 3 Review Summary**|Se desarrolló la corrección del informe del proyecto, además de desarrollar los bounded context en spring boot |
+|**Sprint 3 Retrospective Summary**|Se planea terminar de desarrollar las vistas de chat y reseñas en el frontend de la aplicación, mejorar algunos features mediante el uso de params y queries, empezar con el proceso de construcción de la aplicación de la API hecha con Java en Spring Boot y finalmente implementar un CRUD.|
+|**Sprint Goal & User Stories**||
+|**Sprint Goal 3**|El goal de este sprint se basa en el desarrollo y despliegue de la aplicación frontend y backend.|
+|**Sprint Velocity 3**|5|
+|**Sum of Story Points**|40|
+
+1. **Sprint Backlog 3.**
+
+En esta parte mostramos las tareas que se realizaron en este sprint.
+
+Link del Trello: <https://trello.com/b/EI5qcpdU>
+
+Vista del Sprint Backlog 3 en Trello
+
+![](assets/images/sprint3/Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.001.png)
+
+|**Sprint #**|**Sprint 3**|||||||
+| :- | :- | :- | :- | :- | :- | :- | :- |
+|**User Story**|**Work-item / Task**|||||||
+|ID|Title|Id|Title|Description|Estimation(hours)|Assigned To|Status (To-do/in-Process/To-Review/Done)|
+|<p></p><p>E1-US03</p>|<p>Evaluar la seguridad del viaje</p><p></p>|T1|Seccion de reseñas de conductores|Agregar una tabla con información de las reseñas de los conductores|3|Joan Talizo|Done|
+|<p></p><p>E2-US02</p>|Verificación de identidades|T1|Sección de login|`  `Inicio de sesión de estudiante y conductor|3|Angel Anampa|Done|
+|<p></p><p>E4-US03</p>|Registro de usuario|T1|Secciones de registro|Registro de estudiante y conductor|3|<p>Franky</p><p>Mallma</p>|Done|
+|<p></p><p>E3-US03</p>|Reserva de viajes|T1|Sección de reserva de viajes|Agregar tabla con información para mostrar y eliminar reservas|5|Samuel|Done|
+|E4-US04|Verificación de identidades|T2|API Endpoint para el manejo y demostración de información de los productos|Implementar bounded context de IAM para la credencial de usuarios|6|Alessandro|Done|
+|E6-US07|Información de los conductores|T1|<p>API Endpoint para el manejo y demostración de información de los conductores</p><p></p>|<p>Implementar bounded context de Driver para la información de los conductores</p><p></p><p></p>|6|Joan Talizo|Done|
+|E6-US03|Información de perfil|T1|API Endpoint para el manejo y demostración de información de perfil de usuario|Implementar el bounded context Profile donde aparecen las la información de usuario|7|Angel Anampa|Done|
+|E6-US06|Chat |T1|Api Endpoint para el ingresar información de chat|Implementar el bounded context de Chat para conversación|6|Franky Mallma|Done|
+
+1. **Development Evidence for Sprint Review.**
+
+En esta sección, se presentan los commits realizados en el repositorio de la landing page en GitHub. Estos commits reflejan el progreso y las mejoras implementadas durante el sprint 2 con respecto a los avances tanto del frontend como backend, proporcionando una visión detallada de las actividades de desarrollo y las contribuciones del equipo:
+
+<https://github.com/Open-Source-SW53-Group-2/frontend>  <https://github.com/Open-Source-SW53-Group-2/back-end>   
+**
+
+
+<table><tr><th valign="top"><b>Repository</b></th><th valign="top"><b>Branch</b></th><th valign="top"><b>Commit Id</b></th><th valign="top"><b>Commit Message</b></th><th valign="top"><b>Commit Message Body</b></th><th valign="top"><b>Committed on (Date)</b></th></tr>
+<tr><td rowspan="8" valign="top"></td><td rowspan="8" valign="top"></td><td valign="top"><b>7b7d8846d66432b4a46975d0243e8501f10e76fd</b></td><td valign="top"><b>Add shared folder with domain, infrastructure, and interfaces</b></td><td valign="top"><b>-</b></td><td valign="top"><h3><a name="_8zc41b25fkh"></a><b>24 oct, 2024</b></h3></td></tr>
+<tr><td valign="top"><b>79486c2ee348f2d68b791268a489267fd7aa541f</b></td><td valign="top"><b>feat: Implement ProfilesContextFacade with service integration for profile, driver, and passenger handling</b></td><td valign="top"><b>-</b></td><td valign="top"><h3><a name="_lkedesz9t39"></a><b>24 oct, 2024</b></h3></td></tr>
+<tr><td valign="top"><b>927d034f18ee317b4bfb2caa3d5169fa9849fcfe</b></td><td valign="top"><b>fix: implement and inject missing services (ProfileQueryService, DriverQueryService, PassengerQueryService, ReviewCommandService, ReviewQueryService)</b></td><td valign="top"><b>-</b></td><td valign="top"><h3><a name="_amn6eb7tmyg5"></a><b>24 Oct, 2024</b></h3></td></tr>
+<tr><td valign="top"><b>d3b2e1e02ac032d680b0d6bca0fc37571ecb8c6e</b></td><td valign="top"><b>feat: configure IAM for authentication and authorization</b></td><td valign="top"><b>-</b></td><td valign="top"><p><h3><a name="_9ogdberwlfpq"></a><b>23 Oct,</b></h3></p><p>2024</p></td></tr>
+<tr><td valign="top"><b>96b21a381406e4db1853bc596966d26a7cd3b53a</b></td><td valign="top"><b>chore: removed IAM directory for current delivery</b></td><td valign="top"><b>-</b></td><td valign="top"><p><h3><a name="_v5i2bb5aw5n5"></a><b>23 Oct,</b></h3></p><p>2024</p></td></tr>
+<tr><td valign="top"></td><td valign="top"></td><td valign="top"><b>-</b></td><td valign="top"><h3></h3></td></tr>
+<tr><td valign="top"></td><td valign="top"></td><td valign="top"><a name="_3269vvskrq65"></a><b>-</b></td><td valign="top"><h3></h3></td></tr>
+<tr><td valign="top"></td><td valign="top"></td><td valign="top"><a name="_qk2la7z519hs"></a><b>-</b></td><td valign="top"><h3></h3></td></tr>
+</table>
+
+1. <a name="_4f6ps6xe4a27"></a>**Testing Suite Evidence for Sprint Review.**
+
+En el alcance del sprint 3 se ha desarrollado el backend de la aplicación web por lo que haremos algunas pruebas de aceptación con respecto al alcance:
+
+<https://github.com/Open-Source-SW53-Group-2/studentconnect-acceptance-test.git>
+
+![](Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.002.png)
+
+<table><tr><th valign="top"><b>Repository</b></th><th valign="top"><b>Branch</b></th><th valign="top"><b>Commit Id</b></th><th valign="top"><b>Commit Message</b></th><th valign="top"><b>Commit Message Body</b></th><th valign="top"><b>Commited on (Date)</b></th></tr>
+<tr><td rowspan="5" valign="top"><p>[<b>https://github.com/Open-Source-SW53-Group-2/studentconnect-acceptance-test](https://github.com/Open-Source-SW53-Group-2/studentconnect-acceptance-test) <b>[](https://github.com/upc-pre-202401-si729-sw51-the-coders/upc-pre202401-si729-sw51-the-coders-acceptance-tests)</b></p><p>[](https://github.com/upc-pre-202401-si729-sw51-the-coders/upc-pre202401-si729-sw51-the-coders-acceptance-tests)</p></td><td rowspan="5" valign="top"><b>main</b></td><td valign="top"><b>0e589899643040d0114ad937b6f93fe372615f40</b> </td><td valign="top"><p></p><p><b>chore: add AT06.feature file</b></p></td><td valign="top"><b>-</b></td><td valign="top"><p><b>Oct 24,</b></p><p><b>2024</b></p></td></tr>
+<tr><td valign="top"><b>3a1119825554c4c619ef033666efe8bae1d2a583</b></td><td valign="top"><b>chore: add AT07.feature file</b></td><td valign="top"><b>-</b></td><td valign="top"><p><b>Oct 24,</b></p><p><b>2024</b></p></td></tr>
+<tr><td valign="top"><b>643c77a70f5d9986ef41a069be2a3a78178da5d2</b></td><td valign="top"><b>chore: add AT08.feature file</b></td><td valign="top"><b>-</b></td><td valign="top"><p><b>Oct 24,</b></p><p><b>2024</b></p></td></tr>
+<tr><td valign="top"><b>22e45675c99b2ff7d0b6708cb603cee7eec414a9</b></td><td valign="top"><b>chore: add AT09.feature file</b></td><td valign="top"><b>-</b></td><td valign="top"><p><b>Oct 24,</b></p><p><b>2024</b></p></td></tr>
+<tr><td valign="top"><b>c1dc95fb7d8c554fcc741483943f7751d8e9f0c4</b></td><td valign="top"><b>chore: add AT10.feature file</b></td><td valign="top"><b>-</b></td><td valign="top"><p><b>Oct 24,</b></p><p><b>2024</b></p></td></tr>
+</table>
+**
+
+
+1. **Execution Evidence for Sprint Review.**
+
+En este sprint logramos como tercera fase de nuestro producto final, desarrollar la API hecha con Java en Spring Boot.
+
+`		`Muestra de nuestra API hecha con Spring Boot:
+
+![](assets/images/sprint3/Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.003.png)
+
+![](assets/images/sprint3/Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.004.png)
+
+video que ilustra y explica la visualización y navegación logrados en este Sprint
+
+![](assets/images/sprint3/Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.005.png)
+
+Link del video: <https://upcedupe-my.sharepoint.com/personal/u202218664_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218664%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202402%2Dsi729%2Dsw53%2Dstudentconnect%2Dabout%2Dthe%2Dteam%2Dsprint%2D3%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Efde647a7%2De12a%2D41c7%2D8787%2Dd129b7019024>
+
+
+1. **Services Documentation Evidence for Sprint Review.**
+
+Para este sprint utilizamos los servicios de la API que nosotros mismos hicimos con Java en Spring Boot. A continuación, mostramos todos los endpoints realizados por nuestro equipo por cada Bounded Context correctamente documentados en Swagger.
+
+Repositorio del backend en github: <https://github.com/Open-Source-SW53-Group-2/back-end>
+
+|**Bounded Context**|Reviews||
+| :- | :- | :- |
+|**Entity**|**Endpoint URL**|**Swagger**|
+|Reviews|api/v1/reviews|![ref1]|
+
+
+|**Bounded Context**|Profiles||
+| :- | :- | :- |
+|**Entity**|**Endpoint URL**|**Swagger**|
+|Profiles|api/v1/profiles|![ref2]|
+
+
+
+
+
+|**Bounded Context**|Drivers||
+| :- | :- | :- |
+|**Entity**|**Endpoint URL**|**Swagger**|
+|Drivers|api/v1/drivers|![ref3]|
+
+|**Bounded Context**|Roles||
+| :- | :- | :- |
+|**Entity**|**Endpoint URL**|**Swagger**|
+|Roles|api/v1/roles|![](assets/images/sprint3/Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.009.png)|
+
+
+|**Bounded Context**|Students||
+| :- | :- | :- |
+|**Entity**|**Endpoint URL**|**Swagger**|
+|Students|api/v1/students|![ref4]|
+
+
+|**Bounded Context**|Chats||
+| :- | :- | :- |
+|**Entity**|**Endpoint URL**|**Swagger**|
+|Chats|api/v1/chats|![ref5]|
+
+
+|**Bounded Context**|Users||
+| :- | :- | :- |
+|**Entity**|**Endpoint URL**|**Swagger**|
+|Users|api/v1/users|![](assets/images/sprint3/Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.012.png)|
+
+1. **Software Deployment Evidence for Sprint Review.**
+
+![](assets/images/sprint3/Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.013.png)
+
+![](assets/images/sprint3/Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.014.png)
+
+![](assets/images/sprint3/Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.015.png)
+
+![](assets/images/sprint3/Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.016.png)
+
+![](assets/images/sprint3/Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.017.png)
+
+![](assets/images/sprint3/Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.018.png)
+
+![](assets/images/sprint3/Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.019.png)
+
+![](assets/images/sprint3/Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.020.png)
+
+![](assets/images/sprint3/Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.021.png)
+
+![](assets/images/sprint3/Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.022.png)
+
+1. **Team Collaboration Insights during Sprint.**
+
+**Distribución de aportes en el informe:**
+
+**URL del repositorio para el Project Report en la organización de GitHub del equipo: <https://github.com/Open-Source-SW53-Group-2/Report>**
+
+**¿Cómo se han desarrollado las actividades de elaboración del informe?**
+
+Para el desarrollo del informe en este sprint optamos por dividirnos el capítulo de la siguiente manera:
+
+|Integrante|Aporte en el informe|
+| :- | :- |
+|Angel|<p>Sprint 3,Development Evidence for Sprint Review,Validation Interviews.</p><p></p><p>![ref6]</p><p></p>|
+|Samuel|<p>Sprint planning 3, Deployment Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint</p><p>![ref7]</p><p></p><p></p>|
+|Franky|<p>Sprint 3,Development Evidence for Sprint Review,Validation Interviews,Mejora continua en Domain Driven Design Architecture, Heuristics evaluation</p><p>![ref8]</p><p></p><p></p>|
+|Alessandro|<p>Validation Interviews</p><p>Development Evidence for Sprint Review</p><p></p><p>![ref5]</p><p></p><p></p>|
+|Joan|<p>Sprint 3, Validation Interviews, Video About-the-product</p><p>![ref9]</p><p></p>|
+
+**Evidencia del commit:**
+
+![](assets/images/sprint3/Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.027.png)
+
+Durante este sprint, al igual que para el desarrollo de la landing page, para proteger la rama “main” creamos una rama “develop” de la que cada integrante de nuestro grupo creó su propia sub-rama “feature” para subir un capítulo del reporte siguiendo las convenciones antes señaladas(conventional commit y git flow).
+
+**Distribución de aportes en nuestra aplicación:**
+
+**Github analytics de nuestro tercer sprint - frontend:**
+
+![](assets/images/sprint3/Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.028.png)
+
+**Github analytics de nuestro tercer sprint - backend: ![](assets/images/sprint3/Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.029.png)**
+
+
+
+
+
+1. **Validation Interviews.**
+
+Después de avanzar en el desarrollo de la landing page, la aplicación web (frontend) y la API RESTful (backend) del producto GoUni , realizamos entrevistas de validación. Estas entrevistas permitieron a los usuarios de ambos segmentos objetivos obtener una primera impresión del software.
+
+1. **Diseño de Entrevistas.**
+
+   Para realizar los componentes elaboramos las preguntas para obtener información de nuestros segmentos objetivos mediante las entrevistas.
+
+***Preguntas principales:***
+
+1. ¿Cómo te llamas?
+1. ¿Qué edad tienes?
+1. ¿Dónde vives?
+
+`          `**Segmento objetivo:** Estudiantes universitarios
+
+`          `***Preguntas sobre preferencias y personalidad [en caso de ser un nuevo entrevistado que no participó en la anterior entrevista]:***
+
+1. ¿Con qué frecuencia utilizas transporte para llegar a la universidad?
+1. ¿Cuáles son las mayores dificultades que enfrentan al desplazarse a la universidad?
+1. ¿Cuánto tiempo sueles tardar en llegar a la universidad desde tu casa?
+1. ¿Estarías dispuesto a compartir tu trayecto con otros estudiantes? ¿Por qué?
+1. ¿Qué factores te harían sentir más cómodo/a utilizando un servicio de ride-sharing para estudiantes?
+1. ¿Cómo crees que un servicio de transporte compartido podría mejorar tu experiencia diaria?
+
+***Preguntas principales:***
+
+1. ¿Qué te parece el diseño de la landing page? ¿Te motiva a ingresar a la aplicación y registrarte?
+1. ¿Consideras que la aplicación dispone de una interfaz fácil e intuitiva de utilizar?
+
+   a. Si la respuesta es **SÍ,** ¿Por qué lo considera así?
+
+`               `b. Si la respuesta es **NO ,** ¿Qué funcionalidad crees que falta o sobra en la                 aplicación para que tengas más interés en usarla?
+
+1. ¿Consideras que los planes de pago son de tu agrado? ¿ o crees que debemos ajustar el precio?
+1. ¿Consideras útil que la aplicación muestre tu dirección en gps en tiempo real ? ¿De qué manera esto podría mejorar tu experiencia?
+
+***Preguntas complementarias:***
+
+1. ¿Qué tipo de dispositivo (celular, tablet, laptop, etc.) has utilizado al momento de probar la landing page y la aplicación web?
+1. ¿Cuál fue el navegador que utilizaste en esta ocasión para visualizar el contenido?
+1. ¿Hubo algún aspecto visual como el posicionamiento de los elementos que no te terminó de agradar?
+
+\***
+
+**Segmento objetivo:** Estudiantes universitarios propietarios de vehículos privados
+
+` `***Preguntas sobre preferencias y personalidad [en caso de ser un nuevo entrevistado que no participó en la anterior entrevista]:***
+
+1. ¿Con qué frecuencia conduces hacia tu universidad o trabajo?
+1. ¿Te gustaría compartir tu vehículo con otros estudiantes en tus trayectos?
+1. ¿Cuáles son tus mayores preocupaciones al compartir tu vehículo con otras personas?
+1. ¿Qué aspectos te motivarían a ofrecer tu vehículo en un servicio de ride-sharing?
+1. ¿Qué tipo de incentivos te harían más propenso a unirte a una plataforma de ride-sharing para estudiantes?
+1. ¿Cómo manejas los costos de mantenimiento y gasolina? ¿Crees que compartir tu vehículo podría ayudar a reducir esos costos?
+1. ¿Cuáles son tus expectativas en cuanto a seguridad y comodidad al ofrecer tu vehículo para transportar a otros?
+
+***Preguntas principales:***
+
+1. ¿Qué te parece el diseño de la landing page? ¿Te motiva a ingresar a la aplicación y registrarte?
+1. ¿Consideras que la aplicación dispone de una interfaz fácil e intuitiva de utilizar?
+
+   `  `a. Si la respuesta es **SÍ,** ¿Por qué lo considera así?
+
+`                   `b. Si la respuesta es **NO ,** ¿Qué funcionalidad crees que falta en la           aplicación para que tengas más interés en usarla?
+
+1. ¿Consideras útil que la funcionalidad de reseñas al conductor en la aplicación te ayude en la forma de transporte? ¿Te resultan incómodos este tipo de reseñas?
+1. ¿Consideras útil la dirección gps en tiempo real para realizar el servicio de transporte? ¿Cómo crees que esta función podría mejorar el proceso?
+
+***Preguntas complementarias:***
+
+1. ¿Qué tipo de dispositivo (celular, tablet, laptop, etc.) has utilizado al momento de probar la landing page y la aplicación web?
+1. ¿Cuál fue el navegador que utilizaste en esta ocasión para visualizar el contenido?
+1. ¿Hubo algún aspecto visual como el posicionamiento de los elementos que no te terminó de agradar?
+
+1. **Registro de Entrevistas.**
+
+En esta sección se registran detalladamente las entrevistas de validación realizadas a los dos segmentos objetivos. Se adjunta el link del video completo:
+
+**Segmento 1: Estudiantes**
+
+**Entrevista 1:**
+
+**Nombre  Completo del entrevistado: Alex Martinez**
+
+**Edad: 21**
+
+**Distrito: Santa Anita**
+
+![](assets/images/sprint3/Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.030.png)
+
+**URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EaA1ySLWCUJNk9eKMXToLdIBiJpvFl43-Y5fwgIa9evBvA?e=wVJsk2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EaA1ySLWCUJNk9eKMXToLdIBiJpvFl43-Y5fwgIa9evBvA?e=wVJsk2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)**
+
+**Inicio de entrevista: 10:14 s**
+
+**Duración: 32:17 s**
+
+**Resumen:**
+
+Se entrevistó a Alex Martinez sobre la aplicación web y nos dio su opinión, según dice le gusto lo ordenado que se veía y que la funcionalidad de gps es una buena opción a la hora de reservar en tiempo real un viaje. Además, dijo que los planes tenían excelentes precios y que si se animaría a contratar el servicio.
+
+
+
+
+
+
+
+**Entrevista 2:**
+
+![](assets/images/sprint3/Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.031.png)
+
+**Nombre  Completo del entrevistado:**  Maria Gracia Rojas Montenegro
+
+**Edad: 19**
+
+**Distrito: Surco**
+
+**URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EaA1ySLWCUJNk9eKMXToLdIBiJpvFl43-Y5fwgIa9evBvA?e=wVJsk2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EaA1ySLWCUJNk9eKMXToLdIBiJpvFl43-Y5fwgIa9evBvA?e=wVJsk2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)**
+
+**Inicio de entrevista: 0:01**
+
+**Duración: 32:17 s**
+
+**Resumen:** Se entrevistó a Maria Gracia tanto de la landing page asi como la app web de GoUni, nos dio opiniones positivas para ambas presentaciones de nuestra propuesta, a la vez mencionó que la funcionalidad del gps le parecía muy útil en cuestiones de seguridad del viaje para avisarle a sus conocidos al momento de tomar un viaje; sin embargo, mencionó que al momento de desplegar la landing page en su computadora había elementos de la página que se veían superpuestos con otras secciones
+
+
+
+**Segmento 2: Estudiantes con vehículos**
+
+**Entrevista 1:**
+
+**Nombre Completo del entrevistado: Alex Martines Guzman**
+
+**Edad: 25**
+
+**Distrito:Santa Anita, Lima**
+
+**URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EaA1ySLWCUJNk9eKMXToLdIBiJpvFl43-Y5fwgIa9evBvA?e=wVJsk2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EaA1ySLWCUJNk9eKMXToLdIBiJpvFl43-Y5fwgIa9evBvA?e=wVJsk2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)**
+
+**Inicio de entrevista: 27:00 s**
+
+**Duración: 32:17 s**
+
+**Resumen:**
+
+**Entrevista 2:**
+
+**Nombre Completo del entrevistado: Dayana Rojas Sosa**
+
+**Edad: 19**
+
+**Distrito: Ate, Lima**
+
+**URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EaA1ySLWCUJNk9eKMXToLdIBiJpvFl43-Y5fwgIa9evBvA?e=wVJsk2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EaA1ySLWCUJNk9eKMXToLdIBiJpvFl43-Y5fwgIa9evBvA?e=wVJsk2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)**
+
+**Inicio de entrevista: 2:54 s**
+
+**Duración: 32:17 s**
+
+**Resumen:**
+
+**Entrevista 3:**
+
+![](assets/images/sprint3/Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.032.png)
+
+**Nombre  Completo del entrevistado: Maykol Valencia**
+
+**Edad: 23 años**
+
+**Distrito: Selva Alegre, Arequipa**
+
+**URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EaA1ySLWCUJNk9eKMXToLdIBiJpvFl43-Y5fwgIa9evBvA?e=wVJsk2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EaA1ySLWCUJNk9eKMXToLdIBiJpvFl43-Y5fwgIa9evBvA?e=wVJsk2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)**
+
+**Inicio de entrevista: 15:00 s**
+
+**Duración: 32:17 s**
+
+**Resumen**
+
+Durante la entrevista con Maykol Valencia, un universitario propietario de auto, se evaluó la usabilidad de la aplicación **GO uni**. Maykol destacó la interfaz intuitiva y atractiva, mencionando que el diseño le motiva a registrarse y utilizar el servicio. Apreció la funcionalidad de reseñas de conductores, que considera esencial para la seguridad, y sugirió la incorporación de seguimiento en tiempo real mediante GPS para mayor tranquilidad, además de la opción de compartir la ubicación. Como mejora visual, recomendó aumentar el espaciado entre los íconos de universidades. En conclusión, la retroalimentación fue positiva, destacando la utilidad de la aplicación y brindando sugerencias que podrían mejorar aún más la experiencia del usuario.
+
+
+
+**Entrevista:**
+
+**URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EaA1ySLWCUJNk9eKMXToLdIBiJpvFl43-Y5fwgIa9evBvA?e=ZtjOuJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EaA1ySLWCUJNk9eKMXToLdIBiJpvFl43-Y5fwgIa9evBvA?e=ZtjOuJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)**
+
+**Inicio de entrevista: 2:54 s**
+
+**Duración: 32:17 s**
+
+**Resumen:**
+
+
+
+
+1. **Evaluaciones según heurísticas.**
+
+**UX Heuristics & Principles Evaluation**
+
+Usability – Inclusive Design – Information Architecture
+
+**CARRERA :** Ingeniería de Software
+
+**CURSO :** Desarrollo de Aplicaciones Open Source
+
+**SECCIÓN :** SW53
+
+**PROFESORES :** Hugo Alan Mori
+
+**AUDITOR :** PropioConnect
+
+**CLIENTE(S) :** StudentConnect
+
+**SITE o APP A EVALUAR:** GoUni
+
+**TAREAS A EVALUAR:**
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+**Desktop landing page**
+
+Información y descripción de la aplicación y sus funcionalidad
+
+Información y breve descripción sobre el equipo de trabajo
+
+Visualización de testimonios
+
+Header y footer funcionales
+
+**Desktop Web Applications**
+
+Registro de nuevo usuario
+
+Inicio de sesión de usuario existente
+
+Header y footer funcionales
+
+Pestañas de navegación dentro de la aplicación
+
+Botones interactivos y de uso intuitivo
+
+Reservas
+
+**No están incluidas en esta versión de la evaluación las siguientes tareas:**
+
+**Desktop landing page**
+
+Política de privacidad y condiciones de uso
+
+**Desktop Web Applications**
+
+Visualización de Perfil de usuario
+
+Dark Mode
+
+Política de privacidad y condiciones de uso
+
+ESCALA DE SEVERIDAD:
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+
+|Nivel|Descripción|
+| :- | :- |
+|1|Problema superficial: puede ser fácilmente superado por el usuario u ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.|
+|2|Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release.|
+|3|Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.|
+|4|Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.|
+
+
+**TABLA RESUMEN:**
+
+
+|#|Problema|Escala de severidad|Heurística/Principio violado|
+| :- | :- | :- | :- |
+|1|Los botones del footer de la landing page  no presentan ninguna funcionalidad|1|IA - Is it clear?|
+|2|El toolbar no sigue la normativa responsive|1|IA - Is it findable?|
+|3|En la webApp el icono de perfil de usuario no presenta ninguna vista|1|Usability - Consistency and standards|
+|4|Se presenta el sistema de chat de forma incompleta|2|Usability - Consistency and standards|
+
+
+**PROBLEMA #1: Los botones del footer de la landing page no presentan ninguna funcionalidad**
+
+**Severidad:** 1
+
+**Heurística violada:** IA - ¿Es claro?
+
+**Descripción:** Los botones ubicados en el footer de la página de inicio no realizan ninguna acción al ser seleccionados, lo cual genera confusión en el usuario.
+
+**Recomendación:** Asignar funcionalidades claras a los botones en el footer, como enlaces a otras secciones de la página o información adicional relevante, para que el usuario perciba un propósito definido en cada elemento interactivo.
+
+**PROBLEMA #2: El toolbar no sigue la normativa responsive**
+
+**Severidad**: 1
+
+**Heurística violada:** IA - ¿Es fácil de encontrar?
+
+**Descripción:** La barra de herramientas no se adapta adecuadamente en dispositivos móviles, dificultando el acceso a las opciones en pantallas más pequeñas.
+
+**Recomendación:** Implementar estilos responsive en el toolbar para que se ajuste correctamente a dispositivos móviles. Utilizar técnicas de diseño adaptativo como media queries para garantizar que los elementos sean accesibles en cualquier tamaño de pantalla.
+
+**PROBLEMA #3: En la webApp el ícono de perfil de usuario no presenta ninguna vista**
+
+**Severidad:** 1
+
+**Heurística violada:** Usabilidad - Consistencia y estándares
+
+**Descripción**: Al hacer clic en el ícono de perfil, no se muestra ninguna vista relacionada con la cuenta del usuario, lo cual genera una experiencia inconsistente.
+
+**Recomendación:** Vincular el ícono de perfil a una página o vista que permita al usuario acceder a sus detalles de cuenta, configuración de perfil o historial, ofreciendo una experiencia consistente con lo que el usuario espera encontrar al hacer clic en su perfil.
+
+
+**PROBLEMA #4: Se presenta el sistema de chat de forma incompleta**
+
+**Severidad:** 2
+
+**Heurística violada**: Usabilidad - Consistencia y estándares
+
+**Descripción:** El sistema de chat se muestra en una forma incompleta, lo que impide a los usuarios interactuar adecuadamente y genera frustración.
+
+**Recomendación:** Asegurarse de que el sistema de chat esté completamente operativo antes de ser presentado a los usuarios. Esto incluye verificar la interfaz, la capacidad de enviar mensajes y la funcionalidad de respuestas automáticas si las hay.
+
+
+1. **Video About-the-Product.**
+
+   En esta sección, introducimos y describimos el contenido del Video About-the-Product, el cual está dirigido a los visitantes de la Landing Page que desean conocer un poco más acerca de GoUni.
+
+   El video presenta la Landing Page como la aplicación web , permitiendo a los usuarios apreciar sus funcionalidades.
+
+   Incluimos entrevistas de  usuarios por cada segmento objetivo que participó en las entrevistas de validación, destacando la satisfacción y los beneficios experimentados al utilizar la plataforma.
+
+   ![](assets/images/sprint3/Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.033.png)
+
+   **URL Microsoft Stream: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223781_upc_edu_pe/EVKPpO0nmSVBrjFaokoVCyMBzyMU_MezQUuVxdivIbTUzA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=2cn5WB>**
+
+   **URL Youtube: <https://youtu.be/ckce6tCAqUA>**
+
+   **Duración del video: 2:54**
+
+Link de entrevista juntado: <https://upcedupe-my.sharepoint.com/personal/u202218664_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218664%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202401%2Dsi729%2DSW53%2Dstudentconnect%2Dvalidation%2Dsprint%2D3%20%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb7d0caae%2D2678%2D41fc%2Db1fc%2Dad2f3b3601a6>
+
+
+Link del back desplegado:
+
+<https://gounibackend.azurewebsites.net/>
+
+[ref1]: assets/images/sprint3/Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.006.png
+[ref2]: assets/images/sprint3/Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.007.png
+[ref3]: assets/images/sprint3/Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.008.png
+[ref4]: assets/images/sprint3/Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.010.png
+[ref5]: assets/images/sprint3/Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.011.png
+[ref6]: assets/images/sprint3/Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.023.png
+[ref7]: assets/images/sprint3/Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.024.png
+[ref8]: assets/images/sprint3/Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.025.png
+[ref9]: assets/images/sprint3/Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.026.png
+
 
 # Conclusiones sobre GoUni
 
