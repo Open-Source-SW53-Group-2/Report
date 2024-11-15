@@ -3804,6 +3804,188 @@ Durante este sprint, al igual que para el desarrollo de la landing page, para pr
 **Github analytics de nuestro tercer sprint - backend: ![](assets/images/sprint3/Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.029.png)**
 
 
+## 5.2.4 Sprint 4
+
+### 5.2.4.1. Sprint Planning 4
+En este Sprint Planning 4 se presenta la evidencia de la unión entre el desarrollo de los RESTful Web Services (backend) y el Frontend. Además, se evidenciaron los avances del proyecto y los insights de colaboración en el equipo a través de GitHub.
+
+| **Sprint #**                     | Sprint 4                                |
+|----------------------------------|-----------------------------------------|
+| **Sprint Planning Background**   |                                         |
+| **Date**                         | 12 de noviembre de 2024                 |
+| **Time**                         | 22:00 horas (GMT-5)                     |
+| **Location**                     | Modalidad remota                        |
+| **Prepared By**                  | StudentConnect                          |
+| **Attendees (to planning meeting)** | Todos los miembros de StudentConnect |
+| **Sprint 4 Review Summary**      | Se desarrolló la comunicación entre Frontend (Angular) y Backend (Spring Boot) |
+| **Sprint 4 Retrospective Summary** | Se planea terminar de fusionar las vistas de chat y reseñas en el frontend y backend de la aplicación, mejorando algunas partes de la documentación. |
+| **Sprint Goal & User Stories**   |                                         |
+| **Sprint Goal 4**                | El objetivo de este sprint se basa en el desarrollo y fusión de la aplicación frontend y backend. |
+| **Sprint Velocity 4**            | 5                                       |
+| **Sum of Story Points**          | 40                                      |
+
+
+
+### 5.2.4.2. Sprint Backlog 4
+En esta parte se muestran las tareas que se realizaron en este sprint.
+
+![SpringBacklog4.png](assets/images/sprint4/trello/SpringBacklog4.png)
+
+- **Link del Trello**: [Sprint Backlog 4 en Trello](https://trello.com/b/LdfkOWwk)
+
+| Sprint | User Story | Work-item / Task | ID | Title | Descripción | Estimación (horas) | Asignado a | Estado |
+| ------ | ---------- | ---------------- | -- | ----- | ----------- | ------------------ | ---------- | ------ |
+| Sprint 4 | US-16 | T1 | Seleccionar un plan de servicio | Sección de pagos | Selección entre planes gratis o premium | 4 | Joan Talizo | Done |
+| Sprint 4 | US-18 | T1 | Cancelar suscripción o plan | Sección de pagos | Poder cancelar un pago realizado | 4 | Angel Anampa | Done |
+| Sprint 4 | US-26 | T1 | Establecer destinos secundarios | Secciones de reservas | Selección de destinos | 3 | Franky Mallma | Done |
+| Sprint 4 | US-27 | T1 | Opciones de seguridad adicionales para conductores | Sección mapas | Compartir ubicación en tiempo real | 5 | Samuel | Done |
+| Sprint 4 | US-28 | T1 | Identificación de usuarios frecuentes | Sección reseñas | Poder marcar y puntuar a un conductor | 6 | Alessandro | Done |
+| Sprint 4 | U-29 | T1 | Programar viajes recurrentes | Sección reservas | Poder reservar viajes recurrentes | 6 | Joan Talizo | Done |
+
+### 5.2.4.3. Development Evidence for Sprint Review
+En esta sección, se presentan los commits realizados en el repositorio de la landing page en GitHub. Estos commits reflejan el progreso y las mejoras implementadas durante el sprint 4 con respecto a los avances tanto del frontend como backend.
+
+- [Repositorio de Frontend](https://github.com/Open-Source-SW53-Group-2/frontend)
+- [Repositorio de Backend](https://github.com/Open-Source-SW53-Group-2/back-end)
+
+| **Repository**                                                                                   | **Branch** | **Commit Id**                             | **Commit Message**                              | **Commit Message Body** | **Committed on (Date)** |
+|--------------------------------------------------------------------------------------------------|------------|-------------------------------------------|------------------------------------------------|-------------------------|-------------------------|
+| [https://github.com/Open-Source-SW53-Group-2/back-end.git](https://github.com/Open-Source-SW53-Group-2/back-end.git) | -          | 00c9b7979ac48031f9335884ea315bff181eadf2 | feat: added endpoint chat                       | -                       | 14 de nov, 2024         |
+|                                                                                                  | -          | 36e1db32c0c2b896672466b078254da8e19e3535 | fix: resolve merge conflicts and fix issues in backend integration | -                       | 14 de nov, 2024|
+|                                                                                                  | -          | f0726e09c623daaba37a571cc5052109ede78cfe | feat: added endpoint payments                  | -                       | 14 de nov, 2024         |
+|                                                                                                  | -          | 3dd9fd180310aeb10e3a6a050c681b1ff55a695d | feat: add the rate driver bounded context      | -                       | 14 de nov, 2024         |
+|                                                                                                  | -          | c9407a52d1aac44b528192a80c109f69eca2f96e | fix: resolve entity problems and configuration rate bounded context | -                       | 14 de nov, 2024         |
+|                                                                                                  | -          | 7b7d8846d66432b4a46975d0243e8501f10e76fd | Add shared folder with domain, infrastructure, and interfaces | -                       | 14 de nov, 2024         |
+
+### 5.2.4.4. Testing Suite Evidence for Sprint Review
+En el alcance del sprint 4 se ha desarrollado el backend de la aplicación web por lo que haremos algunas pruebas de aceptación.
+
+- [Repositorio de Pruebas de Aceptación](https://github.com/Open-Source-SW53-Group-2/studentconnect-acceptance-test)
+
+![TestingSuiteEvidenceStudentConnect.png](assets/images/sprint4/testing/TestingSuiteEvidenceStudentConnect.png)
+
+ **Repository**                                                                                     | **Branch** | **Commit Id**                              | **Commit Message**             | **Commit Message Body** | **Committed on (Date)** |
+|----------------------------------------------------------------------------------------------------|------------|--------------------------------------------|-------------------------------|--------------------------|--------------------------|
+| [https://github.com/Open-Source-SW53-Group-2/studentconnect-acceptance-test](https://github.com/Open-Source-SW53-Group-2/studentconnect-acceptance-test) | main       | f8eb76606b6b4a29e5330a65ec64b8d18189eaaf  | chore: add AT11.feature file  | -                        | Nov 13, 2024             |
+|                                                                                                    | main       | 5c6198939ff9480ca1fb268d34e32ee2b3de5d31  | chore: add AT12.feature file  | -                        | Nov 13, 2024             |
+|                                                                                                    | main       | 1cfc448a60e81a2a1749299912df3af3fb182603  | chore: add AT13.feature file  | -                        | Nov 13, 2024             |
+|                                                                                                    | main       | 8b3b8c5bf2abe3b91107baf45becd61855e6d1e6  | chore: add AT14.feature file  | -                        | Nov 13, 2024             |
+|                                                                                                    | main       | 57393f7057a6b3913549cf9177a80da8a5b0dc6   | chore: add AT15.feature file  | -                        | Nov 13, 2024             |
+
+## 5.2.4.5. Execution Evidence for Sprint Review.
+
+Para esta entrega, se realizaron algunos cambios en el frontend según las visitas pendientes. Se puede acceder a la aplicación web mediante el siguiente enlace: [https://landing-page-with-angular-sigma.vercel.app/home](https://landing-page-with-angular-sigma.vercel.app/home). Además, se ha avanzado con el desarrollo final del backend de la aplicación web.
+
+En la landing page se agregaron los videos de About-the-product y About-the-team, para que los visitantes puedan conocer mejor nuestro producto mostrando un video promocional y un video de equipo.
+
+### Muestra de las nuevas secciones en la landing page:
+
+- [Landing Page](https://landing-page-with-angular-sigma.vercel.app/home)
+
+![EvidenceLandingPageAboutProduct.png](assets/images/sprint4/Evidence/EvidenceLandingPageAboutProduct.png)
+
+### Muestra de nuestra API hecha con Spring Boot:
+
+La GoUni Platform API ofrece documentación REST para la aplicación. Aquí puedes explorar los endpoints disponibles, incluyendo:
+
+[https://gouniprojectdeploy-production.up.railway.app/swagger-ui/index.html#/](https://gouniprojectdeploy-production.up.railway.app/swagger-ui/index.html#/)
+
+![EvidenceApiSpringBoot.png](assets/images/sprint4/Evidence/EvidenceApiSpringBoot.png)
+
+![EvidenceApiSpringBoot02.png](assets/images/sprint4/Evidence/EvidenceApiSpringBoot02.png)
+
+![EvidenceApiSpringBoot3.png](assets/images/sprint4/Evidence/EvidenceApiSpringBoot3.png)
+
+## 5.2.4.6. Services Documentation Evidence for Sprint Review.
+
+Para este sprint utilizamos los servicios de la API que nosotros mismos hicimos con Java en Spring Boot. A continuación, mostramos todos los endpoints realizados por nuestro equipo por cada Bounded Context correctamente documentados en Swagger.
+
+Se adjunta el link de nuestro backend correctamente desplegado usando el servicio gratuito Railway:  
+[https://gouniprojectdeploy-production.up.railway.app/swagger-ui/index.html#/](https://gouniprojectdeploy-production.up.railway.app/swagger-ui/index.html#/)
+
+Repositorio del backend en GitHub:  
+[https://github.com/Open-Source-SW53-Group-2/back-end](https://github.com/Open-Source-SW53-Group-2/back-end)
+
+---
+
+### Bounded Context: Authentication
+
+| **Entity**         | **Endpoint URL**             | **Swagger**                                                                                   |
+|--------------------|------------------------------|------------------------------------------------------------------------------------------------|
+| Authentication     | `api/v1/authentication`      | ![EndpointAuthentication.png](assets/images/sprint4/endpoints/EndpointAuthentication.png)|
+
+---
+
+### Bounded Context: Payments
+
+| **Entity**         | **Endpoint URL**             | **Swagger**                                                                    |
+|--------------------|------------------------------|---------------------------------------------------------------------------------|
+| Payments           | `api/v1/payments`            | ![EndpointPayments.png](assets/images/sprint4/endpoints/EndpointPayments.png)|
+
+---
+### Bounded Context: Reviews
+
+| **Entity**  | **Endpoint URL**      | **Swagger**                                                         |
+|-------------|------------------------|----------------------------------------------------------------------|
+| Reviews     | `api/v1/reviews`       | ![EndpointReviews.png](assets/images/sprint4/endpoints/EndpointReviews.png)|
+
+---
+
+### Bounded Context: Profiles
+
+| **Entity**  | **Endpoint URL**      | **Swagger**                                                         |
+|-------------|------------------------|----------------------------------------------------------------------|
+| Profiles    | `api/v1/profiles`      | ![EndpointProfiles.png](assets/images/sprint4/endpoints/EndpointProfiles.png)|
+
+---
+
+### Bounded Context: Drivers
+
+| **Entity**  | **Endpoint URL**      | **Swagger**                                                         |
+|-------------|------------------------|----------------------------------------------------------------------|
+| Drivers     | `api/v1/drivers`       | ![EndpointDrivers.png](assets/images/sprint4/endpoints/EndpointDrivers.png)|
+
+---
+
+### Bounded Context: Roles
+
+| **Entity**  | **Endpoint URL**      | **Swagger**                                                         |
+|-------------|------------------------|----------------------------------------------------------------------|
+| Roles       | `api/v1/roles`         | ![EndpointRoles.png](assets/images/sprint4/endpoints/EndpointRoles.png)|
+
+---
+
+### Bounded Context: Students
+
+| **Entity**  | **Endpoint URL**      | **Swagger**                                                         |
+|-------------|------------------------|----------------------------------------------------------------------|
+| Students    | `api/v1/students`      | ![EndpointStudents.png](assets/images/sprint4/endpoints/EndpointStudents.png)|
+
+---
+
+### Bounded Context: Users
+
+| **Entity**  | **Endpoint URL**      | **Swagger**                                                         |
+|-------------|------------------------|----------------------------------------------------------------------|
+| Users       | `api/v1/users`         | ![EndpointUsers.png](assets/images/sprint4/endpoints/EndpointUsers.png)|
+
+---
+
+### Bounded Context: Chat
+
+| **Entity**  | **Endpoint URL**      | **Swagger**                                                         |
+|-------------|------------------------|----------------------------------------------------------------------|
+| Chat        | `api/v1/chat`          | ![EndpointChat.png](assets/images/sprint4/endpoints/EndpointChat.png)|
+
+---
+
+## 5.2.4.7. Software Deployment Evidence for Sprint Review.
+
+**Link del despliegue:**  
+[https://gouniprojectdeploy-production.up.railway.app/swagger-ui/index.html#/](https://gouniprojectdeploy-production.up.railway.app/swagger-ui/index.html#/)
+
+![deploy.jpeg](assets/images/sprint4/deploy/deploy.jpeg)
+
 
 
 
