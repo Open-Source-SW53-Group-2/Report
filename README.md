@@ -3991,6 +3991,57 @@ Repositorio del backend en GitHub:
 
 ![postman2.jpeg](assets/images/sprint4/postman/postman2.jpeg)
 
+![AppWeb.jpeg](assets/images/sprint4/AppWeb.jpeg)
+
+![AppWeb_register.jpeg](assets/images/sprint4/AppWeb_register.jpeg)
+
+![AppWeb_Home.jpeg](assets/images/sprint4/AppWeb_Home.jpeg)
+
+![AppWeb_service.jpeg](assets/images/sprint4/AppWeb_service.jpeg)
+
+![AppWeb_plans.jpeg](assets/images/sprint4/AppWeb_plans.jpeg)
+
+![AppWeb_map.jpeg](assets/images/sprint4/AppWeb_map.jpeg)
+
+![AppWeb_Maps.jpeg](assets/images/sprint4/AppWeb_Maps.jpeg)
+
+![AppWeb_ZoomMaps.jpeg](assets/images/sprint4/AppWeb_ZoomMaps.jpeg)
+
+![AppWeb_Markers.jpeg](assets/images/sprint4/AppWeb_Markers.jpeg)
+
+![AppWeb_Universities.jpeg](assets/images/sprint4/AppWeb_Universities.jpeg)
+
+![AppWeb_Reservas.jpeg](assets/images/sprint4/AppWeb_Reservas.jpeg)
+
+![AppWeb_AplicarDescuento.jpeg](assets/images/sprint4/AppWeb_AplicarDescuento.jpeg)
+
+![AppWeb_ConfirmarReserva.jpeg](assets/images/sprint4/AppWeb_ConfirmarReserva.jpeg)
+
+
+
+## 5.2.4.8. Team Collaboration Insights during Sprint.
+
+**Distribución de aportes en el informe:**
+
+URL del repositorio para el Project Report en la organización de GitHub del equipo: [https://github.com/Open-Source-SW53-Group-2/Report](https://github.com/Open-Source-SW53-Group-2/Report)
+
+**¿Cómo se han desarrollado las actividades de elaboración del informe?**
+
+Para el desarrollo del informe en este sprint se distribuyó los capítulos de esta manera:
+
+| Integrante | Aporte en el informe |
+|------------|-----------------------|
+| **Angel**  | Sprint 4, Development Evidence for Sprint Review, Team Collaboration Insights during Sprint |
+| **Samuel** | Sprint planning 4, Deployment Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint |
+| **Franky** | Sprint 4, Development Evidence for Sprint Review, Validation Interviews, Mejora continua en Domain Driven Design Architecture |
+| **Alessandro** | Sprint 4, Development Evidence for Sprint Review, Mejora continua en Domain Driven Design Architecture, Team Collaboration Insights during Sprint |
+| **Joan**   | Sprint 4, Testing Suite Evidence for Sprint Review, Mejora continua en Domain Driven Design Architecture, Team Collaboration Insights during Sprint |
+
+**Evidencia del commit:**
+
+![EvidenceBackEndGitHub.png](assets/images/sprint4/Evidence/EvidenceBackEndGitHub.png)
+
+En este sprint, al igual que en los otros, creamos una rama "developed". Cada miembro del equipo generó su propia sub-rama "feature" desde "developed" para subir su respectivo capítulo del reporte, siguiendo las convenciones establecidas de *conventional commits* y *git flow*.
 
 
 ## [**5.3. Validation Interviews.**](#52-Validation-Interviews.)
