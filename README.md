@@ -3987,6 +3987,10 @@ Repositorio del backend en GitHub:
 ![deploy.jpeg](assets/images/sprint4/deploy/deploy.jpeg)
 
 
+![postman.jpeg](assets/images/sprint4/postman/postman.jpeg)
+
+![postman2.jpeg](assets/images/sprint4/postman/postman2.jpeg)
+
 
 
 ## [**5.3. Validation Interviews.**](#52-Validation-Interviews.)
