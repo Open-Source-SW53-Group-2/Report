@@ -111,6 +111,24 @@ Para el desarrollo de la entrega TP, se opto por dividir el trabajo de la siguie
 
 
 
+
+_TF_
+
+Para el desarrollo de la entrega TP, se opto por dividir el trabajo de la siguiente forma
+
+| Versión      | Fecha      | Autor                               | Descripción                                                |
+|--------------|------------|-------------------------------------|------------------------------------------------------------|
+| #04 - TF    | 17/11/24   | Anampa Lavado, Luis Angel      | Correciones TB2 , Web Aplication, Backend, about the team|
+|              |            |                                     |                                                            |
+|              | 17/11/24   | David Polanco, Alessandro    | Correciones TB2 , Web Aplication, Backend, entrevistas|
+|              |            |                                     |                                                            |
+|              |  17/11/24   | Talizo Balbin, Joan Jefferson           | Correciones TB2 , Web Aplication,  Backend, entrevistas|
+|              |            |                                     |                                                            |
+|              |  17/11/24   | Valera Garcés, Samuel Ignacio     | Correciones TB2 , Web Aplication, Backend, entrevistas |
+|              |            |                                     |                                                            |
+|              | 17/11/24  | Mallma Espiritu Franky Oswald       | Correciones TB2 , Web Aplication,  Backend, entrevistas |
+
+
 # Contenido
 
 - [Contenido](#contenido)
