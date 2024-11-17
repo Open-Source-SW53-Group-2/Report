@@ -3004,12 +3004,11 @@ A continuación se detalla el modelo físico realizado para esta entrega, donde 
 ![Diagrama de la Base de Datos](assets/images/databaseDesign/databasediagram.png)
 
 
-# [**Capítulo V: Product Implementation, Validation \& Deployment.**](#capítulo-v-product-implementation-validation--deployment)
+# [**Capítulo V: Product Implementation, Validation & Deployment.**](#capítulo-v-product-implementation-validation--deployment)
+
 ## [**5.1. Software Configuration Management.**](#software-configuration-management)
 
-En la sección siguiente, se describirán las herramientas, convenciones, referencias y
-onfiguraciones utilizadas durante el desarrollo del proyecto, las cuales ayudaron a
-mantener la coherencia en el trabajo realizado.
+En la sección siguiente, se describirán las herramientas, convenciones, referencias y configuraciones utilizadas durante el desarrollo del proyecto, las cuales ayudaron a mantener la coherencia en el trabajo realizado.
 
 ### [**5.1.1. Software Development Environment Configuration.**](#software-development-environment-configuration)
 
@@ -3019,574 +3018,576 @@ En esta parte, se mencionarán los distintos programas de software que el equipo
 
 **Project Management**
 
+- **Trello**: <https://trello.com/>  
+  La plataforma de Trello se empleó para la gestión de las tareas y la organización del flujo del trabajo en el proyecto. Las tareas se presentaron dentro de tarjetas en listas con el integrante encargado de realizarlas. Además, utilizamos funcionalidades como agregar etiquetas de colores y marcar el proceso de las tareas. De esta manera, pudimos hacer seguimiento a nuestros avances en el proyecto.
 
-
-
-- Trello: <https://trello.com/>
-
-La plataforma de Trello se empleó para la gestión de las tareas y la organización del flujo del trabajo en el proyecto. Presentándose las tareas dentro de las tarjetas en listas con el integrante encargado de realizarla. Además, utilizamos las funcionalidades como agregar las etiquetas de colores y marcar el proceso de las tareas. De esta manera pudimos hacer seguimiento a nuestros avances en el proyecto.
-
-- Notion: <https://www.notion.so/>  
-
-La plataforma de Notion fue utilizada para la colaboración de los integrantes con el proyecto. Se crearon calendarios y listas con las fechas de las reuniones del equipo. Además, se hizo uso de herramientas como comentarios y menciones para fomentar el trabajo y colaboración en equipo.
+- **Notion**: <https://www.notion.so/>  
+  Notion fue utilizado para la colaboración del equipo en el proyecto. Se crearon calendarios y listas con las fechas de las reuniones del equipo. Además, se usaron herramientas como comentarios y menciones para fomentar el trabajo y la colaboración en equipo.
 
 **Requirements Management**
 
-- Trello: <https://trello.com/> 
-
-Empleamos Trello para organizar los requisitos de la aplicación. En el que tenemos al product backlog el cual ordenamos según la prioridad aplicando Fibonacci para enumerar las historias de usuario y en otra sección organizándolas según las épicas.
+- **Trello**: <https://trello.com/>  
+  Trello se empleó para organizar los requisitos de la aplicación. En él se gestionó el product backlog, ordenado según la prioridad aplicando Fibonacci para enumerar las historias de usuario, y en otra sección organizándolas según las épicas.
 
 **Product UX/UI Design**
 
-- Figma: <https://www.figma.com/> 
+- **Figma**: <https://www.figma.com/>  
+  Figma nos ayudó a desarrollar los wireframes, mockups y prototipos de la aplicación móvil.
 
-La plataforma de Figma nos ayudó a desarrollar los wireframes, mockups y prototyping del mobile applications.
+- **Miro**: <https://miro.com/es/>  
+  Miro fue de utilidad para realizar los As-Is Scenario Mapping y To-Be Scenario Mapping para cada uno de los segmentos objetivos.
 
-- Miro: <https://miro.com/es/> 
-
-Miro nos fue de utilidad para poder realizar los As-Is Scenario Mapping y  To-Be Scenraio Mapping para cada uno de los segmentos objetivos.
-
-- UXPressia: <https://uxpressia.com/> 
-
-La plataforma UXPressia se empleó para la creación de los User Personas, Empathy Maps, Journey Maps e Impact Maps. Hemos hecho uso de las plantillas que UXPressia nos ofrece para elaborar cada una de ellas. Nos permitió exportar lo que se realizó para incluirlo en el trabajo.
+- **UXPressia**: <https://uxpressia.com/>  
+  UXPressia se empleó para la creación de User Personas, Empathy Maps, Journey Maps e Impact Maps. Usamos plantillas de UXPressia para elaborar cada una de estas herramientas, permitiendo exportar el trabajo realizado para incluirlo en el proyecto.
 
 **Software Development**
 
+- **Landing Page**  
+  Para el desarrollo de la landing page se utilizaron HTML5, CSS y JavaScript.
 
-
-
-- Landing Page
-
-Para el desarrollo de la landing page se hará empleó de HTML5, CSS y JavaScript.
-
-- Frontend Web Application
-
-Para desarrollar la aplicación web frontend, es esencial tener una comprensión sólida de los fundamentos de HTML, CSS y JavaScript. En nuestro caso, optamos por utilizar Angular como framework de JavaScript. Además, para facilitar la creación de componentes reutilizables y accesibles, decidimos emplear PrimeNG como biblioteca de componentes UI. Nuestro stack tecnológico incluye el uso del lenguaje Java con el framework Spring Boot, junto con HTML, Angular, JavaScript, CSS y una base de datos MySQL.
+- **Frontend Web Application**  
+  Para la aplicación web frontend, se utilizó Angular como framework de JavaScript, junto con PrimeNG para componentes UI reutilizables. El stack tecnológico incluye Java con Spring Boot, HTML, Angular, JavaScript, CSS y una base de datos MySQL.
 
 **Software Testing**
 
-Para las pruebas funcionales del software, tanto como de la Landing page y de la aplicación web, hemos utilizado las herramientas de desarrollo de los navegadores web siguientes: Google Chrome (<https://www.google.com/chrome/>), Microsoft Edge (<https://www.microsoft.com/en-us/edge>) y Mozilla Firefox (<https://www.mozilla.org/en-US/firefox/browsers/>).
+Para las pruebas funcionales de la Landing Page y la aplicación web, se utilizaron herramientas de desarrollo de navegadores web como Google Chrome (<https://www.google.com/chrome/>), Microsoft Edge (<https://www.microsoft.com/en-us/edge>) y Mozilla Firefox (<https://www.mozilla.org/en-US/firefox/browsers/>).
 
 **Software Deployment**
 
-- Netlify: <https://www.netlify.com/> 
-
-Para implementar el despliegue de la Landing Page, se llevó a cabo la conexión entre el repositorio de Github y Netlify. Esto permite que Netlify maneje automáticamente la implementación de la Landing Page cada vez que se realice una actualización en el repositorio.
+- **Netlify**: <https://www.netlify.com/>  
+  Para el despliegue de la Landing Page, se conectó el repositorio de GitHub con Netlify. Esto permitió que Netlify gestionara automáticamente la implementación cada vez que se actualizó el repositorio.
 
 **Software Documentation**
 
-- Google Drive: <https://www.google.com/intl/es-419_pe/drive/> 
+- **Google Drive**: <https://www.google.com/intl/es-419_pe/drive/>  
+  Google Drive se utilizó para crear documentos mediante Google Docs, permitiendo trabajar colaborativamente en los informes de las entregas.
 
-Esta plataforma fue empleada para crear documentos mediante Google Docs, el cual nos permite trabajar de manera colaborativa los informes de las entregas.
+- **Structurizr**: <https://structurizr.com/>  
+  Herramienta empleada para crear diagramas C4 (contexto, contenedor y componentes) utilizando una sintaxis similar a un lenguaje de programación.
 
-- Structurizr: <https://structurizr.com/> 
-
-Herramienta utilizada para la creación de diagramas C4 (diagrama de contexto, diagrama de contenedor y diagrama de componentes). Para elaborar los diagramas fue necesario utilizar una sintaxis parecida a un lenguaje de programación.
-
-- GitHub: <https://github.com/> 
-
-Plataforma empleada tanto como para la creación de la documentación y de la Landing page. Nuestro eligió esta plataforma debido a que nos permite trabajar de manera colaborativa. 
+- **GitHub**: <https://github.com/>  
+  GitHub se usó para la creación de la documentación y la Landing Page, gracias a sus capacidades para el trabajo colaborativo.
 
 ### [**5.1.2. Source Code Management.**](#source-code-management)
 
 La administración y estructuración de las múltiples modificaciones se realizaron mediante la creación de un repositorio en GitHub para el proyecto. Nuestra organización se estructuró de la siguiente manera:
 
-Organización: <https://github.com/Open-Source-SW53-Group-2> 
+**Organización:**  
+<https://github.com/Open-Source-SW53-Group-2>
 
-   Repositorio de la Landing page: <https://github.com/Open-Source-SW53-Group-2/Landing-Page>
+- **Repositorio de la Landing Page:**  
+  <https://github.com/Open-Source-SW53-Group-2/Landing-Page>
 
-   Además, con el objetivo de mejorar el control sobre la creación de ramas y la implementación de cambios en el código fuente, se procedió a utilizar Gitflow. De esta forma, se establecieron 2 ramas principales: main y develop.
+Para mejorar el control sobre la creación de ramas y la implementación de cambios en el código fuente, se utilizó Gitflow. Se establecieron dos ramas principales: `main` y `develop`.
 
 **Ramas principales:**
 
-Rama “main”: En esta rama se almacenan las versiones oficiales de nuestro repositorio para pasarlas a producción.
+- **Rama `main`:**  
+  Contiene las versiones oficiales del repositorio, listas para ser desplegadas en producción.
 
-Rama “develop”: Esta rama se utilizará como punto de integración para las ramas de “feature”. Una vez que el  “head” sea estable y el equipo lo considere listo para el lanzamiento, se fusionará con la rama “release”.
+- **Rama `develop`:**  
+  Funciona como el punto de integración para las ramas de `feature`. Una vez que el `head` de esta rama sea estable y listo para el lanzamiento, se fusionará con la rama `release`.
 
 **Ramas auxiliares:**
 
-Rama “release”: La rama “release” se emplea para la preparación del lanzamiento de una nueva versión en la rama “main” ayudando a controlar las versiones de código. Aquí se pueden solucionar errores menores y preparar los datos para la versión. Esta rama permitirá liberar a la rama “develop” de estas tareas preparatorias y evita demoras en el desarrollo mientras se prepara para el lanzamiento. 
+- **Rama `release`:**  
+  Se utiliza para la preparación del lanzamiento de una nueva versión en la rama `main`. Ayuda a controlar las versiones de código al permitir solucionar errores menores y preparar los datos para la versión final. Esto libera a la rama `develop` de tareas de preparación y evita demoras en el desarrollo mientras se alista el lanzamiento.
 
-   Rama “feature”: En las ramas “feature” se desarrollan las características generales que se integrarán en la rama “develop”. Estas características son aquellas funcionalidades solicitadas por los usuarios tanto en la página de inicio como en la aplicación web. Por ejemplo, la rama feature/navbar.
+- **Rama `feature`:**  
+  En estas ramas se desarrollan las nuevas funcionalidades que luego se integrarán en la rama `develop`. Estas características incluyen funcionalidades solicitadas por los usuarios tanto en la página de inicio como en la aplicación web. Por ejemplo, la rama `feature/navbar`.
 
-Rama “develop”: Esta rama se utiliza para corregir urgentemente errores en la última versión de la rama “main” que no pueden esperar hasta el próximo lanzamiento para ser solucionados.
-
-
-
-
-
-### [**5.1.3. Source Code Style Guide \& Conventions.**](#source-code-style-guide--conventions)
-
-   ●Utilizaremos el lenguaje de etiquetas HTML para el desarrollo principal de nuestra Landing page.
-
-   ●Utilizaremos el lenguaje CSS, que nos permitirá realizar los estilos de la estructura de nuestra Landing Page
-
-   ●Implementaremos el lenguaje de JavaScript para brindar las funcionalidades a nuestra Landing page. 
-
-   ●Utilizaremos el lenguaje Gherkin que se usará para realizar los diseños de prueba de cada historia de usuario, contando con su estructura básica. 
+- **Rama `hotfix`:**  
+  Se utiliza para corregir urgentemente errores en la última versión de la rama `main` que no pueden esperar hasta el próximo lanzamiento para ser solucionados.
 
 
-   **Convenciones de Commits:**
+### [**5.1.3. Source Code Style Guide & Conventions.**](#source-code-style-guide--conventions)
 
-   Nuestro equipo de desarrollo sigue las Convenciones de Commits, adoptando el formato de los “Conventional Commits” en su versión 1.0.0 (disponible en <https://www.conventionalcommits.org/en/v1.0.0/>) para garantizar una fácil comprensión de nuestros registros. Por lo tanto, nos regimos por la siguiente estructura:
+- Utilizaremos el lenguaje de etiquetas **HTML** para el desarrollo principal de nuestra Landing Page.
+- Utilizaremos el lenguaje **CSS** para aplicar los estilos a la estructura de nuestra Landing Page.
+- Implementaremos el lenguaje **JavaScript** para añadir funcionalidades a nuestra Landing Page.
+- Utilizaremos el lenguaje **Gherkin** para diseñar pruebas de cada historia de usuario, siguiendo su estructura básica.
 
-   **Donde:**
+---
 
-   **<type>[scope opcional]: <description>**
+#### **Convenciones de Commits**
 
+Nuestro equipo sigue las **Conventional Commits** en su versión 1.0.0 (disponible en [conventionalcommits.org](https://www.conventionalcommits.org/en/v1.0.0/)) para garantizar claridad y coherencia en los registros. La estructura es la siguiente:
 
+**Formato:**  
+`<type>[scope opcional]: <description>`
 
+- **type:** Indica el tipo de modificación realizada, con opciones como `feat` (nueva funcionalidad), `fix` (corrección de errores), `docs` (documentación), etc.
+- **scope (opcional):** Define el alcance del cambio realizado en el código (e.g., un módulo o componente específico).
+- **description:** Ofrece un resumen conciso de los cambios implementados.
 
-- type: Indica el tipo de modificación realizada, limitado a opciones como feat, fix, docs, etc.
-- scope: Define el alcance del cambio realizado en nuestro código.
-- descripción: Ofrece un resumen conciso de los cambios implementados.
+---
 
-**Convenciones de versionado de lanzamientos**
+#### **Convenciones de Versionado de Lanzamientos**
 
-Para la gestión de versiones, seguimos el estándar “Semantic Versioning 2.0.0”. En este formato las versiones se presentan como (X.Y.Z), con las siguientes interpretaciones: 
+Seguimos el estándar **Semantic Versioning 2.0.0**, en el cual las versiones se presentan como `X.Y.Z`, con las siguientes interpretaciones:
 
-- X: Indica una versión principal que incorpora cambios incompatibles con versiones anteriores. Iniciamos en 0 durante la etapa de desarrollo inicial y transicionamos a 1 cuando la versión esté lista para su lanzamiento público. Por convención, Y y Z se reinician a 0 cuando X aumenta.
-- Y: Representa una versión secundaria, que abarca cambios compatibles con versiones anteriores. Además, esta incluye los commits provenientes de las “release branches” cada vez que se agregan nuevas funcionalidades. Convencionalmente, Z se reinicia a 0 cuando Y aumenta.
-- Z: Refleja parches y correcciones de errores menores, integrando commits realizados en la “rama de corrección” y fusionados con la rama principal.
-### [**5.1.4. Software Deployment Configuration.**](#software-deployment-configuration)    
+- **X (Major):**  
+  Incrementa con cambios incompatibles con versiones anteriores. Comienza en `0` durante el desarrollo inicial y pasa a `1` cuando el proyecto está listo para su lanzamiento público.  
+  _Nota:_ Al aumentar `X`, los valores de `Y` y `Z` se reinician a `0`.
 
-   Entrar a Vercel y presionar la opción de “Import an existing project”
+- **Y (Minor):**  
+  Incrementa con cambios compatibles que agregan nuevas funcionalidades, generalmente provenientes de ramas `release`.  
+  _Nota:_ Al aumentar `Y`, el valor de `Z` se reinicia a `0`.
 
-![importAnExistingProject.001.png](assets/images/softwareDeploymentConfiguration/importAnExistingProject.001.png)
-   
-Después seleccionar la opcion de “Deploy con github”
+- **Z (Patch):**  
+  Incrementa con correcciones de errores menores, integrando commits realizados en ramas de corrección (`hotfix`) que se fusionan con la rama principal.
 
-![deployGithub.002.png](assets/images/softwareDeploymentConfiguration/deployGithub.002.png)
-   
-Tras haber hecho eso tenemos que seleccionar nuestra organización y dentro de ella buscar el repositorio del proyecto que deseamos subir a producción
-
-Para finalmente agregar la data necesaria para el despliegue
-
-Y final solo presionar el botón con el nombre de proyecto a desplegar
+Este enfoque asegura que las versiones del proyecto sean claras y fácilmente interpretables por todos los miembros del equipo y usuarios finales.
 
 
-- Link de la Landing page:[ ](https://echero11.github.io/OpenSource_GasYa_LandingPage/)[**https://landing-page-three-zeta-24.vercel.app/**](https://landing-page-three-zeta-24.vercel.app/)
+### [**5.1.4. Software Deployment Configuration.**](#software-deployment-configuration)
 
-## [**5.2. Landing Page, Services \& Applications Implementation.**](#landing-page-services--applications-implementation)
+Para configurar el despliegue del proyecto, seguimos los pasos detallados a continuación utilizando **Vercel** como plataforma:
+
+1. **Entrar a Vercel y seleccionar la opción "Import an existing project"**  
+   ![importAnExistingProject.001.png](assets/images/softwareDeploymentConfiguration/importAnExistingProject.001.png)
+
+2. **Seleccionar la opción "Deploy with GitHub"**  
+   ![deployGithub.002.png](assets/images/softwareDeploymentConfiguration/deployGithub.002.png)
+
+3. **Seleccionar la organización y el repositorio del proyecto**  
+   Dentro de la organización, buscar y seleccionar el repositorio del proyecto que se desea desplegar en producción.
+
+4. **Agregar la información necesaria para el despliegue**  
+   Proporcionar los datos requeridos por la plataforma, como configuraciones específicas o variables de entorno si es necesario.
+
+5. **Presionar el botón de despliegue**  
+   Finalmente, hacer clic en el botón correspondiente al nombre del proyecto para iniciar el proceso de despliegue.
+
+---
+
+#### **Enlace de la Landing Page:**
+
+[**https://landing-page-with-angular-sigma.vercel.app/home**](https://landing-page-with-angular-sigma.vercel.app/home)
+
+
+## [**5.2. Landing Page, Services & Applications Implementation.**](#landing-page-services--applications-implementation)
+
 ### [**5.2.1. Sprint 1.**](#sprint-1)
 
-En esta sección se registra y explica el avance en términos de producto y trabajo colaborativo para el Sprint 1, enfocado en el desarrollo de la landing page. Se detalla el progreso tangible y funcional de la landing page, incluyendo su diseño, desarrollo y funcionalidades implementadas, así como la colaboración del equipo, los métodos de comunicación utilizados y las herramientas empleadas para garantizar una cooperación efectiva. Incluye secciones sobre la planificación del sprint, el backlog de tareas, evidencia del desarrollo y ejecución, documentación de servicios utilizados y reflexiones sobre la colaboración del equipo, proporcionando una visión completa del progreso alcanzado.
+En esta sección se registra y explica el avance en términos de producto y trabajo colaborativo para el **Sprint 1**, enfocado en el desarrollo de la landing page. Se detalla el progreso tangible y funcional, incluyendo su diseño, desarrollo y funcionalidades implementadas, así como la colaboración del equipo, los métodos de comunicación utilizados y las herramientas empleadas para garantizar una cooperación efectiva. Además, se incluye información sobre la planificación del sprint, el backlog de tareas, evidencia del desarrollo, documentación de servicios utilizados y reflexiones sobre la colaboración del equipo, proporcionando una visión completa del progreso alcanzado.
+
+---
 
 #### [**5.2.1.1. Sprint Planning 1.**](#sprint-planning-1)
 
-En este sprint planning 1 se presenta la evidencia de la planificación e implementación de la landing page. Además, se evidenciaron los avances del proyecto e insights de colaboración en el equipo a través de GitHub.
+En el **Sprint Planning 1**, se presenta evidencia de la planificación e implementación de la landing page, incluyendo avances del proyecto y aprendizajes de colaboración en equipo registrados en **GitHub**.
 
-|**Sprint #**|Sprint 1|
-| :- | :- |
-|**Sprint Planning Background**||
-|**Date**|30 de agosto de 2024|
-|**Time**|22:00 horas (GMT-5)|
-|**Location**|Modalidad remota|
-|**Prepared By**|StudentConnect|
-|**Attendees (to planning meeting)**|Todos los miembros de StudentConnect|
-|**Sprint 0 Review Summary**|Debido a que es el primer sprint, no hay review summary de un sprint anterior|
-|**Sprint 1 Retrospective Summary**|En este Sprint se planea desarrollar el landing page con HTML y CSS3. Previamente, el landing page se diseñó en Figma. El grupo discutió cómo diseñar el landing, implementación de imágenes y todo lo referente a la interfaz. Al finalizar este sprint, el landing page estará desplegado en Netlify y entonces cualquier usuario podrá acceder al landing a través del link.|
-|**Sprint Goal & User Stories**||
-|**Sprint Goal 1**|El goal de este sprint se basa únicamente en el desarrollo y despliegue de la aplicación frontend.|
-|**Sprint Velocity 1**|8|
-|**Sum of Story Points**|36|
+| **Sprint #**                 | Sprint 1                                                                          |
+|------------------------------|-----------------------------------------------------------------------------------|
+| **Sprint Planning Background** |                                                                                   |
+| **Date**                     | 30 de agosto de 2024                                                              |
+| **Time**                     | 22:00 horas (GMT-5)                                                               |
+| **Location**                 | Modalidad remota                                                                  |
+| **Prepared By**              | StudentConnect                                                                    |
+| **Attendees (to planning meeting)** | Todos los miembros de StudentConnect                                            |
+| **Sprint 0 Review Summary**  | Debido a que es el primer sprint, no hay review summary de un sprint anterior.    |
+| **Sprint 1 Retrospective Summary** | En este Sprint se planea desarrollar el landing page con HTML y CSS3. Previamente, el landing page se diseñó en Figma. El grupo discutió cómo diseñar el landing, implementar imágenes y todo lo referente a la interfaz. Al finalizar este sprint, el landing page estará desplegado en Netlify, permitiendo el acceso público al proyecto. |
+| **Sprint Goal & User Stories** |                                                                                   |
+| **Sprint Goal 1**            | El objetivo de este sprint es el desarrollo y despliegue de la aplicación frontend.|
+| **Sprint Velocity 1**        | 8                                                                                 |
+| **Sum of Story Points**      | 36                                                                                |
 
-
+---
 
 
 #### [**5.2.1.2. Sprint Backlog 1.**](#sprint-backlog-1)
 
-   En esta parte mostramos las tareas que se realizaron en este sprint.
+En esta parte mostramos las tareas que se realizaron en este sprint.
 
-   Link del Trello: <https://trello.com/b/4BqoJyJj>
+**Link del Trello:**  
+<https://trello.com/b/4BqoJyJj>
 
-   Vista del Sprint Backlog en Trello
-
+**Vista del Sprint Backlog en Trello:**  
 ![trelloSprint1.png](assets/images/sprint1/trelloSprint1.png)
 
+---
 
-
-| **Sprint #** | **Sprint 1** |  |  |  |  |  |  |
-| :- | :- | :- | :- | :- | :- | :- | :- |
-| **User Story** | **Work-item / Task** |  |  |  |  |  |  |
-| ID | Title | Id | Title | Description | Estimation (hours) | Assigned To | Status (To-do / In-Process / To-Review / Done) |
-| E5-US01 | Barra de navegación en la landing page | T1 | Navbar section | Implementar navbar con botón (redirige a la aplicación) y responsive design | 1h | Joan Talizo | Done |
-| E5-US02 | Dirigirse a la aplicación mediante el landing page | T2 | Button Call to Action | Implementar el button Call to Action del navbar | 0.1h | Joan Talizo | Done |
-| E5-US03 | Sección hero del landing page | T3 | Navbar section responsive | Aplicar diseño responsive a las opciones del navbar | 1h | Joan Talizo | Done |
-| E5-US03 | Sección hero del landing page | T4 | Hero section | Implementar un hero section | 1h | Angel Anampa | Done |
-| E5-US03 | Sección hero del landing page | T5 | Responsive design hero section | Aplicar design responsive al hero section | 1h | Angel Anampa | Done |
-| E5-US03 | Sección hero del landing page | T6 | Product section and items | Implementar Product section y los ítems característicos en orden grid | 1h | Alessandro David | Done |
-| E5-US03 | Sección hero del landing page | T7 | Responsive design Product section | Implementar diseño responsive a Product section | 1h | Alessandro David | Done |
-| E5-US03 | Sección hero del landing page | T8 | Customers section and items | Implementar Customers section y los ítems característicos en orden grid y aplicar animaciones | 1.5h | Joan Talizo | Done |
-| E5-US03 | Sección hero del landing page | T9 | Responsive design Customers section | Implementar diseño responsive a Customers section | 1h | Joan Talizo | Done |
-| E5-US03 | Sección hero del landing page | T10 | Pricing section | Implementar Pricing section y los ítems característicos en orden grid | 1h | Samuel Valera | Done |
-| E5-US03 | Sección hero del landing page | T11 | Responsive design Pricing section | Implementar diseño responsive a Pricing section | 1h | Samuel Valera | Done |
-| E5-US03 | Sección hero del landing page | T12 | Contact section | Implementar Contact section y los ítems característicos en orden grid | 1h | Samuel Valera | Done |
-| E5-US03 | Sección hero del landing page | T13 | Responsive design Contact section | Implementar diseño responsive a Contact section | 1h | Samuel Valera | Done |
-| E5-US03 | Sección hero del landing page | T14 | Footer section | Implementar footer section | 1h | Alessandro David | Done |
-| E5-US03 | Sección hero del landing page | T15 | Social media section | Implementar icons para las redes sociales y también links | 0.5h | Alessandro David | Done |
-| E5-US03 | Sección hero del landing page | T16 | Responsive design footer section | Aplicar diseño responsive | 1h | Angel Anampa | Done |
-| E5-US04 | Versión en español de landing page | T17 | Switch que activa I18n | Button de tipo switch que permite cambiar de idioma a la landing | 0.5h | Angel Anampa | Done |
-
-
-
+| **Sprint #**   | **Sprint 1**                                                                                                                                                                                                                  |     |     |     |     |     |     |
+|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|-----|-----|-----|-----|-----|
+| **User Story**  | **Work-item / Task**                                                                                                                                                                                                         |     |     |     |     |     |     |
+| **ID**         | **Title**                        | **Id** | **Title**                        | **Description**                                                                       | **Estimation (hours)** | **Assigned To**    | **Status (To-do / In-Process / To-Review / Done)** |
+| **E5-US01**     | Barra de navegación en la landing page | **T1** | Navbar section                  | Implementar navbar con botón (redirige a la aplicación) y responsive design           | 1h                    | Joan Talizo        | Done                                              |
+| **E5-US02**     | Dirigirse a la aplicación mediante el landing page | **T2** | Button Call to Action         | Implementar el button Call to Action del navbar                                       | 0.1h                  | Joan Talizo        | Done                                              |
+| **E5-US03**     | Sección hero del landing page   | **T3** | Navbar section responsive       | Aplicar diseño responsive a las opciones del navbar                                   | 1h                    | Joan Talizo        | Done                                              |
+| **E5-US03**     | Sección hero del landing page   | **T4** | Hero section                    | Implementar un hero section                                                          | 1h                    | Angel Anampa       | Done                                              |
+| **E5-US03**     | Sección hero del landing page   | **T5** | Responsive design hero section  | Aplicar design responsive al hero section                                             | 1h                    | Angel Anampa       | Done                                              |
+| **E5-US03**     | Sección hero del landing page   | **T6** | Product section and items       | Implementar Product section y los ítems característicos en orden grid                | 1h                    | Alessandro David   | Done                                              |
+| **E5-US03**     | Sección hero del landing page   | **T7** | Responsive design Product section | Implementar diseño responsive a Product section                                       | 1h                    | Alessandro David   | Done                                              |
+| **E5-US03**     | Sección hero del landing page   | **T8** | Customers section and items     | Implementar Customers section y los ítems característicos en orden grid y aplicar animaciones | 1.5h                  | Joan Talizo        | Done                                              |
+| **E5-US03**     | Sección hero del landing page   | **T9** | Responsive design Customers section | Implementar diseño responsive a Customers section                                     | 1h                    | Joan Talizo        | Done                                              |
+| **E5-US03**     | Sección hero del landing page   | **T10** | Pricing section                | Implementar Pricing section y los ítems característicos en orden grid                | 1h                    | Samuel Valera      | Done                                              |
+| **E5-US03**     | Sección hero del landing page   | **T11** | Responsive design Pricing section | Implementar diseño responsive a Pricing section                                       | 1h                    | Samuel Valera      | Done                                              |
+| **E5-US03**     | Sección hero del landing page   | **T12** | Contact section                | Implementar Contact section y los ítems característicos en orden grid                | 1h                    | Samuel Valera      | Done                                              |
+| **E5-US03**     | Sección hero del landing page   | **T13** | Responsive design Contact section | Implementar diseño responsive a Contact section                                       | 1h                    | Samuel Valera      | Done                                              |
+| **E5-US03**     | Sección hero del landing page   | **T14** | Footer section                 | Implementar footer section                                                           | 1h                    | Alessandro David   | Done                                              |
+| **E5-US03**     | Sección hero del landing page   | **T15** | Social media section            | Implementar icons para las redes sociales y también links                            | 0.5h                  | Alessandro David   | Done                                              |
+| **E5-US03**     | Sección hero del landing page   | **T16** | Responsive design footer section | Aplicar diseño responsive                                                            | 1h                    | Angel Anampa       | Done                                              |
+| **E5-US04**     | Versión en español de landing page | **T17** | Switch que activa I18n         | Button de tipo switch que permite cambiar de idioma a la landing                     | 0.5h                  | Angel Anampa       | Done                                              |
 
 
 #### [**5.2.1.3. Development Evidence for Sprint Review.**](#development-evidence-for-sprint-review)
 
-   En esta sección, se presentan los commits realizados en el repositorio de la landing page en GitHub.Estos commits reflejan el progreso y las mejoras implementadas durante el sprint 1, proporcionando una visión detallada de las actividades de desarrollo y las contribuciones del equipo : <https://github.com/upc-pre-202401-si729-sw51-the-coders/cartunn-landing-page> 
+En esta sección, se presentan los commits realizados en el repositorio de la landing page en GitHub. Estos commits reflejan el progreso y las mejoras implementadas durante el Sprint 1, proporcionando una visión detallada de las actividades de desarrollo y las contribuciones del equipo.
 
-| Repository                                                                                   | Branch | Commit Id                                  | Commit Message                                                                                                                                                         | Commit Message Body | Committed on (Date) |
-|----------------------------------------------------------------------------------------------|--------|--------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|---------------------|
-| [Landing Page](https://github.com/Open-Source-SW53-Group-2/Landing-Page)                    | main   | `85a4580a83496e87b175a9156aa975766a111bc0` | [feat: add feature for contact us](https://github.com/Open-Source-SW53-Group-2/Landing-Page/commit/85a4580a83496e87b175a9156aa975766a111bc0 "feat: add feature for contact us") | -                   | 5 sep, 2024        |
-|                                                                                              |        | `7c08720d286366b3ba29a5e549cc3989e2289315` | [feat: Add section header and footer](https://github.com/Open-Source-SW53-Group-2/Landing-Page/commit/7c08720d286366b3ba29a5e549cc3989e2289315 "feat: Add section header and footer") | -                   | 3 sep, 2024        |
-|                                                                                              |        | `26d2ae5b401080a35c4a334bb85e4960b8613320` | [Added Security & Plans sections](https://github.com/Open-Source-SW53-Group-2/Landing-Page/commit/26d2ae5b401080a35c4a334bb85e4960b8613320 "Added Security & Plans sections")        | -                   | 3 sep, 2024        |
-|                                                                                              |        | `93c310cf2cbc618191efabb2a57ed6982673fd2b` | [feat: add feature for Sponsors](https://github.com/Open-Source-SW53-Group-2/Landing-Page/commit/93c310cf2cbc618191efabb2a57ed6982673fd2b "feat: add feature for Sponsors")           | -                   | 5 sep, 2024        |
-|                                                                                              |        | `25a342d4724b23e717cc53a2da7c6d8d16634e74` | [added the GoUni benefits section from the landing page]                                                                                                                  | -                   | Aug 31, 2024       |
-|                                                                                              |        | `f5dd736d2eef4a7bc4da54b8440d5ba2424af5a1` | [feat: add feature for ourApp & Portals](https://github.com/Open-Source-SW53-Group-2/Landing-Page/commit/f5dd736d2eef4a7bc4da54b8440d5ba2424af5a1 "feat: add feature for ourApp & Portals") | -                   | 5 sep, 2024        |
-|                                                                                              |        | `25a342d4724b23e717cc53a2da7c6d8d16634e74` | [added the GoUni benefits section from the landing page]                                                                                                                  | -                   | Sep 1, 2024        |
-|                                                                                              |        | `e1b3f6e704345ff630756a9b8d9717350d6c6f25` | [added ourTeam section](https://github.com/Open-Source-SW53-Group-2/Landing-Page/commit/e1b3f6e704345ff630756a9b8d9717350d6c6f25 "added ourTeam section")                     | -                   | Sep 1, 2024        |
-|                                                                                              |        | `247984804611109729a44ce0b5a81d9020eda4e5` | [Add "Who We Are" and "Why GoUni?" sections with corresponding content and styles](https://github.com/Open-Source-SW53-Group-2/Landing-Page/commit/247984804611109729a44ce0b5a81d9020eda4e5 "Add \"Who We Are\" and \"Why GoUni?\" sections with corresponding content and styles") | -                   | 5 Sep, 2024        |
+**Repositorio de la Landing Page:**  
+[https://github.com/Open-Source-SW53-Group-2/Landing-Page](https://github.com/Open-Source-SW53-Group-2/Landing-Page)
 
+---
 
+| **Repository**                                                                                 | **Branch** | **Commit Id**                          | **Commit Message**                                                                                                                                                                                                                                                | **Commit Message Body** | **Committed on (Date)** |
+|-------------------------------------------------------------------------------------------------|------------|----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|-------------------------|
+| [Landing Page](https://github.com/Open-Source-SW53-Group-2/Landing-Page)                      | `main`     | `85a4580a83496e87b175a9156aa975766a111bc0` | [feat: add feature for contact us](https://github.com/Open-Source-SW53-Group-2/Landing-Page/commit/85a4580a83496e87b175a9156aa975766a111bc0 "feat: add feature for contact us")                                                                                     | -                       | 5 Sep, 2024            |
+|                                                                                                 |            | `7c08720d286366b3ba29a5e549cc3989e2289315` | [feat: Add section header and footer](https://github.com/Open-Source-SW53-Group-2/Landing-Page/commit/7c08720d286366b3ba29a5e549cc3989e2289315 "feat: Add section header and footer")                                                                             | -                       | 3 Sep, 2024            |
+|                                                                                                 |            | `26d2ae5b401080a35c4a334bb85e4960b8613320` | [Added Security & Plans sections](https://github.com/Open-Source-SW53-Group-2/Landing-Page/commit/26d2ae5b401080a35c4a334bb85e4960b8613320 "Added Security & Plans sections")                                                                                      | -                       | 3 Sep, 2024            |
+|                                                                                                 |            | `93c310cf2cbc618191efabb2a57ed6982673fd2b` | [feat: add feature for Sponsors](https://github.com/Open-Source-SW53-Group-2/Landing-Page/commit/93c310cf2cbc618191efabb2a57ed6982673fd2b "feat: add feature for Sponsors")                                                                                         | -                       | 5 Sep, 2024            |
+|                                                                                                 |            | `25a342d4724b23e717cc53a2da7c6d8d16634e74` | [added the GoUni benefits section from the landing page](https://github.com/Open-Source-SW53-Group-2/Landing-Page/commit/25a342d4724b23e717cc53a2da7c6d8d16634e74 "added the GoUni benefits section from the landing page")                                       | -                       | 31 Aug, 2024           |
+|                                                                                                 |            | `f5dd736d2eef4a7bc4da54b8440d5ba2424af5a1` | [feat: add feature for ourApp & Portals](https://github.com/Open-Source-SW53-Group-2/Landing-Page/commit/f5dd736d2eef4a7bc4da54b8440d5ba2424af5a1 "feat: add feature for ourApp & Portals")                                                                        | -                       | 5 Sep, 2024            |
+|                                                                                                 |            | `e1b3f6e704345ff630756a9b8d9717350d6c6f25` | [added ourTeam section](https://github.com/Open-Source-SW53-Group-2/Landing-Page/commit/e1b3f6e704345ff630756a9b8d9717350d6c6f25 "added ourTeam section")                                                                                                         | -                       | 1 Sep, 2024            |
+|                                                                                                 |            | `247984804611109729a44ce0b5a81d9020eda4e5` | [Add "Who We Are" and "Why GoUni?" sections with corresponding content and styles](https://github.com/Open-Source-SW53-Group-2/Landing-Page/commit/247984804611109729a44ce0b5a81d9020eda4e5 "Add \"Who We Are\" and \"Why GoUni?\" sections with corresponding content and styles") | -                       | 5 Sep, 2024            |
 
-
-
+---
 
 #### [**5.2.1.4. Testing Suite Evidence for Sprint Review.**](#testing-suite-evidence-for-sprint-review)
 
-   En este sprint, se han incorporado pruebas de aceptación escritas en Gherkin, asegurando que los requisitos del usuario se validen de manera efectiva. A continuación, se proporciona el enlace al repositorio de las pruebas de aceptación, donde se puede encontrar una descripción detallada de los escenarios de prueba y su implementación:
+En este sprint, se han incorporado pruebas de aceptación escritas en **Gherkin**, asegurando que los requisitos del usuario se validen de manera efectiva. A continuación, se proporciona el enlace al repositorio de las pruebas de aceptación, donde se encuentra una descripción detallada de los escenarios de prueba y su implementación:
 
-   <https://github.com/Open-Source-SW53-Group-2/studentconnect-acceptance-test>
+**Repositorio de pruebas de aceptación:**  
+[https://github.com/Open-Source-SW53-Group-2/studentconnect-acceptance-test](https://github.com/Open-Source-SW53-Group-2/studentconnect-acceptance-test)
 
-| Repository                                                                                   | Branch | Commit Id                                  | Commit Message                                                                                                                                                              | Commit Message Body | Commited on (Date) |
-|----------------------------------------------------------------------------------------------|--------|--------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|--------------------|
-| [Student Connect Acceptance Test](https://github.com/Open-Source-SW53-Group-2/studentconnect-acceptance-test) | main   | `109397e2e2a2361e101ec1a4250ff2c4041f4eb5` | [feat: Add acceptance test](https://github.com/Open-Source-SW53-Group-2/studentconnect-acceptance-test/commit/109397e2e2a2361e101ec1a4250ff2c4041f4eb5 "feat: Add acceptance test") | -                   | 05 sep, 2024      |
-|                                                                                              |        | `b38f24bb4f70ae31ffdfc21e47149af91c033fd8` | [chore: add AT02.feature file](https://github.com/upc-pre-202401-si729-sw51-the-coders/upc-pre202401-si729-sw51-the-coders-acceptance-tests/commit/a571cd6c5c30a97bdf55086df2256f8e543ce0bd) | -                   | 05 sep, 2024      |
-|                                                                                              |        | `2822407798d69e79059a55296cdd82b14257381e` | [chore: add AT03.feature file](https://github.com/upc-pre-202401-si729-sw51-the-coders/upc-pre202401-si729-sw51-the-coders-acceptance-tests/commit/a571cd6c5c30a97bdf55086df2256f8e543ce0bd) | -                   | 05 sep, 2024      |
-|                                                                                              |        | `e62e30e01e229f7dfda1939f96278bf7d1a6ec16` | [chore: add AT04.feature file](https://github.com/upc-pre-202401-si729-sw51-the-coders/upc-pre202401-si729-sw51-the-coders-acceptance-tests/commit/a571cd6c5c30a97bdf55086df2256f8e543ce0bd) | -                   | 05 sep, 2024      |
-|                                                                                              |        | `26897e7664a9f74ac2109178c74c8835f4081031` | [chore: add AT5.feature file](https://github.com/upc-pre-202401-si729-sw51-the-coders/upc-pre202401-si729-sw51-the-coders-acceptance-tests/commit/a571cd6c5c30a97bdf55086df2256f8e543ce0bd) | -                   | 05 sep, 2024      |
+---
 
+| **Repository**                                                                                | **Branch** | **Commit Id**                          | **Commit Message**                                                                                                                                                                    | **Commit Message Body** | **Committed on (Date)** |
+|----------------------------------------------------------------------------------------------|------------|----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|-------------------------|
+| [Student Connect Acceptance Test](https://github.com/Open-Source-SW53-Group-2/studentconnect-acceptance-test) | `main`     | `109397e2e2a2361e101ec1a4250ff2c4041f4eb5` | [feat: Add acceptance test](https://github.com/Open-Source-SW53-Group-2/studentconnect-acceptance-test/commit/109397e2e2a2361e101ec1a4250ff2c4041f4eb5 "feat: Add acceptance test")       | -                       | 05 Sep, 2024           |
+|                                                                                              |            | `b38f24bb4f70ae31ffdfc21e47149af91c033fd8` | [chore: add AT02.feature file](https://github.com/upc-pre-202401-si729-sw51-the-coders/upc-pre202401-si729-sw51-the-coders-acceptance-tests/commit/a571cd6c5c30a97bdf55086df2256f8e543ce0bd) | -                       | 05 Sep, 2024           |
+|                                                                                              |            | `2822407798d69e79059a55296cdd82b14257381e` | [chore: add AT03.feature file](https://github.com/upc-pre-202401-si729-sw51-the-coders/upc-pre202401-si729-sw51-the-coders-acceptance-tests/commit/a571cd6c5c30a97bdf55086df2256f8e543ce0bd) | -                       | 05 Sep, 2024           |
+|                                                                                              |            | `e62e30e01e229f7dfda1939f96278bf7d1a6ec16` | [chore: add AT04.feature file](https://github.com/upc-pre-202401-si729-sw51-the-coders/upc-pre202401-si729-sw51-the-coders-acceptance-tests/commit/a571cd6c5c30a97bdf55086df2256f8e543ce0bd) | -                       | 05 Sep, 2024           |
+|                                                                                              |            | `26897e7664a9f74ac2109178c74c8835f4081031` | [chore: add AT5.feature file](https://github.com/upc-pre-202401-si729-sw51-the-coders/upc-pre202401-si729-sw51-the-coders-acceptance-tests/commit/a571cd6c5c30a97bdf55086df2256f8e543ce0bd) | -                       | 05 Sep, 2024           |
 
-
-
-
+---
 
 #### [**5.2.1.5. Execution Evidence for Sprint Review.**](#execution-evidence-for-sprint-review)
 
-   En este sprint logramos como primera fase de nuestro producto final  desarrollar nuestra landing page usando HTML y CSS, teniendo en cuenta también el desarrollo responsive para dispositivos tanto android como IOS y su respectivo despliegue en el Netlify. 
+En este sprint logramos, como primera fase de nuestro producto final, desarrollar nuestra landing page usando HTML y CSS. También se implementó un diseño responsive para dispositivos Android e iOS, y su respectivo despliegue se realizó en **Netlify**.
 
 ![executionEvidence.png](assets/images/sprint1/executionEvidence.png)
+
+---
 
 #### [**5.2.1.6. Services Documentation Evidence for Sprint Review.**](#services-documentation-evidence-for-sprint-review)
 
-   En el alcance del sprint 1 se logró desarrollar la landing page, por lo que no se evidencia el empleo de web services.
+En el alcance del Sprint 1 se logró desarrollar la landing page, por lo que no se evidencia el empleo de web services.
 
-
-
+---
 
 #### [**5.2.1.7. Software Deployment Evidence for Sprint Review.**](#software-deployment-evidence-for-sprint-review)
 
-   Durante el primer sprint, desarrollamos la landing page del proyecto. El despliegue de esta página lo llevó a cabo uno de nuestros integrantes(Abraham), ya que el proceso no tomaba más de 5 minutos. Utilizamos la plataforma de Netlify para el despliegue, lo cual implicó crear una cuenta e iniciar sesión en dicha plataforma. Antes de proceder con el despliegue, realizamos varias pruebas en la rama "develop" para asegurarnos de que no surgieran problemas al desplegar la rama "main".
+Durante el primer sprint, desarrollamos y desplegamos la landing page del proyecto. El despliegue lo llevó a cabo uno de nuestros integrantes (Abraham), ya que el proceso no tomaba más de cinco minutos. Utilizamos **Netlify** como plataforma de despliegue, realizando varias pruebas en la rama "develop" antes de proceder con la rama "main".
 
+**Pasos para el despliegue:**
 
-   **Pasos para este sprint:**
+1. Creación de cuenta en **Netlify**.
+2. Selección de la opción "Add new website" para elegir el proyecto a desplegar.
 
-1. Creación de cuenta en vercel
-2. 
-![executionEvidence.png](assets/images/sprint1/executionEvidence.png)
+   ![addNewWebsite.jpeg](assets/images/sprint1/addNewWebsite.jpeg)
 
-2. Selección de  la opción de “add new website” para elegir el proyecto que queremos deplegar
+3. Selección de la rama "main" y clic en el botón "Deploy".
 
-![addNewWebsite.jpeg](assets/images/sprint1/addNewWebsite.jpeg)
+   ![deploy.jpeg](assets/images/sprint1/deploy.jpeg)
 
-3. Finalmente, elegimos nuestra rama a desplegar y hacemos click en “Desploy”
-
-![deploy.jpeg](assets/images/sprint1/deploy.jpeg)
+---
 
 #### [**5.2.1.8. Team Collaboration Insights during Sprint.**](#team-collaboration-insights-during-sprint)
 
-   `		`**Distribución de aportes en el informe:**
+**Distribución de aportes en el informe:**  
+El desarrollo del informe se organizó dividiendo el repositorio por capítulos. Cada integrante realizó aportes específicos, distribuidos como se muestra en la siguiente tabla y las capturas incluidas.
 
-   **URL del repositorio para el Project Report en la organización de GitHub del equipo:**
-
-   <https://github.com/Open-Source-SW53-Group-2/Report>
-
-   **¿Cómo se han desarrollado las actividades de elaboración del informe?**
-
-   Para el desarrollo del informe en este sprint optamos por dividir el repositorio del informe por capítulos y cada integrante realizó los siguientes aportes representados en la siguiente tabla y la siguiente captura:
-
-![mainDistribution.png](assets/images/sprint1/mainDistribution.png)
+**URL del repositorio para el Project Report:**  
+<https://github.com/Open-Source-SW53-Group-2/Report>
 
 | **Integrante** | **Aporte en el informe** |
-| :- |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Joan** | <p>Startup Profile, Descripción de la Startup, Solution Profile, Antecedentes y problemática, Lean UX Process, Lean UX Problem Statements, Lean UX Assumptions, Segmentos objetivo, User Stories, Organization Systems, Labeling Systems, SEO Tags and Meta Tags, Searching Systems, Navigation Systems, Landing Page Wireframe, Web Applications Wireframes, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Class Diagrams, Class Dictionary, Database Diagram, Development Evidence for Sprint Review.</p><p>![chapter1.png](assets/images/sprint1/chapter1.png)</p> |
-| **Franky** | Competidores, Análisis competitivo, Estrategias frente a competidores, Product backlog, Style guidelines, Web style guidelines, Information architecture, Landing page UI design, Landing page mockup, Web applications mockup, Software deployment configuration, Development Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review. ![chapter2.png](assets/images/sprint1/chapter2.png) |
-| **Angel** | <p>User task matrix, User journey mapping, As-is scenario mapping, To-be scenario mapping, Wireflow diagrams, Diseño de entrevistas, Análisis de entrevistas, DDD architecture.</p><p>![userTaskMatrix.png](assets/images/sprint1/userTaskMatrix.png)</p> |
-| **Samuel** | <p>Registro de entrevistas, Análisis de entrevistas, Software deployment configuration, Development Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review.</p><p>![ubiquitusLanguage.png](assets/images/sprint1/ubiquitusLanguage.png)</p> |
-| **Alessandro** | <p>Lean UX Hypothesis Statements, Lean UX Canvas, Diseño de entrevistas, User Personas, Empathy Mapping, Impact Mapping, Domain-Driven Software Architecture, Software Development Environment Configuration, Source Code Management, Source Code Style Guide & Conventions.</p><p>![hypothesisStatements.png](assets/images/sprint1/hypothesisStatements.png)</p> |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Joan**       | Startup Profile, Descripción de la Startup, Solution Profile, Antecedentes y problemática, Lean UX Process, Lean UX Problem Statements, Lean UX Assumptions, Segmentos objetivo, User Stories, Organization Systems, Labeling Systems, SEO Tags and Meta Tags, Searching Systems, Navigation Systems, Landing Page Wireframe, Web Applications Wireframes, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Class Diagrams, Class Dictionary, Database Diagram, Development Evidence for Sprint Review. ![chapter1.png](assets/images/sprint1/chapter1.png) |
+| **Franky**     | Competidores, Análisis competitivo, Estrategias frente a competidores, Product backlog, Style guidelines, Web style guidelines, Information architecture, Landing page UI design, Landing page mockup, Web applications mockup, Software deployment configuration, Development Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review. ![chapter2.png](assets/images/sprint1/chapter2.png) |
+| **Angel**      | User task matrix, User journey mapping, As-is scenario mapping, To-be scenario mapping, Wireflow diagrams, Diseño de entrevistas, Análisis de entrevistas, DDD architecture. ![userTaskMatrix.png](assets/images/sprint1/userTaskMatrix.png) |
+| **Samuel**     | Registro de entrevistas, Análisis de entrevistas, Software deployment configuration, Development Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review. ![ubiquitusLanguage.png](assets/images/sprint1/ubiquitusLanguage.png) |
+| **Alessandro** | Lean UX Hypothesis Statements, Lean UX Canvas, Diseño de entrevistas, User Personas, Empathy Mapping, Impact Mapping, Domain-Driven Software Architecture, Software Development Environment Configuration, Source Code Management, Source Code Style Guide & Conventions. ![hypothesisStatements.png](assets/images/sprint1/hypothesisStatements.png) |
 
-
-   **Evidencia de los commit:**
+**Evidencia de los commits:**
 
 ![commitEvidence.png](assets/images/sprint1/commitEvidence.png)
 
-   Durante este sprint para proteger la rama “main” creamos una rama “develop” de la que cada integrante de nuestro grupo creó su propia sub-rama “feature“ para subir un capítulo del reporte siguiendo las convenciones antes señaladas(conventional commit y git flow).
+Durante este sprint, para proteger la rama "main", creamos una rama "develop". Cada integrante creó una sub-rama "feature" para subir un capítulo del informe siguiendo las convenciones establecidas (**Conventional Commits** y **GitFlow**).
 
-
-**Github analytics de nuestro primer sprint:**
+**GitHub Analytics del Sprint 1:**
 
 ![githubAnalyticsSprint.png](assets/images/sprint1/githubAnalyticsSprint.png)
 
-En esta sección se registra y explica el avance en términos de producto y trabajo colaborativo para el Sprint 2, enfocado en el desarrollo de la aplicación web. Se detalla el progreso tangible y funcional de la aplicación, incluyendo su diseño, desarrollo y funcionalidades implementadas, así como la colaboración del equipo, los métodos de comunicación utilizados y las herramientas empleadas para garantizar una cooperación efectiva. Incluye secciones sobre la planificación del sprint, el backlog de tareas, evidencia del desarrollo y ejecución, documentación de servicios utilizados y reflexiones sobre la colaboración del equipo, proporcionando una visión completa del progreso alcanzado.
+---
 
 ### [5.2.2. Sprint 2](#524-sprint-2)
+
 #### [5.2.2.1. Sprint Planning 2](#5241-sprint-planning-2)
-En este sprint planning 2 se presenta la evidencia de la planificación y desarrollo de la aplicación web. Además, se evidenciaron los avances del proyecto e insights de colaboración en el equipo a través de GitHub.
 
-|**Sprint #**|Sprint 2|
-| :- | :- |
-|**Sprint Planning Background**||
-|**Date**|21 de septiembre de 2024|
-|**Time**|22:00 horas (GMT-5)|
-|**Location**|Modalidad remota|
-|**Prepared By**|StudentConnect|
-|**Attendees (to planning meeting)**|Todos los miembros de StudentConnect|
-|**Sprint 2 Review Summary**|<p>Corregir: </p><p>- Problem Statement</p><p>- Product Backlog </p><p>- Sprint Backlog 1</p><p>- Student outcome</p><p>- Landing Page (Angular)</p>|
-|**Sprint 2 Retrospective Summary**|En este Sprint se planea desarrollar la aplicación web con Angular y Angular Material. Previamente a su respectivo diseñó en Figma. El grupo discutió que mockups haría de la landing para crear su respectiva rama que después se uniría al main branch. Al finalizar este sprint, la  landing page y la aplicación web estará desplegada y entonces cualquier usuario podrá acceder a través de su dominio.|
-|**Sprint Goal & User Stories**||
-|**Sprint Goal 2**|El goal de este sprint se basa en el desarrollo y despliegue de la aplicación frontend.|
-|**Sprint Velocity 2**|5|
-|**Sum of Story Points**|36|
+En este **Sprint Planning 2**, se presenta la evidencia de la planificación y desarrollo de la aplicación web. Además, se documentan los avances del proyecto y los insights de colaboración del equipo registrados en **GitHub**.
 
+---
 
-#### [5.2.2.2. Sprint Backlog 4](#5242-sprint-backlog-2)
+| **Sprint #**                 | Sprint 2                                                                          |
+|------------------------------|-----------------------------------------------------------------------------------|
+| **Sprint Planning Background** |                                                                                   |
+| **Date**                     | 21 de septiembre de 2024                                                          |
+| **Time**                     | 22:00 horas (GMT-5)                                                               |
+| **Location**                 | Modalidad remota                                                                  |
+| **Prepared By**              | StudentConnect                                                                    |
+| **Attendees (to planning meeting)** | Todos los miembros de StudentConnect                                            |
+| **Sprint 2 Review Summary**  | - Corregir:                                                                      |
+|                              |   - Problem Statement                                                            |
+|                              |   - Product Backlog                                                              |
+|                              |   - Sprint Backlog 1                                                             |
+|                              |   - Student Outcome                                                              |
+|                              |   - Landing Page (Angular)                                                       |
+| **Sprint 2 Retrospective Summary** | En este Sprint se planea desarrollar la aplicación web con Angular y Angular Material. Previamente, se diseñó en Figma. El grupo discutió los mockups necesarios para la landing, organizando su creación en ramas específicas que se unirán posteriormente al `main` branch. Al finalizar este sprint, tanto la landing page como la aplicación web estarán desplegadas, permitiendo acceso a través de un dominio definido. |
+| **Sprint Goal & User Stories** |                                                                                   |
+| **Sprint Goal 2**            | El objetivo de este sprint se basa en el desarrollo y despliegue de la aplicación frontend. |
+| **Sprint Velocity 2**        | 5                                                                                 |
+| **Sum of Story Points**      | 36                                                                                |
+
+---
+
+#### [5.2.2.2. Sprint Backlog 2](#5242-sprint-backlog-2)
 
 En esta parte mostramos las tareas que se realizaron en este sprint.
 
-Link del Trello: <https://trello.com/b/sGfIxRuD/studentconnect-sprint-2>
+**Link del Trello:**  
+<https://trello.com/b/sGfIxRuD/studentconnect-sprint-2>
 
-Vista del Sprint Backlog 2 en Trello:
-
+**Vista del Sprint Backlog 2 en Trello:**  
 ![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.001.png)
 
+---
 
-|**Sprint #**|**Sprint 2**|||||||
-| :- | :- | :- | :- | :- | :- | :- | :- |
-|**User Story**|**Work-item / Task**|||||||
-|ID|Title|Id|Title|Description|Estimation(hours)|Assigned To|Status (To-do/in-Process/To-Review/Done)|
-|**E3-US01**|<p></p><p>Registro de usuario</p><p></p>|<p>T1</p><p></p>|Interfaz de usuario del inicio de registro de cuentas|Implementar interfaz de los formularios para el registro de cuentas |5|Samuel|Done|
-|**E2-US02**|Inicio de sesión|T2|Interfaz de usuario de inicio de sesión|Implementar interfaz de formularios para el inicio de sesión de las cuentas de ambos segmentos como cliente y staff|2|Joan|Done|
-|**E3-US02**|Búsqueda de Viaje Disponible|T3|Interfaz de usuario de búsqueda de viajes|Implementar interfaz para buscar sede de viaje|1|Angel|Done|
-|**E3-US01**|Reserva de Viaje|T4|Interfaz de reserva |Implementar la vista de reserva y pago de viaje|2|Alessandro|Done|
-|**E3-US04**|Comunicación con el Conductor|T5|Interfaz de usuario para hablar con el conductor|Implementar interfaz para comunicación mediante chat |8|Franky Mallma|Done|
-|**E3-U06**|Calificación y Comentario del Conductor|T6|Interfaz de usuario para calificar viaje|Implementar interfaz para comentar y calificar mediante estrellas el viaje realizado|3|Alessandro|Done|
-|<p></p><p>**E3-U06**</p><p></p>|<p></p><p>Gestión de reservas</p><p></p>|T7|Interfaz del usuario principal para poder ver todas las reservas|Implementar interfaz para la sección de reservas mostrando cada una en una lista|4|Joan|Done|
-|E4-01|Visualizar planes de servicio|T8|Interfaz para ver los planes|Implementar interfaz para la variedad de planes del servicio|1|Samuel|Done|
-|<p>E4-US03</p><p></p><p></p>|Realizar el pago del plan seleccionado|T9|Interfaz de pago|Implementar la interfaz para el ingreso de detalles de pago|5|Samuel|Done|
-|E5-US01|Barra de navegación en la landing page|T10|Interfaz de landing page|Implementar la barra de navegación con enlaces y botones en el navbar|1|Franky|Done|
-|E5-US02|Dirigirse a la aplicación mediante la landing page|T11|Interfaz de la aplicacion|Implementar botón “Open app” que redirija a la aplicación|2|Joan|Done|
-|E5-US03|Sección hero del landing page|t12|Section hero en landing page|Implementar la sección hero de la landing con presentación de la app|3|Angel|Done|
-|<p>E5-US04</p><p></p>|Versión en español de la landing page|T 12|Boton ingles a español en landing|Implementar la opción para cambiar el idioma a español en la landing page|4|Alessandro|Done|
-|E5-US05|Sección about the product y about the team|<p>T</p><p>13</p>|Interfaz de seccion about product y team|Implementar sección about the product y about the team con acceso desde el navbar|5|Franky|Done|
+| **Sprint #**                 | **Sprint 2**                           |     |     |     |     |     |     |
+|------------------------------|-----------------------------------------|-----|-----|-----|-----|-----|-----|
+| **User Story**               | **Work-item / Task**                   |     |     |     |     |     |     |
+| **ID**                       | **Title**                              | **Id** | **Title** | **Description** | **Estimation (hours)** | **Assigned To** | **Status (To-do/in-Process/To-Review/Done)** |
+| **E3-US01**                  | Registro de usuario                    | T1  | Interfaz de usuario del inicio de registro de cuentas | Implementar interfaz de los formularios para el registro de cuentas | 5 | Samuel | Done |
+| **E2-US02**                  | Inicio de sesión                       | T2  | Interfaz de usuario de inicio de sesión | Implementar interfaz de formularios para el inicio de sesión de las cuentas de ambos segmentos como cliente y staff | 2 | Joan | Done |
+| **E3-US02**                  | Búsqueda de Viaje Disponible           | T3  | Interfaz de usuario de búsqueda de viajes | Implementar interfaz para buscar sede de viaje | 1 | Angel | Done |
+| **E3-US01**                  | Reserva de Viaje                       | T4  | Interfaz de reserva | Implementar la vista de reserva y pago de viaje | 2 | Alessandro | Done |
+| **E3-US04**                  | Comunicación con el Conductor          | T5  | Interfaz de usuario para hablar con el conductor | Implementar interfaz para comunicación mediante chat | 8 | Franky Mallma | Done |
+| **E3-U06**                   | Calificación y Comentario del Conductor | T6  | Interfaz de usuario para calificar viaje | Implementar interfaz para comentar y calificar mediante estrellas el viaje realizado | 3 | Alessandro | Done |
+| **E3-U06**                   | Gestión de reservas                    | T7  | Interfaz del usuario principal para poder ver todas las reservas | Implementar interfaz para la sección de reservas mostrando cada una en una lista | 4 | Joan | Done |
+| **E4-01**                    | Visualizar planes de servicio          | T8  | Interfaz para ver los planes | Implementar interfaz para la variedad de planes del servicio | 1 | Samuel | Done |
+| **E4-US03**                  | Realizar el pago del plan seleccionado | T9  | Interfaz de pago | Implementar la interfaz para el ingreso de detalles de pago | 5 | Samuel | Done |
+| **E5-US01**                  | Barra de navegación en la landing page | T10 | Interfaz de landing page | Implementar la barra de navegación con enlaces y botones en el navbar | 1 | Franky | Done |
+| **E5-US02**                  | Dirigirse a la aplicación mediante la landing page | T11 | Interfaz de la aplicación | Implementar botón “Open app” que redirija a la aplicación | 2 | Joan | Done |
+| **E5-US03**                  | Sección hero del landing page          | T12 | Section hero en landing page | Implementar la sección hero de la landing con presentación de la app | 3 | Angel | Done |
+| **E5-US04**                  | Versión en español de la landing page  | T12 | Botón inglés a español en landing | Implementar la opción para cambiar el idioma a español en la landing page | 4 | Alessandro | Done |
+| **E5-US05**                  | Sección about the product y about the team | T13 | Interfaz de sección about product y team | Implementar sección about the product y about the team con acceso desde el navbar | 5 | Franky | Done |
 
+---
 
 #### [5.2.2.3. Development Evidence for Sprint Review](#5243-development-evidence-for-sprint-review)
 
-En esta sección, se presentan los commits realizados en el repositorio de la landing page en GitHub. Estos commits reflejan el progreso y las mejoras implementadas durante el sprint 2, proporcionando una visión detallada de las actividades de desarrollo y las contribuciones del equipo: [GitHub Repository](https://github.com/upc-pre-202401-si729-sw51-the-coders/cartunn-frontend)
+En esta sección, se presentan los commits realizados en el repositorio de la aplicación web en GitHub. Estos commits reflejan el progreso y las mejoras implementadas durante el **Sprint 2**, proporcionando una visión detallada de las actividades de desarrollo y las contribuciones del equipo.
 
-| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
-|------------|--------|-----------|----------------|---------------------|--------------------|
-| [https://github.com/Open-Source-SW53-Group-2/frontend](https://github.com/Open-Source-SW53-Group-2/frontend) | main | 68d1bab16daa527212f0c68647ef3a786a1f4bcf | [feat: add ngx-translate and json-server setup](https://github.com/Open-Source-SW53-Group-2/frontend/commit/be23d864e0d71829fd1f86d3796b5a5e2c898169) | - | Sep 21, 2024 |
-| [https://github.com/Open-Source-SW53-Group-2/frontend](https://github.com/Open-Source-SW53-Group-2/frontend) | main | 26f76f6efce5f075919009adf09b06de78d39d35 | [feat: chat design added](https://github.com/Open-Source-SW53-Group-2/frontend/commit/26f76f6efce5f075919009adf09b06de78d39d35) | - | Sep 19, 2024 |
-| [https://github.com/Open-Source-SW53-Group-2/frontend](https://github.com/Open-Source-SW53-Group-2/frontend) | main | 8f3e5884b1b5fb85f68681e3ccd60a74e8f0d9fc | [feat: add the booking page](https://github.com/Open-Source-SW53-Group-2/frontend/commit/8f3e5884b1b5fb85f68681e3ccd60a74e8f0d9fc) | - | Sep 21, 2024 |
-| [https://github.com/Open-Source-SW53-Group-2/frontend](https://github.com/Open-Source-SW53-Group-2/frontend) | main | a99f47b10ec390c67c3b6fdcdf59cffbdd802ca1 | [feat: add the confirmation of reservations view](https://github.com/Open-Source-SW53-Group-2/frontend/commit/a99f47b10ec390c67c3b6fdcdf59cffbdd802ca1) | - | Sep 21, 2024 |
-| [https://github.com/Open-Source-SW53-Group-2/frontend](https://github.com/Open-Source-SW53-Group-2/frontend) | main | fcac0fb1cea64c6fb811f80b926b39a3a95a31ab | [feat: added home](https://github.com/Open-Source-SW53-Group-2/frontend/commit/fcac0fb1cea64c6fb811f80b926b39a3a95a31ab) | - | Sep 21, 2024 |
-| [https://github.com/Open-Source-SW53-Group-2/frontend](https://github.com/Open-Source-SW53-Group-2/frontend) | main | 90c3523b69cc0ceac99758bf6314d955b398b2a1 | [feat: updated added section plans](https://github.com/Open-Source-SW53-Group-2/frontend/commit/90c3523b69cc0ceac99758bf6314d955b398b2a1) | - | Sep 21, 2024 |
-| [https://github.com/Open-Source-SW53-Group-2/frontend](https://github.com/Open-Source-SW53-Group-2/frontend) | main | 96b276d86b0f28ba580cee87708a36cc1310b6b9 | [feat: Add destination cards, adjust layout and pagination, improve button styles](https://github.com/Open-Source-SW53-Group-2/frontend/commit/96b276d86b0f28ba580cee87708a36cc1310b6b9) | - | Sep 20, 2024 |
-| [https://github.com/Open-Source-SW53-Group-2/frontend](https://github.com/Open-Source-SW53-Group-2/frontend) | main | 5d2191b97f74fccbb08bb1714541ea98afc48bfd | [feat: added routes and components for maps](https://github.com/Open-Source-SW53-Group-2/frontend/commit/5d2191b97f74fccbb08bb1714541ea98afc48bfd) | - | Sep 23, 2024 |
-| [https://github.com/Open-Source-SW53-Group-2/frontend](https://github.com/Open-Source-SW53-Group-2/frontend) | main | 109595daf03c55364c2be18433f1d0776ef59b6d | [feat: login&register design added](https://github.com/Open-Source-SW53-Group-2/frontend/commit/109595daf03c55364c2be18433f1d0776ef59b6d) | - | Apr 28, 2024 |
+**Repositorio:**  
+[GitHub Repository](https://github.com/Open-Source-SW53-Group-2/frontend)
 
+---
+
+| **Repository**                                                                                | **Branch** | **Commit Id**                         | **Commit Message**                                                                                                                                                          | **Commit Message Body** | **Committed on (Date)** |
+|------------------------------------------------------------------------------------------------|------------|---------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|--------------------------|
+| [Frontend](https://github.com/Open-Source-SW53-Group-2/frontend)                             | `main`     | `68d1bab16daa527212f0c68647ef3a786a1f4bcf` | [feat: add ngx-translate and json-server setup](https://github.com/Open-Source-SW53-Group-2/frontend/commit/be23d864e0d71829fd1f86d3796b5a5e2c898169)                       | -                       | Sep 21, 2024            |
+| [Frontend](https://github.com/Open-Source-SW53-Group-2/frontend)                             | `main`     | `26f76f6efce5f075919009adf09b06de78d39d35` | [feat: chat design added](https://github.com/Open-Source-SW53-Group-2/frontend/commit/26f76f6efce5f075919009adf09b06de78d39d35)                                             | -                       | Sep 19, 2024            |
+| [Frontend](https://github.com/Open-Source-SW53-Group-2/frontend)                             | `main`     | `8f3e5884b1b5fb85f68681e3ccd60a74e8f0d9fc` | [feat: add the booking page](https://github.com/Open-Source-SW53-Group-2/frontend/commit/8f3e5884b1b5fb85f68681e3ccd60a74e8f0d9fc)                                          | -                       | Sep 21, 2024            |
+| [Frontend](https://github.com/Open-Source-SW53-Group-2/frontend)                             | `main`     | `a99f47b10ec390c67c3b6fdcdf59cffbdd802ca1` | [feat: add the confirmation of reservations view](https://github.com/Open-Source-SW53-Group-2/frontend/commit/a99f47b10ec390c67c3b6fdcdf59cffbdd802ca1)                    | -                       | Sep 21, 2024            |
+| [Frontend](https://github.com/Open-Source-SW53-Group-2/frontend)                             | `main`     | `fcac0fb1cea64c6fb811f80b926b39a3a95a31ab` | [feat: added home](https://github.com/Open-Source-SW53-Group-2/frontend/commit/fcac0fb1cea64c6fb811f80b926b39a3a95a31ab)                                                   | -                       | Sep 21, 2024            |
+| [Frontend](https://github.com/Open-Source-SW53-Group-2/frontend)                             | `main`     | `90c3523b69cc0ceac99758bf6314d955b398b2a1` | [feat: updated added section plans](https://github.com/Open-Source-SW53-Group-2/frontend/commit/90c3523b69cc0ceac99758bf6314d955b398b2a1)                                   | -                       | Sep 21, 2024            |
+| [Frontend](https://github.com/Open-Source-SW53-Group-2/frontend)                             | `main`     | `96b276d86b0f28ba580cee87708a36cc1310b6b9` | [feat: Add destination cards, adjust layout and pagination, improve button styles](https://github.com/Open-Source-SW53-Group-2/frontend/commit/96b276d86b0f28ba580cee87708a36cc1310b6b9) | -                       | Sep 20, 2024            |
+| [Frontend](https://github.com/Open-Source-SW53-Group-2/frontend)                             | `main`     | `5d2191b97f74fccbb08bb1714541ea98afc48bfd` | [feat: added routes and components for maps](https://github.com/Open-Source-SW53-Group-2/frontend/commit/5d2191b97f74fccbb08bb1714541ea98afc48bfd)                         | -                       | Sep 23, 2024            |
+| [Frontend](https://github.com/Open-Source-SW53-Group-2/frontend)                             | `main`     | `109595daf03c55364c2be18433f1d0776ef59b6d` | [feat: login&register design added](https://github.com/Open-Source-SW53-Group-2/frontend/commit/109595daf03c55364c2be18433f1d0776ef59b6d)                                   | -                       | Apr 28, 2024            |
+
+---
 
 #### [5.2.2.4. Testing Suite Evidence for Sprint Review](#5244-testing-suite-evidence-for-sprint-review)
 
-   En el alcance del sprint 2 se ha desarrollado el frontend de la aplicación web por lo que no se evidencia testing.
+En el alcance del **Sprint 2**, se desarrolló el frontend de la aplicación web, por lo que no se evidencia la realización de pruebas de testing específicas durante este sprint.
 
-   |**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commit Message Body**|**Commited on (Date)**|
-      | :- | :- | :- | :- | :- | :- |
-   |||||||
+**Repositorio de pruebas de aceptación:**  
+[https://github.com/Open-Source-SW53-Group-2/studentconnect-acceptance-test](https://github.com/Open-Source-SW53-Group-2/studentconnect-acceptance-test)
 
+---
 
+| **Repository**                                                                                | **Branch** | **Commit Id**                         | **Commit Message**                                                                                                                                                                    | **Commit Message Body** | **Committed on (Date)** |
+|----------------------------------------------------------------------------------------------|------------|---------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|--------------------------|
+| [Student Connect Acceptance Test](https://github.com/Open-Source-SW53-Group-2/studentconnect-acceptance-test) | `main`     | `109397e2e2a2361e101ec1a4250ff2c4041f4eb5` | [feat: Add acceptance test](https://github.com/Open-Source-SW53-Group-2/studentconnect-acceptance-test/commit/109397e2e2a2361e101ec1a4250ff2c4041f4eb5 "feat: Add acceptance test")       | -                       | 20 Sep, 2024            |
+|                                                                                              |            | `b38f24bb4f70ae31ffdfc21e47149af91c033fd8` | [chore: add AT02.feature file](https://github.com/upc-pre-202401-si729-sw51-the-coders/upc-pre202401-si729-sw51-the-coders-acceptance-tests/commit/a571cd6c5c30a97bdf55086df2256f8e543ce0bd) | -                       | 20 Sep, 2024            |
+|                                                                                              |            | `2822407798d69e79059a55296cdd82b14257381e` | [chore: add AT03.feature file](https://github.com/upc-pre-202401-si729-sw51-the-coders/upc-pre202401-si729-sw51-the-coders-acceptance-tests/commit/a571cd6c5c30a97bdf55086df2256f8e543ce0bd) | -                       | 20 Sep, 2024            |
+|                                                                                              |            | `e62e30e01e229f7dfda1939f96278bf7d1a6ec16` | [chore: add AT04.feature file](https://github.com/upc-pre-202401-si729-sw51-the-coders/upc-pre202401-si729-sw51-the-coders-acceptance-tests/commit/a571cd6c5c30a97bdf55086df2256f8e543ce0bd) | -                       | 20 Sep, 2024            |
+|                                                                                              |            | `26897e7664a9f74ac2109178c74c8835f4081031` | [chore: add AT5.feature file](https://github.com/upc-pre-202401-si729-sw51-the-coders/upc-pre202401-si729-sw51-the-coders-acceptance-tests/commit/a571cd6c5c30a97bdf55086df2256f8e543ce0bd) | -                       | 20 Sep, 2024            |
+
+---
 
 #### [5.2.2.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
 
-   En este sprint logramos como primera fase de nuestro producto final, desarrollar nuestra aplicación web usando Angular y Angular Material, en conjunto con una API hecha con JSON server. 
+En este sprint logramos, como segunda fase de nuestro producto final, desarrollar nuestra aplicación web utilizando **Angular** y **Angular Material**, en conjunto con una API hecha con **JSON Server**.
 
-   Muestra de todas  vistas programadas en Angular para este sprint: 
+---
 
-- Pantallas de Landing Page en Angular:
+**Muestra de las vistas programadas en Angular para este sprint:**
 
-![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.002.png)
+**Pantallas de Landing Page en Angular:**
 
-![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.003.png)
-
-![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.004.png)
-
-![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.005.png)
-
-![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.006.png)
-
-![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.007.png)
-
-![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.008.png)
-
-![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.009.png)
-
-![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.010.png)
-
-![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.011.png)
-
+![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.002.png)  
+![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.003.png)  
+![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.004.png)  
+![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.005.png)  
+![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.006.png)  
+![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.007.png)  
+![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.008.png)  
+![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.009.png)  
+![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.010.png)  
+![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.011.png)  
 ![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.012.png)
 
-- Pantallas de Frontend en Angular:
-  
-  ![AppWebLogin.png](assets/images/sprint2/Frontend/AppWebLogin.png)
+---
 
-  ![AppWebRegister.png](assets/images/sprint2/Frontend/AppWebRegister.png)
-  
-  ![AppWebRegisterNotification.png](assets/images/sprint2/Frontend/AppWebRegisterNotification.png)
-  
-  ![AppWebLoginEmailAndPassword.png](assets/images/sprint2/Frontend/AppWebLoginEmailAndPassword.png)
+**Pantallas de Frontend en Angular:**
 
-  ![AppWebHome.png](assets/images/sprint2/Frontend/AppWebHome.png)
+- ![AppWebLogin.png](assets/images/sprint2/Frontend/AppWebLogin.png)
+- ![AppWebRegister.png](assets/images/sprint2/Frontend/AppWebRegister.png)
+- ![AppWebRegisterNotification.png](assets/images/sprint2/Frontend/AppWebRegisterNotification.png)
+- ![AppWebLoginEmailAndPassword.png](assets/images/sprint2/Frontend/AppWebLoginEmailAndPassword.png)
+- ![AppWebHome.png](assets/images/sprint2/Frontend/AppWebHome.png)
+- ![AppWebService.png](assets/images/sprint2/Frontend/AppWebService.png)
+- ![AppWebPlans.png](assets/images/sprint2/Frontend/AppWebPlans.png)
+- ![AppWebStudentPlan.png](assets/images/sprint2/Frontend/AppWebStudentPlan.png)
+- ![AppWebCardPayment.png](assets/images/sprint2/Frontend/AppWebCardPayment.png)
+- ![AppWebSuccessfulPayment.png](assets/images/sprint2/Frontend/AppWebSuccessfulPayment.png)
+- ![AppWebMaps.png](assets/images/sprint2/Frontend/AppWebMaps.png)
+- ![AppWebSeeMoreOfTheMap.png](assets/images/sprint2/Frontend/AppWebSeeMoreOfTheMap.png)
+- ![AppWebMapsZoomRange.png](assets/images/sprint2/Frontend/AppWebMapsZoomRange.png)
+- ![AppWebMapsMarkers.png](assets/images/sprint2/Frontend/AppWebMapsMarkers.png)
+- ![AppWebMapsUniversity.png](assets/images/sprint2/Frontend/AppWebMapsUniversity.png)
+- ![AppWebListOfUniversities.png](assets/images/sprint2/Frontend/AppWebListOfUniversities.png)
+- ![AppWebBookYourTrip.png](assets/images/sprint2/Frontend/AppWebBookYourTrip.png)
+- ![AppWebChooseTheSchedule.png](assets/images/sprint2/Frontend/AppWebChooseTheSchedule.png)
+- ![AppWebApplyDiscount.png](assets/images/sprint2/Frontend/AppWebApplyDiscount.png)
+- ![AppWebDiscountApplied.png](assets/images/sprint2/Frontend/AppWebDiscountApplied.png)
+- ![AppWebReservationConfirmed.png](assets/images/sprint2/Frontend/AppWebReservationConfirmed.png)
+- ![AppWebYourReservations.png](assets/images/sprint2/Frontend/AppWebYourReservations.png)
+- ![AppWebReschedule.png](assets/images/sprint2/Frontend/AppWebReschedule.png)
+- ![AppWebRescheduleTrip.png](assets/images/sprint2/Frontend/AppWebRescheduleTrip.png)
+- ![AppWebConfirmationOfRescheduledTrip.png](assets/images/sprint2/Frontend/AppWebConfirmationOfRescheduledTrip.png)
+- ![AppWebYourTripsUpdated.png](assets/images/sprint2/Frontend/AppWebYourTripsUpdated.png)
+- ![AppWebDeleteTrip.png](assets/images/sprint2/Frontend/AppWebDeleteTrip.png)
+- ![AppWebConfirmationOfDeletingTrip.png](assets/images/sprint2/Frontend/AppWebConfirmationOfDeletingTrip.png)
+- ![AppWebUpdatedReservationList.png](assets/images/sprint2/Frontend/AppWebUpdatedReservationList.png)
 
-  ![AppWebService.png](assets/images/sprint2/Frontend/AppWebService.png)
+---
 
-  ![AppWebPlans.png](assets/images/sprint2/Frontend/AppWebPlans.png)
+**Muestra de la respuesta de nuestra API hecha con JSON Server:**  
+(Pendiente incluir imágenes o detalles de las respuestas de la API, si corresponde).
 
-  ![AppWebStudentPlan.png](assets/images/sprint2/Frontend/AppWebStudentPlan.png)
-  
-  ![AppWebCardPayment.png](assets/images/sprint2/Frontend/AppWebCardPayment.png)
-
-  ![AppWebSuccessfulPayment.png](assets/images/sprint2/Frontend/AppWebSuccessfulPayment.png)
-
-  ![AppWebMaps.png](assets/images/sprint2/Frontend/AppWebMaps.png)
-
-  ![AppWebSeeMoreOfTheMap.png](assets/images/sprint2/Frontend/AppWebSeeMoreOfTheMap.png)
-
-  ![AppWebMapsZoomRange.png](assets/images/sprint2/Frontend/AppWebMapsZoomRange.png)
-
-  ![AppWebMapsMarkers.png](assets/images/sprint2/Frontend/AppWebMapsMarkers.png)
-
-  ![AppWebMapsUniversity.png](assets/images/sprint2/Frontend/AppWebMapsUniversity.png)
-
-  ![AppWebListOfUniversities.png](assets/images/sprint2/Frontend/AppWebListOfUniversities.png)
-
-  ![AppWebBookYourTrip.png](assets/images/sprint2/Frontend/AppWebBookYourTrip.png)
-
-  ![AppWebChooseTheSchedule.png](assets/images/sprint2/Frontend/AppWebChooseTheSchedule.png)
-
-  ![AppWebApplyDiscount.png](assets/images/sprint2/Frontend/AppWebApplyDiscount.png)
-  
-  ![AppWebDiscountApplied.png](assets/images/sprint2/Frontend/AppWebDiscountApplied.png)
-
-  ![AppWebReservationConfirmed.png](assets/images/sprint2/Frontend/AppWebReservationConfirmed.png)
-
-  ![AppWebYourReservations.png](assets/images/sprint2/Frontend/AppWebYourReservations.png)
- 
-  ![AppWebReschedule.png](assets/images/sprint2/Frontend/AppWebReschedule.png)
-
-  ![AppWebRescheduleTrip.png](assets/images/sprint2/Frontend/AppWebRescheduleTrip.png)
-
-  ![AppWebConfirmationOfRescheduledTrip.png](assets/images/sprint2/Frontend/AppWebConfirmationOfRescheduledTrip.png)
-
-  ![AppWebYourTripsUpdated.png](assets/images/sprint2/Frontend/AppWebYourTripsUpdated.png)
-
-  ![AppWebDeleteTrip.png](assets/images/sprint2/Frontend/AppWebDeleteTrip.png)
-
-  ![AppWebConfirmationOfDeletingTrip.png](assets/images/sprint2/Frontend/AppWebConfirmationOfDeletingTrip.png)
- 
-  ![AppWebUpdatedReservationList.png](assets/images/sprint2/Frontend/AppWebUpdatedReservationList.png)
-
-
-- Muestra de la respuesta de nuestra API hecha con JSON server: 
-
+---
 
 #### [5.2.2.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
-Para este sprint utilizamos los servicios básicos Http en conjunto con Json server que facilitó la construcción de nuestra fake api.
-Nuestras variable de entorno serverBasePath que apuntará al puerto 3000:
+
+En este sprint utilizamos los servicios básicos **Http** en conjunto con **JSON Server**, lo cual facilitó la construcción de nuestra fake API.
+
+- **Variable de entorno `serverBasePath` apuntando al puerto 3000:**
 
 ![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.013.png)
 
-Nuestra clase BaseService
+- **Nuestra clase `BaseService`:**
 
 ![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.014.png)
 
-Un ejemplo usando un endpoint:
+- **Ejemplo de uso con un endpoint:**
 
 ![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.015.png)
 
+---
+
 #### [5.2.2.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
 
-   En este sprint 2, continuamos utilizando el servicio de auto despliegue de Vercel para garantizar una implementación continua y eficiente de la aplicación web. El proceso de despliegue se mantiene consistente con los pasos previamente establecidos, asegurando una integración fluida y sin interrupciones en el flujo de trabajo. Esto permite que las actualizaciones y mejoras se reflejen de inmediato en la aplicación web, ofreciendo una experiencia optimizada para los usuarios finales:
+En este sprint 2, continuamos utilizando el servicio de **auto despliegue de Vercel** para garantizar una implementación continua y eficiente de la aplicación web. El proceso de despliegue se mantiene consistente con los pasos previamente establecidos, asegurando una integración fluida y sin interrupciones en el flujo de trabajo. Esto permite que las actualizaciones y mejoras se reflejen de inmediato en la aplicación web, ofreciendo una experiencia optimizada para los usuarios finales.
 
+---
 
-Entrar a Vercel :
+**Proceso de despliegue en Vercel:**
 
-![](Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.016.png)
+1. Entrar a **Vercel**:  
+   ![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.016.png)
 
-Después seleccionar la opcion de “Deploy con github”
+2. Seleccionar la opción **“Deploy con GitHub”**:  
+   ![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.017.png)
 
-![](Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.017.png)
+3. Seleccionar la organización y buscar el repositorio del proyecto **“cartunn-frontend”** que deseamos subir a producción.
 
-Tras haber hecho eso tenemos que seleccionar nuestra organización y dentro de ella buscar el repositorio del proyecto “**cartunn-frontend**” que deseamos subir a producción
+4. Agregar la configuración necesaria para el despliegue:  
+   ![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.018.png)
 
-Para finalmente agregar la data necesaria para el despliegue
+5. Finalmente, presionar el botón con el nombre del proyecto para desplegar.
 
-![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.018.png)
+---
 
-Y final solo presionar el botón con el nombre de proyecto a desplegar
-
--  Link de la Landing page: [https://landing-page-with-angular-olive.vercel.app/header ](https://landing-page-with-angular-olive.vercel.app/header)
-
-
-
+**Link de la Landing Page:**  
+[https://landing-page-with-angular-olive.vercel.app/header](https://landing-page-with-angular-olive.vercel.app/header)
 
 #### [5.2.2.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
 
-A continuación, se presenta una descripción detallada de cómo el equipo ha trabajado de manera colaborativa durante este sprint. Esta sección destaca las herramientas y métodos utilizados para fomentar una comunicación efectiva, la coordinación de tareas y la resolución de problemas, asegurando que todos los miembros del equipo estuvieran alineados y comprometidos con los objetivos del sprint.
+A continuación, se presenta una descripción detallada de cómo el equipo trabajó de manera colaborativa durante este sprint. Esta sección destaca las herramientas y métodos utilizados para fomentar una comunicación efectiva, la coordinación de tareas y la resolución de problemas, asegurando que todos los miembros del equipo estuvieran alineados y comprometidos con los objetivos del sprint.
+
+---
 
 **Distribución de aportes en el informe:**
 
-**URL del repositorio para el Project Report en la organización de GitHub del equipo:**
-
-<https://github.com/Open-Source-SW53-Group-2/Report>
+**URL del repositorio para el Project Report:**  
+[https://github.com/Open-Source-SW53-Group-2/Report](https://github.com/Open-Source-SW53-Group-2/Report)
 
 **¿Cómo se han desarrollado las actividades de elaboración del informe?**
 
-Para el desarrollo del informe en este sprint optamos por dividir el repositorio del informe por capítulos y cada integrante realizó los siguientes aportes representados en la siguiente tabla y la siguiente captura:
+Para el desarrollo del informe en este sprint, se dividió el repositorio del informe por capítulos. Cada integrante realizó los siguientes aportes representados en la tabla y captura a continuación:
 
 ![Sprint2Activity](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.019.png)
 
+| **Integrante**  | **Aporte en el informe**                                                                                                                                                                                                 |
+|-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Joan**        | Mejora continua del Problem Statement, Mejora continua del Diagrama de Clases por bounded context, Mejora continua de user stories, Mejora continua de Class Dictionary.           |
+|                 | ![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.020.png)                                                                                              |
+| **Samuel**      | Mejora continua de user stories, Mejora continua del product backlog, Mejora continua de Software deployment configuration, Development & Execution Evidence for Sprint Review.   |
+|                 | ![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.021.png)                                                                                              |
+| **Franky**      | Mejora continua de user task matrix, Mejora continua de scenario as-is y to-be, Mejora continua en User Journey Mapping, Mejora continua en wireframe mockup.                     |
+| **Angel**       | Mejora continua de user stories, Mejora continua del análisis de entrevistas, Mejora del Software deployment configuration, Development & Execution Evidence for Sprint Review.   |
+|                 | ![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.022.png)                                                                                              |
+| **Alessandro**  | Mejora continua de Lean UX Hypotheses Statement, Mejora continua de user stories, Mejora continua de empathy map, Mejora de Software Architecture Diagrams & Configuration.       |
+|                 | ![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.023.png)                                                                                              |
 
-| Integrante  | Aporte en el informe                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| :- |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Joan** | <p> Mejora continua del Problem Statement, Mejora continua del Diagrama de Clases por bounded context, Mejora continua de user stories, Mejora continua de Class Dictionary</p> <p>![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.020.png)</p>                                                                                                                                                                                                           |
-| **Samuel** | <p> Mejora continua de user stories, Mejora continua del product backlog, Mejora continua de Software deployment configuration, Mejora continua de Development Evidence for Sprint Review, Mejora continua de Execution Evidence for Sprint Review, Mejora continua Services Documentation Evidence for Sprint Review, Mejora continua Software Deployment Evidence for Sprint Review.</p><p>![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.021.png)</p> |
-| **Franky** | <p> Mejora continua de user task matrix, Mejora continua de scenario as-is y to-be, Mejora continua en User Journey Mapping, Mejora continua en wireframe mockup.</p>                                                                                                                                                                                                                                                                                                                 |
-| **Angel** | <p> Mejora continua de user stories, Mejora continua del análisis de entrevistas, Mejora del Software deployment configuration, Mejora del Development Evidence for Sprint Review, Mejora del Execution Evidence for Sprint Review, Mejora del Services Documentation Evidence for Sprint Review, Mejora del Software Deployment Evidence for Sprint Review</p><p>![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.022.png)</p>                            |
-| **Alessandro** | <p> Mejora continua de Lean UX Hypotheses Statement, Mejora continua de user stories, Mejora continua de empathy map, Mejora continua Software Architecture Context Diagram, Mejora continua Software Architecture Container Diagrams, Mejora continua Software Architecture Components Diagrams, Mejora continua de Software Configuration Management</p><p>![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.023.png)</p>                                 |
+---
 
-**Evidencia de los commit:![Evidence of commit](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.024.png)**
+**Evidencia de los commits:**
 
-Durante este sprint, al igual que para el desarrollo de la landing page, para proteger la rama “main” creamos una rama “develop” de la que cada integrante de nuestro grupo creó su propia sub-rama “feature“ para subir un capítulo del reporte siguiendo las convenciones antes señaladas(conventional commit y git flow).
+![Evidence of commit](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.024.png)
 
-**Github analytics de nuestro segundo sprint:** 
+Durante este sprint, se siguió la misma estrategia utilizada en el desarrollo de la landing page. Para proteger la rama `main`, se creó una rama `develop`, y cada integrante creó su propia sub-rama `feature` para subir un capítulo del informe, siguiendo las convenciones previamente establecidas (**Conventional Commit** y **Git Flow**).
 
-![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.025.png)
+---
 
-![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.026.png)
+**GitHub Analytics de nuestro segundo sprint:**
 
+- ![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.025.png)
+- ![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.026.png)
+
+---
 
 ### [**5.2.3. Sprint 3.**](#sprint-3)
 
@@ -4119,9 +4120,11 @@ Para realizar los componentes, elaboramos las preguntas para obtener informació
 
 ---
 
-### **Registro de Entrevistas**
+### [**5.3.2. Registro de Entrevistas.**](#523-Interview-Record)
 
 En esta sección se registran detalladamente las entrevistas de validación realizadas a los dos segmentos objetivos. Se adjunta el link del video completo:
+
+URL del video de las entrevistas: [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EaA1ySLWCUJNk9eKMXToLdIBWsxJZ5OeGrLLJU6PTNtzAg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=s4OD5H)
 
 ---
 
@@ -4314,9 +4317,9 @@ Incluimos entrevistas de usuarios por cada segmento objetivo que participó en l
 
 ![Video Thumbnail](assets/images/sprint3/Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.033.png)
 
-- **URL Microsoft Stream:** [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223781_upc_edu_pe/EVKPpO0nmSVBrjFaokoVCyMBzyMU_MezQUuVxdivIbTUzA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=2cn5WB)
-- **URL Youtube:** [https://youtu.be/ckce6tCAqUA](https://youtu.be/ckce6tCAqUA)
-- **Duración del video:** 2:54
+- **URL Microsoft Stream:** [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223781_upc_edu_pe/EYcFIwVbbjRLrYlWfZIdI2cBKfQWYlA9Pjiq1tzoSDzD0w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=tLrIVg)
+- **URL Youtube:** [https://youtu.be/hLx0xBflWzw](https://youtu.be/hLx0xBflWzw)
+- **Duración del video:** 3:03 min
 
 **Link de entrevista completa:** [Ver entrevista](https://upcedupe-my.sharepoint.com/personal/u202218664_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218664%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202401%2Dsi729%2DSW53%2Dstudentconnect%2Dvalidation%2Dsprint%2D3%20%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb7d0caae%2D2678%2D41fc%2Db1fc%2Dad2f3b3601a6)
 
@@ -4336,9 +4339,9 @@ Incluimos entrevistas de usuarios por cada segmento objetivo que participó en l
 [ref9]: assets/images/sprint3/Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.026.png
 
 
-# [**Capítulo VI: Conclusion.**](#capítulo-vi-conclusion)
+# [**Conclusiones.**](#conclusiones)
 
-## [**6.1. Conclusiones y Recomendaciones.**](#52-conclusiones-y-recomendaciones)
+## [**Conclusiones y Recomendaciones.**](#conclusiones-y-recomendaciones)
 
 #### 1. GoUni responde a las necesidades de movilidad estudiantil
 La startup aborda la problemática de transporte en zonas urbanas como Lima, donde el transporte público es ineficiente y el uso de vehículos privados es costoso, proporcionando una plataforma de carpooling accesible y económica.
@@ -4355,8 +4358,17 @@ GoUni no solo mejora la movilidad diaria de los estudiantes, sino que también p
 #### 5. Innovación y tecnología como pilares
 La plataforma utiliza tecnología móvil avanzada y un enfoque innovador para crear una experiencia de movilidad eficiente y socialmente responsable, adaptada a las necesidades de los estudiantes en un contexto de creciente demanda por soluciones digitales.
 
+## [**Video About-the-Team.**](#about-the-team)
 
-# [**Capítulo VII: Bibliografia.**](#capítulo-vii-bibliografia)
+En esta sección, presentamos el Video About-the-Team, que destaca la colaboración y el trabajo en equipo de los miembros de StudentConnect para desarrollar la plataforma de GoUni. El video muestra la dedicación y el compromiso de cada miembro del equipo, así como la pasión por crear soluciones innovadoras y sostenibles.
+
+![aboutTheTeam.png](assets/images/sprint4/aboutTheTeam/aboutTheTeam.png)
+
+- **URL Microsoft Stream:** [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EU1OnTLoQn1GnRN9LSbVPCUBjx9jcCV71N2m_xFK5prmdQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=xwBpHX)
+- **URL Youtube:** [https://youtu.be/r0zoHufifZU](https://youtu.be/r0zoHufifZU)
+- **Duración del video:** 4:14 min
+
+# [**Bibliografia.**](#bibliografia)
 
 1. NEI. (2021). *Encuesta Nacional de Hogares: Módulo de Victimización*. Lima, Perú: INEI.
 2. Traverso, J. L. (2020). *Impacto del crimen en la calidad de vida de los habitantes de Lima Metropolitana*. *Revista Peruana de Criminología*, 3(1), 45-58.
@@ -4385,22 +4397,21 @@ La plataforma utiliza tecnología móvil avanzada y un enfoque innovador para cr
 
 # [**Anexos**](#anexos)
 
-| Descripción                  | Link                                                                                                                                                                                                                                                     |
-|------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Repositorio General de Unigo | [https://github.com/Open-Source-SW53-Group-2](https://github.com/Open-Source-SW53-Group-2)                                                                                                                        |
-| Repositorio Reporte          | [https://github.com/Open-Source-SW53-Group-2/Report](https://github.com/Open-Source-SW53-Group-2/Report)                                                                                                          |
-| Repositorio Landingpage      | [https://github.com/Open-Source-SW53-Group-2/Landing-Page-With-Angular](https://github.com/Open-Source-SW53-Group-2/Landing-Page-With-Angular)                                                                    |
-| Repositorio FrontEnd         | [https://github.com/Open-Source-SW53-Group-2/frontend.git](https://github.com/Open-Source-SW53-Group-2/frontend.git)                                                                                               |
-| Repositorio Backend          | [https://github.com/Open-Source-SW53-Group-2/back-end.git](https://github.com/Open-Source-SW53-Group-2/back-end.git)                                                                                               |
-| About the product            | [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223781_upc_edu_pe/EVKPpO0nmSVBrjFaokoVCyMBzyMU_MezQUuVxdivIbTUzA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=2cn5WB](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223781_upc_edu_pe/EVKPpO0nmSVBrjFaokoVCyMBzyMU_MezQUuVxdivIbTUzA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=2cn5WB) |
-| About the team               | [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EQAiuVsXTOxIiiEg8FCnsmEBhW6nVRzItBxmnFknmCYa-w?e=Ugng5S&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EQAiuVsXTOxIiiEg8FCnsmEBhW6nVRzItBxmnFknmCYa-w?e=Ugng5S&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
-| Exposición TB1               | [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c250_upc_edu_pe/EWYOUjf_ox9Or5EfrLQCcyAB6flXr1z6TocIu4NZOeEdNw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=qYotQB](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c250_upc_edu_pe/EWYOUjf_ox9Or5EfrLQCcyAB6flXr1z6TocIu4NZOeEdNw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=qYotQB) |
-| Exposición TP1               | [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223781_upc_edu_pe/ETUX6a3BdsRPg6mcJP3twrIBBAg1-Wj-MmeMDvZsRDTaVw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=7SQFTR](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223781_upc_edu_pe/ETUX6a3BdsRPg6mcJP3twrIBBAg1-Wj-MmeMDvZsRDTaVw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=7SQFTR) |
-| Link landing page            | [https://landing-page-with-angular-sigma.vercel.app/home](https://landing-page-with-angular-sigma.vercel.app/home)                                                                                                  |
-| Link Web Application         | [https://frontend-five-wheat-92.vercel.app/login](https://frontend-five-wheat-92.vercel.app/login)                                                                                                                 |
-| Link de backend              | [https://gounibackend-production.up.railway.app/swagger-ui/index.html#](https://gounibackend-production.up.railway.app/swagger-ui/index.html#)                                                                     |
-| Link de Video About-the-Product | [https://youtu.be/ckce6tCAqUA](https://youtu.be/ckce6tCAqUA)                                                                                                                                                       |
-
-
-
+| Descripción                     | Link                                                                                                                                                                                                                                                     |
+|---------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Repositorio General de StudentConnect    | [https://github.com/Open-Source-SW53-Group-2](https://github.com/Open-Source-SW53-Group-2)                                                                                                                        |
+| Repositorio Reporte             | [https://github.com/Open-Source-SW53-Group-2/Report](https://github.com/Open-Source-SW53-Group-2/Report)                                                                                                          |
+| Repositorio Landingpage         | [https://github.com/Open-Source-SW53-Group-2/Landing-Page-With-Angular](https://github.com/Open-Source-SW53-Group-2/Landing-Page-With-Angular)                                                                    |
+| Repositorio FrontEnd            | [https://github.com/Open-Source-SW53-Group-2/frontend.git](https://github.com/Open-Source-SW53-Group-2/frontend.git)                                                                                               |
+| Repositorio Backend             | [https://github.com/Open-Source-SW53-Group-2/back-end.git](https://github.com/Open-Source-SW53-Group-2/back-end.git)                                                                                               |
+| About the product               | [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223781_upc_edu_pe/EYcFIwVbbjRLrYlWfZIdI2cBKfQWYlA9Pjiq1tzoSDzD0w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=vpux8Q](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223781_upc_edu_pe/EYcFIwVbbjRLrYlWfZIdI2cBKfQWYlA9Pjiq1tzoSDzD0w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=vpux8Q) |
+| About the team                  | [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EU1OnTLoQn1GnRN9LSbVPCUBjx9jcCV71N2m_xFK5prmdQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=xwBpHX](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EU1OnTLoQn1GnRN9LSbVPCUBjx9jcCV71N2m_xFK5prmdQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=xwBpHX) |
+| Exposición TB1                  | [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c250_upc_edu_pe/EWYOUjf_ox9Or5EfrLQCcyAB6flXr1z6TocIu4NZOeEdNw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=qYotQB](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c250_upc_edu_pe/EWYOUjf_ox9Or5EfrLQCcyAB6flXr1z6TocIu4NZOeEdNw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=qYotQB) |
+| Exposición TP1                  | [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223781_upc_edu_pe/ETUX6a3BdsRPg6mcJP3twrIBBAg1-Wj-MmeMDvZsRDTaVw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=7SQFTR](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223781_upc_edu_pe/ETUX6a3BdsRPg6mcJP3twrIBBAg1-Wj-MmeMDvZsRDTaVw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=7SQFTR) |
+| Link landing page               | [https://landing-page-with-angular-sigma.vercel.app/home](https://landing-page-with-angular-sigma.vercel.app/home)                                                                                                  |
+| Link Web Application            | [https://frontend-five-wheat-92.vercel.app/login](https://frontend-five-wheat-92.vercel.app/login)                                                                                                                 |
+| Link de backend                 | [https://gouniprojectdeploy-production.up.railway.app/swagger-ui/index.html#/](https://gouniprojectdeploy-production.up.railway.app/swagger-ui/index.html#/)                                                                     |
+| Link de Video About-the-Product | [https://youtu.be/hLx0xBflWzw](https://youtu.be/hLx0xBflWzw)                                                                                                                                                       |
+| Link de Video About-the-Team    | [https://youtu.be/r0zoHufifZU](https://youtu.be/r0zoHufifZU)                                                                                                                                                       |
+| Link de Entrevisas              | [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EaA1ySLWCUJNk9eKMXToLdIBWsxJZ5OeGrLLJU6PTNtzAg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=s4OD5H](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EaA1ySLWCUJNk9eKMXToLdIBWsxJZ5OeGrLLJU6PTNtzAg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=s4OD5H) |
 
