@@ -3502,7 +3502,7 @@ Repositorio del backend en GitHub: <https://github.com/Open-Source-SW53-Group-2/
 
 #### [5.2.3.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
 
-Link del despliegue: [https://gounibackend-production.up.railway.app/swagger-ui/index.html#](https://gounibackend-production.up.railway.app/swagger-ui/index.html#)
+Link del despliegue: [https://gouniprojectdeploy-production.up.railway.app/swagger-ui/index.html#/](https://gouniprojectdeploy-production.up.railway.app/swagger-ui/index.html#/)
 
 ![Deploy Screenshot 1](assets/images/sprint3/deploy/deploy1.png)
 
