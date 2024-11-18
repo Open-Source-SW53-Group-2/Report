@@ -1,4 +1,7 @@
-# COURSE PROJECT  - SW53
+# COURSE PROJECT - SW53
+
+---
+
 <p align="center">
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
@@ -7,233 +10,209 @@
     <strong>Profesor: Hugo Allan Mori Paiva</strong><br>
     <br>INFORME
 </p>
+
 <p align="center">
     <strong>Startup: StudentConnect</strong><br>
     <strong>Producto: GoUni </strong>
 </p>
 
-<div>
-    <h3 align="center">Team Members:</h3>
-</div>
+### Team Members:
 
-<div align="center">
-     <table>
-        <tr>
-            <th style="text-align:center;">Member</th>
-            <th style="text-align:center;">Code</th>
-        </tr>
-        <tr>
-            <td>Anampa Lavado, Luis Angel</td>
-            <td>u202218664</td>
-        </tr>
-        <tr>
-            <td>David Polanco, Alessandro</td>
-            <td> u202122232</td>
-        </tr>
-        <tr>
-            <td>Mallma Espiritu , Franky Oswald	</td>
-            <td>u20211c250</td>
-        </tr>
-        <tr>
-            <td>Talizo Balbin, Joan Jefferson</td>
-            <td>u202223781</td>
-        </tr>
-        <tr>
-            <td>Valera Garcés, Samuel Ignacio</td>
-            <td>u202111952</td>
-        </tr>
-    </table>
+<div style="display: flex; justify-content: center; align-items: center;">
+
+| **Member**                          | **Code**    |
+|-------------------------------------|-------------|
+| Anampa Lavado, Luis Angel           | u202218664  |
+| David Polanco, Alessandro           | u202122232  |
+| Mallma Espiritu, Franky Oswald      | u20211c250  |
+| Talizo Balbin, Joan Jefferson       | u202223781  |
+| Valera Garcés, Samuel Ignacio       | u202111952  |
+
 </div>
 
 <p align="center">
     <strong>Agosto 2024</strong>
 </p>
 
-</div>
+---
 
+# Project Report Collaboration Insights
 
+**URL del repositorio de GitHub de la organización:** [https://github.com/Open-Source-SW53-Group-2](https://github.com/Open-Source-SW53-Group-2)
 
+---
 
-**Project Report Collaboration Insights**
+### _TB1_
 
-URL del repositorio de GitHub de la organización: https://github.com/Open-Source-SW53-Group-2
+Para el desarrollo de la entrega **TB1**, se optó por dividir el trabajo de la siguiente forma:
 
-_TB1_
-
-Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la siguiente forma
-
-| Versión      | Fecha      | Autor                               | Descripción                                                |
-|--------------|------------|-------------------------------------|------------------------------------------------------------|
-| #01 - TB1    | 05/09/24   | Anampa Lavado, Luis Angel      | Competidores, Análisis competitivo, Estrategias frente a competidores, Product backlog, Style guidelines, Web style guidelines, Information architecture, Landing page UI design, Landing page mockup, Web applications mockup, Database diagram, Software deployment configuration, Development Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review |
-|              |            |                                     |                                                            |
-|              | 05/09/24   | David Polanco, Alessandro    | Startup Profile, Descripción de la startup, Antecedentes y problemática, Lean UX Problem Statements, Lean UX Assumptions, Segmentos objetivo, Organization Systems, Labeling Systems, SEO Tags and Meta Tags, Searching Systems, Navigation Systems, Landing Page Wireframe, Web Applications Wireframes, Class Diagrams, Class Dictionary |
-|              |            |                                     |                                                            |
-|              | 05/09/24   | Talizo Balbin, Joan Jefferson           | Registro de entrevistas, Software deployment configuration, Development Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review |
-|              |            |                                     |                                                            |
+| **Versión**  | **Fecha**  | **Autor**                         | **Descripción**                                                                                                   |
+|--------------|------------|-----------------------------------|-------------------------------------------------------------------------------------------------------------------|
+| **#01 - TB1**| 05/09/24   | Anampa Lavado, Luis Angel         | Competidores, Análisis competitivo, Estrategias frente a competidores, Product backlog, Style guidelines, Web style guidelines, Information architecture, Landing page UI design, Landing page mockup, Web applications mockup, Database diagram, Software deployment configuration, Development Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review |
+|              | 05/09/24   | David Polanco, Alessandro         | Startup Profile, Descripción de la startup, Antecedentes y problemática, Lean UX Problem Statements, Lean UX Assumptions, Segmentos objetivo, Organization Systems, Labeling Systems, SEO Tags and Meta Tags, Searching Systems, Navigation Systems, Landing Page Wireframe, Web Applications Wireframes, Class Diagrams, Class Dictionary |
+|              | 05/09/24   | Talizo Balbin, Joan Jefferson     | Registro de entrevistas, Software deployment configuration, Development Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review |
 |              | 05/09/24   | Valera Garcés, Samuel Ignacio     | Lean UX Hypothesis Statements, Lean UX Canvas, Diseño de entrevistas, User Personas, Empathy Mapping, Impact Mapping, Domain-Driven Software Architecture, Software Development Environment Configuration, Source Code Management, Source Code Style Guide & Conventions |
-|              |            |                                     |                                                            |
-|              | 05/09/24   | Mallma Espiritu Franky Oswald       | User Task matrix, Journey map, as-is scenario map, to-be scenario map, parte de user stories, parte de diseño de entrevistas, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams |
+|              | 05/09/24   | Mallma Espiritu, Franky Oswald    | User Task Matrix, Journey Map, As-Is Scenario Map, To-Be Scenario Map, Parte de user stories, Parte de diseño de entrevistas, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams |
 
+---
 
+### _TP_
 
-_TP_
+Para el desarrollo de la entrega **TP**, se optó por dividir el trabajo de la siguiente forma:
 
-Para el desarrollo de la entrega TP, se opto por dividir el trabajo de la siguiente forma
+| **Versión**  | **Fecha**  | **Autor**                         | **Descripción**                         |
+|--------------|------------|-----------------------------------|-----------------------------------------|
+| **#02 - TP** | 27/09/24   | Anampa Lavado, Luis Angel         | Correcciones TB1, Web Application, Landing Page |
+|              | 27/09/24   | David Polanco, Alessandro         | Correcciones TB1, Web Application, Landing Page |
+|              | 27/09/24   | Talizo Balbin, Joan Jefferson     | Correcciones TB1, Web Application, Landing Page |
+|              | 27/09/24   | Valera Garcés, Samuel Ignacio     | Correcciones TB1, Web Application, Landing Page |
+|              | 27/09/24   | Mallma Espiritu, Franky Oswald    | Correcciones TB1, Web Application, Landing Page |
 
-| Versión      | Fecha      | Autor                               | Descripción                                                |
-|--------------|------------|-------------------------------------|------------------------------------------------------------|
-| #02 - TP    | 27/09/24   | Anampa Lavado, Luis Angel      | Correciones TB1 , Web Aplication, Landing Page|
-|              |            |                                     |                                                            |
-|              |  27/09/24   | David Polanco, Alessandro    | Correciones TB1 , Web Aplication, Landing Page|
-|              |            |                                     |                                                            |
-|              |  27/09/24   | Talizo Balbin, Joan Jefferson           | Correciones TB1 , Web Aplication, Landing Page |
-|              |            |                                     |                                                            |
-|              |  27/09/24   | Valera Garcés, Samuel Ignacio     | Correciones TB1 , Web Aplication, Landing Page |
-|              |            |                                     |                                                            |
-|              | 27/09/24  | Mallma Espiritu Franky Oswald       | Correciones TB1 , Web Aplication, Landing Page |
+---
 
+### _TB2_
 
-_TB2_
+Para el desarrollo de la entrega **TB2**, se optó por dividir el trabajo de la siguiente forma:
 
-Para el desarrollo de la entrega TP, se opto por dividir el trabajo de la siguiente forma
+| **Versión**  | **Fecha**  | **Autor**                         | **Descripción**                         |
+|--------------|------------|-----------------------------------|-----------------------------------------|
+| **#03 - TB2**| 04/11/24   | Anampa Lavado, Luis Angel         | Correcciones TP, Web Application, Backend, Entrevistas |
+|              | 04/11/24   | David Polanco, Alessandro         | Correcciones TP, Web Application, Backend, Entrevistas |
+|              | 04/11/24   | Talizo Balbin, Joan Jefferson     | Correcciones TP, Web Application, Backend, Entrevistas |
+|              | 04/11/24   | Valera Garcés, Samuel Ignacio     | Correcciones TP, Web Application, Backend, Entrevistas |
+|              | 04/11/24   | Mallma Espiritu, Franky Oswald    | Correcciones TP, Web Application, Backend, Entrevistas |
 
-| Versión      | Fecha      | Autor                               | Descripción                                                |
-|--------------|------------|-------------------------------------|------------------------------------------------------------|
-| #03 - TB2    | 4/11/24   | Anampa Lavado, Luis Angel      | Correciones TP , Web Aplication, Backend, entrevistas|
-|              |            |                                     |                                                            |
-|              | 4/11/24   | David Polanco, Alessandro    | Correciones TP , Web Aplication, Backend, entrevistas|
-|              |            |                                     |                                                            |
-|              |  4/11/24   | Talizo Balbin, Joan Jefferson           | Correciones TP , Web Aplication,  Backend, entrevistas|
-|              |            |                                     |                                                            |
-|              |  4/11/24   | Valera Garcés, Samuel Ignacio     | Correciones TP , Web Aplication, Backend, entrevistas |
-|              |            |                                     |                                                            |
-|              | 4/11/24  | Mallma Espiritu Franky Oswald       | Correciones TP , Web Aplication,  Backend, entrevistas |
+---
 
+### _TF_
 
+Para el desarrollo de la entrega **TF**, se optó por dividir el trabajo de la siguiente forma:
 
-
-_TF_
-
-Para el desarrollo de la entrega TF, se opto por dividir el trabajo de la siguiente forma
-
-| Versión      | Fecha      | Autor                               | Descripción                                                |
-|--------------|------------|-------------------------------------|------------------------------------------------------------|
-| #04 - TF    | 17/11/24   | Anampa Lavado, Luis Angel      | Correciones TB2 , Web Aplication, Backend, about the team|
-|              |            |                                     |                                                            |
-|              | 17/11/24   | David Polanco, Alessandro    | Correciones TB2 , Web Aplication, Backend, entrevistas|
-|              |            |                                     |                                                            |
-|              |  17/11/24   | Talizo Balbin, Joan Jefferson           | Correciones TB2 , Web Aplication,  Backend, entrevistas|
-|              |            |                                     |                                                            |
-|              |  17/11/24   | Valera Garcés, Samuel Ignacio     | Correciones TB2 , Web Aplication, Backend, entrevistas |
-|              |            |                                     |                                                            |
-|              | 17/11/24  | Mallma Espiritu Franky Oswald       | Correciones TB2 , Web Aplication,  Backend, entrevistas |
-
+| **Versión**  | **Fecha**  | **Autor**                         | **Descripción**                         |
+|--------------|------------|-----------------------------------|-----------------------------------------|
+| **#04 - TF** | 17/11/24   | Anampa Lavado, Luis Angel         | Correcciones TB2, Web Application, Backend, About the Team |
+|              | 17/11/24   | David Polanco, Alessandro         | Correcciones TB2, Web Application, Backend, Entrevistas |
+|              | 17/11/24   | Talizo Balbin, Joan Jefferson     | Correcciones TB2, Web Application, Backend, Entrevistas |
+|              | 17/11/24   | Valera Garcés, Samuel Ignacio     | Correcciones TB2, Web Application, Backend, Entrevistas |
+|              | 17/11/24   | Mallma Espiritu, Franky Oswald    | Correcciones TB2, Web Application, Backend, Entrevistas |
 
 # Contenido
 
 - [Contenido](#contenido)
 - [**Capítulo I: Introducción.**](#capítulo-i-introducción)
-  - [**1.1  Startup Profile.**](#11--startup-profile)
-    - [**1.1.1. Descripción del startup.**](#111-descripción-del-startup)
-    - [**1.1.2.  Perfiles de los integrantes del equipo.**](#112--perfiles-de-los-integrantes-del-equipo)
-  - [**1.2. Solution Profile.**](#12-solution-profile)
-    - [**1.2.1. Antecedentes y Problemática.**](#121-antecedentes-y-problemática)
-    - [**1.2.2. Lean UX Process.**](#122-lean-ux-process)
-      - [**1.2.2.1. Lean UX Problem Statements.**](#1221-lean-ux-problem-statements)
-      - [**1.2.2.2. Lean UX Assumptions.**](#1222-lean-ux-assumptions)
-      - [**1.2.2.3. Lean UX Hypothesis Statements.**](#1223-lean-ux-hypothesis-statements)
-      - [**1.2.2.4. Lean UX Canvas.**](#1224-lean-ux-canvas)
-  - [**1.3. Segmentos objetivo.**](#13-segmentos-objetivo)
-- [**Capítulo II: Requirements Elicitation \& Analysis**](#capítulo-ii-requirements-elicitation--analysis)
-  - [**2.1. Competidores.**](#21-competidores)
-    - [**2.1.1. Análisis competitivo.**](#211-análisis-competitivo)
-    - [**2.1.2. Estrategias y tácticas frente a competidores.**](#212-estrategias-y-tácticas-frente-a-competidores)
-  - [**2.2. Entrevistas.**](#22-entrevistas)
-    - [**2.2.1. Diseño de entrevistas.**](#221-diseño-de-entrevistas)
-    - [**2.2.2. Registro de entrevistas.**](#222-registro-de-entrevistas)
-    - [**2.2.3. Análisis de entrevistas.**](#223-análisis-de-entrevistas)
-  - [**2.3. Needfinding.**](#23-needfinding)
-    - [**2.3.1. User Personas.**](#231-user-personas)
-    - [**2.3.2. User Task Matrix.**](#232-user-task-matrix)
-    - [**2.3.3. User Journey Mapping**](#233-user-journey-mapping)
-    - [**2.3.4. Empathy Mapping**](#234-empathy-mapping)
-    - [**2.3.5. As-is Scenario Mapping**](#235-as-is-scenario-mapping)
-  - [**2.4. Ubiquitous Language**](#24-ubiquitous-language)
+  - [**1.1 Startup Profile.**](#11-startup-profile)
+    - [**1.1.1 Descripción del startup.**](#111-descripción-del-startup)
+    - [**1.1.2 Perfiles de los integrantes del equipo.**](#112-perfiles-de-los-integrantes-del-equipo)
+  - [**1.2 Solution Profile.**](#12-solution-profile)
+    - [**1.2.1 Antecedentes y Problemática.**](#121-antecedentes-y-problemática)
+    - [**1.2.2 Lean UX Process.**](#122-lean-ux-process)
+      - [**1.2.2.1 Lean UX Problem Statements.**](#1221-lean-ux-problem-statements)
+      - [**1.2.2.2 Lean UX Assumptions.**](#1222-lean-ux-assumptions)
+      - [**1.2.2.3 Lean UX Hypothesis Statements.**](#1223-lean-ux-hypothesis-statements)
+      - [**1.2.2.4 Lean UX Canvas.**](#1224-lean-ux-canvas)
+  - [**1.3 Segmentos objetivo.**](#13-segmentos-objetivo)
+
+- [**Capítulo II: Requirements Elicitation & Analysis.**](#capítulo-ii-requirements-elicitation--analysis)
+  - [**2.1 Competidores.**](#21-competidores)
+    - [**2.1.1 Análisis competitivo.**](#211-análisis-competitivo)
+    - [**2.1.2 Estrategias y tácticas frente a competidores.**](#212-estrategias-y-tácticas-frente-a-competidores)
+  - [**2.2 Entrevistas.**](#22-entrevistas)
+    - [**2.2.1 Diseño de entrevistas.**](#221-diseño-de-entrevistas)
+    - [**2.2.2 Registro de entrevistas.**](#222-registro-de-entrevistas)
+    - [**2.2.3 Análisis de entrevistas.**](#223-análisis-de-entrevistas)
+  - [**2.3 Needfinding.**](#23-needfinding)
+    - [**2.3.1 User Personas.**](#231-user-personas)
+    - [**2.3.2 User Task Matrix.**](#232-user-task-matrix)
+    - [**2.3.3 User Journey Mapping.**](#233-user-journey-mapping)
+    - [**2.3.4 Empathy Mapping.**](#234-empathy-mapping)
+    - [**2.3.5 As-is Scenario Mapping.**](#235-as-is-scenario-mapping)
+  - [**2.4 Ubiquitous Language.**](#24-ubiquitous-language)
+
 - [**Capítulo III: Requirements Specification.**](#capítulo-iii-requirements-specification)
-  - [**3.1. To-Be Scenario Mapping.**](#31-to-be-scenario-mapping)
-  - [**3.2.User Stories.**](#32user-stories)
-  - [**3.3. Impact Mapping.**](#33-impact-mapping)
-  - [**3.4. Product Backlog.**](#34-product-backlog)
+  - [**3.1 To-Be Scenario Mapping.**](#31-to-be-scenario-mapping)
+  - [**3.2 User Stories.**](#32-user-stories)
+  - [**3.3 Impact Mapping.**](#33-impact-mapping)
+  - [**3.4 Product Backlog.**](#34-product-backlog)
+
 - [**Capítulo IV: Product Design.**](#capítulo-iv-product-design)
-  - [**4.1. Style Guidelines.**](#41-style-guidelines)
-    - [**4.1.1. General Style Guidelines.**](#411-general-style-guidelines)
-    - [**4.1.2. Web Style Guidelines.**](#412-web-style-guidelines)
-  - [**4.2. Information Architecture.**](#42-information-architecture)
-    - [**4.2.1. Organization Systems.**](#421-organization-systems)
-    - [**4.2.2. Labeling Systems.**](#422-labeling-systems)
-    - [**4.2.3. SEO Tags and Meta Tags.**](#423-seo-tags-and-meta-tags)
-    - [**4.2.4. Searching Systems.**](#424-searching-systems)
-    - [**4.2.5. Navigation Systems.**](#425-navigation-systems)
-  - [**4.3. Landing Page UI Design**](#43-landing-page-ui-design)
-    - [**4.3.1. Landing Page Wireframe.**](#431-landing-page-wireframe)
-    - [**4.3.2. Landing Page Mock-up.**](#432-landing-page-mock-up)
-  - [**4.4. Web Applications UX/UI Design.**](#44-web-applications-uxui-design)
-    - [**4.4.1. Web Applications Wireframes.**](#441-web-applications-wireframes)
-    - [**4.4.2. Web Applications Wireflow Diagrams.**](#442-web-applications-wireflow-diagrams)
-    - [**4.4.3. Web Applications Mock-ups.**](#443-web-applications-mock-ups)
-    - [**4.4.4. Web Applications User Flow Diagrams.**](#444-web-applications-user-flow-diagrams)
-  - [**4.5. Web Applications Prototyping.**](#45-web-applications-prototyping)
-  - [**4.6. Domain-Driven Software Architecture**](#46-domain-driven-software-architecture)
-    - [**4.6.1. Software Architecture Context Diagram.**](#461-software-architecture-context-diagram)
-    - [**4.6.2. Software Architecture Container Diagrams.**](#462-software-architecture-container-diagrams)
-    - [**4.6.3. Software Architecture Components Diagrams.**](#463-software-architecture-components-diagrams)
-  - [**4.7. Software Object-Oriented Design.**](#47-software-object-oriented-design)
-    - [**4.7.1. Class Diagrams.**](#471-class-diagrams)
-    - [**4.7.2. Class Dictionary.**](#472-class-dictionary)
-  - [**4.8. Database Design.**](#48-database-design)
-    - [**4.8.1. Database Diagram.**](#481-database-diagram)
-- [**Capítulo V: Product Implementation, Validation \& Deployment.**](#capítulo-v-product-implementation-validation--deployment)
-  - [**5.1. Software Configuration Management.**](#51-software-configuration-management)
-    - [**5.1.1. Software Development Environment Configuration.**](#511-software-development-environment-configuration)
-    - [**5.1.2. Source Code Management.**](#512-source-code-management)
-    - [**5.1.3. Source Code Style Guide \& Conventions.**](#513-source-code-style-guide--conventions)
-    - [**5.1.4. Software Deployment Configuration.**](#514-software-deployment-configuration)
-  - [**5.2. Landing Page, Services \& Applications Implementation.**](#52-landing-page-services--applications-implementation)
-    - [**5.2.1. Sprint 1.**](#521-sprint-1)
-      - [**5.2.1.1. Sprint Planning 1.**](#5211-sprint-planning-1)
-      - [**5.2.1.2. Sprint Backlog 1.**](#5212-sprint-backlog-1)
-      - [**5.2.1.3. Development Evidence for Sprint Review.**](#5213-development-evidence-for-sprint-review)
-      - [**5.2.1.4. Testing Suite Evidence for Sprint Review.**](#5214-testing-suite-evidence-for-sprint-review)
-      - [**5.2.1.5. Execution Evidence for Sprint Review.**](#5215-execution-evidence-for-sprint-review)
-      - [**5.2.1.6. Services Documentation Evidence for Sprint Review.**](#5216-services-documentation-evidence-for-sprint-review)
-      - [**5.2.1.7. Software Deployment Evidence for Sprint Review.**](#5217-software-deployment-evidence-for-sprint-review)
-      - [**5.2.1.8. Team Collaboration Insights during Sprint.**](#5218-team-collaboration-insights-during-sprint)
-    - [**5.2.2. Sprint 2.**](#521-sprint-2)
-      - [**5.2.2.1. Sprint Planning 2.**](#5211-sprint-planning-2)
-      - [**5.2.2.2. Sprint Backlog 2.**](#5212-sprint-backlog-2)
-      - [**5.2.2.3. Development Evidence for Sprint Review.**](#5213-development-evidence-for-sprint-review)
-      - [**5.2.2.4. Testing Suite Evidence for Sprint Review.**](#5214-testing-suite-evidence-for-sprint-review)
-      - [**5.2.2.5. Execution Evidence for Sprint Review.**](#5215-execution-evidence-for-sprint-review)
-      - [**5.2.2.6. Services Documentation Evidence for Sprint Review.**](#5216-services-documentation-evidence-for-sprint-review)
-      - [**5.2.2.7. Software Deployment Evidence for Sprint Review.**](#5217-software-deployment-evidence-for-sprint-review)
-      - [**5.2.2.8. Team Collaboration Insights during Sprint.**](#5218-team-collaboration-insights-during-sprint)
-    - [**5.2.3. Sprint 3.**](#521-sprint-3)
-      - [**5.2.3.1. Sprint Planning 3.**](#5211-sprint-planning-3)
-      - [**5.2.3.2. Sprint Backlog 3.**](#5212-sprint-backlog-3)
-      - [**5.2.3.3. Development Evidence for Sprint Review.**](#5213-development-evidence-for-sprint-review)
-      - [**5.2.3.4. Testing Suite Evidence for Sprint Review.**](#5214-testing-suite-evidence-for-sprint-review)
-      - [**5.2.3.5. Execution Evidence for Sprint Review.**](#5215-execution-evidence-for-sprint-review)
-      - [**5.2.3.6. Services Documentation Evidence for Sprint Review.**](#5216-services-documentation-evidence-for-sprint-review)
-      - [**5.2.3.7. Software Deployment Evidence for Sprint Review.**](#5217-software-deployment-evidence-for-sprint-review)
-      - [**5.2.3.8. Team Collaboration Insights during Sprint.**](#5218-team-collaboration-insights-during-sprint)
-    - [**5.3. Validation Interviews.**](#52-Validation-Interviews.)
-      - [**5.3.1. Diseño de Entrevistas.**](#521-Interview-Design.)
-      - [**5.3.2.  Registro de Entrevistas.**](#5211-Interview-Record.)
-      - [**5.3.3.  Evaluaciones según heurísticas.**](#5211-Evaluations-according-to-heuristics.)
-    - [**5.4. Video About-the-Product.**](#52-Video-About-the-Product. )
-- [**Capítulo VI: Conclusion.**](#capítulo-vi-conclusion)
-    - [**6.1. Conclusiones y Recomendaciones.**](#61-conclusiones-y-recomendaciones. )
-- [**Capítulo VII: Bibliografia.**](#capítulo-vii-bibliografia)
+  - [**4.1 Style Guidelines.**](#41-style-guidelines)
+    - [**4.1.1 General Style Guidelines.**](#411-general-style-guidelines)
+    - [**4.1.2 Web Style Guidelines.**](#412-web-style-guidelines)
+  - [**4.2 Information Architecture.**](#42-information-architecture)
+    - [**4.2.1 Organization Systems.**](#421-organization-systems)
+    - [**4.2.2 Labeling Systems.**](#422-labeling-systems)
+    - [**4.2.3 SEO Tags and Meta Tags.**](#423-seo-tags-and-meta-tags)
+    - [**4.2.4 Searching Systems.**](#424-searching-systems)
+    - [**4.2.5 Navigation Systems.**](#425-navigation-systems)
+  - [**4.3 Landing Page UI Design.**](#43-landing-page-ui-design)
+    - [**4.3.1 Landing Page Wireframe.**](#431-landing-page-wireframe)
+    - [**4.3.2 Landing Page Mock-up.**](#432-landing-page-mock-up)
+  - [**4.4 Web Applications UX/UI Design.**](#44-web-applications-uxui-design)
+    - [**4.4.1 Web Applications Wireframes.**](#441-web-applications-wireframes)
+    - [**4.4.2 Web Applications Wireflow Diagrams.**](#442-web-applications-wireflow-diagrams)
+    - [**4.4.3 Web Applications Mock-ups.**](#443-web-applications-mock-ups)
+    - [**4.4.4 Web Applications User Flow Diagrams.**](#444-web-applications-user-flow-diagrams)
+  - [**4.5 Web Applications Prototyping.**](#45-web-applications-prototyping)
+  - [**4.6 Domain-Driven Software Architecture.**](#46-domain-driven-software-architecture)
+    - [**4.6.1 Software Architecture Context Diagram.**](#461-software-architecture-context-diagram)
+    - [**4.6.2 Software Architecture Container Diagrams.**](#462-software-architecture-container-diagrams)
+    - [**4.6.3 Software Architecture Components Diagrams.**](#463-software-architecture-components-diagrams)
+  - [**4.7 Software Object-Oriented Design.**](#47-software-object-oriented-design)
+    - [**4.7.1 Class Diagrams.**](#471-class-diagrams)
+    - [**4.7.2 Class Dictionary.**](#472-class-dictionary)
+  - [**4.8 Database Design.**](#48-database-design)
+    - [**4.8.1 Database Diagram.**](#481-database-diagram)
+
+- [**Capítulo V: Product Implementation, Validation & Deployment.**](#capítulo-v-product-implementation-validation--deployment)
+  - [**5.2.1 Sprint 1.**](#521-sprint-1)
+    - [**5.2.1.1 Sprint Planning 1.**](#5211-sprint-planning-1)
+    - [**5.2.1.2 Sprint Backlog 1.**](#5212-sprint-backlog-1)
+    - [**5.2.1.3 Development Evidence for Sprint Review.**](#5213-development-evidence-for-sprint-review)
+    - [**5.2.1.4 Testing Suite Evidence for Sprint Review.**](#5214-testing-suite-evidence-for-sprint-review)
+    - [**5.2.1.5 Execution Evidence for Sprint Review.**](#5215-execution-evidence-for-sprint-review)
+    - [**5.2.1.6 Services Documentation Evidence for Sprint Review.**](#5216-services-documentation-evidence-for-sprint-review)
+    - [**5.2.1.7 Software Deployment Evidence for Sprint Review.**](#5217-software-deployment-evidence-for-sprint-review)
+    - [**5.2.1.8 Team Collaboration Insights during Sprint.**](#5218-team-collaboration-insights-during-sprint)
+  - [**5.2.2 Sprint 2.**](#522-sprint-2)
+    - [**5.2.2.1 Sprint Planning 2.**](#5221-sprint-planning-2)
+    - [**5.2.2.2 Sprint Backlog 2.**](#5222-sprint-backlog-2)
+    - [**5.2.2.3 Development Evidence for Sprint Review.**](#5223-development-evidence-for-sprint-review)
+    - [**5.2.2.4 Testing Suite Evidence for Sprint Review.**](#5224-testing-suite-evidence-for-sprint-review)
+    - [**5.2.2.5 Execution Evidence for Sprint Review.**](#5225-execution-evidence-for-sprint-review)
+    - [**5.2.2.6 Services Documentation Evidence for Sprint Review.**](#5226-services-documentation-evidence-for-sprint-review)
+    - [**5.2.2.7 Software Deployment Evidence for Sprint Review.**](#5227-software-deployment-evidence-for-sprint-review)
+    - [**5.2.2.8 Team Collaboration Insights during Sprint.**](#5228-team-collaboration-insights-during-sprint)
+  - [**5.2.3 Sprint 3.**](#523-sprint-3)
+    - [**5.2.3.1 Sprint Planning 3.**](#5231-sprint-planning-3)
+    - [**5.2.3.2 Sprint Backlog 3.**](#5232-sprint-backlog-3)
+    - [**5.2.3.3 Development Evidence for Sprint Review.**](#5233-development-evidence-for-sprint-review)
+    - [**5.2.3.4 Testing Suite Evidence for Sprint Review.**](#5234-testing-suite-evidence-for-sprint-review)
+    - [**5.2.3.5 Execution Evidence for Sprint Review.**](#5235-execution-evidence-for-sprint-review)
+    - [**5.2.3.6 Services Documentation Evidence for Sprint Review.**](#5236-services-documentation-evidence-for-sprint-review)
+    - [**5.2.3.7 Software Deployment Evidence for Sprint Review.**](#5237-software-deployment-evidence-for-sprint-review)
+    - [**5.2.3.8 Team Collaboration Insights during Sprint.**](#5238-team-collaboration-insights-during-sprint)
+  - [**5.2.4 Sprint 4.**](#524-sprint-4)
+    - [**5.2.4.1 Sprint Planning 4.**](#5241-sprint-planning-4)
+    - [**5.2.4.2 Sprint Backlog 4.**](#5242-sprint-backlog-4)
+    - [**5.2.4.3 Development Evidence for Sprint Review.**](#5243-development-evidence-for-sprint-review)
+    - [**5.2.4.4 Testing Suite Evidence for Sprint Review.**](#5244-testing-suite-evidence-for-sprint-review)
+    - [**5.2.4.5 Execution Evidence for Sprint Review.**](#5245-execution-evidence-for-sprint-review)
+    - [**5.2.4.6 Services Documentation Evidence for Sprint Review.**](#5246-services-documentation-evidence-for-sprint-review)
+    - [**5.2.4.7 Software Deployment Evidence for Sprint Review.**](#5247-software-deployment-evidence-for-sprint-review)
+    - [**5.2.4.8 Team Collaboration Insights during Sprint.**](#5248-team-collaboration-insights-during-sprint)
+  
+  - [**5.3 Validation Interviews.**](#53-validation-interviews)
+    - [**5.3.1 Diseño de Entrevistas.**](#531-diseño-de-entrevistas)
+    - [**5.3.2 Registro de Entrevistas.**](#532-registro-de-entrevistas)
+    - [**5.3.3 Evaluaciones según heurísticas.**](#533-evaluaciones-según-heurísticas)
+- [**Conclusiones.**](#conclusiones)
+  - [**Conclusiones y Recomendaciones.**](#conclusiones-y-recomendaciones)
+  - [**Video About-the-Team.**](#about-the-team)
+
+- [**Bibliografía.**](#bibliografia)
+
+- [**Anexos.**](#anexos)
+
 
 **Studen Outcome**
 
@@ -243,8 +222,10 @@ Para el desarrollo de la entrega TF, se opto por dividir el trabajo de la siguie
 | **Comunica por escrito con efectividad a diferentes rangos de audiencia.** | **Anampa Lavado Luis Angel**, <br><br>**TB1**: Como miembro del equipo, cumplí con mis responsabilidades de manera oportuna, asumiendo la tarea de realizar entrevistas, redactar la introducción y el planteamiento del problema, así como contribuir en la elaboración de la landing page en conjunto con mis compañeros. Esta experiencia ha fortalecido nuestras dinámicas de trabajo y ha permitido un desarrollo cohesivo del proyecto.<br><br> **TP1**: En esta fase del trabajo, me corresponde apoyar en el Sprint 2, donde me enfocaré en la implementación de la aplicación web. Estoy comprometido en colaborar estrechamente con el equipo para asegurar que cumplamos con nuestros objetivos de manera efectiva.<br><br> **TB2**:Contribui con implementacion de las entresvitas , con endpoints del backend y actualizacion de la landing page con el about the product.<br><br> **TF**:En la etapa final del proyecto, participé en la integración y validación de las funcionalidades implementadas, asegurándome de que la aplicación cumpliera con los requerimientos establecidos. Además, colaboré en la documentación final del proyecto y en la preparación de la presentación para stakeholders. Este proceso me permitió reflexionar sobre las áreas de mejora del proyecto y consolidar las habilidades adquiridas durante el desarrollo, incluyendo la resolución de problemas y el trabajo en equipo.<br><br>**David Polanco, Alessandro Alonso <br><br> TB1**: Usó el Lean UX Canvas e intervino en el diseño de la Information Architecture y la estructura de la base de datos.<br><br> **TP:** Para la entrega parcial me encargué de avanzar con la documentacion del informe, registrar entrevistas de diferentes segmentos y avance del Frontend de GoUni. <br><br> **TB2:** Para este avance me encargue de la optimizacion del codigo del backend de GoUni, realice la grabacion del video About-The-Product. <br><br> **TF**: En la etapa final del proyecto de GoUni, participe realizando la optimizacion de codigo del lado de los servicios de GoUni, igualmente asegurando que la aplicacion cumpliera con los requisitos planteados en la documentacion. Ademas pude participar en la realizacion del Video-About-TheProduct, lo cual me permitio presentar de una manera generla hacia donde queremos enfocarnos con este producto y explicar las funcionalidades que puede llegar a ofrecer GoUni hacia su publico objetivo. <br><br> **Mallma Espiritu Franky Oswald, <br><br> TB1**: Entrevistó usuarios y participó en el desarrollo de la landing page. <br><br> **TP1**: Para la entrega parcial me enargue de desarrollar la documentacion del informe de forma exitosa ademas de registrar las entrevistas de los distintos segmentos, cumpliendo asi el comunicar a otras audiencias <br><br> **TB2**: para el desarrollo del sprint 3 , me encargue de desarrollar y distribuir el informe escrito en el repositorio github. Asimismo con el desarrollo de los distintos reportes del tb2 <br><br> **TF**: En el sprint 4 me encargue de distribuir las partes del informe ademas de promover de forma escrita el compromiso de cada uno de los integrantes a travez del performance <br><br> **Talizo Balbin Joan Jefferson <br><br> TB1**: Contribuyó en diversas etapas del desarrollo, creando user personas y empathy maps. <br><br> **TB1**: En esta fase del trabajo parcial, me corresponde en colaborar en el Sprint2, donde me enfoquele en la implementación de mockups del Figma a Angular. Asimismo, estoy comprometido en colaborar con el equipo para asegurar que cumplanos con nuestros objetivos de forma colaborativa, efectiva y trabajo en equipo.<br><br>**TB2**: Para el desarollo del Sprint 3, contribui en las entrevistas realizadas con sus respectivos endpoints del backend. Asimimso, se implemento el deploy con MySQL.<br><br> **Valera Garcés, Samuel Ignacio <br><br> TB1**: Ayudó en la documentación y diseño de journey mappings y diagram flows para el proyecto. <br><br> **TP**: Documentó la implementación del login en Angular CLI, asegurando que los procesos fueran claramente entendidos por todos los miembros del equipo. <br><br> **TB2**: Desarrollo de parte del backend, grabacion y edicion de videos. <br><br> **TF**: Logre realizar mejoras en codigo y video, contribuyendo con mi labor en el grupo | **General**: La documentación clara y detallada fue fundamental para el desarrollo del proyecto, asegurando que toda la información fuera comprensible para los diversos públicos. La escritura objetiva y profesional facilitó la colaboración y el éxito en cada fase del desarrollo. |
 
 # [**Capítulo I: Introducción.**](#capítulo-i-introducción)
-## [**1.1  Startup Profile.**](#startup-profile)
-### [**1.1.1. Descripción del startup.**](#descripción-del-startup)
+
+## [**1.1 Startup Profile.**](#11-startup-profile)
+
+### [**1.1.1 Descripción del startup.**](#111-descripción-del-startup)
 
 GoUni es una startup fundada por un grupo de estudiantes de la Facultad de Ingeniería de la Universidad Peruana de Ciencias Aplicadas (UPC) con el objetivo de abordar las preocupaciones y desafíos que enfrentan los estudiantes universitarios al movilizarse. Ante las dificultades para acceder a un transporte cómodo y asequible, estamos desarrollando una plataforma innovadora que permite compartir viajes en vehículos particulares entre compañeros de universidad. Con UniGo, buscamos no solo ofrecer una alternativa económica y social al transporte público, sino también reducir la congestión vehicular y promover un uso más eficiente de los recursos. Nuestro equipo, apasionado por la tecnología y la sostenibilidad, está comprometido en brindar una solución de movilidad segura, conveniente y colaborativa para la comunidad estudiantil.
 
@@ -254,7 +235,7 @@ Nuestra misión es facilitar el transporte universitario a través de una plataf
 ### Visión:
 Aspiramos a ser líderes en movilidad estudiantil, reconocidos por nuestro compromiso con la sostenibilidad, la eficiencia y la satisfacción de nuestros usuarios, proporcionando una experiencia de transporte innovadora y socialmente responsable para estudiantes del Perú.
 
-### [**1.1.2.  Perfiles de los integrantes del equipo.**](#perfiles-de-los-integrantes-del-equipo)
+### [**1.1.2 Perfiles de los integrantes del equipo.**](#112-perfiles-de-los-integrantes-del-equipo)
 
 <table>
   <tr>
@@ -297,8 +278,9 @@ Aspiramos a ser líderes en movilidad estudiantil, reconocidos por nuestro compr
 
 </table>
 
-## [**1.2. Solution Profile.**](#solution-profile)
-### [**1.2.1. Antecedentes y Problemática.**](#antecedentes-y-problemática)
+## [**1.2. Solution Profile.**](#12-solution-profile)
+
+### [**1.2.1. Antecedentes y Problemática.**](#121-antecedentes-y-problemática)
 
 ### Antecedentes:
 La movilidad estudiantil en zonas urbanas ha sido un reto constante para los estudiantes universitarios, especialmente en grandes ciudades como Lima, donde la congestión vehicular y la falta de opciones de transporte eficientes afectan directamente la calidad de vida. El transporte público convencional a menudo resulta incómodo, inseguro, y poco fiable, mientras que tener un vehículo propio no es una opción accesible para muchos estudiantes debido a los altos costos de adquisición y mantenimiento.
@@ -351,8 +333,11 @@ En Lima, se registran numerosos problemas socioculturales, como la delincuencia 
 
 ###### Quienes seran los beneficiados por el servicio?
 Los estudiantes universitarios que deseen una alternativa que sea eficiente, cómoda y económica, así como aquellos que busquen generar ingresos o reducir sus gastos en combustible durante su viaje hacia la universidad.
-### [**1.2.2. Lean UX Process.**](#lean-ux-process)
-#### [**1.2.2.1. Lean UX Problem Statements.**](#lean-ux-problem-statements)
+
+
+### [**1.2.2. Lean UX Process.**](#122-lean-ux-process)
+
+#### [**1.2.2.1. Lean UX Problem Statements.**](#1221-lean-ux-problem-statements)
 
 
 Nuestro servicio de carpooling para estudiantes universitarios se diseñó con el fin de mejorar la experiencia de transporte de nuestros usuarios, reducir el estrés, el riesgo de robos, la fatiga por autobuses abarrotados y los costos elevados. Sin embargo, hemos notado que el servicio no está cumpliendo completamente con estos objetivos. Los estudiantes siguen enfrentando problemas de estrés y fatiga, y los costos no se han reducido significativamente. Además, la falta de coincidencia en horarios y rutas entre los usuarios y la baja ocupación de los vehículos están limitando la efectividad del servicio.
@@ -396,64 +381,57 @@ Existe una brecha en el mercado de transporte compartido específico para estudi
 #### Vision/Strategy:
 Crear una plataforma de carpooling diseñada específicamente para estudiantes universitarios que permita una conexión efectiva entre compañeros de viaje con horarios y rutas compatibles. La plataforma debe abordar el estrés y la inseguridad relacionados con el transporte, al mismo tiempo que ofrece una solución económica y eficiente para los estudiantes que desean compartir sus viajes y reducir costos.
 
-#### [**1.2.2.2. Lean UX Assumptions.**](#lean-ux-assumptions)
+#### [**1.2.2.2. Lean UX Assumptions.**](#1222-lean-ux-assumptions)
 
+Assumptions play a crucial role in identifying project risks and fostering team participation and active engagement.
 
-Los supuestos, o "assumptions" en inglés, desempeñan un papel crucial en la identificación de los riesgos del proyecto y en estimular la expresión de opiniones y la participación activa del equipo de trabajo.
+#### User Assumptions
 
-User Assumptions:
+**Who is the user?**
 
-¿Quién es el usuario?
+- The user is any university student interested in a faster, safer, and more efficient way to commute to their university.
 
-- El usuario es cualquier estudiante universitario interesado en tener una forma de movilizarse de manera más rápida, segura y eficiente hacia su universidad.
+**Where does our product fit into their work or life?**
 
-¿Dónde encaja nuestro producto en su trabajo o vida?
+- Our product integrates seamlessly into users' daily lives, providing an efficient and accessible transportation solution. It helps avoid stress, risks of theft, fatigue caused by overcrowded buses, and high transportation costs.
 
-- Nuestro producto encaja en la vida cotidiana de los usuarios, proporcionándoles una solución eficiente y accesible para su transporte diario hacia la universidad, ayudándoles a evitar el estrés, el riesgo de robos, la fatiga debido a autobuses abarrotados, y los costos elevados de transporte.
+**What problems does our product need to solve?**
 
-¿Qué problemas tiene que resolver nuestro producto?
+- Our product addresses inefficiencies in commuting, scheduling conflicts among travel companions, and low vehicle occupancy that limit carpooling effectiveness. It also aims to reduce transportation costs and enhance the overall experience for students.
 
-- Nuestro producto debe resolver los problemas de ineficiencia en los desplazamientos, incompatibilidad de horarios entre compañeros de viaje, y baja ocupación de vehículos que limitan la efectividad del carpooling. Además, debe asegurar una reducción en los costos de transporte y mejorar la experiencia general de los estudiantes.
+**When and how is our product used?**
 
-¿Cuándo y cómo es nuestro producto usado?
+- The product is used daily by students to coordinate shared rides to and from the university. It matches users with compatible routes and schedules.
 
-- El producto es utilizado diariamente por los estudiantes cuando necesitan trasladarse hacia y desde la universidad. Es usado para coordinar viajes compartidos, encontrando compañeros de viaje con rutas y horarios compatibles.
+**How should our product look and behave?**
 
-¿Cómo debe verse nuestro producto y cómo comportarse?
-
-- El producto debe ser intuitivo y fácil de usar, con una interfaz que permita a los usuarios coordinar y planificar sus viajes de manera eficiente. Debe comportarse de manera fiable, asegurando que los estudiantes encuentren compañeros de viaje rápidamente y que puedan completar sus trayectos de forma segura y económica.
-
-#### User Assumptions:
-
-¿Quién es el usuario?
-
-@@ -328,9 +328,33 @@ User Assumptions:
-
-- El producto debe ser intuitivo y fácil de usar, con una interfaz que permita a los usuarios coordinar y planificar sus viajes de manera eficiente. Debe comportarse de manera fiable, asegurando que los estudiantes encuentren compañeros de viaje rápidamente y que puedan completar sus trayectos de forma segura y económica.
+- The product should be intuitive and user-friendly, featuring an interface that enables users to efficiently plan and coordinate trips. It must function reliably, ensuring users can quickly find travel companions and complete their trips safely and affordably.
 
 #### Business Assumptions
 
-- Creemos que nuestros clientes necesitan una plataforma que les permita coordinar y compartir viajes hacia la universidad de manera segura, eficiente, y económica. Los estudiantes buscan reducir los costos y tiempos de viaje, además de minimizar el estrés asociado con el transporte diario.
+**We believe that:**
 
-- Estas necesidades se pueden resolver con una aplicación móvil que conecte a estudiantes universitarios, permitiéndoles compartir viajes en auto, reducir gastos de transporte, y mejorar su experiencia diaria al desplazarse hacia y desde la universidad.
+- Our customers need a platform that allows them to coordinate and share rides to the university in a safe, efficient, and economical way. Students are seeking to reduce travel costs and times while minimizing stress associated with daily transportation.
 
-**El valor #1 que mi cliente quiere de mi servicio**
+- These needs can be addressed with a mobile application that connects university students, enabling them to share car rides, lower transportation expenses, and improve their daily commuting experience.
 
-- **Para los estudiantes que ofrecen transporte:** Una plataforma que les permita llenar los asientos vacíos en sus vehículos, optimizando el costo y maximizando la eficiencia de sus viajes diarios.
+**The #1 value my customer wants from my service:**
 
-- **Para los estudiantes que buscan transporte:** Un medio seguro y económico para llegar a la universidad, reduciendo el tiempo de viaje y el estrés de utilizar transporte público abarrotado.
+- **For students offering rides:** A platform that helps fill empty seats in their vehicles, optimizing costs and maximizing the efficiency of their daily commutes.
 
-- **Para las universidades:** Una solución que ayude a reducir la congestión vehicular y el impacto ambiental, promoviendo una forma más sostenible de transporte para sus estudiantes.
+- **For students seeking rides:** A secure and economical way to reach the university, reducing travel time and the stress of overcrowded public transportation.
 
-El cliente también puede obtener beneficios adicionales como:
+- **For universities:** A solution that reduces traffic congestion and environmental impact, promoting a more sustainable mode of transportation for their students.
 
-- **Networking Estudiantil:** La oportunidad de conectar con otros estudiantes de su universidad, creando una red social y académica que podría enriquecer su experiencia universitaria.
+**Additional benefits for customers:**
 
-- **Incentivos y Recompensas:** Los usuarios frecuentes pueden acceder a descuentos, promociones especiales, o recompensas por su participación en el sistema de carpooling.
+- **Student Networking:** Opportunities to connect with fellow university students, building a social and academic network that enriches their university experience.
 
-- **Feedback y Mejora Continua:** Los usuarios pueden dar y recibir retroalimentación sobre los viajes, lo que ayuda a mejorar la calidad del servicio y asegurar una experiencia positiva para todos los involucrados.
+- **Incentives and Rewards:** Frequent users can access discounts, special promotions, or rewards for participating in the carpooling system.
 
-#### [**1.2.2.3. Lean UX Hypothesis Statements.**](#lean-ux-hypothesis-statements)
+- **Feedback and Continuous Improvement:** Users can provide and receive feedback on trips, enhancing service quality and ensuring a positive experience for all involved.
+
+#### [**1.2.2.3. Lean UX Hypothesis Statements.**](#1223-lean-ux-hypothesis-statements)
 
 **Creemos que** al simplificar el proceso de registro y la verificación de usuarios en nuestra plataforma, aumentaremos la tasa de conversión de nuevos estudiantes que se inscriben para usar el servicio de carpooling. Sabremos que hemos tenido éxito cuando observemos un aumento significativo en el número de cuentas activas en los primeros 7 días después del lanzamiento.
 
@@ -463,198 +441,105 @@ El cliente también puede obtener beneficios adicionales como:
 
 **Creemos que** al incorporar un sistema de recompensas para conductores y pasajeros frecuentes, aumentaremos la retención de usuarios y generaremos un uso más constante de la plataforma. Sabremos que hemos tenido éxito cuando observemos un aumento en la lealtad de los usuarios y una mayor participación activa en la plataforma.
 
-#### [**1.2.2.4. Lean UX Canvas.**](#lean-ux-canvas)
 
+#### [**1.2.2.4. Lean UX Canvas.**](#1224-lean-ux-canvas)
 
-<table>
-	<TR>
-		<TD ROWSPAN=2>
-Lean UX Canvas
+| **Lean UX Canvas**                                                                                                                                                               | **Fecha:** 20/08/2024                                                                                               | **Iteración:** 1 |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|------------------|
+| **1. Business Problem:**                                                                                                                                                         | **5. Solutions:**                                                                                                  | **2. Business Outcomes:** |
+| - La falta de un sistema eficiente y confiable que conecte a los estudiantes universitarios que necesitan compartir transporte hacia la universidad.                              | - **Plataforma de Carpooling:** Sistema que permita a los estudiantes ofrecer y encontrar viajes compartidos hacia la universidad.                        | - Aumento en el número de usuarios activos y viajes compartidos realizados. |
+| - Aunque existen alternativas de transporte público y privado, los estudiantes enfrentan problemas como el tráfico, el costo elevado, la inseguridad y la pérdida de tiempo.      | - **Verificación de Usuarios:** Proceso de verificación para garantizar la seguridad y confianza entre los usuarios.                                       | - Reducción de costos de transporte para los estudiantes. |
+| - Además, la falta de una solución que optimice el uso de vehículos privados entre estudiantes afecta la movilidad y la sostenibilidad.                                           | - **Sistema de Recompensas:** Incentivos para conductores y pasajeros frecuentes.                                                                         | - Mejora en la eficiencia y sostenibilidad del transporte universitario. |
+|                                                                                                                                                                                  | - **Funcionalidad de Chat:** Herramienta de comunicación directa entre conductores y pasajeros para coordinar detalles del viaje.                        | - Reconocimiento y adopción de la plataforma como la opción preferida para el carpooling entre estudiantes universitarios. |
+|                                                                                                                                                                                  | - **Integración de Rutas:** Sincronización con aplicaciones de mapas para optimizar las rutas y tiempos de viaje.                                         | |
+|                                                                                                                                                                                  | - **Notificaciones en Tiempo Real:** Alertas sobre cambios en la ruta o disponibilidad de viajes.                                                        | |
 
-</TD>
-	    	<TD ROWSPAN=2></TD> <TD>
-Fecha: 20/08/2024
+| **3. Users:**                                                                                                                                                                   | **6. Hypotheses:**                                                                                                                                       | **4. User Outcomes & Benefits:** |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
+| - Los usuarios principales serán estudiantes universitarios que buscan una alternativa de transporte más económica, segura y conveniente para llegar a sus campus.              | - Creemos que al simplificar el proceso de registro y la verificación de usuarios en nuestra plataforma, aumentaremos la tasa de conversión de nuevos estudiantes. | - **Estudiantes:** Ahorro de tiempo y dinero, reducción del estrés del transporte público, y mayor seguridad al viajar con compañeros de estudio. |
+| - También incluye a los conductores que desean compartir sus vehículos para reducir costos y contribuir a una movilidad más sostenible.                                          | - Creemos que al implementar una función de mensajería entre conductores y pasajeros, mejoraremos la coordinación y la confianza en nuestra plataforma.   | - **Conductores:** Reducción de costos operativos y mayor sostenibilidad en sus desplazamientos. |
+| - Las universidades podrían ser clientes interesados en promover el uso de la plataforma entre sus estudiantes.                                                                 | - Creemos que al ofrecer una sección destacada para los “Viajes Más Populares de la Semana,” aumentaremos la participación de los estudiantes en la plataforma. | - **Universidades:** Promoción de una solución eficiente, segura, y ecológica para sus estudiantes, mejorando la calidad de vida en el campus. |
+|                                                                                                                                                                                 | - Creemos que al proporcionar métricas claras sobre la eficiencia de los viajes, motivaremos a más estudiantes a utilizar nuestro servicio regularmente.  | |
+|                                                                                                                                                                                 | - Creemos que al incorporar un sistema de recompensas para conductores y pasajeros frecuentes, aumentaremos la retención de usuarios.                    | |
 
-</TD> 
-	</TR>
-	<TR>
-		<TD>
-Iteración 1
+| **7. What's the most important thing we need to learn first?**                                                                                                                  | **8. What's the least amount of work we need to do to learn the next most important thing?**                                                               |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| - Conocer las necesidades y comportamientos de los estudiantes en relación con sus hábitos de transporte y carpooling.                                                         | - Crear un prototipo funcional que permita a los estudiantes registrarse, verificar su identidad y buscar u ofrecer viajes compartidos.                    |
+| - Evaluar la seguridad y confiabilidad del sistema de verificación de usuarios.                                                                                                 | - Realizar pruebas con un grupo pequeño de usuarios para validar la usabilidad y efectividad del sistema de verificación y mensajería.                    |
+| - Investigar las preferencias de diseño y funcionalidad de los usuarios potenciales.                                                                                            | - Desarrollar un plan de marketing inicial para generar interés en una universidad piloto.                                                                 |
+| - Identificar barreras de adopción y estrategias para superarlas.                                                                                                               | - Establecer soporte básico al usuario para resolver consultas y problemas de manera rápida y efectiva.                                                   |
+| - Comprender las mejores prácticas de carpooling y estudiar a la competencia.                                                                                                  |                                                                                                                                                           |
 
-</TD> 
-	</TR>
-    <TR>
-		<TD ROWSPAN>
-1. Business Problem:
-
-- La falta de un sistema eficiente y confiable que conecte a los estudiantes universitarios que necesitan compartir transporte hacia la universidad. Aunque existen alternativas de transporte público y privado, los estudiantes enfrentan problemas como el tráfico, el costo elevado, la inseguridad y la pérdida de tiempo. Además, la falta de una solución que optimice el uso de vehículos privados entre estudiantes afecta la movilidad y la sostenibilidad.
-
-</TD>
-	    	<TD ROWSPAN=2>
-5. Solutions:
-
-- **Plataforma de Carpooling:** Sistema que permita a los estudiantes ofrecer y encontrar viajes compartidos hacia la universidad.
-- 
-- **Verificación de Usuarios:** Proceso de verificación para garantizar la seguridad y confianza entre los usuarios.
-- 
-- **Sistema de Recompensas:** Incentivos para conductores y pasajeros frecuentes.
-- 
-- **Funcionalidad de Chat:** Herramienta de comunicación directa entre conductores y pasajeros para coordinar detalles del viaje.
-
-- **Integración de Rutas:** Sincronización con aplicaciones de mapas para optimizar las rutas y tiempos de viaje.
-
-- **Notificaciones en Tiempo Real:** Alertas sobre cambios en la ruta o disponibilidad de viajes.
-
-</TD> <TD ROWSPAN=2>
-2. Business Outcomes:
-
-- Aumento en el número de usuarios activos y viajes compartidos realizados.
-- 
-- Reducción de costos de transporte para los estudiantes.
-
-- Mejora en la eficiencia y sostenibilidad del transporte universitario.
-
-- Reconocimiento y adopción de la plataforma como la opción preferida para el carpooling entre estudiantes universitarios.
-</TD> 
-	</TR>
-	<TR>
-		<TD >
-3. Users:
-
-- Los usuarios principales de la plataforma serán estudiantes universitarios que buscan una alternativa de transporte más económica, segura y conveniente para llegar a sus campus.
-
-- También incluye a los conductores que desean compartir sus vehículos para reducir costos y contribuir a una movilidad más sostenible. Además, las universidades podrían ser clientes interesados en promover el uso de la plataforma entre sus estudiantes.
-
-</TD> 
-	</TR>
-    <TR>
-		<TD ROWSPAN=2>
-6. Hypotheses:
-
-- Creemos que al simplificar el proceso de registro y la verificación de usuarios en nuestra plataforma, aumentaremos la tasa de conversión de nuevos estudiantes.
-Sabremos que hemos tenido éxito cuando observemos un aumento significativo en el número de cuentas activas en los primeros 7 días después del lanzamiento.*
-
-- Creemos que al implementar una función de mensajería entre conductores y pasajeros, mejoraremos la coordinación y la confianza en nuestra plataforma.
-Sabremos que hemos tenido éxito cuando veamos un aumento en la cantidad de viajes compartidos realizados y una mayor retención de usuarios activos.*
-
-- Creemos que al ofrecer una sección destacada para los “Viajes Más Populares de la Semana”, aumentaremos la participación de los estudiantes en la plataforma.
-Sabremos que hemos tenido éxito cuando observemos un aumento en las visitas a esta sección y una mayor interacción con los viajes destacados.*
-
-- Creemos que al proporcionar métricas claras sobre la eficiencia de los viajes, motivaremos a más estudiantes a utilizar nuestro servicio de manera regular.
-Sabremos que hemos tenido éxito cuando veamos un aumento en la frecuencia de uso del servicio y una mayor satisfacción de los usuarios.*
-
-- Creemos que al incorporar un sistema de recompensas para conductores y pasajeros frecuentes, aumentaremos la retención de usuarios y generaremos un uso más constante de la plataforma.Sabremos que hemos tenido éxito cuando observemos un aumento en la lealtad de los usuarios y una mayor participación activa en la plataforma.*
-
-</TD>
-<TD ROWSPAN=2>
-7. ¿What's the most important  thing we need to learn first?
-
-- Conocer a fondo las necesidades y comportamientos de los estudiantes en relación con sus hábitos de transporte y carpooling.
-
-- Evaluar la seguridad y confiabilidad del sistema de verificación de usuarios para fomentar la confianza en la plataforma.
-
-- Investigar las preferencias y expectativas de los usuarios potenciales en cuanto a funcionalidad, diseño y usabilidad de la plataforma.
-
-- Identificar las barreras que podrían impedir la adopción de la plataforma y cómo superarlas.
-
-- Comprender las mejores prácticas de carpooling y estudiar la competencia para encontrar puntos de diferenciación.
-
-</TD> 
-<TD>
-4. User Outcomes & Benefits:
-
-- **Estudiantes:** Ahorro de tiempo y dinero en sus desplazamientos diarios hacia la universidad, reducción del estrés asociado al transporte público y una mayor seguridad al viajar con compañeros de estudio.
-
-- **Conductores:** Reducción de costos operativos del vehículo mediante el compartir gastos con otros estudiantes y la posibilidad de contribuir a una movilidad más sostenible.
-
-- **Universidades:** Promoción de una solución de transporte más eficiente, segura y ecológica para sus estudiantes, lo que podría mejorar la calidad de vida en el campus.
-
-</TD> 
-	</TR>
-	<TR>
-		<TD>
-8. ¿What's the least amount of work we need  to do to learn the next most important thing?
-
-- Crear un prototipo funcional que permita a los estudiantes registrarse, verificar su identidad y comenzar a buscar o ofrecer viajes compartidos.
-Realizar pruebas con un grupo pequeño de usuarios para validar la usabilidad y efectividad del sistema de verificación de usuarios y la función de mensajería.
-Desarrollar un plan de marketing inicial para generar interés y adopción de la plataforma en una universidad piloto.
-Establecer un soporte básico al usuario para resolver consultas y problemas iniciales de manera rápida y efectiva.
-</TD> 
-	</TR>
-</table>
-
-## [**1.3. Segmentos objetivo.**](#segmentos-objetivo)
+## [**1.3. Segmentos objetivo.**](#13-segmentos-objetivo)
 
 Por medio de nuestro enfoque de obtener una solución efectiva a las problemáticas de nuestros futuros usuarios, identificamos los siguientes segmentos para GoUni:
 
-**Segmento objetivo #1: Estudiantes Universitarios que necesiten movilizarse.**
+### **Segmento objetivo #1: Estudiantes Universitarios que necesiten movilizarse.**
 
-Aspectos demográficos:
+**Aspectos demográficos:**
 
-- Sexo: masculino y femenino
+- **Sexo:** Masculino y femenino
+- **Edades:** Adultos entre 18 - 30 años
+- **Nivel socioeconómico:** Clases B, C, D (media-baja, baja)
 
-- Edades: adultos entre 18 - 30 años
+**Aspectos geográficos:**
 
-- Nivel socioeconómico: Clases B, C, D (media-baja, baja)
+- **Nacionalidad:** Peruana
+- **Zona geográfica en la que vive:** Urbana
+- **Departamento:** Lima Metropolitana
 
-Aspectos geográficos:
-
-- Nacionalidad: Peruana
-
-- Zona geográfica en la que vive: Urbana
-
-- Departamento: Lima Metropolitana
-
-Aspectos psicográficos:
+**Aspectos psicográficos:**
 
 - Abiertos a herramientas que les ayuden a simplificar y facilitar su viaje.
-
 - Son hábiles dentro del uso de dispositivos inteligentes.
 
-**Segmento objetivo #2: Estudiantes Universitarios propetarios de un vehiculo privado.**
+---
 
-AAspectos demográficos:
+### **Segmento objetivo #2: Estudiantes Universitarios propietarios de un vehículo privado.**
 
-- Sexo: masculino y femenino
+**Aspectos demográficos:**
 
-- Edades: adultos entre 18 - 30 años
+- **Sexo:** Masculino y femenino
+- **Edades:** Adultos entre 18 - 30 años
+- **Nivel socioeconómico:** Clases A, B, C (alta, media-alta y media)
 
-- Nivel socioeconómico: clases A, C, C (alta, media-alta y media)
+**Aspectos geográficos:**
 
-Aspectos geográficos:
+- **Nacionalidad:** Peruana
+- **Zona geográfica en la que vive:** Urbana
+- **Departamento:** Lima Metropolitana
 
-- Nacionalidad: Peruana
-
-- Zona geográfica en la que vive: Urbana
-
-- Departamento: Lima Metropolitana
-
-Aspectos psicográficos:
+**Aspectos psicográficos:**
 
 - Son hábiles dentro del uso de dispositivos inteligentes.
-
 
 # Capítulo II: Requirements Elicitation & Analysis
+
 ## 2.1. Competidores
+
 ### BlaBlaCar
+
 Es una plataforma global de ride-sharing que conecta conductores y pasajeros para 
 compartir viajes de media y larga distancia. Los usuarios pueden dividir los costos del viaje, 
 lo que hace que el transporte sea más económico y sostenible. BlaBlaCar fomenta la colaboración y 
 la optimización de recursos al reducir la cantidad de vehículos en la carretera.
 
 ### Urbvan
+
 Es una plataforma de transporte privado en van que opera en rutas predefinidas, generalmente en áreas
 metropolitanas. Se enfoca en ofrecer una alternativa más eficiente y cómoda al transporte público, 
 brindando un servicio seguro y puntual a través de vehículos compartidos, pero con un enfoque de 
 calidad y confort para los usuarios.
 
 ### Yango
+
 Es una aplicación internacional de ride-hailing que ofrece transporte bajo demanda con tarifas 
 competitivas y un enfoque en la facilidad de uso. Opera en diversas ciudades del mundo, brindando a 
 los usuarios una experiencia de transporte rápida, segura y accesible, con la opción de reservar y 
 pagar viajes directamente a través de la aplicación.
 
 ### 2.1.1. Análisis competitivo
+
 <table>
   <tr>
     <th colspan="7" valign="top"><b>Competitive Analysis Landscape</b></th>
@@ -806,195 +691,149 @@ precios competitivos y una plataforma fácil de usar.</td>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
-- *Diferenciación de la plataforma:* GoUni se diferencia por ser una plataforma exclusiva para
-  estudiantes universitarios. El enfoque en la comunidad académica y
-  la seguridad brinda un entorno más cerrado y confiable en comparación con otras plataformas abiertas
-  al público general. Además, su misión de promover la sostenibilidad y la economía colaborativa
-  refuerza su atractivo para jóvenes conscientes del medio ambiente.
-####
-- *Comunidad activa:* Con GoUni queremos fomentar una comunidad de estudiantes comprometidos, creando
-  un entorno en el que los usuarios se sienten seguros viajando con personas de su misma universidad.
-  La cercanía entre los miembros de la comunidad facilita la interacción y genera confianza entre los
-  usuarios.
-####
-- *Marketing dirigido:* El marketing en GoUni quiere enfocarse en captar a estudiantes universitarios mediante
-  colaboraciones con universidades, eventos estudiantiles y promociones a través de redes sociales específicas
-  para jóvenes. Esta comunicación apela a la sostenibilidad, la seguridad y la economía colaborativa, factores
-  importantes para la comunidad estudiantil.
-####
-- *Monetización creativa:* La monetización de GoUni se basará en la compartición de costos entre estudiantes,
-  pero puede explorar modelos adicionales como suscripciones premium que pudean ofrecer beneficios exclusivos,
-  como rutas garantizadas o mayor seguridad. También podría implementar alianzas con marcas enfocadas en
-  estudiantes, generando ingresos adicionales a través de publicidad contextual o colaboraciones.
+- **Diferenciación de la plataforma:**  
+  GoUni se diferencia por ser una plataforma exclusiva para estudiantes universitarios. El enfoque en la comunidad académica y la seguridad brinda un entorno más cerrado y confiable en comparación con otras plataformas abiertas al público general. Además, su misión de promover la sostenibilidad y la economía colaborativa refuerza su atractivo para jóvenes conscientes del medio ambiente.
+
+---
+
+- **Comunidad activa:**  
+  Con GoUni queremos fomentar una comunidad de estudiantes comprometidos, creando un entorno en el que los usuarios se sientan seguros viajando con personas de su misma universidad. La cercanía entre los miembros de la comunidad facilita la interacción y genera confianza entre los usuarios.
+
+---
+
+- **Marketing dirigido:**  
+  El marketing en GoUni se enfocará en captar a estudiantes universitarios mediante colaboraciones con universidades, eventos estudiantiles y promociones a través de redes sociales específicas para jóvenes. Esta comunicación apela a la sostenibilidad, la seguridad y la economía colaborativa, factores importantes para la comunidad estudiantil.
+
+---
+
+- **Monetización creativa:**  
+  La monetización de GoUni se basará en la compartición de costos entre estudiantes, pero puede explorar modelos adicionales como suscripciones premium que ofrezcan beneficios exclusivos, como rutas garantizadas o mayor seguridad. También podría implementar alianzas con marcas enfocadas en estudiantes, generando ingresos adicionales a través de publicidad contextual o colaboraciones.
+
 
 ## 2.2. Entrevistas
-### 2.2.1. Diseño de entrevistas
-En esta sección se han definido todas las preguntas que se plantearan en el momento de
-realizar las preguntas a los diferentes segmntos objetivos
 
-<h3> Preguntas Generales</h3>
+### 2.2.1. Diseño de entrevistas
+
+En esta sección se han definido todas las preguntas que se plantearán en el momento de realizar las entrevistas a los diferentes segmentos objetivos.
+
+#### **Preguntas Generales**
 
 1. ¿Cuál es tu nombre?
-####
 2. ¿Qué edad tienes?
-####
 3. ¿Dónde vives actualmente?
-####
 4. ¿A qué te dedicas?
 
-<h3> Preguntas Segmento 1: Estudiantes universitarios </h3>
+---
+
+#### **Preguntas Segmento 1: Estudiantes universitarios**
 
 1. ¿Con qué frecuencia utilizas transporte para llegar a la universidad?
-####
 2. ¿Cuáles son las mayores dificultades que enfrentas al desplazarte a la universidad?
-####
 3. ¿Cuánto tiempo sueles tardar en llegar a la universidad desde tu casa?
-####
-4. ¿Estarías dispuesto a compartir tu trayecto con otros estudiantes? ¿Por qué?
-####
+4. ¿Estarías dispuesto/a a compartir tu trayecto con otros estudiantes? ¿Por qué?
 5. ¿Qué factores te harían sentir más cómodo/a utilizando un servicio de ride-sharing para estudiantes?
-####
 6. ¿Cómo crees que un servicio de transporte compartido podría mejorar tu experiencia diaria?
 
-<h3> Preguntas Segmento 2: Estudiantes universitarios propietarios de vehiculos privados</h3>
+---
+
+#### **Preguntas Segmento 2: Estudiantes universitarios propietarios de vehículos privados**
 
 1. ¿Con qué frecuencia conduces hacia tu universidad o trabajo?
-####
 2. ¿Te gustaría compartir tu vehículo con otros estudiantes en tus trayectos?
-####
-4. ¿Cuáles son tus mayores preocupaciones al compartir tu vehículo con otras personas?
-####
-5. ¿Qué aspectos te motivarían a ofrecer tu vehículo en un servicio de ride-sharing?
-####
-6. ¿Qué tipo de incentivos te harían más propenso a unirte a una plataforma de ride-sharing para estudiantes?
-####
-7. ¿Cómo manejas los costos de mantenimiento y gasolina? ¿Crees que compartir tu vehículo podría ayudar a reducir esos costos?
-####
-8. ¿Cuáles son tus expectativas en cuanto a seguridad y comodidad al ofrecer tu vehículo para transportar a otros?
+3. ¿Cuáles son tus mayores preocupaciones al compartir tu vehículo con otras personas?
+4. ¿Qué aspectos te motivarían a ofrecer tu vehículo en un servicio de ride-sharing?
+5. ¿Qué tipo de incentivos te harían más propenso/a a unirte a una plataforma de ride-sharing para estudiantes?
+6. ¿Cómo manejas los costos de mantenimiento y gasolina? ¿Crees que compartir tu vehículo podría ayudar a reducir esos costos?
+7. ¿Cuáles son tus expectativas en cuanto a seguridad y comodidad al ofrecer tu vehículo para transportar a otros?
 
-### 2.2.2 Registro de entrevistas.
+### 2.2.2 Registro de entrevistas
 
-*Segmento 1: Estudiantes Universitarios*
+#### **Segmento 1: Estudiantes Universitarios**
 
-*Entrevista 1:*
+**Entrevista 1:**
 
-Nombres: Melina
+- **Nombres:** Melina
+- **Apellidos:** Rojas Sosa
+- **Edad:** 19
+- **Lugar de residencia:** Ate, Lima
 
-Apellidos: Rojas Sosa
-
-Edad: 19
-
-Lugar de residencia: Ate, Lima
-
-Evidencia de la entrevista:
+**Evidencia de la entrevista:**  
 <img src="assets/images/interviews/EvidenciaEntrevista.png">
 
-Enlace de entrevista: [Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EX7er1YUSwFDuVEixTyS9icBROnS8zoGjs_OYnidNOSFxg?e=aP2d71&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+**Enlace de la entrevista:** [Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EX7er1YUSwFDuVEixTyS9icBROnS8zoGjs_OYnidNOSFxg?e=aP2d71&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-Resumen de la entrevista:
-
+**Resumen de la entrevista:**  
 Melina es una estudiante universitaria que enfrenta dificultades diarias para llegar a sus clases debido a la congestión vehicular en Lima. Ella expresa que estaría encantada si existiera un servicio de carpooling que le permitiera llegar más rápido a la universidad. Además, destaca los beneficios adicionales que este tipo de servicio podría ofrecer, como la oportunidad de hacer networking con otros estudiantes de su misma universidad.
 
-*Entrevista 2:*
+---
 
-Nombres: Maria Gracia
+**Entrevista 2:**
 
-Apellidos: Rojas Montenegro
+- **Nombres:** Maria Gracia
+- **Apellidos:** Rojas Montenegro
+- **Edad:** 19
+- **Lugar de residencia:** Lima, Perú
 
-Edad: 19
-
-Lugar de residencia: Lima, Peru
-
-Evidencia de la entrevista:
-
+**Evidencia de la entrevista:**  
 <img src="assets/images/interviews/EvidenciaEntrevistaAlessandro.png">
 
-Enlace de la entrevista: 
+**Enlace de la entrevista:** [Link de entrevista01_EstudianteUniversitario_MariaGraciaRojas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202122232_upc_edu_pe/EdkBJ6BiIApNmPjECvCbqpYBZLdRyR5IUQ6hbW72k0wSNw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&e=yEaifN)
 
-[Link de entrevista01_EstudianteUniversitario_MariaGraciaRojas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202122232_upc_edu_pe/EdkBJ6BiIApNmPjECvCbqpYBZLdRyR5IUQ6hbW72k0wSNw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=yEaifN)
+**Resumen de la entrevista:**  
+Maria Gracia es una estudiante universitaria de la UPC que no tiene muchas dificultades al momento de transportarse desde su casa hacia la universidad. Ella comenta que le gustaría mucho una alternativa de transporte como el carpooling, ya que podría conocer nuevas personas de la misma universidad, ahorrar dinero en transporte, y utilizar un método más rápido en casos de urgencia.
 
-Resumen de la entrevista:
+---
 
-Maria Gracia es un estudiante universitaria de la UPC que no tiene muchas dificultades al momento de transportarse
-desde su casa hacia la universidad. Ella comenta que le gustaria mucho una alternativa de transporte este servicio
-de car-pooling dado a que podria conocer nuevas personas de la misma universidad, asi como ahorrar dinero para transporte
-y es un metodo para movilizarte de manera mas rapida en casos de urgencia.
+**Entrevista 3:**
 
-*Entrevista 3:*
+- **Nombres:** Luis
+- **Apellidos:** Suares Ayquipa
+- **Edad:** 18
+- **Lugar de residencia:** Lima, Perú
 
-Nombres: Luis
-
-Apellidos: Suares Ayquipa
-
-Edad: 18
-
-Lugar de residencia: Lima, Peru
-
-Evidencia de la entrevista:
-
+**Evidencia de la entrevista:**  
 <img src="assets/images/interviews/entrevista03_luis.png">
 
-Enlace de la entrevista:
+**Enlace de la entrevista:** [Link de entrevista03_EstudianteUniversitario_LuisSuarez](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c250_upc_edu_pe/EXdQE3rWyAZNsbO1QS9oiMkB_984UXL8rCbGILEDXa90fQ?e=4Wa9C4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-[Link de entrevista03_EstudianteUniversitario_LuisSuarez](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c250_upc_edu_pe/EXdQE3rWyAZNsbO1QS9oiMkB_984UXL8rCbGILEDXa90fQ?e=4Wa9C4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-
-Resumen de la entrevista:
-
+**Resumen de la entrevista:**  
 Luis Suárez, de 18 años y residente en Santa Anita, Lima, usa el transporte público diariamente para ir a la universidad, enfrentando problemas como el tráfico, la inseguridad y la incomodidad de los buses llenos. Estaría dispuesto a compartir su trayecto con otros estudiantes por razones de seguridad y ahorro. Le gustaría que los conductores estuvieran verificados y monitoreados para mayor tranquilidad. Además, cree que un servicio de ride-sharing mejoraría su experiencia al reducir tiempos y hacer el viaje más cómodo.
 
-<br>
+---
 
-*Segmento 2: Estudiantes universitarios propietarios de vehiculos privados*
+#### **Segmento 2: Estudiantes universitarios propietarios de vehículos privados**
 
-*Entrevista 1:*
+**Entrevista 1:**
 
-Nombres: Maykol
+- **Nombres:** Maykol
+- **Apellidos:** Valencia
+- **Edad:** 22
+- **Lugar de residencia:** Selva Alegre, Arequipa
 
-Apellidos: Valencia
+**Evidencia de la entrevista:**  
+<img src="assets/images/interviews/entrevista02_UniversitarioPropietarioDeAuto.png">
 
-Edad: 22 años
+**Enlace de la entrevista:** [Link de entrevista02_UniversitarioPropietarioDeAuto_MaykolValencia](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223781_upc_edu_pe/EdLl2jwqxtdDq2Nyq49ek8AB6cLqcac0HNUCa4ySmXv7LQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=rswZ2B)
 
-Lugar de residencia: Selva Alegre, Arequipa
+**Resumen de la entrevista:**  
+Maykol es un estudiante universitario propietario de un vehículo privado que se desplaza diariamente desde su casa hasta la universidad. Él menciona que le gustaría compartir su vehículo con otros estudiantes para reducir los costos de transporte y hacer nuevos amigos. Sin embargo, tiene preocupaciones sobre la seguridad y la comodidad de los pasajeros, por lo que considera importante establecer reglas claras y un sistema de calificación para garantizar una experiencia positiva para todos.
 
-Evidencia de la entrevista:
+---
 
-![entrevista02_UniversitarioPropietarioDeAuto.png](assets/images/interviews/entrevista02_UniversitarioPropietarioDeAuto.png)
+**Entrevista 2:**
 
-Enlace de entrevista:
+- **Nombres:** Ariana
+- **Apellidos:** Martinez
+- **Edad:** 24
+- **Lugar de residencia:** Santiago de Surco, Lima
 
-[Link de entrevista02_UniversitarioPropietarioDeAuto_MaykolValencia](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223781_upc_edu_pe/EdLl2jwqxtdDq2Nyq49ek8AB6cLqcac0HNUCa4ySmXv7LQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=rswZ2B)
+**Evidencia de la entrevista:**  
+<img src="assets/images/interviews/interviewimage.png">
 
+**Enlace de la entrevista:** [Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111952_upc_edu_pe/EZd3GcGkxvNDl_7tiJOaSZEBrANwpg_4jDmEdm1lr_EfXA?e=IZMgVf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-Resumen de la entrevista:
-
-Maykol es un estudiante universitario propietario de un vehículo privado que se desplaza diariamente desde su casa hasta
-la universidad. Él menciona que le gustaría compartir su vehículo con otros estudiantes para reducir los costos de transporte
-y hacer nuevos amigos. Sin embargo, tiene preocupaciones sobre la seguridad y la comodidad de los pasajeros, por lo que
-considera importante establecer reglas claras y un sistema de calificación para garantizar una experiencia positiva para todos.
-
-*Entrevista 2:*
-
-Nombre: Ariana
-
-Apellido: Martinez
-
-Edad: 24 años
-
-Lugar de residencia: Santiago de Surco, Lima
-
-Evidencia de la entrevista: <img src="assets/images/interviews//interviewimage.png">
-
-Enlace de entrevista: [Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111952_upc_edu_pe/EZd3GcGkxvNDl_7tiJOaSZEBrANwpg_4jDmEdm1lr_EfXA?e=IZMgVf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-
-Resumen de la entrevista:
-
-Ariana es un estudiante universitario de la UPC, propietaria de un vehículo privado, que se desplaza frecuentemente desde su casa hasta
-la universidad. Ella considera que compartir su vehículo con otros estudiantes es una buena idea, para reducir los costos de transporte
-y hacer nuevas amistades. Sin embargo, tiene preocupaciones sobre la seguridad personal y verificacion de identidad, por lo que
-considera importante que una plataforma como la nuestra, rpesente medidas de segfuridad estrictas, que verifiquen la identidad de cada pasajero 
-y conductor.
-
-<br>
+**Resumen de la entrevista:**  
+Ariana es una estudiante universitaria de la UPC, propietaria de un vehículo privado, que se desplaza frecuentemente desde su casa hasta la universidad. Ella considera que compartir su vehículo con otros estudiantes es una buena idea para reducir los costos de transporte y hacer nuevas amistades. Sin embargo, tiene preocupaciones sobre la seguridad personal y la verificación de identidad, por lo que considera importante que una plataforma como la nuestra presente medidas de seguridad estrictas que verifiquen la identidad de cada pasajero y conductor.
 
 ### 2.2.3 Análisis de entrevistas.
 <TABLE BORDER>
@@ -1067,313 +906,126 @@ y conductor.
 </TABLE>
 
 ## 2.3. Needfinding
+
 ### 2.3.1. User Personas
 
-*Estudiantes universitarios:*
-
+#### *Estudiantes universitarios:*
 
 <img src="assets/images/user-persona/user-persona-1.png" width="800px">
 
-*Estudiantes Universitarios propietarios de vehiculos privados:*
-
+#### *Estudiantes Universitarios propietarios de vehículos privados:*
 
 <img src="assets/images/user-persona/user-persona-2.png" width="800px">
+
+---
 
 ### 2.3.2. User Task Matrix
 
 A continuación se pueden apreciar los User Task Matrix de los segmentos objetivos.
 
-<table align="center" border="1" width="90%" style="text-align:center;">
-    <tr>
-        <td></td>
-        <td colspan=2>
-            <b>User Persona</b>
-        </td>
-    </tr>
-    <tr>
-        <td></td>
-        <td colspan=2>
-            Segmento Objetivo: <br> <b>Estudiantes Universitarios</b> 
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <b>Task</b>
-        </td>
-        <td>
-            <b>Frequency</b>
-        </td>
-        <td>
-            <b>Importance</b>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Buscar compañeros disponibles en la app
-        </td>
-        <td>
-            High
-        </td>
-        <td>
-            High
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Coordinar el punto de encuentro
-        </td>
-        <td>
-            Medium
-        </td>
-        <td>
-            Medium
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Realizar pagos a traves de la app
-        </td>
-        <td>
-            Medium
-        </td>
-        <td>
-            High
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Verificar la seguridad del conductor/compañeros	
-        </td>
-        <td>
-            High
-        </td>
-        <td>
-            High
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Calificar al conductor y el viaje
-        </td>
-        <td>
-            Low
-        </td>
-        <td>
-            Medium
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Planificar vaijes recurrentes
-        </td>
-        <td>
-            Medium
-        </td>
-        <td>
-            High
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Ser participe de promociones o descuentos
-        </td>
-        <td>
-            Low
-        </td>
-        <td>
-            Medium
-        </td>
-    </tr>
-</table>
+#### *Segmento Objetivo: Estudiantes Universitarios*
 
-</br></br>
+| **Task**                                 | **Frequency** | **Importance** |
+|------------------------------------------|---------------|-----------------|
+| Buscar compañeros disponibles en la app  | High          | High            |
+| Coordinar el punto de encuentro           | Medium        | Medium          |
+| Realizar pagos a través de la app         | Medium        | High            |
+| Verificar la seguridad del conductor/compañeros | High      | High            |
+| Calificar al conductor y el viaje         | Low           | Medium          |
+| Planificar viajes recurrentes             | Medium        | High            |
+| Ser partícipe de promociones o descuentos | Low           | Medium          |
 
-<table align="center" border="1" width="90%" style="text-align:center;">
-    <tr>
-        <td></td>
-        <td colspan=2>
-            <b>User Persona</b>
-        </td>
-    </tr>
-    <tr>
-        <td></td>
-        <td colspan=2>
-            Segmento Objetivo: <br> <b>Estudiantes universitarios propietarios de vehiculos privados</b>  
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <b>Task</b>
-        </td>
-        <td>
-            <b>Frequency</b>
-        </td>
-        <td>
-            <b>Importance</b>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Publicar la disponibilidad del vehiculo
-        </td>
-        <td>
-            High
-        </td>
-        <td>
-            High
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Aceptar solicitudes de pasajero
-        </td>
-        <td>
-            High
-        </td>
-        <td>
-            High
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Coordinar horarios y puntos de recogida
-        </td>
-        <td>
-            Medium
-        </td>
-        <td>
-            Medium
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Recibir pago de los pasajeros	
-        </td>
-        <td>
-            High
-        </td>
-        <td>
-            High
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Revisar la seguridad y confiabilidad del pasajero
-        </td>
-        <td>
-            Medium
-        </td>
-        <td>
-            High
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Calificar a los pasajeros
-        </td>
-        <td>
-            Low
-        </td>
-        <td>
-            Medium
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Optimizar rutas para ahorrar tiempo y combustible
-        </td>
-        <td>
-            Medium
-        </td>
-        <td>
-            High
-        </td>
-    </tr>
-</table>
+---
 
-</br></br>
+#### *Segmento Objetivo: Estudiantes universitarios propietarios de vehículos privados*
+
+| **Task**                                 | **Frequency** | **Importance** |
+|------------------------------------------|---------------|-----------------|
+| Publicar la disponibilidad del vehículo  | High          | High            |
+| Aceptar solicitudes de pasajero           | High          | High            |
+| Coordinar horarios y puntos de recogida   | Medium        | Medium          |
+| Recibir pago de los pasajeros             | High          | High            |
+| Revisar la seguridad y confiabilidad del pasajero | Medium  | High            |
+| Calificar a los pasajeros                 | Low           | Medium          |
+| Optimizar rutas para ahorrar tiempo y combustible | Medium | High            |
+
 
 ### 2.3.3. User Journey Mapping
 
 A continuación se pueden apreciar los User Journey Mapping de los segmentos objetivos.
 
-*Estudiantes Universitarios*
+#### *Estudiantes Universitarios*
 
 <img src="assets/images/user-journey-mapping/journey-map-1.png" width="900px">
 
-*Estudiantes universitarios propietarios de vehiculos privados*
+#### *Estudiantes universitarios propietarios de vehículos privados*
 
 <img src="assets/images/user-journey-mapping/journey-map-2.png" width="900px">
+
+---
 
 ### 2.3.4. Empathy Mapping
 
 A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivos.
 
-*Estudiantes Universitarios*
+#### *Estudiantes Universitarios*
 
 <img src="assets/images/empathy-mapping/empathy-mapping-1.png" width="900px">
 
-
-*Estudiantes universitarios propietarios de vehiculos privados*
+#### *Estudiantes universitarios propietarios de vehículos privados*
 
 <img src="assets/images/empathy-mapping/empathy-mapping-2.png" width="900px">
+
+---
 
 ### 2.3.5. As-is Scenario Mapping
 
 A continuación se pueden apreciar los As-Is Scenario de los segmentos objetivos.
 
-*Estudiantes Universitarios*
+#### *Estudiantes Universitarios*
 
 <img src="assets/images/as-is-scenario-mapping/as-is-scenario-1.png" width="900px">
 
-*Estudiantes universitarios propietarios de vehiculos privados*
+#### *Estudiantes universitarios propietarios de vehículos privados*
 
 <img src="assets/images/as-is-scenario-mapping/as-is-scenario-2.png" width="900px">
 
-*Enlace de Miro:* https://miro.com/app/board/uXjVKlGuWKk=/?share_link_id=612949293517
+**Enlace de Miro:** [As-Is Scenario Mapping Board](https://miro.com/app/board/uXjVKlGuWKk=/?share_link_id=612949293517)
+
+---
 
 ## 2.4. Ubiquitous Language
 
 - **Usuario**: Estudiante universitario registrado en la plataforma, ya sea como conductor o pasajero.
-####
 - **Conductor**: Estudiante universitario que posee un vehículo y está dispuesto a compartir su viaje hacia la universidad con otros estudiantes a cambio de una compensación económica.
-####
 - **Pasajero**: Estudiante universitario que utiliza la plataforma para buscar conductores con rutas compatibles y compartir un viaje hacia su universidad a cambio de una tarifa.
-####
 - **Viaje Compartido**: Desplazamiento en un vehículo particular en el que participan un conductor y uno o más pasajeros que comparten una ruta similar hacia la universidad.
-####
 - **Ruta**: Trayectoria específica que sigue un conductor desde su punto de origen hasta la universidad, la cual es compartida con los pasajeros a través de la plataforma.
-####
 - **Carpooling**: El acto de compartir un viaje entre varias personas para optimizar el uso de un vehículo particular, reducir costos y disminuir la congestión vehicular.
-####
 - **Reserva de Viaje**: Proceso mediante el cual un pasajero asegura un asiento en el vehículo de un conductor para un viaje específico, siguiendo una ruta y horario predeterminado.
-####
 - **Tarifa**: Costo que un pasajero paga al conductor por compartir el viaje. Esta tarifa cubre una parte de los gastos del conductor, como el combustible.
-####
 - **Perfil del Usuario**: Información detallada que cada usuario (conductor o pasajero) proporciona a la plataforma, incluyendo su nombre, universidad, calificaciones previas, y preferencias de viaje.
-####
 - **Calificación**: Sistema de puntuación que los pasajeros y conductores otorgan mutuamente después de cada viaje, basado en aspectos como puntualidad, seguridad y comportamiento durante el trayecto.
-####
 - **Notificación**: Comunicación enviada a los usuarios a través de la plataforma, informándoles sobre el estado de su reserva, cambios en la ruta, o recordatorios de viaje.
-####
 - **Punto de Encuentro**: Lugar acordado donde el conductor y los pasajeros se reúnen para iniciar el viaje compartido.
-####
 - **Destino**: La universidad u otro lugar predeterminado donde el viaje compartido finaliza.
 
 # Capítulo III: Requirements Specification
 
-## 3.1. To-Be Scenario Mapping.
+## 3.1. To-Be Scenario Mapping
 
-En esta sección se resume la información recopilada, se realiza dos tablas con la situación a mejorar del segmento objetivo, analizando que pasos que se realizaran y como se siente.
+En esta sección se resume la información recopilada. Se presentan dos tablas que detallan la situación a mejorar de cada segmento objetivo, analizando los pasos que se realizarán y cómo se sienten los usuarios en cada etapa.
 
-*Segmento Estudiantes Universitarios que necesiten movilizarse*
+### *Segmento: Estudiantes Universitarios que necesiten movilizarse*
 
 ![ScenarioMapO1.jpg](assets/images/toBeScenarioMapping/ScenarioMapO1.jpg)
 
+---
 
-*Segmento Estudiantes Universitarios propetarios de vehiculo privado*
+### *Segmento: Estudiantes Universitarios propietarios de vehículo privado*
 
 ![ScenarioMapO2.jpg](assets/images/toBeScenarioMapping/ScenarioMapO2.jpg)
+
 
 ## 3.2. User Stories
 <table>
@@ -2332,14 +1984,17 @@ El espaciado entre elementos visuales asegura una estructura clara y organizada,
 - **Interlineado**: Mantenemos un interlineado proporcional para mejorar la legibilidad.
 
 ### [**4.1.2. Web Style Guidelines.**](#web-style-guidelines)
+
 Las pautas de estilo para la web están diseñadas para asegurar que el diseño sea funcional y atractivo tanto en dispositivos móviles como en pantallas grandes. Incluir consistencia en colores, tipografías y espaciado es clave para mantener la identidad visual en todas las plataformas.
 
 ## [**4.2. Information Architecture.**](#information-architecture)
+
 En esta sección, se describe cómo se organizará el contenido en la plataforma **GoUni**, tanto en la web como en las aplicaciones móviles. Se busca que la estructura sea intuitiva para los estudiantes universitarios, permitiendo una navegación fluida y el acceso rápido a las principales funcionalidades de la plataforma.
 
 <hr>
 
 ### [**4.2.1. Organization Systems.**](#organization-systems)
+
 El Sistema de Organización de **GoUni** está diseñado para facilitar la interacción entre el usuario y la plataforma, asegurando que los estudiantes puedan encontrar y utilizar los servicios clave, como la búsqueda de viajes o la oferta de plazas en vehículos.
 
 - **Jerarquía Visual**: La página principal destacará las acciones más importantes para el usuario, como “Buscar viaje” y “Publicar viaje”, con énfasis en botones de llamada a la acción que lleven a estas secciones.
@@ -2350,6 +2005,7 @@ El Sistema de Organización de **GoUni** está diseñado para facilitar la inter
 <br>
 
 ### [**4.2.2. Labeling Systems.**](#labeling-systems)
+
 En **GoUni**, las etiquetas se diseñarán para ser claras, directas y comprensibles para los estudiantes, priorizando una navegación simple y una experiencia de usuario intuitiva.
 
 ### Etiquetas:
@@ -2366,6 +2022,7 @@ Una vez que los usuarios se registren y accedan a su cuenta, aparecerán nuevas 
 <br>
 
 ### [**4.2.3. SEO Tags and Meta Tags.**](#seo-tags-and-meta-tags)
+
 Los SEO Tags y Meta Tags son esenciales para mejorar la visibilidad de **GoUni** en los motores de búsqueda.
 
 ### Para la Landing Page:
@@ -2390,6 +2047,7 @@ Los SEO Tags y Meta Tags son esenciales para mejorar la visibilidad de **GoUni**
 <br>
 
 ### [**4.2.4. Searching Systems.**](#searching-systems)
+
 El sistema de búsqueda en GoUni facilitará a los usuarios encontrar viajes disponibles de forma rápida y efectiva. La funcionalidad de búsqueda incluirá:
 
 Búsqueda por Universidad: Los estudiantes podrán buscar viajes que conecten con su universidad específica.
@@ -2401,6 +2059,7 @@ Organización de Resultados: Los resultados se podrán ordenar de manera alfabé
 <br>
 
 ### [**4.2.5. Navigation Systems.**](#navigation-systems)
+
 El sistema de navegación de GoUni estará diseñado para que los usuarios puedan encontrar la información y realizar las acciones deseadas con el mínimo esfuerzo.
 
 Navegación Principal: El menú superior incluirá accesos rápidos a las funciones clave: "Buscar Viaje", "Publicar Viaje", "Reservas Actuales" y "Perfil".
@@ -2412,6 +2071,7 @@ Navegación Secundaria: En secciones como el perfil, habrá opciones adicionales
 <br>
 
 ## [**4.3. Landing Page UI Design**](#landing-page-ui-design)
+
 <hr>
 <td align="center">
 En esta sección, presentamos el diseño de la interfaz de usuario
@@ -2421,6 +2081,7 @@ versiones de escritorio como móviles. El objetivo principal es
 proporcionar una navegación clara y atractiva. </td>
 
 ### [**4.3.1. Landing Page Wireframe.**](#landing-page-wireframe)
+
 <td align="center">
 A continuación, mostramos los wireframes de la landing page, 
 los cuales representan la estructura básica y el layout sin 
@@ -2440,30 +2101,39 @@ Enlace a los wireframes de la Landing Page en Figma:
 ##### Wireframe de la página principal:
 
 Wireframe de la sección Header:
+
 ![Header_Wireframes_Desktop.png](assets/images/landingPage/wireframes/desktop/home/Header_Wireframes_Desktop.png)
 
 Wireframe de la sección Hero:
+
 ![HeroSection_Wireframes_Desktop.png](assets/images/landingPage/wireframes/desktop/home/HeroSection_Wireframes_Desktop.png)
 
 Wireframe de la sección How It Works:
+
 ![HowItWorks_Wireframes_Desktop.png](assets/images/landingPage/wireframes/desktop/home/HowItWorks_Wireframes_Desktop.png)
 
 Wireframe de la sección Benefits of GoUni:
+
 ![BenefitsofGoUni_Wireframes_Desktop.png](assets/images/landingPage/wireframes/desktop/home/BenefitsofGoUni_Wireframes_Desktop.png)
 
 Wireframe de la sección Security:
+
 ![Security_Wireframes_Desktop.png](assets/images/landingPage/wireframes/desktop/home/Security_Wireframes_Desktop.png)
 
 Wireframe de la sección Plans:
+
 ![Plans_Wireframes_Desktop.png](assets/images/landingPage/wireframes/desktop/home/Plans_Wireframes_Desktop.png)
 
 Wireframe de la sección Our Apps and Portals:
+
 ![OurAppsandPortals_Wireframes_Desktop.png](assets/images/landingPage/wireframes/desktop/home/OurAppsandPortals_Wireframes_Desktop.png)
 
 Wireframe de la sección Contact Us:
+
 ![ContactUs_Wireframes_Desktop.png](assets/images/landingPage/wireframes/desktop/home/ContactUs_Wireframes_Desktop.png)
 
 Wireframe de la sección Footer:
+
 ![Footer_Wireframes_Desktop.png](assets/images/landingPage/wireframes/desktop/home/Footer_Wireframes_Desktop.png)
 
 ##### Wireframe de la sección Sobre Nosotros:
@@ -2553,6 +2223,7 @@ Wireframe de la sección Footer:
 
 
 ### [**4.3.2. Landing Page Mock-up.**](#landing-page-mock-up)
+
 <td align="center">
 Esta sección presenta los mockups de la landing page,
 que ilustran el diseño final con detalles gráficos, tipografía,
@@ -2573,47 +2244,61 @@ Mockup de la sección Header:
 ![homeHome_Mockup_Desktop.png](assets/images/landingPage/mockups/desktop/home/homeHome_Mockup_Desktop.png)
 
 Mockup de la sección Hero:
+
 ![heroHowItWorks_Mockup_Desktop.png](assets/images/landingPage/mockups/desktop/home/heroHowItWorks_Mockup_Desktop.png)
 
 Mockup de la sección How It Works:
+
 ![howItWorks_Mockup_Desktop.png](assets/images/landingPage/mockups/desktop/home/howItWorks_Mockup_Desktop.png)
 
 Mockup de la sección Benefits of GoUni:
+
 ![benefitsOfGoUni_Mockup_Desktop.png](assets/images/landingPage/mockups/desktop/home/benefitsOfGoUni_Mockup_Desktop.png)
 
 Mockup de la sección Security:
+
 ![security_Mockup_Desktop.png](assets/images/landingPage/mockups/desktop/home/security_Mockup_Desktop.png)
 
 Mockup de la sección Plans:
+
 ![plans_Mockup_Desktop.png](assets/images/landingPage/mockups/desktop/home/plans_Mockup_Desktop.png)
 
 Mockup de la sección Our Apps and Portals:
+
 ![ourAppsAndPortals_Mockup_Desktop.png](assets/images/landingPage/mockups/desktop/home/ourAppsAndPortals_Mockup_Desktop.png)
 
 Mockup de la sección Contact Us:
+
 ![contactUs_Mockup_Desktop.png](assets/images/landingPage/mockups/desktop/home/contactUs_Mockup_Desktop.png)
 
 Mockup de la sección Footer:
+
 ![footerHome_Mockup_Desktop.png](assets/images/landingPage/mockups/desktop/home/footerHome_Mockup_Desktop.png)
 
 #### Mockups de la sesion Sobre Nosotros:
 
 Mockup de la sección Header:
+
 ![headerAboutUs_Mockup_Desktop.png](assets/images/landingPage/mockups/desktop/aboutUs/headerAboutUs_Mockup_Desktop.png)
 
 Mockup de la sección Who We Are:
+
 ![whoWeAre_Mockup_Desktop.png](assets/images/landingPage/mockups/desktop/aboutUs/whoWeAre_Mockup_Desktop.png)
 
 Mockup de la sección Why GoUni?:
+
 ![whyGoUni_Mockup_Desktop.png](assets/images/landingPage/mockups/desktop/aboutUs/whyGoUni_Mockup_Desktop.png)
 
 Mockup de la sección Our Sponsors:
+
 ![ourSponsors_Mockup_Desktop.png](assets/images/landingPage/mockups/desktop/aboutUs/ourSponsors_Mockup_Desktop.png)
 
 Mockup de la sección Our Team:
+
 ![ourTeam_Mockup_Desktop.png](assets/images/landingPage/mockups/desktop/aboutUs/ourTeam_Mockup_Desktop.png)
 
 Mockup de la sección Footer:
+
 ![footerAboutUs_Mockup_Desktop.png](assets/images/landingPage/mockups/desktop/aboutUs/footerAboutUs_Mockup_Desktop.png)
 
 ##### Versión Mobile:
@@ -2676,10 +2361,13 @@ Mockup de la sección Footer:
 
 
 ## [**4.4. Web Applications UX/UI Design.**](#web-applications-uxui-design)
+
 En esta sección, presentamos el diseño de la interfaz de usuario de las aplicaciones web de GoUni, que incluyen el inicio de sesión, la creación de cuenta, la búsqueda de viajes, la reserva de asientos y la calificación de conductores. El diseño se ha desarrollado teniendo en cuenta la experiencia del usuario y la accesibilidad en diferentes dispositivos.
 
 ### [**4.4.1. Web Applications Wireframes.**](#web-applications-wireframes)
+
 Enlace a los wireframes de las aplicaciones web en Figma:
+
 [Link Web Applications Wireframes](https://www.figma.com/design/tZ5rICQthPLiCqfgP01GU0/Web-Applications-UX%2FUI-Design-Wireframe?node-id=0-1&t=HjBTAU6Vvysv7zEy-1)
 
 #### Wireframes de las Aplicaciones Web en Figma:
@@ -2689,6 +2377,7 @@ Wireframe de la página de inicio de sesión:
 ![Iniciar de sesion.png](assets/images/webApplicationsWireframe/Iniciar%20de%20sesion.png)
 
 Wireframe de la página de creación de cuenta:
+
 ![creacionDeCuenta.png](assets/images/webApplicationsWireframe/creacionDeCuenta.png)
 
 Wireframe de la página de creación de cuenta elija una opcion:
@@ -2696,9 +2385,11 @@ Wireframe de la página de creación de cuenta elija una opcion:
 ![elijaOpcionEC.png](assets/images/webApplicationsWireframe/elijaOpcionEC.png)
 
 Wireframe de la página de creación de cuenta conductor:
+
 ![confirmacionConductor.png](assets/images/webApplicationsWireframe/confirmacionConductor.png)
 
 Wireframe de la página de creación de cuenta estudiante:
+
 ![creacionEstudiante.png](assets/images/webApplicationsWireframe/creacionEstudiante.png)
 
 Wireframe de la página de inicio:
@@ -2730,6 +2421,7 @@ Wireframe de la página de reserva descripcion:
 ![reservaDescripcion.png](assets/images/webApplicationsWireframe/reservaDescripcion.png)
 
 Wireframe de la página de confirmacion:
+
 ![confirmacion.png](assets/images/webApplicationsWireframe/confirmacion.png)
 
 Wireframe de la página de tus reservas:
@@ -2741,8 +2433,8 @@ Wireframe de la página de chat:
 ![chat.png](assets/images/webApplicationsWireframe/chat.png)
 
 Wireframe de la página de calificacion:
-![puntaje.png](assets/images/webApplicationsWireframe/puntaje.png)
 
+![puntaje.png](assets/images/webApplicationsWireframe/puntaje.png)
 
 
 
@@ -2751,6 +2443,7 @@ Wireframe de la página de calificacion:
 Los Wireflow Diagrams son diagramas que representan la secuencia de pasos que un usuario sigue al interactuar con la aplicación web. Estos diagramas muestran cómo los usuarios navegan por la plataforma, desde el inicio de sesión hasta la reserva de un viaje.
 
 Enlace a traves de la herramienta LucidChart:
+
 [Link Web Applications Wireflow Diagrams](https://lucid.app/lucidspark/7a90b2a6-17d1-4722-836a-0c5cea806e6c/edit?viewport_loc=538%2C-1750%2C11250%2C6000%2C0_0&invitationId=inv_976795c2-e182-45e2-a40d-3b91afa9fea9)
 
 #### Wireflow Diagrams de las Aplicaciones Web en LucidChart Iniciar Sesion:
@@ -2843,32 +2536,41 @@ Enlace a la mockup de la App Web en Figma:
 Los User Flow Diagrams son diagramas que representan la secuencia de pasos que un usuario sigue al interactuar con la aplicación web. Estos diagramas muestran cómo los usuarios navegan por la plataforma, desde el inicio de sesión hasta la reserva de un viaje.
 
 Enlace de los User Flow Diagrams en LucidChart:
+
 [Link de los User Flow Diagrams](https://lucid.app/lucidspark/7a90b2a6-17d1-4722-836a-0c5cea806e6c/edit?viewport_loc=-242%2C-2574%2C12846%2C6844%2C0_0&invitationId=inv_976795c2-e182-45e2-a40d-3b91afa9fea9)
 
 Inicio de sesión y creación de cuenta:
+
 ![iniciarSesion.png](assets/images/webApplication/userFlowDiagrams/iniciarSesion.png)
 
 Plan de pago:
+
 ![plan.png](assets/images/webApplication/userFlowDiagrams/plan.png)
 
 Realizar reserva:
+
 ![reservarViaje.png](assets/images/webApplication/userFlowDiagrams/reservarViaje.png)
 
+
 ## [**4.5. Web Applications Prototyping.**](#web-applications-prototyping)
+
 <hr>
 En esta sección, presentamos los prototipos interactivos de las aplicaciones web de GoUni. Los prototipos permiten a los usuarios navegar por las diferentes pantallas y funcionalidades, simulando la experiencia de uso de la aplicación antes de su desarrollo.
 
 ![WebApplicationsPrototyping.png](assets/images/webApplication/WebApplicationProtoyping/WebApplicationsPrototyping.png)
 
 Además, se adjunta el enlace al video completo de la presentación del prototipo:
+
 [Link Web Applications Prototyping](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223781_upc_edu_pe/ETLKK76SNXVJikhwsDJGTSkBZAvEbGNU4ak4g69Tj3FgIw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=IVuicG)
 
 Link Web Applications Prototyping:
+
 [Link Web Applications Prototyping](https://www.figma.com/proto/S0hrTzLLDq3a8tOxTfWqJx/Web-Applications-UX%2FUI-Design?page-id=0%3A1&node-id=1-50&node-type=FRAME&viewport=1434%2C1917%2C0.23&t=s9nxfg2WlkRXlbt2-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=7%3A894)
 
 
 
 ## [**4.6. Domain-Driven Software Architecture**](#domain-driven-software-architecture)
+
 ### [**4.6.1. Software Architecture Context Diagram.**](#software-architecture-context-diagram)
 
 ![Diagrama de clase](assets/images/databaseDesign/diagramcontext.png)
@@ -2882,134 +2584,171 @@ Link Web Applications Prototyping:
 ![Diagrama de clase](assets/images/databaseDesign/diagramcomponent.png)
 
 ## [**4.7. Software Object-Oriented Design.**](#software-object-oriented-design)
+
 ### [**4.7.1. Class Diagrams.**](#class-diagrams)
 
 ![Diagrama de clase](assets/images/databaseDesign/Diagrama_clase.png)
 
 ### [**4.7.2. Class Dictionary.**](#class-dictionary)
-<hr>
-Usuario:
+
+---
+
+### **Usuario**
 La clase Usuario representa a un usuario dentro de la plataforma, ya sea un conductor o pasajero.
 
-Atributos:
+#### **Atributos:**
 
-|Atributo|Descripción|
-| :- | :- |
-|nombre: String|Almacena el nombre del usuario.|
-|email: String|Almacena la dirección de correo electrónico del usuario.|
-|contraseña: String|Almacena la contraseña del usuario.|
-|rol: Rol|Define el rol del usuario en la plataforma (conductor o pasajero).|
-|verificado: Boolean|Indica si el usuario ha verificado su identidad.|
-## **Métodos:**
+| Atributo       | Descripción                                                              |
+| -------------- | ------------------------------------------------------------------------ |
+| `nombre: String`      | Almacena el nombre del usuario.                                            |
+| `email: String`       | Almacena la dirección de correo electrónico del usuario.                   |
+| `contraseña: String`  | Almacena la contraseña del usuario.                                        |
+| `rol: Rol`            | Define el rol del usuario en la plataforma (conductor o pasajero).         |
+| `verificado: Boolean` | Indica si el usuario ha verificado su identidad.                           |
 
-|Método|Descripción|
-| :- | :- |
-|registrarse(): void|Método para registrar a un nuevo usuario en la plataforma.|
-|iniciarSesion(): void|Método para que el usuario inicie sesión en la plataforma.|
-|verificarIdentidad(): void|Verifica la identidad del usuario a través de documentos o información adicional.|
-# **Evaluación**
+#### **Métodos:**
+
+| Método                   | Descripción                                                                        |
+| ------------------------ | ---------------------------------------------------------------------------------- |
+| `registrarse(): void`    | Método para registrar a un nuevo usuario en la plataforma.                        |
+| `iniciarSesion(): void`  | Método para que el usuario inicie sesión en la plataforma.                        |
+| `verificarIdentidad(): void` | Verifica la identidad del usuario a través de documentos o información adicional. |
+
+---
+
+### **Evaluación**
 La clase Evaluación permite a los usuarios calificar y dejar comentarios sobre sus experiencias de viaje.
-## **Atributos:**
 
-|Atributo|Descripción|
-| :- | :- |
-|calificación: int|Almacena la calificación numérica del viaje (por ejemplo, de 1 a 5).|
-|comentario: String|Almacena los comentarios opcionales sobre el viaje.|
-|evaluador: Usuario|Almacena la información del usuario que realiza la evaluación.|
-|viaje: Viaje|Almacena la información del viaje evaluado.|
-## **Métodos:**
+#### **Atributos:**
 
-|Método|Descripción|
-| :- | :- |
-|calificar(): void|Permite al usuario dejar una calificación sobre el viaje.|
-|dejarComentario(): void|Permite al usuario dejar un comentario opcional sobre el viaje.|
-# **Pasajero**
+| Atributo       | Descripción                                              |
+| -------------- | -------------------------------------------------------- |
+| `calificación: int` | Almacena la calificación numérica del viaje (por ejemplo, de 1 a 5). |
+| `comentario: String` | Almacena los comentarios opcionales sobre el viaje. |
+| `evaluador: Usuario` | Almacena la información del usuario que realiza la evaluación. |
+| `viaje: Viaje`       | Almacena la información del viaje evaluado.         |
+
+#### **Métodos:**
+
+| Método                 | Descripción                                              |
+| ---------------------- | -------------------------------------------------------- |
+| `calificar(): void`    | Permite al usuario dejar una calificación sobre el viaje.|
+| `dejarComentario(): void` | Permite al usuario dejar un comentario opcional sobre el viaje.|
+
+---
+
+### **Pasajero**
 La clase Pasajero es una extensión de Usuario y representa a los usuarios que buscan y reservan viajes.
-## **Métodos:**
 
-|Método|Descripción|
-| :- | :- |
-|buscarViaje(): void|Permite al pasajero buscar viajes disponibles en la plataforma.|
-|reservarViaje(): void|Permite al pasajero reservar un asiento en un vehículo disponible.|
-# **Vehículo**
+#### **Métodos:**
+
+| Método                   | Descripción                                                   |
+| ------------------------ | ------------------------------------------------------------- |
+| `buscarViaje(): void`    | Permite al pasajero buscar viajes disponibles en la plataforma.|
+| `reservarViaje(): void`  | Permite al pasajero reservar un asiento en un vehículo disponible.|
+
+---
+
+### **Vehículo**
 La clase Vehículo representa a los vehículos registrados por los conductores para ofrecer sus viajes.
-## **Atributos:**
 
-|Atributo|Descripción|
-| :- | :- |
-|tipo: String|Almacena el tipo de vehículo (sedán, SUV, camioneta, etc.).|
-|matrícula: String|Almacena la matrícula del vehículo.|
-|capacidad: int|Almacena la capacidad de pasajeros del vehículo.|
-## **Métodos:**
+#### **Atributos:**
 
-|Método|Descripción|
-| :- | :- |
-|registrarVehiculo(): void|Permite al conductor registrar su vehículo en la plataforma.|
-|actualizarDetallesVehiculo(): void|Permite actualizar la información del vehículo.|
-# **Viaje**
+| Atributo       | Descripción                                              |
+| -------------- | -------------------------------------------------------- |
+| `tipo: String`        | Almacena el tipo de vehículo (sedán, SUV, camioneta, etc.). |
+| `matrícula: String`   | Almacena la matrícula del vehículo.                       |
+| `capacidad: int`      | Almacena la capacidad de pasajeros del vehículo.           |
+
+#### **Métodos:**
+
+| Método                           | Descripción                                               |
+| -------------------------------- | --------------------------------------------------------- |
+| `registrarVehiculo(): void`      | Permite al conductor registrar su vehículo en la plataforma. |
+| `actualizarDetallesVehiculo(): void` | Permite actualizar la información del vehículo.             |
+
+---
+
+### **Viaje**
 La clase Viaje representa un viaje específico que un conductor ofrece a los pasajeros.
-## **Atributos:**
 
-|Atributo|Descripción|
-| :- | :- |
-|origen: String|Almacena el lugar de origen del viaje.|
-|destino: String|Almacena el destino del viaje.|
-|horario: Date|Almacena la hora de salida del viaje.|
-|conductor: Conductor|Almacena la información del conductor que ofrece el viaje.|
-|estado: String|Almacena el estado del viaje (disponible, completado, cancelado).|
-## **Métodos:**
+#### **Atributos:**
 
-|Método|Descripción|
-| :- | :- |
-|publicarViaje(): void|Permite al conductor publicar un viaje en la plataforma.|
-|reservarAsiento(): void|Permite reservar un asiento en el vehículo para un pasajero.|
-|actualizarEstado(): void|Actualiza el estado del viaje (por ejemplo, lleno, en curso).|
-# **Reserva**
+| Atributo       | Descripción                                              |
+| -------------- | -------------------------------------------------------- |
+| `origen: String`    | Almacena el lugar de origen del viaje.                       |
+| `destino: String`   | Almacena el destino del viaje.                                |
+| `horario: Date`     | Almacena la hora de salida del viaje.                         |
+| `conductor: Conductor` | Almacena la información del conductor que ofrece el viaje. |
+| `estado: String`    | Almacena el estado del viaje (disponible, completado, cancelado).|
+
+#### **Métodos:**
+
+| Método                       | Descripción                                               |
+| ---------------------------- | --------------------------------------------------------- |
+| `publicarViaje(): void`      | Permite al conductor publicar un viaje en la plataforma. |
+| `reservarAsiento(): void`    | Permite reservar un asiento en el vehículo para un pasajero. |
+| `actualizarEstado(): void`   | Actualiza el estado del viaje (por ejemplo, lleno, en curso).|
+
+---
+
+### **Reserva**
 La clase Reserva representa la acción de un pasajero que reserva un asiento en un viaje.
-## **Atributos:**
 
-|Atributo|Descripción|
-| :- | :- |
-|pasajero: Pasajero|Almacena la información del pasajero que realizó la reserva.|
-|viaje: Viaje|Almacena la información del viaje reservado.|
-|asientoReservado: String|Almacena el asiento reservado en el vehículo.|
-|estado: String|Almacena el estado de la reserva (confirmada, cancelada).|
-## **Métodos:**
+#### **Atributos:**
 
-|Método|Descripción|
-| :- | :- |
-|confirmarReserva(): void|Confirma la reserva realizada por el pasajero.|
-|cancelarReserva(): void|Permite cancelar una reserva antes del inicio del viaje.|
-# **Pago**
+| Atributo           | Descripción                                              |
+| ------------------ | -------------------------------------------------------- |
+| `pasajero: Pasajero` | Almacena la información del pasajero que realizó la reserva.|
+| `viaje: Viaje`       | Almacena la información del viaje reservado.             |
+| `asientoReservado: String` | Almacena el asiento reservado en el vehículo.         |
+| `estado: String`    | Almacena el estado de la reserva (confirmada, cancelada). |
+
+#### **Métodos:**
+
+| Método                         | Descripción                                                   |
+| ------------------------------ | ------------------------------------------------------------- |
+| `confirmarReserva(): void`     | Confirma la reserva realizada por el pasajero.                |
+| `cancelarReserva(): void`      | Permite cancelar una reserva antes del inicio del viaje.      |
+
+---
+
+### **Pago**
 La clase Pago representa la transacción realizada por un pasajero al reservar un viaje.
-## **Atributos:**
 
-|Atributo|Descripción|
-| :- | :- |
-|monto: float|Almacena el monto del pago por el viaje.|
-|metodoDePago: String|Almacena el método de pago utilizado (tarjeta, billetera digital, etc.).|
-|estado: String|Almacena el estado del pago (completado, pendiente).|
-## **Métodos:**
+#### **Atributos:**
 
-|Método|Descripción|
-| :- | :- |
-|realizarPago(): void|Realiza el pago del viaje reservado.|
-|confirmarPago(): void|Confirma que el pago ha sido realizado con éxito.|
-# **Notificación**
+| Atributo           | Descripción                                              |
+| ------------------ | -------------------------------------------------------- |
+| `monto: float`       | Almacena el monto del pago por el viaje.                 |
+| `metodoDePago: String` | Almacena el método de pago utilizado (tarjeta, billetera digital, etc.). |
+| `estado: String`    | Almacena el estado del pago (completado, pendiente).     |
+
+#### **Métodos:**
+
+| Método                         | Descripción                                                   |
+| ------------------------------ | ------------------------------------------------------------- |
+| `realizarPago(): void`         | Realiza el pago del viaje reservado.                         |
+| `confirmarPago(): void`        | Confirma que el pago ha sido realizado con éxito.            |
+
+---
+
+### **Notificación**
 La clase Notificación gestiona el envío de mensajes a los usuarios en relación con sus viajes y reservas.
-## **Atributos:**
 
-|Atributo|Descripción|
-| :- | :- |
-|mensaje: String|Almacena el contenido de la notificación.|
-|tipo: String|Almacena el tipo de notificación (recordatorio, cambio de ruta, etc.).|
-|tiempo: Date|Almacena la fecha y hora de envío de la notificación.|
-## **Métodos:**
+#### **Atributos:**
 
-|Método|Descripción|
-| :- | :- |
-|enviarNotificacion(): void|Envía la notificación al usuario correspondiente.|
-<br>
+| Atributo           | Descripción                                              |
+| ------------------ | -------------------------------------------------------- |
+| `mensaje: String`   | Almacena el contenido de la notificación.                 |
+| `tipo: String`      | Almacena el tipo de notificación (recordatorio, cambio de ruta, etc.).|
+| `tiempo: Date`      | Almacena la fecha y hora de envío de la notificación.     |
+
+#### **Métodos:**
+
+| Método                       | Descripción                                                   |
+| ---------------------------- | ------------------------------------------------------------- |
+| `enviarNotificacion(): void` | Envía la notificación al usuario correspondiente.            |
 
 ## [**4.8. Database Design.**](#database-design)
 
@@ -3823,9 +3562,10 @@ Durante este sprint, al igual que para el desarrollo de la landing page, para pr
 **Github analytics de nuestro tercer sprint - backend: ![](assets/images/sprint3/Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.029.png)**
 
 
-## 5.2.4 Sprint 4
+## [**5.2.4 Sprint 4.**](#524-sprint-4)
 
-### 5.2.4.1. Sprint Planning 4
+### [**5.2.4.1 Sprint Planning 4.**](#5241-sprint-planning-4)
+
 En este Sprint Planning 4 se presenta la evidencia de la unión entre el desarrollo de los RESTful Web Services (backend) y el Frontend. Además, se evidenciaron los avances del proyecto y los insights de colaboración en el equipo a través de GitHub.
 
 | **Sprint #**                     | Sprint 4                                |
@@ -3845,7 +3585,8 @@ En este Sprint Planning 4 se presenta la evidencia de la unión entre el desarro
 
 
 
-### 5.2.4.2. Sprint Backlog 4
+### [**5.2.4.2 Sprint Backlog 4.**](#5242-sprint-backlog-4)
+
 En esta parte se muestran las tareas que se realizaron en este sprint.
 
 ![SpringBacklog4.png](assets/images/sprint4/trello/SpringBacklog4.png)
@@ -3861,7 +3602,8 @@ En esta parte se muestran las tareas que se realizaron en este sprint.
 | Sprint 4 | US-28 | T1 | Identificación de usuarios frecuentes | Sección reseñas | Poder marcar y puntuar a un conductor | 6 | Alessandro | Done |
 | Sprint 4 | U-29 | T1 | Programar viajes recurrentes | Sección reservas | Poder reservar viajes recurrentes | 6 | Joan Talizo | Done |
 
-### 5.2.4.3. Development Evidence for Sprint Review
+### [**5.2.4.3 Development Evidence for Sprint Review.**](#5243-development-evidence-for-sprint-review)
+
 En esta sección, se presentan los commits realizados en el repositorio de la landing page en GitHub. Estos commits reflejan el progreso y las mejoras implementadas durante el sprint 4 con respecto a los avances tanto del frontend como backend.
 
 - [Repositorio de Frontend](https://github.com/Open-Source-SW53-Group-2/frontend)
@@ -3876,14 +3618,15 @@ En esta sección, se presentan los commits realizados en el repositorio de la la
 |                                                                                                  | -          | c9407a52d1aac44b528192a80c109f69eca2f96e | fix: resolve entity problems and configuration rate bounded context | -                       | 14 de nov, 2024         |
 |                                                                                                  | -          | 7b7d8846d66432b4a46975d0243e8501f10e76fd | Add shared folder with domain, infrastructure, and interfaces | -                       | 14 de nov, 2024         |
 
-### 5.2.4.4. Testing Suite Evidence for Sprint Review
-En el alcance del sprint 4 se ha desarrollado el backend de la aplicación web por lo que haremos algunas pruebas de aceptación.
+### [**5.2.4.4 Testing Suite Evidence for Sprint Review.**](#5244-testing-suite-evidence-for-sprint-review)
 
-- [Repositorio de Pruebas de Aceptación](https://github.com/Open-Source-SW53-Group-2/studentconnect-acceptance-test)
+In the scope of Sprint 4, the backend of the web application has been developed. Therefore, we will perform some acceptance tests.
+
+- [Acceptance Test Repository](https://github.com/Open-Source-SW53-Group-2/studentconnect-acceptance-test)
 
 ![TestingSuiteEvidenceStudentConnect.png](assets/images/sprint4/testing/TestingSuiteEvidenceStudentConnect.png)
 
- **Repository**                                                                                     | **Branch** | **Commit Id**                              | **Commit Message**             | **Commit Message Body** | **Committed on (Date)** |
+| **Repository**                                                                                     | **Branch** | **Commit Id**                              | **Commit Message**             | **Commit Message Body** | **Committed on (Date)** |
 |----------------------------------------------------------------------------------------------------|------------|--------------------------------------------|-------------------------------|--------------------------|--------------------------|
 | [https://github.com/Open-Source-SW53-Group-2/studentconnect-acceptance-test](https://github.com/Open-Source-SW53-Group-2/studentconnect-acceptance-test) | main       | f8eb76606b6b4a29e5330a65ec64b8d18189eaaf  | chore: add AT11.feature file  | -                        | Nov 13, 2024             |
 |                                                                                                    | main       | 5c6198939ff9480ca1fb268d34e32ee2b3de5d31  | chore: add AT12.feature file  | -                        | Nov 13, 2024             |
@@ -3891,7 +3634,7 @@ En el alcance del sprint 4 se ha desarrollado el backend de la aplicación web p
 |                                                                                                    | main       | 8b3b8c5bf2abe3b91107baf45becd61855e6d1e6  | chore: add AT14.feature file  | -                        | Nov 13, 2024             |
 |                                                                                                    | main       | 57393f7057a6b3913549cf9177a80da8a5b0dc6   | chore: add AT15.feature file  | -                        | Nov 13, 2024             |
 
-## 5.2.4.5. Execution Evidence for Sprint Review.
+## [**5.2.4.5 Execution Evidence for Sprint Review.**](#5245-execution-evidence-for-sprint-review)
 
 Para esta entrega, se realizaron algunos cambios en el frontend según las visitas pendientes. Se puede acceder a la aplicación web mediante el siguiente enlace: [https://landing-page-with-angular-sigma.vercel.app/home](https://landing-page-with-angular-sigma.vercel.app/home). Además, se ha avanzado con el desarrollo final del backend de la aplicación web.
 
@@ -3915,7 +3658,7 @@ La GoUni Platform API ofrece documentación REST para la aplicación. Aquí pued
 
 ![EvidenceApiSpringBoot3.png](assets/images/sprint4/Evidence/EvidenceApiSpringBoot3.png)
 
-## 5.2.4.6. Services Documentation Evidence for Sprint Review.
+## [**5.2.4.6 Services Documentation Evidence for Sprint Review.**](#5246-services-documentation-evidence-for-sprint-review)
 
 Para este sprint utilizamos los servicios de la API que nosotros mismos hicimos con Java en Spring Boot. A continuación, mostramos todos los endpoints realizados por nuestro equipo por cada Bounded Context correctamente documentados en Swagger.
 
@@ -3998,7 +3741,7 @@ Repositorio del backend en GitHub:
 
 ---
 
-## 5.2.4.7. Software Deployment Evidence for Sprint Review.
+## [**5.2.4.7 Software Deployment Evidence for Sprint Review.**](#5247-software-deployment-evidence-for-sprint-review)
 
 **Link del despliegue:**  
 [https://gouniprojectdeploy-production.up.railway.app/swagger-ui/index.html#/](https://gouniprojectdeploy-production.up.railway.app/swagger-ui/index.html#/)
@@ -4038,7 +3781,7 @@ Repositorio del backend en GitHub:
 
 
 
-## 5.2.4.8. Team Collaboration Insights during Sprint.
+## [**5.2.4.8 Team Collaboration Insights during Sprint.**](#5248-team-collaboration-insights-during-sprint)
 
 **Distribución de aportes en el informe:**
 
@@ -4063,11 +3806,11 @@ Para el desarrollo del informe en este sprint se distribuyó los capítulos de e
 En este sprint, al igual que en los otros, creamos una rama "developed". Cada miembro del equipo generó su propia sub-rama "feature" desde "developed" para subir su respectivo capítulo del reporte, siguiendo las convenciones establecidas de *conventional commits* y *git flow*.
 
 
-## [**5.3. Validation Interviews.**](#52-Validation-Interviews.)
+## [**5.3. Validation Interviews.**](#53-validation-interviews)
 
 Después de avanzar en el desarrollo de la landing page, la aplicación web (frontend) y la API RESTful (backend) del producto GoUni , realizamos entrevistas de validación. Estas entrevistas permitieron a los usuarios de ambos segmentos objetivos obtener una primera impresión del software.
 
-### [**5.3.1. Diseño de Entrevistas.**](#521-Interview-Design)
+### [**5.3.1. Diseño de Entrevistas.**](#531-diseño-de-entrevistas)
 
 Para realizar los componentes, elaboramos las preguntas para obtener información de nuestros segmentos objetivos mediante las entrevistas.
 
@@ -4138,7 +3881,7 @@ Para realizar los componentes, elaboramos las preguntas para obtener informació
 
 ---
 
-### [**5.3.2. Registro de Entrevistas.**](#523-Interview-Record)
+### [**5.3.2. Registro de Entrevistas.**](#532-registro-de-entrevistas)
 
 En esta sección se registran detalladamente las entrevistas de validación realizadas a los dos segmentos objetivos. Se adjunta el link del video completo:
 
@@ -4219,7 +3962,7 @@ URL del video de las entrevistas: [Ver video](https://upcedupe-my.sharepoint.com
 - **Resumen:** Durante la entrevista con Maykol Valencia, un universitario propietario de auto, se evaluó la usabilidad de la aplicación **GO uni**. Maykol destacó la interfaz intuitiva y atractiva, mencionando que el diseño le motiva a registrarse y utilizar el servicio. Apreció la funcionalidad de reseñas de conductores, que considera esencial para la seguridad, y sugirió la incorporación de seguimiento en tiempo real mediante GPS para mayor tranquilidad, además de la opción de compartir la ubicación. Como mejora visual, recomendó aumentar el espaciado entre los íconos de universidades. En conclusión, la retroalimentación fue positiva, destacando la utilidad de la aplicación y brindando sugerencias que podrían mejorar aún más la experiencia del usuario.
 
 
-### [**5.3.3. Evaluaciones según heurísticas.**](#5211-Evaluations-according-to-heuristics)
+### [**5.3.3. Evaluaciones según heurísticas.**](#533-evaluaciones-según-heurísticas)
 
 **UX Heuristics & Principles Evaluation**
 
@@ -4325,7 +4068,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 - **Recomendación:** Asegurarse de que el sistema de chat esté completamente operativo antes de ser presentado a los usuarios. Esto incluye verificar la interfaz, la capacidad de enviar mensajes y la funcionalidad de respuestas automáticas si las hay.
 
 
-## [**5.4. Video About-the-Product.**](#52-Video-About-the-Product)
+## [**5.4. Video About-the-Product.**](#54-video-about-the-product)
 
 En esta sección, introducimos y describimos el contenido del Video About-the-Product, el cual está dirigido a los visitantes de la Landing Page que desean conocer un poco más acerca de GoUni.
 
@@ -4385,6 +4128,7 @@ En esta sección, presentamos el Video About-the-Team, que destaca la colaboraci
 - **URL Microsoft Stream:** [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EU1OnTLoQn1GnRN9LSbVPCUBjx9jcCV71N2m_xFK5prmdQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=xwBpHX)
 - **URL Youtube:** [https://youtu.be/r0zoHufifZU](https://youtu.be/r0zoHufifZU)
 - **Duración del video:** 4:14 min
+
 
 # [**Bibliografia.**](#bibliografia)
 
