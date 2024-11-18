@@ -3885,7 +3885,7 @@ Para realizar los componentes, elaboramos las preguntas para obtener informació
 
 En esta sección se registran detalladamente las entrevistas de validación realizadas a los dos segmentos objetivos. Se adjunta el link del video completo:
 
-URL del video de las entrevistas: [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EaA1ySLWCUJNk9eKMXToLdIBWsxJZ5OeGrLLJU6PTNtzAg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=s4OD5H)
+URL del video de las entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EaA1ySLWCUJNk9eKMXToLdIBiJpvFl43-Y5fwgIa9evBvA?e=wVJsk2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0
 
 ---
 
@@ -3898,7 +3898,7 @@ URL del video de las entrevistas: [Ver video](https://upcedupe-my.sharepoint.com
 - **Nombre Completo del entrevistado:** Alex Martinez
 - **Edad:** 21
 - **Distrito:** Santa Anita
-- **URL:** [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EaA1ySLWCUJNk9eKMXToLdIBiJpvFl43-Y5fwgIa9evBvA?e=wVJsk2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0)
+- **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EaA1ySLWCUJNk9eKMXToLdIBiJpvFl43-Y5fwgIa9evBvA?e=wVJsk2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0
 - **Inicio de entrevista:** 10:14 s
 - **Duración:** 32:17 s
 - **Resumen:** Se entrevistó a Alex Martinez sobre la aplicación web, destacando el orden visual y la utilidad de la funcionalidad de GPS en tiempo real. Comentó que los planes de precios son buenos y que consideraría contratar el servicio.
@@ -3912,7 +3912,7 @@ URL del video de las entrevistas: [Ver video](https://upcedupe-my.sharepoint.com
 - **Nombre Completo del entrevistado:** Maria Gracia Rojas Montenegro
 - **Edad:** 19
 - **Distrito:** Surco
-- **URL:** [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EaA1ySLWCUJNk9eKMXToLdIBiJpvFl43-Y5fwgIa9evBvA?e=wVJsk2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0)
+- **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EaA1ySLWCUJNk9eKMXToLdIBiJpvFl43-Y5fwgIa9evBvA?e=wVJsk2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0
 - **Inicio de entrevista:** 0:01
 - **Duración:** 32:17 s
 - **Resumen:** Maria Gracia dio opiniones positivas sobre la landing page y la aplicación web, resaltando la funcionalidad del GPS en términos de seguridad. Mencionó que en su computadora algunos elementos de la landing page se veían superpuestos.
@@ -3928,7 +3928,7 @@ URL del video de las entrevistas: [Ver video](https://upcedupe-my.sharepoint.com
 - **Nombre Completo del entrevistado:** Ariana Valera
 - **Edad:** 24
 - **Distrito:** Santiago de Surco, Lima
-- **URL:** [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EaA1ySLWCUJNk9eKMXToLdIBiJpvFl43-Y5fwgIa9evBvA?e=wVJsk2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0)
+- **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EaA1ySLWCUJNk9eKMXToLdIBiJpvFl43-Y5fwgIa9evBvA?e=wVJsk2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0
 - **Inicio de entrevista:** 27:00 s
 - **Duración:** 32:17 s
 - **Resumen:**  Ariana consideró el diseño de la aplicación atractivo y motivador para registrarse, destacando que la interfaz es fácil de usar y sigue una secuencia común en aplicaciones web. Los precios de los planes le parecieron accesibles para estudiantes y valora la función de ubicación en tiempo real por la seguridad que brinda. Utilizó una laptop y Google Chrome, aunque notó una ligera superposición en algunos elementos de la landing page. En general, la aplicación cumplió con sus expectativas, con solo algunos detalles menores a mejorar.
@@ -3942,7 +3942,7 @@ URL del video de las entrevistas: [Ver video](https://upcedupe-my.sharepoint.com
 - **Nombre Completo del entrevistado:** Dayana Rojas Sosa
 - **Edad:** 19
 - **Distrito:** Ate, Lima
-- **URL:** [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EaA1ySLWCUJNk9eKMXToLdIBiJpvFl43-Y5fwgIa9evBvA?e=wVJsk2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0)
+- **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EaA1ySLWCUJNk9eKMXToLdIBiJpvFl43-Y5fwgIa9evBvA?e=wVJsk2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0
 - **Inicio de entrevista:** 2:54 s
 - **Duración:** 32:17 s
 - **Resumen:** Dayana elogió el diseño de la aplicación, calificándolo como fácil de entender y bien estructurado, lo cual le inspiró confianza para registrarse. Le gustó la organización intuitiva de la interfaz, que facilita la navegación, y consideró que los precios de los planes son adecuados para lo que ofrece la aplicación. Para ella, la función de ubicación en tiempo real es esencial, ya que incrementa su seguridad. Probó la aplicación en celular y laptop, y aunque todo funcionó bien, sugirió mejorar la visibilidad de las letras en el registro, que encontró algo opacas.
@@ -3956,7 +3956,7 @@ URL del video de las entrevistas: [Ver video](https://upcedupe-my.sharepoint.com
 - **Nombre Completo del entrevistado:** Maykol Valencia
 - **Edad:** 23 años
 - **Distrito:** Selva Alegre, Arequipa
-- **URL:** [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EaA1ySLWCUJNk9eKMXToLdIBiJpvFl43-Y5fwgIa9evBvA?e=ZtjOuJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0)
+- **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EaA1ySLWCUJNk9eKMXToLdIBiJpvFl43-Y5fwgIa9evBvA?e=wVJsk2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0
 - **Inicio de entrevista:** 15:00 s
 - **Duración:** 32:17 s
 - **Resumen:** Durante la entrevista con Maykol Valencia, un universitario propietario de auto, se evaluó la usabilidad de la aplicación **GO uni**. Maykol destacó la interfaz intuitiva y atractiva, mencionando que el diseño le motiva a registrarse y utilizar el servicio. Apreció la funcionalidad de reseñas de conductores, que considera esencial para la seguridad, y sugirió la incorporación de seguimiento en tiempo real mediante GPS para mayor tranquilidad, además de la opción de compartir la ubicación. Como mejora visual, recomendó aumentar el espaciado entre los íconos de universidades. En conclusión, la retroalimentación fue positiva, destacando la utilidad de la aplicación y brindando sugerencias que podrían mejorar aún más la experiencia del usuario.
