@@ -237,6 +237,8 @@ Para el desarrollo de la entrega **TF**, se optó por dividir el trabajo de la s
 | **Comunica oralmente con efectividad a diferentes rangos de audiencia.**   | **Anampa Lavado Luis Angel**, <br><br>**TB1**: Como integrante del equipo, he promovido un ambiente colaborativo en este proyecto, asegurando que mis aportes sean comunicados de manera efectiva. Durante nuestras reuniones, hemos interactuado de manera activa para evaluar el progreso y resolver dudas o consultas que puedan surgir, fomentando así un espíritu de cooperación y aprendizaje mutuo.<br><br> **TP1**:  A través de la reunión realizada para distribuir las tareas relacionadas con la aplicación web, pudimos participar activamente como grupo, aportando nuestras ideas para la elaboración de la página. Este intercambio ha enriquecido el proceso creativo y nos ha permitido definir una dirección clara para el desarrollo del proyecto.<br><br>**TB2**: Me comunique con mi equipo para resolver dudas del presente sprint 3, tambien para despejar mis dudas sobre el despliegue del backend, apendimos a escuchar a cada uno e intercambiar ideas que nos permitido colaborar conjuntamente.<br><br> **TF**:Durante la etapa final del proyecto, me aseguré de consolidar el trabajo realizado, revisando minuciosamente los entregables para garantizar su calidad y alineación con los objetivos iniciales. Además, colaboré con mi equipo para preparar la presentación final, sintetizando de manera clara y efectiva los logros obtenidos y los aprendizajes adquiridos. Este proceso nos permitió reflexionar sobre las áreas de mejora y fortalecer nuestras habilidades en trabajo en equipo y comunicación. <br><br> **David Polanco, Alessandro Alonso** <br><br> **TB1**: Comunicó ideas y resultados de manera objetiva a audiencias variadas, compartiendo el progreso y los desafíos del proyecto.<br><br> **TP**: Implemente funcionalidad de chat con los conductores en la App Web <br><br> **TB2:** Se realizo optimizacion del codigo de backend de GoUni y aporte a la documentacion y video About-The-Product <br><br> **TF**: Se realizo optimizacion del codigo de backend de GoUni y aporte a la documentacion y video About-The-Product <br><br> **Talizo Balbin Joan Jefferson**, <br><br> **TB1**: Entrevistó usuarios y realizó sprints backlog, contribuyendo al desarrollo de la landing page. <br><br> **TP1** Como integrante del equipo, hemos realizado la distribución de las tareas para realizarlo en la aplicación web con Angular. Asimimsmo, se trabajo en equipo, aportandooslas ideas de cada integantes. Aprendimos en escuchar a cada uno e intercambio de ideas que nos ha permitido colaborar de manera satisfactoria en el desarrollo del proyecto.<br><br> **TB2**: Para el desarrollo del sprint 3, logre implementar la funcionalidad del backend en la parte de driver en Sring Boot. Asimismo, la grabacion de las entrevistas y About The Product. <br><br> **TF**: Para el desarollo del Sprint 4, me aseguré una contribución eficiente y cumplí con las fechas de entrega. Asimismo, colaboré con mi equipo en las tareas asignadas, se realizo el video de About-The-Team. Ante ello, este proceso nos permitio a mi grupo reflexionar sobre fortalecer nuestras fortalezas y habilidades en el trabajo en equipo y comunicación. <br><br> **Valera Garcés Samuel Ignacio,** <br><br> **TB1**: Informó sobre el progreso y los obstáculos del proyecto a públicos especializados.<br><br> **TP**: Implementó la funcionalidad del login en Angular CLI, realizando todo el proceso satisfactoriamente. <br><br> **TB2**: Implementó la funcionalidad del backend login y register en Spring Boot, asi como la grabacion de entrevistas y About the Product. <br><br> **TF**: En el sprint 4 me encargue de mejorar el backend para el login y grabar las modificaciones del about the product <br><br> **Mallma Espiritu Franky** <br><br> **TB1**: Compartió ideas de solución de manera objetiva durante el desarrollo del proyecto. <br><br> **TP1**: Para el desarrollo del proyecto logre cumplir el objetivo satisfactoriamente hablando sobre la distribucion del proyecto y realizando entrevistas con el es testeo y deploy de la aplicacion web. <br><br> **TB2**: Para el desarrollo del sprint 3 logre comunicarme de forma adecuada sobre el avance del proyecto con mi equipo de trabajo ,adema de realizar heuristicas para otro tipo de segmentos <br><br> **TF**: En el sprint 4 propicie a la comunicacion con mi equipo de trabajo sobre el informe y agregar funcionalidades del backend | **General**: La comunicación clara y precisa fue crucial para el éxito del proyecto, facilitando la cooperación y comprensión entre los equipos. La capacidad de comunicar de manera objetiva y profesional coordinó esfuerzos y mejoró la ejecución del proyecto. |
 | **Comunica por escrito con efectividad a diferentes rangos de audiencia.** | **Anampa Lavado Luis Angel**, <br><br>**TB1**: Como miembro del equipo, cumplí con mis responsabilidades de manera oportuna, asumiendo la tarea de realizar entrevistas, redactar la introducción y el planteamiento del problema, así como contribuir en la elaboración de la landing page en conjunto con mis compañeros. Esta experiencia ha fortalecido nuestras dinámicas de trabajo y ha permitido un desarrollo cohesivo del proyecto.<br><br> **TP1**: En esta fase del trabajo, me corresponde apoyar en el Sprint 2, donde me enfocaré en la implementación de la aplicación web. Estoy comprometido en colaborar estrechamente con el equipo para asegurar que cumplamos con nuestros objetivos de manera efectiva.<br><br> **TB2**:Contribui con implementacion de las entresvitas , con endpoints del backend y actualizacion de la landing page con el about the product.<br><br> **TF**:En la etapa final del proyecto, participé en la integración y validación de las funcionalidades implementadas, asegurándome de que la aplicación cumpliera con los requerimientos establecidos. Además, colaboré en la documentación final del proyecto y en la preparación de la presentación para stakeholders. Este proceso me permitió reflexionar sobre las áreas de mejora del proyecto y consolidar las habilidades adquiridas durante el desarrollo, incluyendo la resolución de problemas y el trabajo en equipo.<br><br> **David Polanco, Alessandro Alonso** <br><br> **TB1**: Usó el Lean UX Canvas e intervino en el diseño de la Information Architecture y la estructura de la base de datos.<br><br> **TP:** Para la entrega parcial me encargué de avanzar con la documentacion del informe, registrar entrevistas de diferentes segmentos y avance del Frontend de GoUni. <br><br> **TB2:** Para este avance me encargue de la optimizacion del codigo del backend de GoUni, realice la grabacion del video About-The-Product. <br><br> **TF**: En la etapa final del proyecto de GoUni, participe realizando la optimizacion de codigo del lado de los servicios de GoUni, igualmente asegurando que la aplicacion cumpliera con los requisitos planteados en la documentacion. Ademas pude participar en la realizacion del Video-About-TheProduct, lo cual me permitio presentar de una manera generla hacia donde queremos enfocarnos con este producto y explicar las funcionalidades que puede llegar a ofrecer GoUni hacia su publico objetivo. <br><br> **Mallma Espiritu Franky Oswald,** <br><br> **TB1**: Entrevistó usuarios y participó en el desarrollo de la landing page. <br><br> **TP1**: Para la entrega parcial me enargue de desarrollar la documentacion del informe de forma exitosa ademas de registrar las entrevistas de los distintos segmentos, cumpliendo asi el comunicar a otras audiencias <br><br> **TB2**: para el desarrollo del sprint 3 , me encargue de desarrollar y distribuir el informe escrito en el repositorio github. Asimismo con el desarrollo de los distintos reportes del tb2 <br><br> **TF**: En el sprint 4 me encargue de distribuir las partes del informe ademas de promover de forma escrita el compromiso de cada uno de los integrantes a travez del performance <br><br> **Talizo Balbin Joan Jefferson** <br><br> **TB1**: Contribuyó en diversas etapas del desarrollo, creando user personas y empathy maps. <br><br> **TB1**: En esta fase del trabajo parcial, me corresponde en colaborar en el Sprint2, donde me enfoquele en la implementación de mockups del Figma a Angular. Asimismo, estoy comprometido en colaborar con el equipo para asegurar que cumplanos con nuestros objetivos de forma colaborativa, efectiva y trabajo en equipo.<br><br> **TB2**: Para el desarollo del Sprint 3, contribui en las entrevistas realizadas con sus respectivos endpoints del backend. Asimimso, se implemento el deploy con MySQL.<br><br> **TF**: Redactó un informe final que sintetizaba los resultados del proyecto, destacando las metas alcanzadas, los retos superados y las recomendaciones para proyectos futuros. Este documento sirvió como referencia para evaluar el éxito del proyecto y sugerir mejoras en el proceso de desarrollo. <br><br> **Valera Garcés, Samuel Ignacio** <br><br> **TB1**: Ayudó en la documentación y diseño de journey mappings y diagram flows para el proyecto. <br><br> **TP**: Documentó la implementación del login en Angular CLI, asegurando que los procesos fueran claramente entendidos por todos los miembros del equipo. <br><br> **TB2**: Desarrollo de parte del backend, grabacion y edicion de videos. <br><br> **TF**: Logre realizar mejoras en codigo y video, contribuyendo con mi labor en el grupo                                             | **General**: La documentación clara y detallada fue fundamental para el desarrollo del proyecto, asegurando que toda la información fuera comprensible para los diversos públicos. La escritura objetiva y profesional facilitó la colaboración y el éxito en cada fase del desarrollo. |
 
+---
+
 # [**Capítulo I: Introducción.**](#capítulo-i-introducción)
 
 ## [**1.1 Startup Profile.**](#11-startup-profile)
@@ -294,6 +296,8 @@ Aspiramos a ser líderes en movilidad estudiantil, reconocidos por nuestro compr
 
 </table>
 
+---
+
 ## [**1.2. Solution Profile.**](#12-solution-profile)
 
 ### [**1.2.1. Antecedentes y Problemática.**](#121-antecedentes-y-problemática)
@@ -350,6 +354,7 @@ En Lima, se registran numerosos problemas socioculturales, como la delincuencia 
 ###### Quienes seran los beneficiados por el servicio?
 Los estudiantes universitarios que deseen una alternativa que sea eficiente, cómoda y económica, así como aquellos que busquen generar ingresos o reducir sus gastos en combustible durante su viaje hacia la universidad.
 
+---
 
 ### [**1.2.2. Lean UX Process.**](#122-lean-ux-process)
 
@@ -486,6 +491,8 @@ Assumptions play a crucial role in identifying project risks and fostering team 
 | - Identificar barreras de adopción y estrategias para superarlas.                                                                                                               | - Establecer soporte básico al usuario para resolver consultas y problemas de manera rápida y efectiva.                                                   |
 | - Comprender las mejores prácticas de carpooling y estudiar a la competencia.                                                                                                  |                                                                                                                                                           |
 
+---
+
 ## [**1.3. Segmentos objetivo.**](#13-segmentos-objetivo)
 
 Por medio de nuestro enfoque de obtener una solución efectiva a las problemáticas de nuestros futuros usuarios, identificamos los siguientes segmentos para GoUni:
@@ -528,6 +535,8 @@ Por medio de nuestro enfoque de obtener una solución efectiva a las problemáti
 **Aspectos psicográficos:**
 
 - Son hábiles dentro del uso de dispositivos inteligentes.
+
+---
 
 # Capítulo II: Requirements Elicitation & Analysis
 
@@ -1025,6 +1034,8 @@ A continuación se pueden apreciar los As-Is Scenario de los segmentos objetivos
 - **Notificación**: Comunicación enviada a los usuarios a través de la plataforma, informándoles sobre el estado de su reserva, cambios en la ruta, o recordatorios de viaje.
 - **Punto de Encuentro**: Lugar acordado donde el conductor y los pasajeros se reúnen para iniciar el viaje compartido.
 - **Destino**: La universidad u otro lugar predeterminado donde el viaje compartido finaliza.
+
+---
 
 # Capítulo III: Requirements Specification
 
@@ -1960,6 +1971,7 @@ En esta sección se resume la información recopilada. Se presentan dos tablas q
 </tbody>
 </table>
 
+---
 
 # [**Capítulo IV: Product Design.**](#capítulo-iv-product-design)
 
@@ -2085,6 +2097,8 @@ Navegación Secundaria: En secciones como el perfil, habrá opciones adicionales
 ![Navigation.png](assets/images/styleGuidelines/navigation.png)
 
 <br>
+
+---
 
 ## [**4.3. Landing Page UI Design**](#landing-page-ui-design)
 
@@ -2577,7 +2591,7 @@ En esta sección, presentamos los prototipos interactivos de las aplicaciones we
 
 Además, se adjunta el enlace al video completo de la presentación del prototipo:
 
-[Link Web Applications Prototyping](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223781_upc_edu_pe/ETLKK76SNXVJikhwsDJGTSkBZAvEbGNU4ak4g69Tj3FgIw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=IVuicG)
+[Link Video Applications Prototyping](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223781_upc_edu_pe/ETLKK76SNXVJikhwsDJGTSkBZAvEbGNU4ak4g69Tj3FgIw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=IVuicG)
 
 Link Web Applications Prototyping:
 
@@ -2766,6 +2780,8 @@ La clase Notificación gestiona el envío de mensajes a los usuarios en relació
 | ---------------------------- | ------------------------------------------------------------- |
 | `enviarNotificacion(): void` | Envía la notificación al usuario correspondiente.            |
 
+---
+
 ## [**4.8. Database Design.**](#database-design)
 
 ![Diagrama de clase](assets/images/databaseDesign/Diagrama_clase.png)
@@ -2776,6 +2792,7 @@ A continuación se detalla el modelo físico realizado para esta entrega, donde 
 
 ![Diagrama de la Base de Datos](assets/images/databaseDesign/databasediagram.png)
 
+---
 
 # [**Capítulo V: Product Implementation, Validation & Deployment.**](#capítulo-v-product-implementation-validation--deployment)
 
@@ -2794,6 +2811,7 @@ En esta parte, se mencionarán los distintos programas de software que el equipo
 - **Trello**: <https://trello.com/>  
   La plataforma de Trello se empleó para la gestión de las tareas y la organización del flujo del trabajo en el proyecto. Las tareas se presentaron dentro de tarjetas en listas con el integrante encargado de realizarlas. Además, utilizamos funcionalidades como agregar etiquetas de colores y marcar el proceso de las tareas. De esta manera, pudimos hacer seguimiento a nuestros avances en el proyecto.
 
+
 - **Notion**: <https://www.notion.so/>  
   Notion fue utilizado para la colaboración del equipo en el proyecto. Se crearon calendarios y listas con las fechas de las reuniones del equipo. Además, se usaron herramientas como comentarios y menciones para fomentar el trabajo y la colaboración en equipo.
 
@@ -2807,8 +2825,15 @@ En esta parte, se mencionarán los distintos programas de software que el equipo
 - **Figma**: <https://www.figma.com/>  
   Figma nos ayudó a desarrollar los wireframes, mockups y prototipos de la aplicación móvil.
 
+
 - **Miro**: <https://miro.com/es/>  
   Miro fue de utilidad para realizar los As-Is Scenario Mapping y To-Be Scenario Mapping para cada uno de los segmentos objetivos.
+
+
+- **LucidChart**: <https://www.lucidchart.com/>
+  
+  LucidChart se utilizó para la creación de los diagramas de flujo y los diagramas de arquitectura de software.
+
 
 - **UXPressia**: <https://uxpressia.com/>  
   UXPressia se empleó para la creación de User Personas, Empathy Maps, Journey Maps e Impact Maps. Usamos plantillas de UXPressia para elaborar cada una de estas herramientas, permitiendo exportar el trabajo realizado para incluirlo en el proyecto.
@@ -2816,10 +2841,15 @@ En esta parte, se mencionarán los distintos programas de software que el equipo
 **Software Development**
 
 - **Landing Page**  
-  Para el desarrollo de la landing page se utilizaron HTML5, CSS y JavaScript.
+  La landing page fue desarrollada utilizando **Angular** y **TypeScript (TS)**, lo que permitió un desarrollo más estructurado y escalable. Además, se utilizaron estilos personalizados con **CSS**. El diseño y desarrollo fueron optimizados para su despliegue en **Vercel**.
+
 
 - **Frontend Web Application**  
-  Para la aplicación web frontend, se utilizó Angular como framework de JavaScript, junto con PrimeNG para componentes UI reutilizables. El stack tecnológico incluye Java con Spring Boot, HTML, Angular, JavaScript, CSS y una base de datos MySQL.
+  Para la aplicación web frontend, se utilizó **Angular** junto con **TypeScript (TS)**, empleando **Angular Material** para la creación de componentes UI consistentes y responsivos. En algunas partes del diseño también se integraron estilos de **Bootstrap** para complementar la interfaz. La arquitectura fue diseñada para ser modular, escalable y responsiva, optimizada para su despliegue en **Vercel**.
+
+
+- **Backend**  
+  El backend fue desarrollado utilizando **Java** con el framework **Spring Boot**, proporcionando APIs RESTful que interactúan con una base de datos **MySQL**. Este servicio fue desplegado en **Railway**, garantizando escalabilidad y un manejo eficiente de las integraciones con el frontend y la landing page.
 
 **Software Testing**
 
@@ -2827,50 +2857,74 @@ Para las pruebas funcionales de la Landing Page y la aplicación web, se utiliza
 
 **Software Deployment**
 
-- **Netlify**: <https://www.netlify.com/>  
-  Para el despliegue de la Landing Page, se conectó el repositorio de GitHub con Netlify. Esto permitió que Netlify gestionara automáticamente la implementación cada vez que se actualizó el repositorio.
+- **Vercel**: [https://vercel.com/](https://vercel.com/)  
+  Para el despliegue de la Landing Page y la Web Application, se conectó el repositorio de GitHub con Vercel. Esto permitió que Vercel gestionara automáticamente las implementaciones cada vez que se realizaron actualizaciones en el repositorio.  
+  Además, Vercel ofreció vistas previas de las ramas para facilitar la revisión de los cambios antes de publicarlos en producción.
+
+
+- **Railway**: [https://railway.app/](https://railway.app/)  
+  Para el despliegue del backend, se utilizó Railway, conectando el repositorio de GitHub al servicio. Esto permitió implementar automáticamente los cambios realizados en el código.  
+  Railway proporcionó un entorno escalable y simplificado para manejar las configuraciones del servidor y las bases de datos, facilitando el proceso de desarrollo y despliegue.
 
 **Software Documentation**
 
-- **Google Drive**: <https://www.google.com/intl/es-419_pe/drive/>  
-  Google Drive se utilizó para crear documentos mediante Google Docs, permitiendo trabajar colaborativamente en los informes de las entregas.
 
-- **Structurizr**: <https://structurizr.com/>  
-  Herramienta empleada para crear diagramas C4 (contexto, contenedor y componentes) utilizando una sintaxis similar a un lenguaje de programación.
+- **Google Drive**: [https://www.google.com/intl/es-419_pe/drive/](https://www.google.com/intl/es-419_pe/drive/)  
+  Google Drive se utilizó para crear y gestionar documentos mediante **Google Docs**, permitiendo trabajar de manera colaborativa en los informes de las entregas. Además, se utilizó para almacenar archivos relevantes del proyecto y facilitar el acceso compartido.
 
-- **GitHub**: <https://github.com/>  
-  GitHub se usó para la creación de la documentación y la Landing Page, gracias a sus capacidades para el trabajo colaborativo.
+
+- **Structurizr**: [https://structurizr.com/](https://structurizr.com/)  
+  Se empleó **Structurizr** para la creación de diagramas C4, cubriendo los niveles de contexto, contenedor y componentes. Esta herramienta facilitó la visualización de la arquitectura del sistema utilizando una sintaxis basada en texto, ideal para mantener la documentación actualizada y consistente.
+
+
+- **GitHub**: [https://github.com/](https://github.com/)  
+  GitHub se utilizó tanto para la creación de la documentación como para el versionado y despliegue de la **Landing Page** y la **Web Application**. Su sistema de control de versiones y las herramientas para trabajo colaborativo permitieron gestionar cambios de manera eficiente.
+
 
 ### [**5.1.2. Source Code Management.**](#source-code-management)
 
-La administración y estructuración de las múltiples modificaciones se realizaron mediante la creación de un repositorio en GitHub para el proyecto. Nuestra organización se estructuró de la siguiente manera:
+La administración y estructuración de las múltiples modificaciones del proyecto se realizó mediante la creación de varios repositorios en GitHub. Nuestra organización se estructuró de la siguiente manera:
 
 **Organización:**  
-<https://github.com/Open-Source-SW53-Group-2>
+[https://github.com/Open-Source-SW53-Group-2](https://github.com/Open-Source-SW53-Group-2)
 
 - **Repositorio de la Landing Page:**  
-  <https://github.com/Open-Source-SW53-Group-2/Landing-Page>
+  [https://github.com/Open-Source-SW53-Group-2/Landing-Page-With-Angular](https://github.com/Open-Source-SW53-Group-2/Landing-Page-With-Angular)
 
-Para mejorar el control sobre la creación de ramas y la implementación de cambios en el código fuente, se utilizó Gitflow. Se establecieron dos ramas principales: `main` y `develop`.
 
-**Ramas principales:**
+- **Repositorio de la Web Application:**  
+  [https://github.com/Open-Source-SW53-Group-2/frontend](https://github.com/Open-Source-SW53-Group-2/frontend)
 
-- **Rama `main`:**  
-  Contiene las versiones oficiales del repositorio, listas para ser desplegadas en producción.
 
-- **Rama `develop`:**  
-  Funciona como el punto de integración para las ramas de `feature`. Una vez que el `head` de esta rama sea estable y listo para el lanzamiento, se fusionará con la rama `release`.
+- **Repositorio del Backend:**  
+  [https://github.com/Open-Source-SW53-Group-2/back-end](https://github.com/Open-Source-SW53-Group-2/back-end)
 
-**Ramas auxiliares:**
+Para gestionar eficientemente los cambios en el código fuente, se utilizó **Gitflow**, un modelo de ramificación que facilita el desarrollo colaborativo. Se establecieron dos ramas principales y varias ramas auxiliares para mantener un flujo de trabajo organizado.
 
-- **Rama `release`:**  
-  Se utiliza para la preparación del lanzamiento de una nueva versión en la rama `main`. Ayuda a controlar las versiones de código al permitir solucionar errores menores y preparar los datos para la versión final. Esto libera a la rama `develop` de tareas de preparación y evita demoras en el desarrollo mientras se alista el lanzamiento.
 
-- **Rama `feature`:**  
-  En estas ramas se desarrollan las nuevas funcionalidades que luego se integrarán en la rama `develop`. Estas características incluyen funcionalidades solicitadas por los usuarios tanto en la página de inicio como en la aplicación web. Por ejemplo, la rama `feature/navbar`.
+#### **Ramas principales:**
 
-- **Rama `hotfix`:**  
-  Se utiliza para corregir urgentemente errores en la última versión de la rama `main` que no pueden esperar hasta el próximo lanzamiento para ser solucionados.
+- **`main`:**  
+  Contiene las versiones oficiales del proyecto, listas para ser desplegadas en producción. Es la rama más estable y representa el estado final del código.
+
+- **`develop`:**  
+  Es el punto de integración de las ramas de desarrollo (`feature`). Una vez que el código en esta rama esté probado y estable, se prepara para su lanzamiento mediante la rama `release` y, finalmente, se fusiona en `main`.
+
+#### **Ramas auxiliares:**
+
+- **`release`:**  
+  Se utiliza para preparar una nueva versión antes de integrarla en `main`. Permite realizar ajustes menores, solucionar errores y asegurar que el código esté listo para producción. Esto mantiene la rama `develop` libre de interrupciones relacionadas con la preparación de lanzamientos.
+
+
+- **`feature`:**  
+  Estas ramas se crean para desarrollar nuevas funcionalidades. Cada rama está enfocada en una tarea específica o mejora. Una vez completada y probada, se fusiona en `develop`.  
+  Ejemplo: `feature/navbar` para el desarrollo de la barra de navegación.
+
+
+- **`hotfix`:**  
+  Se utiliza exclusivamente para corregir errores críticos detectados en la rama `main`. Estas correcciones son urgentes y no pueden esperar hasta el próximo ciclo de desarrollo.
+
+Este modelo de ramificación permitió mantener un control riguroso sobre las versiones del código y facilitar el trabajo colaborativo entre los miembros del equipo.
 
 
 ### [**5.1.3. Source Code Style Guide & Conventions.**](#source-code-style-guide--conventions)
@@ -2920,14 +2974,18 @@ Para configurar el despliegue del proyecto, seguimos los pasos detallados a cont
 1. **Entrar a Vercel y seleccionar la opción "Import an existing project"**  
    ![importAnExistingProject.001.png](assets/images/softwareDeploymentConfiguration/importAnExistingProject.001.png)
 
+
 2. **Seleccionar la opción "Deploy with GitHub"**  
    ![deployGithub.002.png](assets/images/softwareDeploymentConfiguration/deployGithub.002.png)
+
 
 3. **Seleccionar la organización y el repositorio del proyecto**  
    Dentro de la organización, buscar y seleccionar el repositorio del proyecto que se desea desplegar en producción.
 
+
 4. **Agregar la información necesaria para el despliegue**  
    Proporcionar los datos requeridos por la plataforma, como configuraciones específicas o variables de entorno si es necesario.
+
 
 5. **Presionar el botón de despliegue**  
    Finalmente, hacer clic en el botón correspondiente al nombre del proyecto para iniciar el proceso de despliegue.
@@ -2936,8 +2994,11 @@ Para configurar el despliegue del proyecto, seguimos los pasos detallados a cont
 
 #### **Enlace de la Landing Page:**
 
+Este enlace redirige a la landing page desarrollada con **Angular** y desplegada en **Vercel**. La página ofrece una introducción al proyecto, destacando sus características principales y facilitando el acceso a la aplicación web. Está diseñada para ser completamente responsiva y optimizada para dispositivos móviles, tabletas y computadoras de escritorio.
+
 [**https://landing-page-with-angular-sigma.vercel.app/home**](https://landing-page-with-angular-sigma.vercel.app/home)
 
+---
 
 ## [**5.2. Landing Page, Services & Applications Implementation.**](#landing-page-services--applications-implementation)
 
