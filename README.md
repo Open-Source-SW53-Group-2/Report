@@ -15,6 +15,7 @@ En esta parte, se mencionarán los distintos programas de software que el equipo
 - **Trello**: <https://trello.com/>  
   La plataforma de Trello se empleó para la gestión de las tareas y la organización del flujo del trabajo en el proyecto. Las tareas se presentaron dentro de tarjetas en listas con el integrante encargado de realizarlas. Además, utilizamos funcionalidades como agregar etiquetas de colores y marcar el proceso de las tareas. De esta manera, pudimos hacer seguimiento a nuestros avances en el proyecto.
 
+
 - **Notion**: <https://www.notion.so/>  
   Notion fue utilizado para la colaboración del equipo en el proyecto. Se crearon calendarios y listas con las fechas de las reuniones del equipo. Además, se usaron herramientas como comentarios y menciones para fomentar el trabajo y la colaboración en equipo.
 
@@ -28,8 +29,15 @@ En esta parte, se mencionarán los distintos programas de software que el equipo
 - **Figma**: <https://www.figma.com/>  
   Figma nos ayudó a desarrollar los wireframes, mockups y prototipos de la aplicación móvil.
 
+
 - **Miro**: <https://miro.com/es/>  
   Miro fue de utilidad para realizar los As-Is Scenario Mapping y To-Be Scenario Mapping para cada uno de los segmentos objetivos.
+
+
+- **LucidChart**: <https://www.lucidchart.com/>
+
+  LucidChart se utilizó para la creación de los diagramas de flujo y los diagramas de arquitectura de software.
+
 
 - **UXPressia**: <https://uxpressia.com/>  
   UXPressia se empleó para la creación de User Personas, Empathy Maps, Journey Maps e Impact Maps. Usamos plantillas de UXPressia para elaborar cada una de estas herramientas, permitiendo exportar el trabajo realizado para incluirlo en el proyecto.
@@ -37,10 +45,15 @@ En esta parte, se mencionarán los distintos programas de software que el equipo
 **Software Development**
 
 - **Landing Page**  
-  Para el desarrollo de la landing page se utilizaron HTML5, CSS y JavaScript.
+  La landing page fue desarrollada utilizando **Angular** y **TypeScript (TS)**, lo que permitió un desarrollo más estructurado y escalable. Además, se utilizaron estilos personalizados con **CSS**. El diseño y desarrollo fueron optimizados para su despliegue en **Vercel**.
+
 
 - **Frontend Web Application**  
-  Para la aplicación web frontend, se utilizó Angular como framework de JavaScript, junto con PrimeNG para componentes UI reutilizables. El stack tecnológico incluye Java con Spring Boot, HTML, Angular, JavaScript, CSS y una base de datos MySQL.
+  Para la aplicación web frontend, se utilizó **Angular** junto con **TypeScript (TS)**, empleando **Angular Material** para la creación de componentes UI consistentes y responsivos. En algunas partes del diseño también se integraron estilos de **Bootstrap** para complementar la interfaz. La arquitectura fue diseñada para ser modular, escalable y responsiva, optimizada para su despliegue en **Vercel**.
+
+
+- **Backend**  
+  El backend fue desarrollado utilizando **Java** con el framework **Spring Boot**, proporcionando APIs RESTful que interactúan con una base de datos **MySQL**. Este servicio fue desplegado en **Railway**, garantizando escalabilidad y un manejo eficiente de las integraciones con el frontend y la landing page.
 
 **Software Testing**
 
@@ -48,50 +61,74 @@ Para las pruebas funcionales de la Landing Page y la aplicación web, se utiliza
 
 **Software Deployment**
 
-- **Netlify**: <https://www.netlify.com/>  
-  Para el despliegue de la Landing Page, se conectó el repositorio de GitHub con Netlify. Esto permitió que Netlify gestionara automáticamente la implementación cada vez que se actualizó el repositorio.
+- **Vercel**: [https://vercel.com/](https://vercel.com/)  
+  Para el despliegue de la Landing Page y la Web Application, se conectó el repositorio de GitHub con Vercel. Esto permitió que Vercel gestionara automáticamente las implementaciones cada vez que se realizaron actualizaciones en el repositorio.  
+  Además, Vercel ofreció vistas previas de las ramas para facilitar la revisión de los cambios antes de publicarlos en producción.
+
+
+- **Railway**: [https://railway.app/](https://railway.app/)  
+  Para el despliegue del backend, se utilizó Railway, conectando el repositorio de GitHub al servicio. Esto permitió implementar automáticamente los cambios realizados en el código.  
+  Railway proporcionó un entorno escalable y simplificado para manejar las configuraciones del servidor y las bases de datos, facilitando el proceso de desarrollo y despliegue.
 
 **Software Documentation**
 
-- **Google Drive**: <https://www.google.com/intl/es-419_pe/drive/>  
-  Google Drive se utilizó para crear documentos mediante Google Docs, permitiendo trabajar colaborativamente en los informes de las entregas.
 
-- **Structurizr**: <https://structurizr.com/>  
-  Herramienta empleada para crear diagramas C4 (contexto, contenedor y componentes) utilizando una sintaxis similar a un lenguaje de programación.
+- **Google Drive**: [https://www.google.com/intl/es-419_pe/drive/](https://www.google.com/intl/es-419_pe/drive/)  
+  Google Drive se utilizó para crear y gestionar documentos mediante **Google Docs**, permitiendo trabajar de manera colaborativa en los informes de las entregas. Además, se utilizó para almacenar archivos relevantes del proyecto y facilitar el acceso compartido.
 
-- **GitHub**: <https://github.com/>  
-  GitHub se usó para la creación de la documentación y la Landing Page, gracias a sus capacidades para el trabajo colaborativo.
+
+- **Structurizr**: [https://structurizr.com/](https://structurizr.com/)  
+  Se empleó **Structurizr** para la creación de diagramas C4, cubriendo los niveles de contexto, contenedor y componentes. Esta herramienta facilitó la visualización de la arquitectura del sistema utilizando una sintaxis basada en texto, ideal para mantener la documentación actualizada y consistente.
+
+
+- **GitHub**: [https://github.com/](https://github.com/)  
+  GitHub se utilizó tanto para la creación de la documentación como para el versionado y despliegue de la **Landing Page** y la **Web Application**. Su sistema de control de versiones y las herramientas para trabajo colaborativo permitieron gestionar cambios de manera eficiente.
+
 
 ### [**5.1.2. Source Code Management.**](#source-code-management)
 
-La administración y estructuración de las múltiples modificaciones se realizaron mediante la creación de un repositorio en GitHub para el proyecto. Nuestra organización se estructuró de la siguiente manera:
+La administración y estructuración de las múltiples modificaciones del proyecto se realizó mediante la creación de varios repositorios en GitHub. Nuestra organización se estructuró de la siguiente manera:
 
 **Organización:**  
-<https://github.com/Open-Source-SW53-Group-2>
+[https://github.com/Open-Source-SW53-Group-2](https://github.com/Open-Source-SW53-Group-2)
 
 - **Repositorio de la Landing Page:**  
-  <https://github.com/Open-Source-SW53-Group-2/Landing-Page>
+  [https://github.com/Open-Source-SW53-Group-2/Landing-Page-With-Angular](https://github.com/Open-Source-SW53-Group-2/Landing-Page-With-Angular)
 
-Para mejorar el control sobre la creación de ramas y la implementación de cambios en el código fuente, se utilizó Gitflow. Se establecieron dos ramas principales: `main` y `develop`.
 
-**Ramas principales:**
+- **Repositorio de la Web Application:**  
+  [https://github.com/Open-Source-SW53-Group-2/frontend](https://github.com/Open-Source-SW53-Group-2/frontend)
 
-- **Rama `main`:**  
-  Contiene las versiones oficiales del repositorio, listas para ser desplegadas en producción.
 
-- **Rama `develop`:**  
-  Funciona como el punto de integración para las ramas de `feature`. Una vez que el `head` de esta rama sea estable y listo para el lanzamiento, se fusionará con la rama `release`.
+- **Repositorio del Backend:**  
+  [https://github.com/Open-Source-SW53-Group-2/back-end](https://github.com/Open-Source-SW53-Group-2/back-end)
 
-**Ramas auxiliares:**
+Para gestionar eficientemente los cambios en el código fuente, se utilizó **Gitflow**, un modelo de ramificación que facilita el desarrollo colaborativo. Se establecieron dos ramas principales y varias ramas auxiliares para mantener un flujo de trabajo organizado.
 
-- **Rama `release`:**  
-  Se utiliza para la preparación del lanzamiento de una nueva versión en la rama `main`. Ayuda a controlar las versiones de código al permitir solucionar errores menores y preparar los datos para la versión final. Esto libera a la rama `develop` de tareas de preparación y evita demoras en el desarrollo mientras se alista el lanzamiento.
 
-- **Rama `feature`:**  
-  En estas ramas se desarrollan las nuevas funcionalidades que luego se integrarán en la rama `develop`. Estas características incluyen funcionalidades solicitadas por los usuarios tanto en la página de inicio como en la aplicación web. Por ejemplo, la rama `feature/navbar`.
+#### **Ramas principales:**
 
-- **Rama `hotfix`:**  
-  Se utiliza para corregir urgentemente errores en la última versión de la rama `main` que no pueden esperar hasta el próximo lanzamiento para ser solucionados.
+- **`main`:**  
+  Contiene las versiones oficiales del proyecto, listas para ser desplegadas en producción. Es la rama más estable y representa el estado final del código.
+
+- **`develop`:**  
+  Es el punto de integración de las ramas de desarrollo (`feature`). Una vez que el código en esta rama esté probado y estable, se prepara para su lanzamiento mediante la rama `release` y, finalmente, se fusiona en `main`.
+
+#### **Ramas auxiliares:**
+
+- **`release`:**  
+  Se utiliza para preparar una nueva versión antes de integrarla en `main`. Permite realizar ajustes menores, solucionar errores y asegurar que el código esté listo para producción. Esto mantiene la rama `develop` libre de interrupciones relacionadas con la preparación de lanzamientos.
+
+
+- **`feature`:**  
+  Estas ramas se crean para desarrollar nuevas funcionalidades. Cada rama está enfocada en una tarea específica o mejora. Una vez completada y probada, se fusiona en `develop`.  
+  Ejemplo: `feature/navbar` para el desarrollo de la barra de navegación.
+
+
+- **`hotfix`:**  
+  Se utiliza exclusivamente para corregir errores críticos detectados en la rama `main`. Estas correcciones son urgentes y no pueden esperar hasta el próximo ciclo de desarrollo.
+
+Este modelo de ramificación permitió mantener un control riguroso sobre las versiones del código y facilitar el trabajo colaborativo entre los miembros del equipo.
 
 
 ### [**5.1.3. Source Code Style Guide & Conventions.**](#source-code-style-guide--conventions)
