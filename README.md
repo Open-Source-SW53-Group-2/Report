@@ -777,7 +777,7 @@ Melina es una estudiante universitaria que enfrenta dificultades diarias para ll
 **Evidencia de la entrevista:**  
 <img src="assets/images/interviews/EvidenciaEntrevistaAlessandro.png">
 
-**Enlace de la entrevista:** [Link de entrevista01_EstudianteUniversitario_MariaGraciaRojas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202122232_upc_edu_pe/EdkBJ6BiIApNmPjECvCbqpYBZLdRyR5IUQ6hbW72k0wSNw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&e=yEaifN)
+**Enlace de la entrevista:**https://upcedupe-my.sharepoint.com/:v:/g/personal/u202122232_upc_edu_pe/EdkBJ6BiIApNmPjECvCbqpYBZLdRyR5IUQ6hbW72k0wSNw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&e=yEaifN
 
 **Resumen de la entrevista:**  
 Maria Gracia es una estudiante universitaria de la UPC que no tiene muchas dificultades al momento de transportarse desde su casa hacia la universidad. Ella comenta que le gustaría mucho una alternativa de transporte como el carpooling, ya que podría conocer nuevas personas de la misma universidad, ahorrar dinero en transporte, y utilizar un método más rápido en casos de urgencia.
@@ -794,7 +794,7 @@ Maria Gracia es una estudiante universitaria de la UPC que no tiene muchas dific
 **Evidencia de la entrevista:**  
 <img src="assets/images/interviews/entrevista03_luis.png">
 
-**Enlace de la entrevista:** [Link de entrevista03_EstudianteUniversitario_LuisSuarez](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c250_upc_edu_pe/EXdQE3rWyAZNsbO1QS9oiMkB_984UXL8rCbGILEDXa90fQ?e=4Wa9C4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+**Enlace de la entrevista:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c250_upc_edu_pe/EXdQE3rWyAZNsbO1QS9oiMkB_984UXL8rCbGILEDXa90fQ?e=4Wa9C4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 **Resumen de la entrevista:**  
 Luis Suárez, de 18 años y residente en Santa Anita, Lima, usa el transporte público diariamente para ir a la universidad, enfrentando problemas como el tráfico, la inseguridad y la incomodidad de los buses llenos. Estaría dispuesto a compartir su trayecto con otros estudiantes por razones de seguridad y ahorro. Le gustaría que los conductores estuvieran verificados y monitoreados para mayor tranquilidad. Además, cree que un servicio de ride-sharing mejoraría su experiencia al reducir tiempos y hacer el viaje más cómodo.
@@ -830,7 +830,7 @@ Maykol es un estudiante universitario propietario de un vehículo privado que se
 **Evidencia de la entrevista:**  
 <img src="assets/images/interviews/interviewimage.png">
 
-**Enlace de la entrevista:** [Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111952_upc_edu_pe/EZd3GcGkxvNDl_7tiJOaSZEBrANwpg_4jDmEdm1lr_EfXA?e=IZMgVf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+**Enlace de la entrevista:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111952_upc_edu_pe/EZd3GcGkxvNDl_7tiJOaSZEBrANwpg_4jDmEdm1lr_EfXA?e=IZMgVf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 **Resumen de la entrevista:**  
 Ariana es una estudiante universitaria de la UPC, propietaria de un vehículo privado, que se desplaza frecuentemente desde su casa hasta la universidad. Ella considera que compartir su vehículo con otros estudiantes es una buena idea para reducir los costos de transporte y hacer nuevas amistades. Sin embargo, tiene preocupaciones sobre la seguridad personal y la verificación de identidad, por lo que considera importante que una plataforma como la nuestra presente medidas de seguridad estrictas que verifiquen la identidad de cada pasajero y conductor.
