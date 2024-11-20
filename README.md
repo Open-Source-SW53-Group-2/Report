@@ -8,7 +8,7 @@
     <strong>Ingeniería de Software</strong><br>
     <strong>Desarrollo de Aplicaciones Open Source - SW53</strong><br>
     <strong>Profesor: Hugo Allan Mori Paiva</strong><br>
-    <br>INFORME
+    <br>Informe del Trabajo Final</br>
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
 </div>
 
 <p align="center">
-    <strong>Agosto 2024</strong>
+    <strong>Noviembre 2024</strong>
 </p>
 
 ---
@@ -84,13 +84,13 @@ Para el desarrollo de la entrega **TB2**, se optó por dividir el trabajo de la 
 
 Para el desarrollo de la entrega **TF**, se optó por dividir el trabajo de la siguiente forma:
 
-| **Versión**  | **Fecha**  | **Autor**                         | **Descripción**                         |
-|--------------|------------|-----------------------------------|-----------------------------------------|
-| **#04 - TF** | 17/11/24   | Anampa Lavado, Luis Angel         | Correcciones TB2, Web Application, Backend, About the Team |
-|              | 17/11/24   | David Polanco, Alessandro         | Correcciones TB2, Web Application, Backend, Entrevistas |
-|              | 17/11/24   | Talizo Balbin, Joan Jefferson     | Correcciones TB2, Web Application, Backend, Entrevistas |
-|              | 17/11/24   | Valera Garcés, Samuel Ignacio     | Correcciones TB2, Web Application, Backend, Entrevistas |
-|              | 17/11/24   | Mallma Espiritu, Franky Oswald    | Correcciones TB2, Web Application, Backend, Entrevistas |
+| **Versión**  | **Fecha** | **Autor**                         | **Descripción**                         |
+|--------------|-----------|-----------------------------------|-----------------------------------------|
+| **#04 - TF** | 20/11/24  | Anampa Lavado, Luis Angel         | Correcciones TB2, Web Application, Backend, About the Team |
+|              | 20/11/24  | David Polanco, Alessandro         | Correcciones TB2, Web Application, Backend, Entrevistas |
+|              | 20/11/24  | Talizo Balbin, Joan Jefferson     | Correcciones TB2, Web Application, Backend, Entrevistas |
+|              | 20/11/24  | Valera Garcés, Samuel Ignacio     | Correcciones TB2, Web Application, Backend, Entrevistas |
+|              | 20/11/24  | Mallma Espiritu, Franky Oswald    | Correcciones TB2, Web Application, Backend, Entrevistas |
 
 ---
 
@@ -3711,6 +3711,7 @@ In the scope of Sprint 4, the backend of the web application has been developed.
 |                                                                                                    | main       | 8b3b8c5bf2abe3b91107baf45becd61855e6d1e6  | chore: add AT14.feature file  | -                        | Nov 13, 2024             |
 |                                                                                                    | main       | 57393f7057a6b3913549cf9177a80da8a5b0dc6   | chore: add AT15.feature file  | -                        | Nov 13, 2024             |
 
+
 ## [**5.2.4.5 Execution Evidence for Sprint Review.**](#5245-execution-evidence-for-sprint-review)
 
 Para esta entrega, se realizaron algunos cambios en el frontend según las visitas pendientes. Se puede acceder a la aplicación web mediante el siguiente enlace: [https://landing-page-with-angular-sigma.vercel.app/home](https://landing-page-with-angular-sigma.vercel.app/home). Además, se ha avanzado con el desarrollo final del backend de la aplicación web.
@@ -3721,7 +3722,15 @@ En la landing page se agregaron los videos de About-the-product y About-the-team
 
 - [Landing Page](https://landing-page-with-angular-sigma.vercel.app/home)
 
+A continuación, se muestran las nuevas secciones agregadas en la landing page:
+
+Actualización de la sección "About the product":
+
 ![EvidenceLandingPageAboutProduct.png](assets/images/sprint4/Evidence/EvidenceLandingPageAboutProduct.png)
+
+Actualización de la sección "About the team":
+
+![AboutTheTeamGoUni.png](assets/images/sprint4/Evidence/AboutTheTeamGoUni.png)
 
 ### Muestra de nuestra API hecha con Spring Boot:
 
@@ -3880,8 +3889,9 @@ Para el desarrollo del informe en este sprint se distribuyó los capítulos de e
 
 ![EvidenceBackEndGitHub.png](assets/images/sprint4/Evidence/EvidenceBackEndGitHub.png)
 
-En este sprint, al igual que en los otros, creamos una rama "developed". Cada miembro del equipo generó su propia sub-rama "feature" desde "developed" para subir su respectivo capítulo del reporte, siguiendo las convenciones establecidas de *conventional commits* y *git flow*.
+En este sprint, al igual que en los otros, creamos una rama "development". Cada miembro del equipo generó su propia sub-rama "feature" desde "development" para subir su respectivo capítulo del reporte, siguiendo las convenciones establecidas de *conventional commits* y *git flow*.
 
+---
 
 ## [**5.3. Validation Interviews.**](#53-validation-interviews)
 
@@ -4155,11 +4165,11 @@ Incluimos entrevistas de usuarios por cada segmento objetivo que participó en l
 
 ![Video Thumbnail](assets/images/sprint3/Aspose.Words.cc43339c-e031-497a-8828-9b84cdcedb65.033.png)
 
-- **URL Microsoft Stream:** [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223781_upc_edu_pe/EYcFIwVbbjRLrYlWfZIdI2cBKfQWYlA9Pjiq1tzoSDzD0w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=tLrIVg)
+- **URL Microsoft Stream:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223781_upc_edu_pe/EYcFIwVbbjRLrYlWfZIdI2cBKfQWYlA9Pjiq1tzoSDzD0w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=tLrIVg](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223781_upc_edu_pe/EYcFIwVbbjRLrYlWfZIdI2cBKfQWYlA9Pjiq1tzoSDzD0w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=tLrIVg)
 - **URL Youtube:** [https://youtu.be/hLx0xBflWzw](https://youtu.be/hLx0xBflWzw)
 - **Duración del video:** 3:03 min
 
-**Link de entrevista completa:** [Ver entrevista](https://upcedupe-my.sharepoint.com/personal/u202218664_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218664%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202401%2Dsi729%2DSW53%2Dstudentconnect%2Dvalidation%2Dsprint%2D3%20%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb7d0caae%2D2678%2D41fc%2Db1fc%2Dad2f3b3601a6)
+**Link de entrevista completa:** [https://upcedupe-my.sharepoint.com/personal/u202218664_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218664%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202401%2Dsi729%2DSW53%2Dstudentconnect%2Dvalidation%2Dsprint%2D3%20%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb7d0caae%2D2678%2D41fc%2Db1fc%2Dad2f3b3601a6](https://upcedupe-my.sharepoint.com/personal/u202218664_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218664%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202401%2Dsi729%2DSW53%2Dstudentconnect%2Dvalidation%2Dsprint%2D3%20%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb7d0caae%2D2678%2D41fc%2Db1fc%2Dad2f3b3601a6)
 
 
 
@@ -4202,7 +4212,7 @@ En esta sección, presentamos el Video About-the-Team, que destaca la colaboraci
 
 ![aboutTheTeam.png](assets/images/sprint4/aboutTheTeam/aboutTheTeam.png)
 
-- **URL Microsoft Stream:** [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EU1OnTLoQn1GnRN9LSbVPCUBjx9jcCV71N2m_xFK5prmdQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=xwBpHX)
+- **URL Microsoft Stream:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EU1OnTLoQn1GnRN9LSbVPCUBjx9jcCV71N2m_xFK5prmdQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=xwBpHX](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EU1OnTLoQn1GnRN9LSbVPCUBjx9jcCV71N2m_xFK5prmdQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=xwBpHX)
 - **URL Youtube:** [https://youtu.be/r0zoHufifZU](https://youtu.be/r0zoHufifZU)
 - **Duración del video:** 4:14 min
 
