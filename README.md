@@ -3711,6 +3711,7 @@ In the scope of Sprint 4, the backend of the web application has been developed.
 |                                                                                                    | main       | 8b3b8c5bf2abe3b91107baf45becd61855e6d1e6  | chore: add AT14.feature file  | -                        | Nov 13, 2024             |
 |                                                                                                    | main       | 57393f7057a6b3913549cf9177a80da8a5b0dc6   | chore: add AT15.feature file  | -                        | Nov 13, 2024             |
 
+
 ## [**5.2.4.5 Execution Evidence for Sprint Review.**](#5245-execution-evidence-for-sprint-review)
 
 Para esta entrega, se realizaron algunos cambios en el frontend según las visitas pendientes. Se puede acceder a la aplicación web mediante el siguiente enlace: [https://landing-page-with-angular-sigma.vercel.app/home](https://landing-page-with-angular-sigma.vercel.app/home). Además, se ha avanzado con el desarrollo final del backend de la aplicación web.
@@ -3721,7 +3722,15 @@ En la landing page se agregaron los videos de About-the-product y About-the-team
 
 - [Landing Page](https://landing-page-with-angular-sigma.vercel.app/home)
 
+A continuación, se muestran las nuevas secciones agregadas en la landing page:
+
+Actualización de la sección "About the product":
+
 ![EvidenceLandingPageAboutProduct.png](assets/images/sprint4/Evidence/EvidenceLandingPageAboutProduct.png)
+
+Actualización de la sección "About the team":
+
+![AboutTheTeamGoUni.png](assets/images/sprint4/Evidence/AboutTheTeamGoUni.png)
 
 ### Muestra de nuestra API hecha con Spring Boot:
 
@@ -3882,6 +3891,7 @@ Para el desarrollo del informe en este sprint se distribuyó los capítulos de e
 
 En este sprint, al igual que en los otros, creamos una rama "developed". Cada miembro del equipo generó su propia sub-rama "feature" desde "developed" para subir su respectivo capítulo del reporte, siguiendo las convenciones establecidas de *conventional commits* y *git flow*.
 
+---
 
 ## [**5.3. Validation Interviews.**](#53-validation-interviews)
 
